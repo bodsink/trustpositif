@@ -1,0 +1,11 @@
+[Unit]
+Description=Hourly Trust Positif serial check
+
+[Timer]
+OnBootSec=2min
+OnCalendar=hourly
+Persistent=true
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target

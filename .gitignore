@@ -1,0 +1,4 @@
+data/
+adguard/.tmp-*
+__pycache__/
+*.pyc

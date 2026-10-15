@@ -1,0 +1,12 @@
+[Unit]
+Description=Sync Trust Positif zone into AdGuard Home filters
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/trustpositif
+Environment=GIT_SSH_COMMAND=ssh -i /root/.ssh/trustpositif_ed25519 -o IdentitiesOnly=yes
+ExecStart=/usr/bin/python3 /opt/trustpositif/sync.py
+TimeoutStartSec=7200
+Nice=10
