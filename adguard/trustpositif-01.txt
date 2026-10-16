@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26101600
+! Serial: 26101602
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -977,6 +977,7 @@
 ||dubaitheframe.ae^
 ||dudethrills.ae^
 ||dxbbarber.ae^
+||easyhealthcare.ae^
 ||easymoney.ae^
 ||eboutik.ae^
 ||edacom.ae^
@@ -6824,6 +6825,7 @@
 ||beo4d.app^
 ||ber939.app^
 ||beres69.app^
+||buat.beritaaceh.app^
 ||berjaya88.app^
 ||berkah88.app^
 ||bermainbersama.app^
@@ -10148,6 +10150,7 @@
 ||juragan805.app^
 ||juragan88.app^
 ||juragan999.app^
+||elektro.jurnalis.app^
 ||juruswin.app^
 ||jurutogel.app^
 ||justusboys.app^
@@ -11061,6 +11064,7 @@
 ||mafiacasino-it.app^
 ||mag88.app^
 ||bajingc1v3zm.magelangtoto.app^
+||bajingczk0nw.magelangtoto.app^
 ||cronusqjydm4.magelangtoto.app^
 ||cronusutmc5n.magelangtoto.app^
 ||cyclopsmd4oh.magelangtoto.app^
@@ -12654,6 +12658,7 @@
 ||agencesdc-fr.netlify.app^
 ||agencuan12x.netlify.app^
 ||agency-slot-gacor.netlify.app^
+||agency-tombolbet88.netlify.app^
 ||agencyoriginal.netlify.app^
 ||agendadu-calculator.netlify.app^
 ||agendominoqq.netlify.app^
@@ -13582,6 +13587,7 @@
 ||amp-literacyparadise.netlify.app^
 ||amp-login-oss-sports.netlify.app^
 ||amp-lolaluxexperience.netlify.app^
+||amp-luxury89-intechsea.netlify.app^
 ||amp-macansitus.netlify.app^
 ||amp-madeline-usa.netlify.app^
 ||amp-magazahome.netlify.app^
@@ -15206,6 +15212,7 @@
 ||bagi138.netlify.app^
 ||bagi777.netlify.app^
 ||bagibagirezeki-sultan188.netlify.app^
+||baginda-login.netlify.app^
 ||baginda168.netlify.app^
 ||baginda168-uk.netlify.app^
 ||baginda168a.netlify.app^
@@ -15241,6 +15248,7 @@
 ||bajai89z.netlify.app^
 ||bajaj123-jitu.netlify.app^
 ||bajaj4d-gadun.netlify.app^
+||bajaj4dstar.netlify.app^
 ||bajak-laut-rocks.netlify.app^
 ||bajamasabadi.netlify.app^
 ||bajatoto.netlify.app^
@@ -17533,6 +17541,7 @@
 ||casiostart.netlify.app^
 ||casiwebpage.netlify.app^
 ||casiwebsite.netlify.app^
+||caskhog.netlify.app^
 ||caskwhisky-receh69-subur.netlify.app^
 ||caskwhiskylondon-subur.netlify.app^
 ||caskwhiskylondon-team.netlify.app^
@@ -20379,6 +20388,7 @@
 ||e-katalog-respati.netlify.app^
 ||e-learning-reval.netlify.app^
 ||e-lib-bawaslu.netlify.app^
+||e-palembang.netlify.app^
 ||e-plantpictures.netlify.app^
 ||e-slot777.netlify.app^
 ||e-spirulina.netlify.app^
@@ -23566,6 +23576,7 @@
 ||hitam-banget-0lastminute-thailand.netlify.app^
 ||hitam-keleng.netlify.app^
 ||hitamslot.netlify.app^
+||hiu-kapan-ke-permukaan.netlify.app^
 ||hiu66-is-here-ibik.netlify.app^
 ||hiucuan777.netlify.app^
 ||hiwin4d.netlify.app^
@@ -26826,6 +26837,7 @@
 ||kingfut-abroad-name.netlify.app^
 ||kinggacor89.netlify.app^
 ||kinghd.netlify.app^
+||kinghdsite.netlify.app^
 ||kinghoki4d.netlify.app^
 ||kingjp88.netlify.app^
 ||kingkong39.netlify.app^
@@ -26937,6 +26949,8 @@
 ||klaimsaldodanakaget.netlify.app^
 ||klasemen-gawe88-elite.netlify.app^
 ||klasemen-gbo330-elite.netlify.app^
+||klasemen-joker133-gacor.netlify.app^
+||klasemen-toptier-jokerwin77.netlify.app^
 ||klaten77.netlify.app^
 ||klich-200-ikv.netlify.app^
 ||klik-bos138.netlify.app^
@@ -28210,6 +28224,7 @@
 ||linkchinaslotgacor.netlify.app^
 ||linkcolatogel-it-stay-dong.netlify.app^
 ||linkdaftar-sniper55.netlify.app^
+||linkdemoasiahoki77.netlify.app^
 ||linkdepo100.netlify.app^
 ||linkdragon33gacor.netlify.app^
 ||linkdramaindo21.netlify.app^
@@ -28832,6 +28847,7 @@
 ||luxury88org.netlify.app^
 ||luxury88vip.netlify.app^
 ||luxury89-superturtle.netlify.app^
+||luxury89apt-mobile.netlify.app^
 ||luxurybet88.netlify.app^
 ||luxurykeras.netlify.app^
 ||luxurysuiteslondon.netlify.app^
@@ -30737,6 +30753,7 @@
 ||mobile-rscs-co.netlify.app^
 ||mobile-seksonderje25e.netlify.app^
 ||mobile-setxgwep.netlify.app^
+||mobile-shadesmountain.netlify.app^
 ||mobile-sinomassage.netlify.app^
 ||mobile-tesla-toto80.netlify.app^
 ||mobile-themomentumigniter.netlify.app^
@@ -32687,6 +32704,7 @@
 ||oss-sports-bandar89.netlify.app^
 ||oss-sports-search.netlify.app^
 ||ot-min-luy.netlify.app^
+||ot138-ketinggian.netlify.app^
 ||otachanxtoto.netlify.app^
 ||otak-menjadi-404.netlify.app^
 ||otamendi-trabas.netlify.app^
@@ -34670,6 +34688,7 @@
 ||programs-slot-maxwin.netlify.app^
 ||programsoda.netlify.app^
 ||progres-soda69.netlify.app^
+||projeckglori303.netlify.app^
 ||projecksga999.netlify.app^
 ||project-apartemen-3miliarder.netlify.app^
 ||project-bengkel.netlify.app^
@@ -35275,6 +35294,7 @@
 ||rahasiagamessoda88.netlify.app^
 ||rahayu-wi.netlify.app^
 ||rahnuma-net.netlify.app^
+||rahwana88-wow.netlify.app^
 ||raih-kemenangan-besar-rumah4d.netlify.app^
 ||rain-druid.netlify.app^
 ||rainbow-caramel-el-patron.netlify.app^
@@ -35624,6 +35644,7 @@
 ||recarga5g.netlify.app^
 ||receh123.netlify.app^
 ||receh138.netlify.app^
+||receh169.netlify.app^
 ||receh4d-net.netlify.app^
 ||receh69-slot.netlify.app^
 ||receh69-sridharma.netlify.app^
@@ -36632,6 +36653,7 @@
 ||rungkad138-jp1.netlify.app^
 ||rungkad88terbaik.netlify.app^
 ||rungkadtoto-jp1.netlify.app^
+||rungkat77-ribaksude.netlify.app^
 ||running-antisalju.netlify.app^
 ||runtzstrainstore.netlify.app^
 ||rupiah-dollar-pharmace.netlify.app^
@@ -36780,6 +36802,7 @@
 ||sage-pudding-b73637.netlify.app^
 ||sage-sorbet-401f18.netlify.app^
 ||sage-sprite-c3774d.netlify.app^
+||sages2019-alexis500.netlify.app^
 ||sages2020-miami4d.netlify.app^
 ||sagita45.netlify.app^
 ||sahabat-gugel-dbsharma.netlify.app^
@@ -36843,6 +36866,7 @@
 ||sakti138.netlify.app^
 ||sakti33-wujudkan-eksistensi-kamu.netlify.app^
 ||sakti55.netlify.app^
+||sakti55-seogambar.netlify.app^
 ||sakti55-shop.netlify.app^
 ||sakti69.netlify.app^
 ||sakti77.netlify.app^
@@ -36971,6 +36995,7 @@
 ||san93.netlify.app^
 ||sanca77-royal-home.netlify.app^
 ||sanca999-asik.netlify.app^
+||sanclementeprobatelaw.netlify.app^
 ||sanctuarymedflorida.netlify.app^
 ||sanctuarymedfloridaaa.netlify.app^
 ||sandiegovacationservice.netlify.app^
@@ -37703,6 +37728,7 @@
 ||servicio-uneg.netlify.app^
 ||servistex.netlify.app^
 ||servizi-slot138.netlify.app^
+||sesa-naik-dong.netlify.app^
 ||sesi-potret.netlify.app^
 ||sesi-potret-ku-benci.netlify.app^
 ||setan-merah.netlify.app^
@@ -38173,6 +38199,7 @@
 ||situs-gacor-terpercaya-coloksgp.netlify.app^
 ||situs-gacor-vioslot.netlify.app^
 ||situs-game-habanero.netlify.app^
+||situs-game-vip.netlify.app^
 ||situs-games-alternatif.netlify.app^
 ||situs-hajitoto.netlify.app^
 ||situs-hiburan-digital.netlify.app^
@@ -38335,6 +38362,7 @@
 ||skelleysmarket.netlify.app^
 ||skema-soda69.netlify.app^
 ||sketch-rutinwinxnawabot.netlify.app^
+||sketer88-homelander.netlify.app^
 ||skiathosgold.netlify.app^
 ||skidi-skidi-skidipapap.netlify.app^
 ||skiffinn-coba-rank1.netlify.app^
@@ -38781,6 +38809,7 @@
 ||slotgacor77.netlify.app^
 ||slotgacor777-tas4d.netlify.app^
 ||slotgacor88.netlify.app^
+||slotgacorans.netlify.app^
 ||slotgacorbankjago.netlify.app^
 ||slotgacorbankjulo.netlify.app^
 ||slotgacorcamar4444.netlify.app^
@@ -39028,6 +39057,7 @@
 ||snazzy-swan-875135.netlify.app^
 ||snazzy-taffy-fc0f35.netlify.app^
 ||snazzystep.netlify.app^
+||sndabsonart.netlify.app^
 ||snealerssepatucasual-miko69.netlify.app^
 ||sngwatch.netlify.app^
 ||snitchmiko69.netlify.app^
@@ -39859,6 +39889,7 @@
 ||star77vip.netlify.app^
 ||star88slot-com.netlify.app^
 ||starair-online-com.netlify.app^
+||starbet88slot-org.netlify.app^
 ||starbet99.netlify.app^
 ||starbintang138.netlify.app^
 ||starboy67.netlify.app^
@@ -40300,6 +40331,7 @@
 ||super125.netlify.app^
 ||super138-amp.netlify.app^
 ||super168-athena.netlify.app^
+||super288-foxx.netlify.app^
 ||super33-hakkimizda.netlify.app^
 ||super33-mateuscarlini.netlify.app^
 ||super333.netlify.app^
@@ -40594,6 +40626,7 @@
 ||tag-irfan-mandirihh2nawabot.netlify.app^
 ||tahan-lama-dewi138.netlify.app^
 ||tahanan-0001.netlify.app^
+||tahta77baru.netlify.app^
 ||tahu-bulat-500.netlify.app^
 ||tahu4d-coc.netlify.app^
 ||tahu69-away.netlify.app^
@@ -40712,6 +40745,7 @@
 ||tanpabatas.netlify.app^
 ||tante-culik-aku-dong.netlify.app^
 ||tante77-amp.netlify.app^
+||tante77-pro.netlify.app^
 ||tante88-jokoboy.netlify.app^
 ||tantemanisq-goks.netlify.app^
 ||tantengocok.netlify.app^
@@ -40748,6 +40782,7 @@
 ||taruma4d.netlify.app^
 ||tarunaplay.netlify.app^
 ||tarung189-sarung.netlify.app^
+||tarung999-dens.netlify.app^
 ||tasarimkutusu.netlify.app^
 ||tasmaniatravels.netlify.app^
 ||tastetimez-about.netlify.app^
@@ -40897,6 +40932,7 @@
 ||tempat-pencinta-slot-online.netlify.app^
 ||tempat-ternyaman-semua-orang.netlify.app^
 ||tempatsoda88.netlify.app^
+||tempechristian.netlify.app^
 ||tempoink-mdg118.netlify.app^
 ||tempototo-verobeach.netlify.app^
 ||temukan-majapahit4d.netlify.app^
@@ -44272,6 +44308,7 @@
 ||paripesa-southafrica.app^
 ||paripesanigeria.app^
 ||paris123.app^
+||paris666.app^
 ||paris88.app^
 ||paris88apk.app^
 ||parisbola.app^
@@ -44317,6 +44354,7 @@
 ||payslot88l.app^
 ||payung57.app^
 ||pd11.app^
+||pd5555.app^
 ||pd7777.app^
 ||pdipoker.app^
 ||portal.pebal.app^
@@ -44408,10 +44446,14 @@
 ||pgauto89.app^
 ||pgbet24.app^
 ||pgbetflik.app^
+||pgcombo168.app^
+||pgdubai888.app^
 ||pggods.app^
+||pgheng.app^
 ||pgkingapk.app^
 ||pgmhjongevent.app^
 ||pgold99.app^
+||pgoption.app^
 ||pgpc.app^
 ||pgslot.app^
 ||pgslot-game.app^
@@ -46909,6 +46951,7 @@
 ||skyprn.app^
 ||skyrim.app^
 ||sl777.app^
+||sl999games.app^
 ||slidebot.app^
 ||slot-asia.app^
 ||slot-gacor.app^
@@ -48283,6 +48326,7 @@
 ||2baginda4d.vercel.app^
 ||2bistro4d.vercel.app^
 ||2cdlg03nmv.vercel.app^
+||2cm-zujava.vercel.app^
 ||2msmomo99-click.vercel.app^
 ||2ndammendtraining.vercel.app^
 ||2ndamp-mellh.vercel.app^
@@ -48781,6 +48825,7 @@
 ||agen-mpo833.vercel.app^
 ||agen-oke69.vercel.app^
 ||agen-pete.vercel.app^
+||agen-pragmatic368.vercel.app^
 ||agen-publik88.vercel.app^
 ||agen-scatter808.vercel.app^
 ||agen-sedayu4d.vercel.app^
@@ -49090,6 +49135,7 @@
 ||akpersbtdumai-pmb.vercel.app^
 ||aksara-world.vercel.app^
 ||akses-agentbetting77.vercel.app^
+||akses-akun-untuk-memahami-proses-ma.vercel.app^
 ||akses-alternatif-semuttoto.vercel.app^
 ||akses-ambon777link.vercel.app^
 ||akses-amp-agen505.vercel.app^
@@ -49141,6 +49187,7 @@
 ||akses-new-jandapirang9.vercel.app^
 ||akses-online-pi.vercel.app^
 ||akses-pintar-mobile-startoncoop.vercel.app^
+||akses-poka88.vercel.app^
 ||akses-ralphcarmichael.vercel.app^
 ||akses-republik36.vercel.app^
 ||akses-resmi.vercel.app^
@@ -49340,8 +49387,10 @@
 ||alice-designer.vercel.app^
 ||aliceslot-big.vercel.app^
 ||alien188.vercel.app^
+||alif99-pahami.vercel.app^
 ||alisonlorraine.vercel.app^
 ||alisonspringle-research.vercel.app^
+||alkareem-brown.vercel.app^
 ||all-budget-landscaping.vercel.app^
 ||allanolima.vercel.app^
 ||allcancer.vercel.app^
@@ -49653,6 +49702,7 @@
 ||amp-dewa90-airport.vercel.app^
 ||amp-directory-terbaik.vercel.app^
 ||amp-dktoto.vercel.app^
+||amp-dolantogel888co.vercel.app^
 ||amp-dollartoto.vercel.app^
 ||amp-doorwebshop.vercel.app^
 ||amp-dumaipro.vercel.app^
@@ -49801,6 +49851,7 @@
 ||amp-mania88.vercel.app^
 ||amp-mantulbro.vercel.app^
 ||amp-manyao-dana.vercel.app^
+||amp-markas8.vercel.app^
 ||amp-martabak188.vercel.app^
 ||amp-marxistworld.vercel.app^
 ||amp-mastertogel88.vercel.app^
@@ -49882,6 +49933,7 @@
 ||amp-principal-cuerpomenteyespiritu.vercel.app^
 ||amp-proindex-uz.vercel.app^
 ||amp-psa8.vercel.app^
+||amp-pucbasket.vercel.app^
 ||amp-pulitoto.vercel.app^
 ||amp-purecbdsolutions.vercel.app^
 ||amp-puri-files.vercel.app^
@@ -50524,6 +50576,7 @@
 ||ampun-kali-badak178.vercel.app^
 ||ampunbang-gkjf.vercel.app^
 ||ampundah.vercel.app^
+||amputama.vercel.app^
 ||ampwakanda303.vercel.app^
 ||ampwasiat.vercel.app^
 ||ampwatitoto.vercel.app^
@@ -50938,8 +50991,10 @@
 ||apk-sentani4d.vercel.app^
 ||apk-slot-gratis-new.vercel.app^
 ||apk-slot-qris-sikekaya-sio-prindapa.vercel.app^
+||apk-sph88.vercel.app^
 ||apk-suhu99.vercel.app^
 ||apk-sultan898.vercel.app^
+||apk-tambangqq.vercel.app^
 ||apk-tan.vercel.app^
 ||apk-telkomtogel.vercel.app^
 ||apk-terbaik-kkslot777.vercel.app^
@@ -51139,6 +51194,7 @@
 ||arah77.vercel.app^
 ||arahampjackpotbet88.vercel.app^
 ||arahampkackpotusd77.vercel.app^
+||arahan-dari-bundaslot.vercel.app^
 ||arahlinkampbjornostbring-depobos88.vercel.app^
 ||araimpharma.vercel.app^
 ||arak88-boss.vercel.app^
@@ -51170,6 +51226,7 @@
 ||arena-aqua888.vercel.app^
 ||arena-bermain.vercel.app^
 ||arena-cuan-jokerslot888.vercel.app^
+||arena-daftarbet.vercel.app^
 ||arena-dragon.vercel.app^
 ||arena-facetoto.vercel.app^
 ||arena-game-filter888.vercel.app^
@@ -51801,6 +51858,7 @@
 ||axis88-alpha.vercel.app^
 ||axis88-two.vercel.app^
 ||axistoto-pafi.vercel.app^
+||ayahnya-pengen-nenen-gituuuuu-batik777.vercel.app^
 ||ayahslot.vercel.app^
 ||ayam-bangkok-lagi-onfire.vercel.app^
 ||ayam-goreng-tau.vercel.app^
@@ -51826,6 +51884,7 @@
 ||ayo-kita-kemana.vercel.app^
 ||ayo-peach.vercel.app^
 ||ayo138-login.vercel.app^
+||ayok-merapat.vercel.app^
 ||ayok-mulai-lagi.vercel.app^
 ||ayok-sg-ikaunand.vercel.app^
 ||ayoklah-naikan-lagi.vercel.app^
@@ -52149,6 +52208,7 @@
 ||bandar-hiburan-terpercaya2k26.vercel.app^
 ||bandar-markasmacau.vercel.app^
 ||bandar-pulsa-habanero99.vercel.app^
+||bandar-puuredigital.vercel.app^
 ||bandar-resmi-wajan4d.vercel.app^
 ||bandar-restaurant-chez-mathilde.vercel.app^
 ||bandar-togel-blond.vercel.app^
@@ -53399,6 +53459,7 @@
 ||birkenstick.vercel.app^
 ||birojasamandiri.vercel.app^
 ||birslotcity.vercel.app^
+||birthkweens-com.vercel.app^
 ||birthtofivevision.vercel.app^
 ||birtoto123.vercel.app^
 ||birtotogosling.vercel.app^
@@ -53441,6 +53502,7 @@
 ||bisa4d-ten.vercel.app^
 ||bisa4d-wine.vercel.app^
 ||bisadipanggilkingbadak.vercel.app^
+||bisanaik.vercel.app^
 ||bisanihnaik.vercel.app^
 ||bisayokbisa2-asdinstalaciones.vercel.app^
 ||bisayokbisa4-asdinstalaciones.vercel.app^
@@ -53830,6 +53892,7 @@
 ||bonekatoto.vercel.app^
 ||bonekawin.vercel.app^
 ||bong-naikin-iniaja-please.vercel.app^
+||bongeslotv1kq.vercel.app^
 ||bongeslotv1p.vercel.app^
 ||bongeslotw.vercel.app^
 ||bongmichaelterbaek.vercel.app^
@@ -53951,6 +54014,7 @@
 ||boss-boba99-shop-ten.vercel.app^
 ||boss-dollar-org.vercel.app^
 ||boss-parti-bayar.vercel.app^
+||bossahearingaidsreviews.vercel.app^
 ||bossdominocity.vercel.app^
 ||bossivip.vercel.app^
 ||bossku-cucutoto.vercel.app^
@@ -54200,6 +54264,7 @@
 ||bundaslot-slot-gacor.vercel.app^
 ||bundaslot-texther.vercel.app^
 ||bundaslot-tier-atas.vercel.app^
+||bundaslotcc1.vercel.app^
 ||bundaslotmi1.vercel.app^
 ||bundaslotmm.vercel.app^
 ||bundnaekkan.vercel.app^
@@ -54292,6 +54357,7 @@
 ||cafe-dyar.vercel.app^
 ||cafe-in-two.vercel.app^
 ||cafe25-ampmax.vercel.app^
+||cafe4ddesa.vercel.app^
 ||cafe777-pasti-jackpot.vercel.app^
 ||cafeducoco.vercel.app^
 ||cafeflora.vercel.app^
@@ -54644,6 +54710,7 @@
 ||cawan888.vercel.app^
 ||cawanwin.vercel.app^
 ||cb88-reliablehcsd.vercel.app^
+||cbdiscounted-com.vercel.app^
 ||cbet-vip.vercel.app^
 ||cbrrubook.vercel.app^
 ||cbt-mtsn2purworejo-sch-id.vercel.app^
@@ -54887,6 +54954,7 @@
 ||cheekyfitness.vercel.app^
 ||cheers-one.vercel.app^
 ||chef-bandar77.vercel.app^
+||chef-bbmnaiktoto.vercel.app^
 ||chef-bola991.vercel.app^
 ||chef-duit888.vercel.app^
 ||chef-fortuna69.vercel.app^
@@ -56031,6 +56099,7 @@
 ||davidson4d.vercel.app^
 ||davidstockmusic.vercel.app^
 ||davidtogel-alternatif.vercel.app^
+||davina777-apocalypto.vercel.app^
 ||davis-white-massachusettsdesign.vercel.app^
 ||daya777.vercel.app^
 ||dayakbet.vercel.app^
@@ -56445,6 +56514,7 @@
 ||dewa771-aman.vercel.app^
 ||dewa771-web.vercel.app^
 ||dewa774a.vercel.app^
+||dewa77alternatiftalk.vercel.app^
 ||dewa77apc2018.vercel.app^
 ||dewa77area.vercel.app^
 ||dewa77arket.vercel.app^
@@ -57243,6 +57313,7 @@
 ||dwslot88gacor.vercel.app^
 ||dylanchampagne-com.vercel.app^
 ||dynamic-transformations-shiowla.vercel.app^
+||dynamic-transformations-shiowla-two.vercel.app^
 ||dynasty-naiktoto.vercel.app^
 ||dzgospic.vercel.app^
 ||e-dzine-dokter88.vercel.app^
@@ -57602,6 +57673,7 @@
 ||escort-line.vercel.app^
 ||esemprebello.vercel.app^
 ||esifsix-comillaboard.vercel.app^
+||esifsix-comillaboard22.vercel.app^
 ||esifsjf-kazo-amp.vercel.app^
 ||eskaparate.vercel.app^
 ||eskei.vercel.app^
@@ -57649,6 +57721,7 @@
 ||eve-feat-cuan288.vercel.app^
 ||evelynpuerto.vercel.app^
 ||event-dw77.vercel.app^
+||event-fungame777.vercel.app^
 ||event4d.vercel.app^
 ||event4d-one.vercel.app^
 ||event4d-ten.vercel.app^
@@ -57984,6 +58057,7 @@
 ||fire77-black.vercel.app^
 ||firebase-cbtoto.vercel.app^
 ||firefliestrust-luna77.vercel.app^
+||fireonmoons.vercel.app^
 ||firesweeps.vercel.app^
 ||firmansuper.vercel.app^
 ||first-mainsemarang.vercel.app^
@@ -58483,6 +58557,7 @@
 ||game-favorit.vercel.app^
 ||game-flick222.vercel.app^
 ||game-fungame777.vercel.app^
+||game-gang99.vercel.app^
 ||game-garuda.vercel.app^
 ||game-garuda777.vercel.app^
 ||game-giatslot.vercel.app^
@@ -58508,6 +58583,7 @@
 ||game-ldeiphoenix.vercel.app^
 ||game-lego555.vercel.app^
 ||game-macau777.vercel.app^
+||game-magnet55.vercel.app^
 ||game-mahjong888.vercel.app^
 ||game-mpo2020.vercel.app^
 ||game-mpo80.vercel.app^
@@ -58589,6 +58665,7 @@
 ||games-elangbola88.vercel.app^
 ||games-fantastictoto.vercel.app^
 ||games-gacor.vercel.app^
+||games-ganteng123.vercel.app^
 ||games-grambet.vercel.app^
 ||games-harder.vercel.app^
 ||games-harga11.vercel.app^
@@ -58605,6 +58682,7 @@
 ||games-rental99.vercel.app^
 ||games-resep-depo500.vercel.app^
 ||games-surga19a.vercel.app^
+||games-tips-dan-trick-dapat-baju-cuan-batik777.vercel.app^
 ||games138betgacor.vercel.app^
 ||games228.vercel.app^
 ||games228-ngacir.vercel.app^
@@ -59226,6 +59304,7 @@
 ||goltogelresmi88.vercel.app^
 ||goltogelstore.vercel.app^
 ||gomyurl-indoplay88.vercel.app^
+||gondolaspantanal.vercel.app^
 ||gondrong4d-org.vercel.app^
 ||gondrong4d-three.vercel.app^
 ||gondrong88-newber.vercel.app^
@@ -59390,6 +59469,7 @@
 ||greendayeulogy.vercel.app^
 ||greengablesinn-ca.vercel.app^
 ||greengablesinn-ca-ashen.vercel.app^
+||greenlinecreations-ratutoto.vercel.app^
 ||greensideboston.vercel.app^
 ||greenteathepenang.vercel.app^
 ||greenusambaraschools.vercel.app^
@@ -59632,6 +59712,7 @@
 ||hanaslot.vercel.app^
 ||hancur-dipantai-barat.vercel.app^
 ||handdrawntops.vercel.app^
+||handheldpress.vercel.app^
 ||handwerkerinnenhaus.vercel.app^
 ||handwerkerinnenhaus-resmi.vercel.app^
 ||handyhulle-casetify.vercel.app^
@@ -60922,6 +61003,7 @@
 ||inova77-worldamp.vercel.app^
 ||inovatif4d.vercel.app^
 ||inovatif88-amp.vercel.app^
+||inpoinpoketua.vercel.app^
 ||inruangwd.vercel.app^
 ||insaneforensics.vercel.app^
 ||inspektorat-id.vercel.app^
@@ -61535,6 +61617,7 @@
 ||jembatan4d-alternatif.vercel.app^
 ||jembatan4d-boss.vercel.app^
 ||jembatanwin-alternatif.vercel.app^
+||jempol55-link-alternatif-resmi.vercel.app^
 ||jempol55-situs-toto-togel.vercel.app^
 ||jendelaku.vercel.app^
 ||jendral188.vercel.app^
@@ -62164,6 +62247,7 @@
 ||kabarkutim-blacky-puri.vercel.app^
 ||kabin888.vercel.app^
 ||kaca11.vercel.app^
+||kaca189-mandemedia.vercel.app^
 ||kaca4d-livid.vercel.app^
 ||kaca4d-login-mauve.vercel.app^
 ||kaca4d-org.vercel.app^
@@ -62471,6 +62555,7 @@
 ||kapss1.vercel.app^
 ||kapsul4dcasino.vercel.app^
 ||kapsulbali-casino.vercel.app^
+||kapsulzone-rtp.vercel.app^
 ||kapten189.vercel.app^
 ||kapten303.vercel.app^
 ||kapten69wap.vercel.app^
@@ -62751,6 +62836,7 @@
 ||kelinci168-ten.vercel.app^
 ||kelinci4d-melompat.vercel.app^
 ||kelinci88-lovat.vercel.app^
+||kelinci88menyala.vercel.app^
 ||kelinci88rock-a.vercel.app^
 ||kelinci99-play.vercel.app^
 ||kelinciapi-com.vercel.app^
@@ -63280,6 +63366,7 @@
 ||klikhoki.vercel.app^
 ||klikmahkota88.vercel.app^
 ||klikmakmur77.vercel.app^
+||klikrolex878.vercel.app^
 ||klinik-pearl.vercel.app^
 ||klix4d.vercel.app^
 ||klix4dlogin.vercel.app^
@@ -63350,6 +63437,7 @@
 ||koi288-sustentabilidadeemacaonet.vercel.app^
 ||koi388gacor.vercel.app^
 ||koi5000.vercel.app^
+||koi5000-vip.vercel.app^
 ||koi55-ngacir.vercel.app^
 ||koibet77-boss.vercel.app^
 ||koicuan-sacservicos.vercel.app^
@@ -63387,10 +63475,12 @@
 ||koko123.vercel.app^
 ||koko123-bandar.vercel.app^
 ||koko123-bma.vercel.app^
+||koko303-web3-modern.vercel.app^
 ||koko500-craftingdemocracy.vercel.app^
 ||koko500-link-top.vercel.app^
 ||koko500-purifiersreview.vercel.app^
 ||koko500-tfkrha.vercel.app^
+||koko5000-evolusi-teknologi.vercel.app^
 ||koko5000ku-prindavam.vercel.app^
 ||koko500xkosovoprojects.vercel.app^
 ||kokoro-o-komete.vercel.app^
@@ -63583,6 +63673,7 @@
 ||kratonbet-eight.vercel.app^
 ||kratonbety.vercel.app^
 ||krayon-bos66.vercel.app^
+||krayon-gas21.vercel.app^
 ||krayon-jackpot77.vercel.app^
 ||krayon-merah-terusbet.vercel.app^
 ||krayon-royal787.vercel.app^
@@ -63657,6 +63748,7 @@
 ||kuasa4d-speedyy.vercel.app^
 ||kuasai-arena-entertogel.vercel.app^
 ||kuasai-arena-forumtoto.vercel.app^
+||kuasai-arena-jokerslot388.vercel.app^
 ||kuasai-arena-judol138.vercel.app^
 ||kuasai-arena-mpo90.vercel.app^
 ||kuat-dan-tahan-lama.vercel.app^
@@ -64026,6 +64118,7 @@
 ||lapak-2spb.vercel.app^
 ||lapak-cuan-ags4d.vercel.app^
 ||lapak-cuan-situs338.vercel.app^
+||lapak-cuan-slotv88.vercel.app^
 ||lapak-cuan-togel150.vercel.app^
 ||lapak-game-idn168.vercel.app^
 ||lapak138.vercel.app^
@@ -64650,6 +64743,7 @@
 ||link-jimatmaxwin.vercel.app^
 ||link-lazavip.vercel.app^
 ||link-login-chelsea.vercel.app^
+||link-login-kaizen88-untuk-mengakses.vercel.app^
 ||link-login-sedaptogel-biblicalhelp.vercel.app^
 ||link-login-terbaikmu.vercel.app^
 ||link-macancuan.vercel.app^
@@ -64760,6 +64854,7 @@
 ||linkboba99.vercel.app^
 ||linkbusiness-ashen.vercel.app^
 ||linkcantikatoto.vercel.app^
+||linkcuan-cabangsemar.vercel.app^
 ||linkcuan-svip.vercel.app^
 ||linkdaftarslot4d.vercel.app^
 ||linkdepo100bonus100.vercel.app^
@@ -64794,6 +64889,7 @@
 ||linklaternatifgpsslot.vercel.app^
 ||linklogin-airtoto4d.vercel.app^
 ||linklogin-aktif4d.vercel.app^
+||linklogin-aman123.vercel.app^
 ||linklogin-aman77.vercel.app^
 ||linklogin-ampagslot-terpercaya.vercel.app^
 ||linklogin-amprodatoto-bona-fide-ski.vercel.app^
@@ -64905,6 +65001,7 @@
 ||livatro.vercel.app^
 ||live-bape.vercel.app^
 ||live-macau-result-pewaristoto.vercel.app^
+||live-masterslot88.vercel.app^
 ||live-rtp-unisla.vercel.app^
 ||live-sabung-ayam-nebula.vercel.app^
 ||live-support247-pewaristoto.vercel.app^
@@ -65282,6 +65379,7 @@
 ||lucky-hobi123net.vercel.app^
 ||lucky-jetts-v354.vercel.app^
 ||lucky-lady.vercel.app^
+||lucky-mpo379org.vercel.app^
 ||lucky-shark-topbonus-hc19.vercel.app^
 ||lucky-skm77org.vercel.app^
 ||lucky131-alternatif.vercel.app^
@@ -65409,6 +65507,7 @@
 ||lux88logindown.vercel.app^
 ||lux88mes.vercel.app^
 ||lux88newsremain.vercel.app^
+||lux88pagesite.vercel.app^
 ||lux88road.vercel.app^
 ||lux88show.vercel.app^
 ||lux88slotiety.vercel.app^
@@ -65701,6 +65800,7 @@
 ||main-di-tototix-pastiwede.vercel.app^
 ||main-kalem.vercel.app^
 ||main-kamu.vercel.app^
+||main-klik-jkr.vercel.app^
 ||main-kudahoki.vercel.app^
 ||main-ltd.vercel.app^
 ||main-masjidmadeena-royal.vercel.app^
@@ -67980,6 +68080,7 @@
 ||naga77homenaka1.vercel.app^
 ||naga77hots.vercel.app^
 ||naga77ladefo.vercel.app^
+||naga77linkero.vercel.app^
 ||naga77loginnapulj.vercel.app^
 ||naga77loginrigo.vercel.app^
 ||naga77lube.vercel.app^
@@ -68448,6 +68549,7 @@
 ||nikolar-qristoto.vercel.app^
 ||nikolas138-ksafe.vercel.app^
 ||nilayosports.vercel.app^
+||nina4d-amp.vercel.app^
 ||ningrat4d.vercel.app^
 ||ninja-hatori08-akun1.vercel.app^
 ||ninja168-opj.vercel.app^
@@ -69341,6 +69443,7 @@
 ||oyoslot3-org.vercel.app^
 ||oyoslot5.vercel.app^
 ||oyster-asin-bersayap.vercel.app^
+||oyuki88chan.vercel.app^
 ||oyuki88online.vercel.app^
 ||oyukigoo88.vercel.app^
 ||ozototo.vercel.app^
@@ -71722,6 +71825,7 @@
 ||rafa4d-domayn.vercel.app^
 ||rafa4d-viral.vercel.app^
 ||rafa77dewanews.vercel.app^
+||rafa77terms.vercel.app^
 ||rafa88dewaashbac.vercel.app^
 ||rafa88flip4k.vercel.app^
 ||rafa88gunkei.vercel.app^
@@ -74211,6 +74315,7 @@
 ||sinar4d-cyan.vercel.app^
 ||sinar4d-speedy.vercel.app^
 ||sinar4d-vvip.vercel.app^
+||sinar567-agen-pulsa-terbaik-dengan.vercel.app^
 ||sinar567-eta.vercel.app^
 ||sinar79-bangkit.vercel.app^
 ||sinar79-menuju-langit.vercel.app^
@@ -75622,6 +75727,7 @@
 ||stillman-eight.vercel.app^
 ||stilundpfiff.vercel.app^
 ||stimyapim.vercel.app^
+||stirrers-kudamas11.vercel.app^
 ||stirtoto.vercel.app^
 ||stixny.vercel.app^
 ||stm4d.vercel.app^
@@ -75649,6 +75755,7 @@
 ||store-datuk77me.vercel.app^
 ||store-dewa59org.vercel.app^
 ||store-dewi363net.vercel.app^
+||store-dorahoki88org.vercel.app^
 ||store-ekonomi787org.vercel.app^
 ||store-ekonomi99net.vercel.app^
 ||store-freetamilserialscom.vercel.app^
@@ -75996,6 +76103,7 @@
 ||surga288-lake.vercel.app^
 ||surga55.vercel.app^
 ||surga66-games.vercel.app^
+||surga777-street.vercel.app^
 ||surga899-alternatif.vercel.app^
 ||surgadagoo.vercel.app^
 ||surgahoki-memew.vercel.app^
@@ -78185,6 +78293,7 @@
 ||virmanskee123.vercel.app^
 ||virtoto-ngacir.vercel.app^
 ||virtuallyallsorts.vercel.app^
+||virtueslot777-life.vercel.app^
 ||virtus188-daftar.vercel.app^
 ||virtus188-project.vercel.app^
 ||virtus188-vvip.vercel.app^
@@ -79523,6 +79632,7 @@
 ||w369.app^
 ||w567.app^
 ||w567game.app^
+||w67games.app^
 ||w77w.app^
 ||w88-casino.app^
 ||w88club.app^
@@ -79565,6 +79675,7 @@
 ||activaempresarias.wasmer.app^
 ||africanliterary.wasmer.app^
 ||africanmagazines.wasmer.app^
+||allfirma.wasmer.app^
 ||arganismecosmetics.wasmer.app^
 ||avatarajah.wasmer.app^
 ||bgmuseum-yoga.wasmer.app^
@@ -93833,6 +93944,7 @@
 ||agencuantop.art^
 ||agencuanvip.art^
 ||agencuanyes.art^
+||agendadu.art^
 ||agendarattogel.art^
 ||agendewa88.art^
 ||agendewa88asli.art^
@@ -94386,6 +94498,7 @@
 ||alternatifterbaik-i88cash.art^
 ||alternatiftuan.art^
 ||alternatifwqbet88.art^
+||altertoto.art^
 ||altf2presidencc.art^
 ||altfpresidencc.art^
 ||althanabet.art^
@@ -95509,6 +95622,7 @@
 ||atta518.art^
 ||atta518-a.art^
 ||au328.art^
+||au328berkah.art^
 ||audy88app.art^
 ||aura-slot88.art^
 ||aura4d.art^
@@ -96410,6 +96524,7 @@
 ||bayartop.art^
 ||bayaruang.art^
 ||bayellow.art^
+||bayitoto.art^
 ||bayukuat.art^
 ||bayuslotdd.art^
 ||bayutoto.art^
@@ -96564,6 +96679,7 @@
 ||bebasjitu1.art^
 ||bebasjituu.art^
 ||bebaskali.art^
+||pragmatic.bebass69.art^
 ||bebek66.art^
 ||bebek66gcr.art^
 ||bebek66great.art^
@@ -97137,6 +97253,7 @@
 ||bigpot88vip.art^
 ||bigpot88x.art^
 ||bigpumpbill.art^
+||bigslot.art^
 ||bigslot288.art^
 ||bigslot88.art^
 ||bigslotolink.art^
@@ -97992,7 +98109,11 @@
 ||brngplytop.art^
 ||bro-kenzo188.art^
 ||bro138.art^
+||bro138gg.art^
+||bro138hc.art^
+||ura.bro138lz.art^
 ||bro138rjy.art^
+||bro138wu.art^
 ||bro178.art^
 ||bro28.art^
 ||bro368.art^
@@ -98328,6 +98449,7 @@
 ||caliandra.art^
 ||callahanglass.art^
 ||calo188.art^
+||club.calon4d.art^
 ||calon4d01.art^
 ||calon4d02.art^
 ||calon4dabadi.art^
@@ -98681,6 +98803,7 @@
 ||cita4dmax.art^
 ||cita4dwin.art^
 ||citarasaboba.art^
+||citawin.art^
 ||citibet88b.art^
 ||citisbobet.art^
 ||citislot88.art^
@@ -99159,6 +99282,7 @@
 ||daftarpphokirtp.art^
 ||daftarpro.art^
 ||daftarregalbet.art^
+||daftarslotdana.art^
 ||daftarslotgacor.art^
 ||daftarslotgacorlangit99.art^
 ||daftarsobat168.art^
@@ -99414,6 +99538,7 @@
 ||dentotodice.art^
 ||dentotogacor.art^
 ||dentotoice.art^
+||dentotoprices.art^
 ||dentotoslot.art^
 ||dentusurya89.art^
 ||denver99.art^
@@ -99747,6 +99872,7 @@
 ||bombshells.dewi11-opo.art^
 ||dewi113cup.art^
 ||mantepbgt.dewi11flu.art^
+||xxcurate.dewi11key.art^
 ||dewi123.art^
 ||dewi129.art^
 ||dewi138.art^
@@ -100383,6 +100509,7 @@
 ||eastgacor1945.art^
 ||easyacces.art^
 ||cyou.easycarey.art^
+||easypricing.art^
 ||easyqqhoki.art^
 ||easywin178.art^
 ||easywingorila39.art^
@@ -101377,6 +101504,7 @@
 ||gadunslot.art^
 ||gadunslot88.art^
 ||gadunslotasik.art^
+||gadunslotback.art^
 ||gadunslotjepe.art^
 ||gadunslotjp.art^
 ||gaetteyroplooku.art^
@@ -101754,6 +101882,7 @@
 ||gatotkaca888.art^
 ||gatotkaca89.art^
 ||gatotkaca89slot.art^
+||provider.gatotkacatop.art^
 ||gaul4chi.art^
 ||gaul4cupatkai.art^
 ||gaulbapake.art^
@@ -105288,6 +105417,7 @@
 ||jos007-vip.art^
 ||jos007-zues.art^
 ||jos178.art^
+||jos189official.art^
 ||jos55.art^
 ||josbonanzaslot88.art^
 ||joscici.art^
@@ -105971,6 +106101,7 @@
 ||motels.kapan-ngerank.art^
 ||risto.kapan-ngerank.art^
 ||kapital77best.art^
+||kapsulhoki.art^
 ||kapten33.art^
 ||kapten33bos.art^
 ||kapten33vip.art^
@@ -106556,6 +106687,7 @@
 ||kim138.art^
 ||kim368.art^
 ||kim368a.art^
+||kimaktoto.art^
 ||kimberlymorris.art^
 ||kimjongun138.art^
 ||kincir86.art^
@@ -106591,6 +106723,7 @@
 ||king888.art^
 ||king88a.art^
 ||king88betjaya.art^
+||king88betlink.art^
 ||king88vina.art^
 ||kingalfahidi.art^
 ||kingasia.art^
@@ -106877,6 +107010,7 @@
 ||koalamun.art^
 ||kobama888.art^
 ||kobegacor.art^
+||gebyar.koboiku.art^
 ||koboislot.art^
 ||koboislot9.art^
 ||koboisuper.art^
@@ -107184,6 +107318,7 @@
 ||kpk138yes.art^
 ||kpk88.art^
 ||kpkgg.art^
+||satin.kpkjuyemar.art^
 ||kpktoto.art^
 ||kpktoxjp.art^
 ||kpr88.art^
@@ -107258,6 +107393,7 @@
 ||kuaci99.art^
 ||nipconf.kualitymax.art^
 ||kuascerah.art^
+||kuatoke.art^
 ||kubet.art^
 ||kubet88.art^
 ||kubeting.art^
@@ -107806,6 +107942,7 @@
 ||lego138vip.art^
 ||lego138wd.art^
 ||lego77.art^
+||lego77daftar.art^
 ||lego77maxwin.art^
 ||lego77pro.art^
 ||lego77slot.art^
@@ -108530,6 +108667,7 @@
 ||lion4dbet.art^
 ||lion4dslot.art^
 ||lion88.art^
+||lion988.art^
 ||liongdaftar.art^
 ||lionk777.art^
 ||lipatkota.art^
@@ -108978,6 +109116,7 @@
 ||luxury138.art^
 ||luxury333.art^
 ||luxury333itachi.art^
+||luxury333uax.art^
 ||luxury333vht.art^
 ||luxury345.art^
 ||luxury89.art^
@@ -109669,6 +109808,7 @@
 ||mapellentz.art^
 ||maplejangkar.art^
 ||mapsbet.art^
+||marciafanny.art^
 ||marco88.art^
 ||maret88.art^
 ||margabola.art^
@@ -120908,6 +121048,7 @@
 ||rtpdewaasia.art^
 ||rtpdewabet303.art^
 ||rtpdewagame88.art^
+||rtpdewagg.art^
 ||rtpdewahoki303.art^
 ||rtpdewahub.art^
 ||rtpdewaidr.art^
@@ -123462,6 +123603,7 @@
 ||singaku69.art^
 ||singapore-bet.art^
 ||singaporebet.art^
+||singasarilion.art^
 ||singasaritoto.art^
 ||singauntung.art^
 ||singawin.art^
@@ -123738,6 +123880,7 @@
 ||skintotoviral.art^
 ||skl77.art^
 ||skl77group.art^
+||projekte.skmachines.art^
 ||sko66.art^
 ||skor-88.art^
 ||skor88.art^
@@ -124859,6 +125002,7 @@
 ||stphoki.art^
 ||stpslot.art^
 ||strategicdefensealliance.art^
+||seful.strategyai.art^
 ||stream2watch.art^
 ||streamonsport.art^
 ||strite.art^
@@ -125378,6 +125522,7 @@
 ||tabelpaito.art^
 ||bintang.tabernaobalcao.art^
 ||tablegold88.art^
+||tabolabale88.art^
 ||tabplay.art^
 ||taburbola.art^
 ||tafsirbukumimpi.art^
@@ -126691,6 +126836,7 @@
 ||tusmundo.art^
 ||tusukgigi.art^
 ||tut4k.art^
+||tutsocean.art^
 ||tutupbotol.art^
 ||tuwagaslot.art^
 ||tuwagaslotalt.art^
@@ -126738,6 +126884,7 @@
 ||uang888h.art^
 ||uang888i.art^
 ||uang888k.art^
+||uangdewa.art^
 ||uangeyang.art^
 ||uangjajan.art^
 ||uangkas.art^
@@ -126824,6 +126971,7 @@
 ||ultima88.art^
 ||cpi.ultimatehomes.art^
 ||ultra138.art^
+||ultrawin.ultra33u.art^
 ||ultra77.art^
 ||ultra777.art^
 ||ultra88-pika.art^
@@ -127523,6 +127671,7 @@
 ||warungplaykawaii.art^
 ||warungplayko.art^
 ||warungplayku.art^
+||warungplaykwaiyow.art^
 ||warungplaylur.art^
 ||warungplaynich.art^
 ||warungplaynih.art^
@@ -127543,6 +127692,7 @@
 ||warungterpecaya88.art^
 ||warungtotoslot.art^
 ||platform-resmi404.warungwajibpbn-qris1.art^
+||ymans.warungwajibpbn-qris1.art^
 ||wawaslot.art^
 ||wawaslotgame.art^
 ||wawaslotlive.art^
@@ -127600,6 +127750,7 @@
 ||wdkapten.art^
 ||wdsemanggi.art^
 ||wdtoto.art^
+||wdyuk.art^
 ||we188.art^
 ||wealthy303.art^
 ||sub1.wealthy303.art^
@@ -128026,6 +128177,7 @@
 ||staking.worldofv.art^
 ||worldpictures.art^
 ||worldsalma.art^
+||wow303.art^
 ||wow33gacor.art^
 ||wow388.art^
 ||wow388-official.art^
@@ -129907,6 +130059,7 @@
 ||agen234.asia^
 ||agen236.asia^
 ||pplay.agen288.asia^
+||agen303.asia^
 ||agen338.asia^
 ||agen388.asia^
 ||agen62.asia^
@@ -130677,6 +130830,7 @@
 ||anyporn.asia^
 ||anysex.asia^
 ||anyxxx.asia^
+||aob633.asia^
 ||aoewin.asia^
 ||aojiru-ranking.asia^
 ||aon-qq.asia^
@@ -130831,6 +130985,7 @@
 ||arwanatotoslot.asia^
 ||arzlfl.asia^
 ||as88slot.asia^
+||asa-advocates.asia^
 ||asaa.asia^
 ||asaa88.asia^
 ||asalqq.asia^
@@ -131091,6 +131246,7 @@
 ||assebonyyummy.asia^
 ||assetxchange.asia^
 ||assxxx.asia^
+||aster88.asia^
 ||astg.asia^
 ||astina333login.asia^
 ||astogel.asia^
@@ -131182,6 +131338,7 @@
 ||auto.autoplayvip.asia^
 ||autoslot.asia^
 ||autoslot168.asia^
+||autoslot88.asia^
 ||autospin777.asia^
 ||autospin888.asia^
 ||autotogel.asia^
@@ -131252,6 +131409,7 @@
 ||ayamtototh.asia^
 ||aye4d.asia^
 ||ayo188.asia^
+||ayo4d.asia^
 ||ayobet.asia^
 ||ayokingtoto78.asia^
 ||ayomain888.asia^
@@ -131968,6 +132126,7 @@
 ||berjayatogel.asia^
 ||berkah303.asia^
 ||berkah365.asia^
+||berkah4d.asia^
 ||berkah88.asia^
 ||berkahabadi.asia^
 ||berkahjualann.asia^
@@ -132304,6 +132463,7 @@
 ||bigbrobet.asia^
 ||bigbropoker.asia^
 ||bigcoin88.asia^
+||bigcuan99.asia^
 ||bigdaddy.asia^
 ||bigdewa.asia^
 ||bigdewaalternatif.asia^
@@ -132883,6 +133043,7 @@
 ||bostoko4d.asia^
 ||bostoto.asia^
 ||boswin.asia^
+||boswin88.asia^
 ||bot-1425.asia^
 ||bot77.asia^
 ||botak123.asia^
@@ -133102,6 +133263,7 @@
 ||buono.asia^
 ||bursa303.asia^
 ||bursa77.asia^
+||bursa777.asia^
 ||bursaliga.asia^
 ||bursaliga303.asia^
 ||bursaliga306.asia^
@@ -133523,6 +133685,7 @@
 ||cerdas99.asia^
 ||cerdasbola.asia^
 ||cerdaspoker.asia^
+||ceri123slot.asia^
 ||ceri138.asia^
 ||ceri188.asia^
 ||ceri88.asia^
@@ -133677,6 +133840,7 @@
 ||ckkk.asia^
 ||ckok.asia^
 ||ckpoker.asia^
+||clan4d.asia^
 ||clbk-toto.asia^
 ||clbk7.asia^
 ||clbkcuan.asia^
@@ -135049,6 +135213,7 @@
 ||depo10bonus20.asia^
 ||depo138.asia^
 ||depo25.asia^
+||depo4d.asia^
 ||depo50bonus50.asia^
 ||depo88.asia^
 ||depobos.asia^
@@ -135161,6 +135326,7 @@
 ||dewacashalternatif.asia^
 ||dewacasino.asia^
 ||dewacasino168.asia^
+||dewacasino88.asia^
 ||dewacasinoalternatif.asia^
 ||dewacintaqq.asia^
 ||dewacsnasli.asia^
@@ -135342,6 +135508,7 @@
 ||dewatangkasslot.asia^
 ||dewatareals.asia^
 ||dewataslot.asia^
+||dewataslot88.asia^
 ||dewataslot888.asia^
 ||dewataslotalternatif.asia^
 ||dewataslotmega1.asia^
@@ -135536,6 +135703,8 @@
 ||dnspkv.asia^
 ||doaqq.asia^
 ||doaslot.asia^
+||doc-arts.asia^
+||forum.doc-arts.asia^
 ||dochoitinhduc.asia^
 ||doctor-business.asia^
 ||dod.asia^
@@ -135580,6 +135749,7 @@
 ||doladola.asia^
 ||dolar138.asia^
 ||dolar188.asia^
+||dolar508.asia^
 ||dolar77.asia^
 ||dolar777.asia^
 ||dolar88.asia^
@@ -135974,6 +136144,7 @@
 ||dwabet.asia^
 ||dwcash.asia^
 ||dwcash88.asia^
+||dwgwin.dwg288nc.asia^
 ||dwgg.asia^
 ||dwitogel.asia^
 ||dwk99.asia^
@@ -136314,6 +136485,7 @@
 ||exobet.asia^
 ||exototo.asia^
 ||exp898.asia^
+||expekt.asia^
 ||expo138.asia^
 ||exsitewebterslebew.asia^
 ||extend88.asia^
@@ -136381,6 +136553,7 @@
 ||fafatogel.asia^
 ||fairbetpoker.asia^
 ||fairqq.asia^
+||cobain.fairwayfranksnorwalk.asia^
 ||fairywin188.asia^
 ||fajar188gacor.asia^
 ||fajarpakong.asia^
@@ -136391,6 +136564,7 @@
 ||fakphu.asia^
 ||falconplay.asia^
 ||falk909.asia^
+||fals4d.asia^
 ||familiafelizexitosa.asia^
 ||familiqq.asia^
 ||familyslot88.asia^
@@ -136529,6 +136703,7 @@
 ||fiopoker.asia^
 ||fipperjoker.asia^
 ||firaunqq.asia^
+||fire138.asia^
 ||localhost.firstanimeshop.asia^
 ||firstdatehentai.asia^
 ||wap.firstdatehentai.asia^
@@ -136779,6 +136954,7 @@
 ||fvdcjo.asia^
 ||fvp-ftnet.asia^
 ||fw88.asia^
+||fwe.asia^
 ||fwrscg.asia^
 ||fxchief.asia^
 ||fxfbs.asia^
@@ -136795,6 +136971,7 @@
 ||fzcyiy.asia^
 ||fznfpf.asia^
 ||g118.asia^
+||g11bet.asia^
 ||g2e888.asia^
 ||g2g-bet.asia^
 ||g2g111.asia^
@@ -136880,6 +137057,7 @@
 ||gacor368.asia^
 ||gacor4d.asia^
 ||gacor500.asia^
+||gacor5000.asia^
 ||gacor57.asia^
 ||rtp.gacor57.asia^
 ||gacor57max.asia^
@@ -137214,6 +137392,7 @@
 ||gaskuenidn5.asia^
 ||gaspol.asia^
 ||gaspol168.asia^
+||gaspol189.asia^
 ||gaspol77.asia^
 ||gaspoll88.asia^
 ||77dewa.gaspolqq.asia^
@@ -137456,6 +137635,7 @@
 ||gila138.asia^
 ||gila138gacor.asia^
 ||gila138vip.asia^
+||gilabet88.asia^
 ||gilabola.asia^
 ||giladrakor.asia^
 ||gilalotto.asia^
@@ -137906,6 +138086,7 @@
 ||halo4d.asia^
 ||halo69.asia^
 ||halo777.asia^
+||halo88.asia^
 ||halobet.asia^
 ||halobos338vip.asia^
 ||halobung.asia^
@@ -138071,6 +138252,7 @@
 ||hechen.asia^
 ||hedon88.asia^
 ||hei89journey.asia^
+||helios168.asia^
 ||hello88vina.asia^
 ||hellogames.asia^
 ||hellowin.asia^
@@ -139169,6 +139351,7 @@
 ||indo11.asia^
 ||indo123.asia^
 ||indo200.asia^
+||indo268.asia^
 ||indo3388.asia^
 ||indo365ku.asia^
 ||indo369.asia^
@@ -139213,6 +139396,7 @@
 ||indobolaku.asia^
 ||indocasino.asia^
 ||indocin.asia^
+||indocuan88.asia^
 ||indodana.asia^
 ||indodewapoker.asia^
 ||indodingdong.asia^
@@ -139650,6 +139834,7 @@
 ||islotwin88.asia^
 ||isoindia.asia^
 ||isototo.asia^
+||isport365.asia^
 ||isport365hoki.asia^
 ||isport365jaya.asia^
 ||isport365king.asia^
@@ -139660,7 +139845,9 @@
 ||isport365vvip.asia^
 ||isport365win.asia^
 ||istana168.asia^
+||istana77.asia^
 ||istana777.asia^
+||istana911.asia^
 ||istanabet.asia^
 ||istanabet17.asia^
 ||istanacashku.asia^
@@ -139790,6 +139977,7 @@
 ||jago33top.asia^
 ||jago77.asia^
 ||jago89.asia^
+||jagoan303.asia^
 ||jagoan49.asia^
 ||jagoan88.asia^
 ||jagoanneon.asia^
@@ -140604,6 +140792,7 @@
 ||juragan28.asia^
 ||juragan68.asia^
 ||juragan69.asia^
+||juragan77.asia^
 ||juragan777.asia^
 ||juragan88.asia^
 ||juraganbaru.asia^
@@ -140958,6 +141147,7 @@
 ||kau86.asia^
 ||kawa77.asia^
 ||kawan55win.asia^
+||kawan777.asia^
 ||kawangaming.asia^
 ||kawanhoki77.asia^
 ||kawantogel.asia^
@@ -141049,6 +141239,7 @@
 ||kejapjudi.asia^
 ||kejarslot-login.asia^
 ||kejuqq.asia^
+||kekar4d.asia^
 ||kekwze.asia^
 ||kelas99.asia^
 ||kelheh.asia^
@@ -141760,6 +141951,7 @@
 ||kuvxof.asia^
 ||kuwera88.asia^
 ||kuy4d.asia^
+||kuy89.asia^
 ||kuyaplay.asia^
 ||kv77.asia^
 ||kvbprime.asia^
@@ -141791,6 +141983,7 @@
 ||laba303.asia^
 ||label138.asia^
 ||labokep.asia^
+||ladang78.asia^
 ||ladangmas.asia^
 ||ladangtoto.asia^
 ||ladangtoto2.asia^
@@ -141946,6 +142139,7 @@
 ||latolato.asia^
 ||latolato138.asia^
 ||latoto.asia^
+||lautanslot.asia^
 ||lauxanh.asia^
 ||lava-slot777.asia^
 ||lava009.asia^
@@ -142055,6 +142249,7 @@
 ||lego77.asia^
 ||lego77login.asia^
 ||legowin777.asia^
+||bangjago.lekjp.asia^
 ||leko88.asia^
 ||lelaki.asia^
 ||lelang88.asia^
@@ -142666,6 +142861,7 @@
 ||lovensex.asia^
 ||loving88.asia^
 ||loxhwa.asia^
+||loyal4d.asia^
 ||loyfah88.asia^
 ||lp28.asia^
 ||lpa99.asia^
@@ -143027,6 +143223,7 @@
 ||madnix.asia^
 ||madrid778.asia^
 ||madu303.asia^
+||madu303slot.asia^
 ||madu4d.asia^
 ||madu777.asia^
 ||madu888.asia^
@@ -143077,6 +143274,7 @@
 ||mahjongways.asia^
 ||mahjongwin308.asia^
 ||mahkota188.asia^
+||mahkota4d.asia^
 ||mahkota69.asia^
 ||mahkota88.asia^
 ||mahkota99.asia^
@@ -143400,6 +143598,7 @@
 ||masbroteratas.asia^
 ||masjudi.asia^
 ||maskoki.asia^
+||maskot88.asia^
 ||maspoker99.asia^
 ||master-pokerqq.asia^
 ||master138.asia^
@@ -143730,6 +143929,7 @@
 ||megacricketworld.asia^
 ||megadream99.asia^
 ||megafafa.asia^
+||megagacor.asia^
 ||megagame.asia^
 ||megah123.asia^
 ||megah138.asia^
@@ -144258,6 +144458,7 @@
 ||modal138gcr.asia^
 ||modal138vip.asia^
 ||modal30.asia^
+||akses.modal50hadiah.asia^
 ||modal77.asia^
 ||modal777.asia^
 ||modalbaik.asia^
@@ -145325,6 +145526,7 @@
 ||novaa.asia^
 ||novaoke.asia^
 ||novaparty.asia^
+||novaslot88.asia^
 ||noverbet.asia^
 ||nowbet.asia^
 ||nowdft.asia^
@@ -145537,6 +145739,7 @@
 ||okebola88.asia^
 ||okekiu.asia^
 ||okepkv.asia^
+||okeplay777.asia^
 ||okeq.asia^
 ||okeraden38.asia^
 ||okeslot.asia^
@@ -145615,6 +145818,7 @@
 ||olympus88id.asia^
 ||olympusmedical.asia^
 ||omahapoker.asia^
+||omakasebet.asia^
 ||ombak123.asia^
 ||ombak126.asia^
 ||amp.ombak126.asia^
@@ -145656,6 +145860,7 @@
 ||onbola.asia^
 ||oncak888.asia^
 ||onces4d.asia^
+||one1official.asia^
 ||one88.asia^
 ||oneasia.asia^
 ||onebet.asia^
@@ -145674,6 +145879,7 @@
 ||onekartu.asia^
 ||mansion777.onemytogel138.asia^
 ||onengkenangan.asia^
+||oneokgold.asia^
 ||oneonebet.asia^
 ||onepiecegear5.asia^
 ||oneplay77.asia^
@@ -145787,6 +145993,7 @@
 ||ostrovit.asia^
 ||otakudesu.asia^
 ||otarupools.asia^
+||otp88.asia^
 ||otupiu.asia^
 ||otw78.asia^
 ||otw88.asia^
@@ -145844,6 +146051,7 @@
 ||p4ngl1m4jp.asia^
 ||p4ngl1majp.asia^
 ||p4nglimajpp.asia^
+||p52casino.asia^
 ||p566.asia^
 ||p567.asia^
 ||p666.asia^
@@ -146222,6 +146430,7 @@
 ||pay4d.asia^
 ||pay4dslot.asia^
 ||pay77aja.asia^
+||pay99.asia^
 ||payak99.asia^
 ||paymax2.asia^
 ||paypoker.asia^
@@ -146259,6 +146468,7 @@
 ||peeinginpublic.asia^
 ||peekvids.asia^
 ||peeping-wiki.asia^
+||pegasusm.asia^
 ||pegasusplay77.asia^
 ||pejuang-jitu.asia^
 ||pejuangjitu.asia^
@@ -146480,6 +146690,7 @@
 ||pg4bet.asia^
 ||pg65.asia^
 ||pg666.asia^
+||pg699m.asia^
 ||pg777slot.asia^
 ||pg88.asia^
 ||pg888asia.asia^
@@ -146497,6 +146708,7 @@
 ||pgautoslot.asia^
 ||pgbet.asia^
 ||pgbirutoto.asia^
+||pgcat555m.asia^
 ||pgdemo.asia^
 ||pgdragon.asia^
 ||pgdragon789.asia^
@@ -146512,6 +146724,7 @@
 ||pgosaka.asia^
 ||pgpro789.asia^
 ||pgs138.asia^
+||pgsh.asia^
 ||pgslot.asia^
 ||pgslot-999.asia^
 ||pgslot-th.asia^
@@ -147180,6 +147393,7 @@
 ||plusbet88win.asia^
 ||plustogel.asia^
 ||plweam.asia^
+||international.pmamdirect.asia^
 ||pmg88daftar.asia^
 ||pmmbzv.asia^
 ||pmmwvf.asia^
@@ -147956,6 +148170,7 @@
 ||qq1betvip.asia^
 ||qq24jam.asia^
 ||qq2889.asia^
+||qq303.asia^
 ||qq303bet.asia^
 ||qq327.asia^
 ||qq338.asia^
@@ -147984,6 +148199,7 @@
 ||qq757bet.asia^
 ||qq77.asia^
 ||qq777.asia^
+||qq777slot.asia^
 ||qq77bet.asia^
 ||qq882.asia^
 ||qq888.asia^
@@ -148122,6 +148338,7 @@
 ||play.qqvio.asia^
 ||suhu.qqvio.asia^
 ||qqvip303.asia^
+||qqwin88.asia^
 ||qqwin99.asia^
 ||qqzynga.asia^
 ||qrhalg.asia^
@@ -148226,6 +148443,7 @@
 ||raja69.asia^
 ||raja777.asia^
 ||raja78.asia^
+||raja86.asia^
 ||raja88.asia^
 ||raja888.asia^
 ||raja88id.asia^
@@ -148756,8 +148974,10 @@
 ||rotogel.asia^
 ||roughdickdown.asia^
 ||roulett.asia^
+||roulettespin.asia^
 ||royal-qq.asia^
 ||royal168.asia^
+||royal188bet.asia^
 ||royal338.asia^
 ||royal36.asia^
 ||royal378.asia^
@@ -149325,6 +149545,7 @@
 ||ruhcon.asia^
 ||rujokf.asia^
 ||rule34.asia^
+||ruletonline.asia^
 ||rumah-kiukiu.asia^
 ||rumah138.asia^
 ||rumahduit.asia^
@@ -149950,6 +150171,7 @@
 ||senopatipoker.asia^
 ||sensa.asia^
 ||sensa77.asia^
+||sensa88.asia^
 ||sensainggrid.asia^
 ||sensalogin.asia^
 ||sensasi-qq.asia^
@@ -150568,6 +150790,7 @@
 ||slot389.asia^
 ||slot396.asia^
 ||slot39slot.asia^
+||slot404.asia^
 ||slot456.asia^
 ||slot46.asia^
 ||slot4d.asia^
@@ -150646,6 +150869,7 @@
 ||slotbom77.asia^
 ||slotbom777.asia^
 ||slotbom77vip.asia^
+||slotbom88.asia^
 ||slotboss.asia^
 ||slotboya.asia^
 ||slotbri24jam.asia^
@@ -151293,6 +151517,7 @@
 ||sukuterbaik.asia^
 ||sulap777.asia^
 ||sule88.asia^
+||sultan178.asia^
 ||sultan188.asia^
 ||sultan19.asia^
 ||sultan199.asia^
@@ -151450,6 +151675,7 @@
 ||surga11.asia^
 ||surga200m.asia^
 ||surga33.asia^
+||surga5000.asia^
 ||surga55.asia^
 ||surga55slot.asia^
 ||surga77.asia^
@@ -151478,6 +151704,7 @@
 ||sushi-77.asia^
 ||sushi77.asia^
 ||sushi999.asia^
+||susun4d.asia^
 ||susunabati-david02.asia^
 ||sutra69l.asia^
 ||suwolg.asia^
@@ -153252,6 +153479,7 @@
 ||varisv1p3c.asia^
 ||vasectomyinfo.asia^
 ||vavada-casino.asia^
+||vavaslot88.asia^
 ||vb199.asia^
 ||vb9vn.asia^
 ||vbandar.asia^
@@ -153694,6 +153922,7 @@
 ||waja33.asia^
 ||waja33s.asia^
 ||wajibslot.asia^
+||wen.wajibslot77.asia^
 ||wajik77.asia^
 ||wajik88.asia^
 ||wajikslot.asia^
@@ -153876,6 +154105,7 @@
 ||webet188.asia^
 ||webet88.asia^
 ||belukabid.webgacor.asia^
+||thehollywoodtrainerproductleopard.webgacor.asia^
 ||juarajp89.webid.asia^
 ||juarajp89ez.webid.asia^
 ||juarajp89wd.webid.asia^
@@ -153892,6 +154122,7 @@
 ||webtv.asia^
 ||weclub.asia^
 ||weclub88.asia^
+||wede303.asia^
 ||wedeq.asia^
 ||wedeqq.asia^
 ||wedeslot.asia^
@@ -154796,6 +155027,7 @@
 ||yuk99.asia^
 ||yuka4d.asia^
 ||yuki77.asia^
+||yukislot99.asia^
 ||yukjp88.asia^
 ||yukmain.asia^
 ||yukpokeronline.asia^
@@ -155628,6 +155860,7 @@
 ||dreamcats.at^
 ||dreamgirls.at^
 ||amp.drsusannehubmer.at^
+||druckkammerzentrum-tirol.at^
 ||drytex.at^
 ||dsg-ledenitzen.at^
 ||dvd-erotik.at^
@@ -155845,6 +156078,7 @@
 ||foot.at^
 ||footgirls.at^
 ||forbidden.at^
+||ford-ernst-rudersdorf.at^
 ||ford-glawitsch-bad-gastein.at^
 ||forstner-biere.at^
 ||fotokistn.at^
@@ -156160,6 +156394,7 @@
 ||huaylike.at^
 ||humidorshop.at^
 ||milfs.humidorshop.at^
+||hunde-fanshop.at^
 ||hurawatch.at^
 ||hure.at^
 ||huren.at^
@@ -158071,6 +158306,7 @@
 ||sydneycallgirls.brothelguide.com.au^
 ||brothels.com.au^
 ||brothernancy.com.au^
+||browmakers.com.au^
 ||brunettes.com.au^
 ||brycepestcontrol.com.au^
 ||slot-server-amerika.bsca.com.au^
@@ -169710,6 +169946,7 @@
 ||padi88.autos^
 ||paduka-hp.autos^
 ||paduka500.autos^
+||paduka500-2026.autos^
 ||paduka500-king.autos^
 ||paduka500-rtplife.autos^
 ||paduka500-rtplive.autos^
@@ -170961,6 +171198,7 @@
 ||rajapools5.autos^
 ||rajapools6.autos^
 ||rajapools7.autos^
+||rajapools8.autos^
 ||rajapoolsalt.autos^
 ||rajapoolsmax.autos^
 ||rajapoolsr.autos^
@@ -174523,6 +174761,7 @@
 ||warkoptrisula.autos^
 ||warkoptrisula88.autos^
 ||warteg4d.autos^
+||warung4d.autos^
 ||warunglokasi.autos^
 ||warungmaxwin.autos^
 ||warungmieinstant.autos^
@@ -174674,6 +174913,7 @@
 ||juara102de.winner102.autos^
 ||winner78viplogin.autos^
 ||winner88.autos^
+||winning303a.autos^
 ||winning303slot.autos^
 ||winollxs234.autos^
 ||winombaktoto.autos^
@@ -175900,6 +176140,7 @@
 ||blues.belanja4dsky.baby^
 ||masuk.belanja4dsky.baby^
 ||play.belanja4dsky.baby^
+||web.belanja4dsky.baby^
 ||belokkiriterus.baby^
 ||bengkelbagus.baby^
 ||bengkulu4dgacor.baby^
@@ -176669,6 +176910,7 @@
 ||esport4dlogin.baby^
 ||esports4d.baby^
 ||esports4dcuan.baby^
+||semesta666bet.esteler.baby^
 ||etotoloka88.baby^
 ||ev888.baby^
 ||evo77-rtp.baby^
@@ -177361,6 +177603,7 @@
 ||jalanninjaku.baby^
 ||jalur-koin.baby^
 ||jalurtogel.baby^
+||wafer.jamu4d.baby^
 ||jamuwin78.baby^
 ||jangan-ragu.baby^
 ||jangankasihkendor.baby^
@@ -179258,6 +179501,7 @@
 ||rj99.baby^
 ||rj99-main.baby^
 ||rj99log.baby^
+||rjbbbymacau.rjbandot14.baby^
 ||rjj99llog.baby^
 ||rjlog6-99.baby^
 ||rjslot88gacor.baby^
@@ -179582,6 +179826,7 @@
 ||rtpsawervip.baby^
 ||rtpsayang138.baby^
 ||rtpsekaawannbett.baby^
+||rtpsimba69baru.baby^
 ||rtpsky77gacor.baby^
 ||rtpslot200.baby^
 ||rtpslot88jp1.baby^
@@ -179715,6 +179960,7 @@
 ||saturajapoker.baby^
 ||satuslotsrtptips.baby^
 ||ardla-org.sawer138-login.baby^
+||sawer138gacorrtp.baby^
 ||sawer138gamble.baby^
 ||sawer138gerbang.baby^
 ||sawer55.baby^
@@ -179828,6 +180074,7 @@
 ||shibaatoto.baby^
 ||shibatotoo.baby^
 ||shortgirl.baby^
+||showbox.baby^
 ||shuaito.baby^
 ||si.baby^
 ||siabgviral.baby^
@@ -179892,6 +180139,7 @@
 ||situsbandartogel77.baby^
 ||situsgacorhana188.baby^
 ||situsgacorsuhu5000.baby^
+||situsgamethor138.baby^
 ||situshkb77.baby^
 ||situskanca.baby^
 ||situskuda77.baby^
@@ -179908,6 +180156,7 @@
 ||situswinku.baby^
 ||situswinterbaik.baby^
 ||situswinvip.baby^
+||wedus.sjamuslot.baby^
 ||sjo777.baby^
 ||one.sjog.baby^
 ||two.sjog.baby^
@@ -179921,6 +180170,7 @@
 ||sky4d.baby^
 ||sky77.baby^
 ||sky77rtp.baby^
+||sky99.baby^
 ||slashproud.baby^
 ||slot-gila138.baby^
 ||slot-gsr4d.baby^
@@ -179946,6 +180196,7 @@
 ||slot88jp7.baby^
 ||slot88jp8.baby^
 ||slot88jp9.baby^
+||slot88login.baby^
 ||slot88resmi10.baby^
 ||slot88resmi11.baby^
 ||slot88resmi13.baby^
@@ -179954,6 +180205,7 @@
 ||slot88resmi7.baby^
 ||slot88resmi8.baby^
 ||slot88resmi9.baby^
+||slot88xx.baby^
 ||slotangkasa338.baby^
 ||slotbagus.baby^
 ||slotbom77.baby^
@@ -180117,6 +180369,7 @@
 ||sumvip1.baby^
 ||sunanmax.baby^
 ||sunat.baby^
+||sungaipaling.baby^
 ||sungod-mugicrew.baby^
 ||sunny69.baby^
 ||superbo99-123.baby^
@@ -180194,6 +180447,7 @@
 ||tanam303.baby^
 ||tandok99.baby^
 ||tanganjahat.baby^
+||tante4d.baby^
 ||tantenakal.baby^
 ||tantetertawa.baby^
 ||tanya4dresmi.baby^
@@ -180201,6 +180455,7 @@
 ||tari303.baby^
 ||tari303login.baby^
 ||tarianpanda.baby^
+||taruhan77bet.baby^
 ||taruhan77terus.baby^
 ||tatapanbasah.baby^
 ||taupoker.baby^
@@ -180512,6 +180767,7 @@
 ||udon88.baby^
 ||ufabet.baby^
 ||ufo555.baby^
+||ufo777.baby^
 ||ug808.baby^
 ||ugbet168.baby^
 ||ularsakit88b.baby^
@@ -180561,6 +180817,7 @@
 ||videyy.baby^
 ||viet69hay.baby^
 ||viet69z.baby^
+||villatogel.baby^
 ||vin7773.baby^
 ||viopoker102.baby^
 ||vip-amp.baby^
@@ -180794,6 +181051,7 @@
 ||yakult.baby^
 ||yangviral.baby^
 ||yo88.baby^
+||yomovieshd.baby^
 ||yoyoarena.baby^
 ||yoyoboss.baby^
 ||yoyocash.baby^
@@ -180868,6 +181126,7 @@
 ||zoro77rtp.baby^
 ||zoslot-88.baby^
 ||zowin.baby^
+||zqlogin-alt.baby^
 ||zqq-zeus.baby^
 ||zqqgacor.baby^
 ||zqqlog.baby^
@@ -183510,7 +183769,9 @@
 ||slotguru88.bar^
 ||m.slotguru88.bar^
 ||slothoki89.bar^
+||slotion.bar^
 ||slotjp.bar^
+||slotjuditerbaik.bar^
 ||slotkub88.bar^
 ||slotmacau-188.bar^
 ||slotmacau188aa.bar^
@@ -183618,6 +183879,7 @@
 ||suster123.bar^
 ||sv388sv-1o.bar^
 ||sv666.bar^
+||svyazi.bar^
 ||sw-fun.bar^
 ||sw303go.bar^
 ||sw303ku.bar^
@@ -183824,6 +184086,7 @@
 ||vio77a.bar^
 ||vio77c.bar^
 ||vio77d.bar^
+||vio77f.bar^
 ||vio88win.bar^
 ||alternatif.vioslot.bar^
 ||daftar.vioslot.bar^
@@ -183987,6 +184250,7 @@
 ||milan69.bellavista.barcelona^
 ||cbweed.barcelona^
 ||guias.barcelona^
+||ssm.barcelona^
 ||123movies.bargains^
 ||asianbet88.bargains^
 ||bca-bank.bargains^
@@ -193021,6 +193285,7 @@
 ||caritribun.beauty^
 ||casaslot.beauty^
 ||casinesia.beauty^
+||manyao.casinocantik.beauty^
 ||casinokometa.beauty^
 ||casinopinko-club.beauty^
 ||casinovodka-club.beauty^
@@ -195340,6 +195605,7 @@
 ||inilgo.beauty^
 ||inirajapoker.beauty^
 ||inplaygacor888.beauty^
+||instansi-amp.beauty^
 ||instantchair88.beauty^
 ||instapastibisa.beauty^
 ||instaslmore.beauty^
@@ -196073,6 +196339,7 @@
 ||kdm88-jp.beauty^
 ||kdm88-tryhard.beauty^
 ||kea88a.beauty^
+||bertahan.kebonrusuh.beauty^
 ||kedai69rtp.beauty^
 ||kedaicasino.beauty^
 ||kedaitrisula88.beauty^
@@ -196265,6 +196532,7 @@
 ||koinzeus388h.beauty^
 ||koinzeus388i.beauty^
 ||koiplay.beauty^
+||koko11-pola.beauty^
 ||koko303-rtp.beauty^
 ||kokobola7.beauty^
 ||kokohoki.beauty^
@@ -199481,6 +199749,7 @@
 ||refhunter.beauty^
 ||regishari88.beauty^
 ||regispremium303.beauty^
+||rekor.beauty^
 ||ren0m268.beauty^
 ||renom268aman2.beauty^
 ||renom268g4ss.beauty^
@@ -200292,6 +200561,7 @@
 ||rtpsgcwin77live.beauty^
 ||rtpsgcwin88.beauty^
 ||rtpsgem2.beauty^
+||rtpsgem5.beauty^
 ||rtpsgp.beauty^
 ||rtpsiagus88.beauty^
 ||rtpsimba69baru.beauty^
@@ -200565,6 +200835,7 @@
 ||scatter.beauty^
 ||scatter333b.beauty^
 ||scatter333ku.beauty^
+||scatter333max.beauty^
 ||scatter333win.beauty^
 ||scatter77.beauty^
 ||scatter77a.beauty^
@@ -201667,6 +201938,7 @@
 ||ton4d.beauty^
 ||tonsberg.beauty^
 ||top111.beauty^
+||top111-2026.beauty^
 ||top111-rtp.beauty^
 ||top111gacor.beauty^
 ||top111livertp.beauty^
@@ -201978,6 +202250,7 @@
 ||us88a.beauty^
 ||us88b.beauty^
 ||usaha-prediksi.beauty^
+||usahampo.beauty^
 ||usahatoto-bukti-jp.beauty^
 ||usahatoto-buktijp.beauty^
 ||usahatoto-live.beauty^
@@ -203008,6 +203281,7 @@
 ||lambo234-rtp.beer^
 ||lancarhoki.beer^
 ||sapa.lapakgacor-cola.beer^
+||mara.lapakgacor-lah.beer^
 ||pusat1.lapakgacor-only.beer^
 ||lapakgacorpuas.beer^
 ||lapakspin.beer^
@@ -204726,6 +205000,7 @@
 ||elang1368goals.best^
 ||elang138.best^
 ||elang138ai.best^
+||elang138fix.best^
 ||elang138max.best^
 ||elang138vip.best^
 ||elang138zeus.best^
@@ -212804,6 +213079,7 @@
 ||akun.bet^
 ||akun77.bet^
 ||akundemo.bet^
+||akunslot.bet^
 ||akuntoto.bet^
 ||akunwso.bet^
 ||akunzenostogel.bet^
@@ -213133,6 +213409,7 @@
 ||anova.bet^
 ||anru33.bet^
 ||ant.bet^
+||antbet88.bet^
 ||antik.bet^
 ||antinawala.bet^
 ||antwin.bet^
@@ -213258,11 +213535,13 @@
 ||areacompany38.bet^
 ||areaslot.bet^
 ||areaslot159.bet^
+||areaspin.bet^
 ||arena12.bet^
 ||arena21.bet^
 ||arena303.bet^
 ||arena333.bet^
 ||arena365.bet^
+||arena369.bet^
 ||arenabet.bet^
 ||arenadafortuna.bet^
 ||arenaesportiva.bet^
@@ -213272,6 +213551,7 @@
 ||arenajoker.bet^
 ||arenak.bet^
 ||arenaplus.bet^
+||arenaslot88.bet^
 ||arenasport.bet^
 ||arenatorreao.bet^
 ||arenavip.bet^
@@ -213380,6 +213660,7 @@
 ||askasino.bet^
 ||askbahis.bet^
 ||askwin888.bet^
+||aslitoto.bet^
 ||asona.bet^
 ||asports.bet^
 ||assawin.bet^
@@ -213478,6 +213759,7 @@
 ||atm68.bet^
 ||atm928.bet^
 ||ato777.bet^
+||atom108.bet^
 ||atom138.bet^
 ||atta4d.bet^
 ||attheraces.bet^
@@ -213978,6 +214260,7 @@
 ||balagoal.bet^
 ||balak7.bet^
 ||balakplay.bet^
+||balakqq.bet^
 ||balaksix.bet^
 ||balaksixgue.bet^
 ||balance777.bet^
@@ -214052,6 +214335,7 @@
 ||banglaplay.bet^
 ||banglawin88.bet^
 ||banglebet.bet^
+||banished.bet^
 ||banjar4d.bet^
 ||banker999.bet^
 ||bankertoto.bet^
@@ -214412,6 +214696,7 @@
 ||bekasibet.bet^
 ||bel777.bet^
 ||belabet.bet^
+||belatoto.bet^
 ||beleza777.bet^
 ||belijitu.bet^
 ||belijitu2.bet^
@@ -215257,6 +215542,7 @@
 ||binkoko.bet^
 ||link01.binkoko.bet^
 ||bintang44.bet^
+||bintang77.bet^
 ||bintangbandar.bet^
 ||dadunation.bintangbandar.bet^
 ||slot138.bintangbandar.bet^
@@ -215559,6 +215845,7 @@
 ||bolapedia.bet^
 ||bolapelangi2.bet^
 ||bolapro.bet^
+||bolasinga.bet^
 ||bolaslot.bet^
 ||bolaslot88.bet^
 ||bolaslot99.bet^
@@ -215906,6 +216193,7 @@
 ||situs.buanabet.bet^
 ||slot.buanabet.bet^
 ||buaya4d.bet^
+||buayawin.bet^
 ||bub777.bet^
 ||bubba777.bet^
 ||wallet.bubble56.bet^
@@ -216382,6 +216670,7 @@
 ||cckkgame.bet^
 ||cclub.bet^
 ||ccn9.bet^
+||ccnnslot.bet^
 ||cctvbokep.bet^
 ||cctvrushhourgame.bet^
 ||cdn77.bet^
@@ -216521,6 +216810,7 @@
 ||chill.bet^
 ||chilli6.bet^
 ||chimp.bet^
+||china788.bet^
 ||chips88.bet^
 ||chipstars.bet^
 ||play.chipstars.bet^
@@ -216550,6 +216840,7 @@
 ||ci789.bet^
 ||ci99.bet^
 ||cianopg.bet^
+||cibet88.bet^
 ||cicijitu.bet^
 ||link1.cicikaya.bet^
 ||link10.cicikaya.bet^
@@ -216585,6 +216876,7 @@
 ||cinaslot.bet^
 ||cinaturbo.bet^
 ||cincinbet.bet^
+||cincinslot.bet^
 ||cingtogel.bet^
 ||cinta69.bet^
 ||cinta99.bet^
@@ -216689,11 +216981,13 @@
 ||cmbet.bet^
 ||cmd365.bet^
 ||cmd368.bet^
+||cmd77.bet^
 ||cms88.bet^
 ||cnc.bet^
 ||cncapp1.bet^
 ||cncbet.bet^
 ||cncrtp.bet^
+||cnd88.bet^
 ||cnnslot.bet^
 ||cnone.bet^
 ||co168.bet^
@@ -216792,6 +217086,7 @@
 ||comfortbet.bet^
 ||compare.bet^
 ||complexo.bet^
+||comtoto.bet^
 ||comunidade.bet^
 ||condor.bet^
 ||conex.bet^
@@ -216820,6 +217115,7 @@
 ||coralspg-br.bet^
 ||cordoba99.bet^
 ||core.bet^
+||corlaslot.bet^
 ||coroa777.bet^
 ||corona777.bet^
 ||coshope.bet^
@@ -216901,6 +217197,7 @@
 ||crowntogel.bet^
 ||crowwin.bet^
 ||crs99.bet^
+||crusader.bet^
 ||cruze.bet^
 ||cruzebet.bet^
 ||cruzeiro777.bet^
@@ -217130,6 +217427,7 @@
 ||decent.bet^
 ||decola.bet^
 ||dede.bet^
+||deditoto.bet^
 ||dedprz.bet^
 ||dee11.bet^
 ||dee33.bet^
@@ -217233,6 +217531,7 @@
 ||dewaslot88.bet^
 ||dewaslot99.bet^
 ||dewasport.bet^
+||dewatogel.bet^
 ||dewaun.bet^
 ||dewavegas.bet^
 ||dewawinbet.bet^
@@ -217353,6 +217652,7 @@
 ||dk7plus.bet^
 ||dk7slot.bet^
 ||dkbet.bet^
+||dkk.bet^
 ||dkvip.bet^
 ||dkwin.bet^
 ||dm.bet^
@@ -217368,6 +217668,7 @@
 ||dnabet.bet^
 ||dnabet99.bet^
 ||dnabet999.bet^
+||dnaslot.bet^
 ||dnatoto.bet^
 ||dndpoker.bet^
 ||dnh.bet^
@@ -217437,6 +217738,7 @@
 ||dot77.bet^
 ||dota.bet^
 ||dota777.bet^
+||dotaslot.bet^
 ||dotatogel.bet^
 ||dotmovies.bet^
 ||double.bet^
@@ -217554,6 +217856,7 @@
 ||duta138.bet^
 ||dutahoki.bet^
 ||dutalotre.bet^
+||dutamovie21.bet^
 ||dv188.bet^
 ||dv360.bet^
 ||dvtoto.bet^
@@ -217562,6 +217865,7 @@
 ||dwcash88.bet^
 ||dwd777.bet^
 ||dwg188.bet^
+||dwg288.bet^
 ||dwgg.bet^
 ||dwi.bet^
 ||dwin68.bet^
@@ -217729,6 +218033,7 @@
 ||em888.bet^
 ||emak.bet^
 ||emakbet.bet^
+||emakqq.bet^
 ||emas.bet^
 ||emas333.bet^
 ||emas78.bet^
@@ -217789,6 +218094,7 @@
 ||era.bet^
 ||era188.bet^
 ||era77.bet^
+||erabet.bet^
 ||eraplay88.bet^
 ||erc20.bet^
 ||erkepg5.bet^
@@ -217810,6 +218116,7 @@
 ||esbobet.bet^
 ||escobar777.bet^
 ||escolapg.bet^
+||ese4d.bet^
 ||esky.bet^
 ||eslot.bet^
 ||esmeralda.bet^
@@ -225604,6 +225911,7 @@
 ||omg77.bet^
 ||omg787.bet^
 ||omg789vip.bet^
+||omg889.bet^
 ||omi777.bet^
 ||omi88.bet^
 ||omi88s.bet^
@@ -225760,6 +226068,7 @@
 ||oscar777bet.bet^
 ||oscar888.bet^
 ||oscar89.bet^
+||oscargm.bet^
 ||oscarslot.bet^
 ||oscartogel.bet^
 ||oscriapg.bet^
@@ -225868,6 +226177,7 @@
 ||play.paizabet.bet^
 ||pajpg.bet^
 ||pak07.bet^
+||pak24.bet^
 ||pak888.bet^
 ||pakamia.bet^
 ||pakdetoto.bet^
@@ -226214,6 +226524,7 @@
 ||pg24play.bet^
 ||pg268.bet^
 ||pg277.bet^
+||pg288.bet^
 ||pg2me.bet^
 ||pg321bet.bet^
 ||pg333.bet^
@@ -226241,6 +226552,7 @@
 ||pg88slot.bet^
 ||pg89.bet^
 ||pg918.bet^
+||pg96.bet^
 ||pg98.bet^
 ||pg9999.bet^
 ||pg999club.bet^
@@ -226272,6 +226584,7 @@
 ||pgc4.bet^
 ||pgcandy.bet^
 ||pgcasino.bet^
+||pgclub.bet^
 ||pgclub77.bet^
 ||pgcolorful.bet^
 ||pgdog.bet^
@@ -226309,6 +226622,7 @@
 ||pgking.bet^
 ||pgking888.bet^
 ||pgl.bet^
+||pglike88.bet^
 ||pglion99.bet^
 ||pglisa888.bet^
 ||pglive99.bet^
@@ -229432,6 +229746,7 @@
 ||slotg2e.bet^
 ||slotgacor.bet^
 ||slotgacor4d.bet^
+||slotgacor77.bet^
 ||slotgacor88.bet^
 ||slotgacor90.bet^
 ||slotgacorhariini.bet^
@@ -232008,6 +232323,7 @@
 ||victory8et.bet^
 ||vid.bet^
 ||vidajogo.bet^
+||videoslot.bet^
 ||vie.bet^
 ||vie777.bet^
 ||viet138.bet^
@@ -238146,6 +238462,7 @@
 ||daisy678.bio^
 ||dalangtoto.bio^
 ||masa.dalgona.bio^
+||dam88.bio^
 ||dame.bio^
 ||dana288.bio^
 ||dana33.bio^
@@ -242032,6 +242349,7 @@
 ||rpvip5.bio^
 ||rr789.bio^
 ||rr88.bio^
+||rr999.bio^
 ||rrr999.bio^
 ||rs20.bio^
 ||rss3.bio^
@@ -242418,6 +242736,7 @@
 ||saku123.bio^
 ||salahkuapa.bio^
 ||salam123link.bio^
+||salam88.bio^
 ||salamjitu.bio^
 ||salamjpa.bio^
 ||salamjt.bio^
@@ -242532,6 +242851,7 @@
 ||selera303z.bio^
 ||selir69.bio^
 ||selir69vip.bio^
+||sell777.bio^
 ||qqnapoli.seller.bio^
 ||slot-demo-gratis.seller.bio^
 ||semangat138vegas.bio^
@@ -242783,8 +243103,10 @@
 ||slot404gbu.bio^
 ||slot404togelhk.bio^
 ||slot45.bio^
+||slot4d.bio^
 ||slot4king.bio^
 ||slot603a.bio^
+||slot69.bio^
 ||slot777.bio^
 ||slot77gg.bio^
 ||slot789pro.bio^
@@ -242817,6 +243139,7 @@
 ||slotdana.bio^
 ||tropicana77.slotdana.bio^
 ||slotdd123.bio^
+||slotdemo.bio^
 ||slotdeposit.bio^
 ||slotdepositpulsa.bio^
 ||slotdia.bio^
@@ -243026,6 +243349,7 @@
 ||super33.bio^
 ||superbet123.bio^
 ||superbet303.bio^
+||superbonus88.bio^
 ||superceme.bio^
 ||supercts88.bio^
 ||supergudanggacor.bio^
@@ -243050,6 +243374,7 @@
 ||surgagacor.bio^
 ||surgalotre.bio^
 ||surgaslot.bio^
+||surgavip.bio^
 ||surya168.bio^
 ||sushi555.bio^
 ||suster123.bio^
@@ -243065,6 +243390,7 @@
 ||svip5.bio^
 ||svip7.bio^
 ||svip8.bio^
+||svip9.bio^
 ||swag789.bio^
 ||maxwin.sweetbonanza.bio^
 ||swertegaming.bio^
@@ -243338,6 +243664,7 @@
 ||toto4d.bio^
 ||toto5000.bio^
 ||toto777.bio^
+||toto80.bio^
 ||toto88slot.bio^
 ||toto9.bio^
 ||toto99.bio^
@@ -243434,6 +243761,7 @@
 ||udin88e.bio^
 ||udin88top.bio^
 ||udin88win.bio^
+||udintogel.bio^
 ||uemaksiau.bio^
 ||ufa-vision.bio^
 ||ufa062.bio^
@@ -243779,6 +244107,7 @@
 ||wyn4d.bio^
 ||wynnmc.bio^
 ||x500slot.bio^
+||x86.bio^
 ||x88vip.bio^
 ||x9d.bio^
 ||xbajie.bio^
@@ -244532,6 +244861,7 @@
 ||1wins.biz^
 ||1winuz.biz^
 ||1x-chile.biz^
+||1xace.biz^
 ||1xacesg.biz^
 ||1xbe.biz^
 ||1xbet-ar.biz^
@@ -245976,6 +246306,7 @@
 ||acetoto888-u.biz^
 ||acetoto888-v.biz^
 ||acetoto888-w.biz^
+||acetoto888-x.biz^
 ||acewin.biz^
 ||acewin88.biz^
 ||acg-jepe.biz^
@@ -251538,6 +251869,7 @@
 ||bandarbetqq.biz^
 ||bandarbetqqid.biz^
 ||bandarbo.biz^
+||akses.bandarbola-resmi.biz^
 ||bandarbola855.biz^
 ||bandarbolaeuro.biz^
 ||bandarbolajalan.biz^
@@ -254337,6 +254669,7 @@
 ||brand-m.biz^
 ||brandcm88.biz^
 ||brandegic.biz^
+||branden.biz^
 ||brandez.biz^
 ||brandi-belle.biz^
 ||brandibelle.biz^
@@ -256183,6 +256516,7 @@
 ||coba66.biz^
 ||cobabet88.biz^
 ||cobabetting.biz^
+||cobajujur69.biz^
 ||cobakiu.biz^
 ||cobamain680.biz^
 ||cobapkv.biz^
@@ -257489,6 +257823,7 @@
 ||davismarine.biz^
 ||davo888.biz^
 ||dax69login.biz^
+||dax69rtp.biz^
 ||dax69yuk.biz^
 ||dax88.biz^
 ||day77.biz^
@@ -257497,6 +257832,7 @@
 ||dayak777.biz^
 ||dayak777selot.biz^
 ||dayang4d.biz^
+||daybydayent.biz^
 ||dayfucker.biz^
 ||dayfuckers.biz^
 ||daywinbet.biz^
@@ -257838,6 +258174,7 @@
 ||dessousshop.biz^
 ||hnsw.destination-christmas.biz^
 ||destinationsplus.biz^
+||kombo99.desuremusic.biz^
 ||desushi.biz^
 ||detik123genk.biz^
 ||detik123halo.biz^
@@ -257885,6 +258222,7 @@
 ||devinedesigns.biz^
 ||devoaja.biz^
 ||ker.devocionaldiario.biz^
+||toto.dew11toto.biz^
 ||dew4vegas1.biz^
 ||dew4vegasfun.biz^
 ||dew4vetoto.biz^
@@ -272575,6 +272913,7 @@
 ||lobi777official.biz^
 ||lobo888.biz^
 ||loc79.biz^
+||utama-jaya.locationshoursnearme.biz^
 ||lockdownbet.biz^
 ||locksmithsnearme.biz^
 ||loda369.biz^
@@ -278576,6 +278915,7 @@
 ||omg369sbo.biz^
 ||omg369win.biz^
 ||omg88.biz^
+||omgslot888.biz^
 ||omi777.biz^
 ||omi88.biz^
 ||omi88bet.biz^
@@ -287526,6 +287866,7 @@
 ||opus777d.biz^
 ||opuspkr.biz^
 ||opuspoker.biz^
+||ora2u.biz^
 ||ora4d.biz^
 ||ora923-login.biz^
 ||ora923pro.biz^
@@ -287541,6 +287882,7 @@
 ||orava.biz^
 ||orbit88.biz^
 ||orbitqq.biz^
+||orca98.biz^
 ||order4d.biz^
 ||order4dluv.biz^
 ||orderpay.biz^
@@ -287706,6 +288048,7 @@
 ||oxbet.biz^
 ||dewa505.oxbet.biz^
 ||oxbetfun.biz^
+||oxford888.biz^
 ||oxgroup.biz^
 ||oxl88.biz^
 ||oxl88rtpku.biz^
@@ -288611,6 +288954,7 @@
 ||payung57.biz^
 ||payung57vip.biz^
 ||payung88.biz^
+||paywin168.biz^
 ||pazintys.biz^
 ||pb-score.biz^
 ||pb88.biz^
@@ -289102,6 +289446,7 @@
 ||pgbetin.biz^
 ||pgc789.biz^
 ||pgcash88.biz^
+||pgclub99.biz^
 ||pgdewatagcr.biz^
 ||pgdog.biz^
 ||pgfans888.biz^
@@ -289110,6 +289455,7 @@
 ||pgheng99.biz^
 ||pghub66.biz^
 ||pgistimewa.biz^
+||pgking.biz^
 ||pgktv168.biz^
 ||pgkub365.biz^
 ||pglemacau.biz^
@@ -289124,6 +289470,7 @@
 ||pgplus99.biz^
 ||pgrajagacor.biz^
 ||pgraphics.biz^
+||pgruay88.biz^
 ||pgs168.biz^
 ||pgsgame.biz^
 ||pgslot.biz^
@@ -291310,6 +291657,7 @@
 ||pororoabadi.biz^
 ||pororoslot.biz^
 ||poros77.biz^
+||storeporos.poros77basis.biz^
 ||porrfilmer.biz^
 ||fa.porrfilmer.biz^
 ||hi.porrfilmer.biz^
@@ -294154,6 +294502,7 @@
 ||rtpbidadari29.biz^
 ||rtpbidangtogel.biz^
 ||rtpbigdewa.biz^
+||max.rtpbighoki.biz^
 ||rtpbigwin138.biz^
 ||rtpbinjaiterbaik.biz^
 ||rtpbinjaitoto.biz^
@@ -297704,6 +298053,7 @@
 ||seoanalyzer.biz^
 ||seocafe.biz^
 ||seoforums.biz^
+||seofreelance.biz^
 ||seoklikbets.biz^
 ||seopiter.biz^
 ||seoplink.biz^
@@ -298783,6 +299133,7 @@
 ||simasbolaloginsitusslotgacor.biz^
 ||simasku2025.biz^
 ||simba69.biz^
+||simba69hub.biz^
 ||simba69max.biz^
 ||simba69play.biz^
 ||simba69rtp.biz^
@@ -298838,6 +299189,7 @@
 ||tv8.sinemaxxi.biz^
 ||sinfullesbian.biz^
 ||singa138.biz^
+||singa189.biz^
 ||singa365.biz^
 ||singa4d.biz^
 ||singa77aman.biz^
@@ -324668,6 +325020,7 @@
 ||virgo123.biz^
 ||virgo4d.biz^
 ||virgobet88.biz^
+||virilitypillsvprx.biz^
 ||virtua-team.biz^
 ||virtuagirl.biz^
 ||virtualbet88.biz^
@@ -328760,6 +329113,7 @@
 ||agen77g.blog^
 ||agen77top.blog^
 ||agen8.blog^
+||bonus-murah.agen89.blog^
 ||agen99.blog^
 ||agenallototo.blog^
 ||agenasia888.blog^
@@ -328838,6 +329192,7 @@
 ||akaislot.blog^
 ||akaislotgame.blog^
 ||akaislotvip.blog^
+||akang69.blog^
 ||akaslot77.blog^
 ||akb88.blog^
 ||akbet25.blog^
@@ -328936,6 +329291,7 @@
 ||allototo7.blog^
 ||allototo8.blog^
 ||allototo9.blog^
+||allthingsdarkanddirty.blog^
 ||almyra.blog^
 ||alo88.blog^
 ||aloha4d.blog^
@@ -329008,6 +329364,7 @@
 ||link9.amdbet-f.blog^
 ||amdbet-link.blog^
 ||amdbet-situs-terpercaya.blog^
+||ameliediackauteure.blog^
 ||amergg.blog^
 ||amortoto.blog^
 ||amp-best-dnatoto.blog^
@@ -330153,6 +330510,7 @@
 ||batman88.blog^
 ||m.batman88.blog^
 ||batmanindonesia.blog^
+||batmantoto.blog^
 ||batuagung.blog^
 ||bayar--77.blog^
 ||bayar-77.blog^
@@ -330221,6 +330579,7 @@
 ||becekwinku.blog^
 ||becekwinptr.blog^
 ||becekwinreal.blog^
+||becekwinskd.blog^
 ||becekwinurl.blog^
 ||becomingaprogrammer.blog^
 ||bedavabahis.blog^
@@ -330239,6 +330598,7 @@
 ||belibagus.blog^
 ||belimbing.blog^
 ||belutsawah.blog^
+||bendera138.blog^
 ||bendera138d.blog^
 ||benderaslot.blog^
 ||bengalbet.blog^
@@ -330721,6 +331081,7 @@
 ||brasilhentai.blog^
 ||bravo88s.blog^
 ||bravotogel.blog^
+||brewoktoto.blog^
 ||bricks.blog^
 ||brilliantks.blog^
 ||brillxcazino.blog^
@@ -331500,6 +331861,7 @@
 ||d999.blog^
 ||daavli.blog^
 ||dada24.blog^
+||dadar88.blog^
 ||daddy-casino-official.blog^
 ||dadu5000.blog^
 ||dadu55.blog^
@@ -331855,6 +332217,7 @@
 ||dewaasia88.blog^
 ||dewabalak66.blog^
 ||dewabet.blog^
+||dewabetasia.blog^
 ||dewabos138.blog^
 ||dewacash.blog^
 ||dewacasino168.blog^
@@ -332152,6 +332515,7 @@
 ||eceran367.blog^
 ||edc789.blog^
 ||edeamicis.edeamicis.blog^
+||edelstenen.blog^
 ||platform.editoto-indonesia.blog^
 ||amp-e.editotosaga-asia.blog^
 ||edmtogel.blog^
@@ -332550,6 +332914,7 @@
 ||flamngoo.blog^
 ||flash168.blog^
 ||flexiblelovers.blog^
+||floatingideas.blog^
 ||flokitotoasli.blog^
 ||flokitotopaten.blog^
 ||flowin77.blog^
@@ -335692,6 +336057,7 @@
 ||infobet.blog^
 ||infobola.blog^
 ||infocash4d.blog^
+||amp.infohousetips.blog^
 ||infokerengede.blog^
 ||bantuan-budidayak1.infoku.blog^
 ||infonaga26.blog^
@@ -340476,6 +340842,7 @@
 ||rtp.monaco138.blog^
 ||monaco138login.blog^
 ||monas4d.blog^
+||angelsenglish.monas77pung.blog^
 ||monas99.blog^
 ||monas99new.blog^
 ||monas99play.blog^
@@ -341183,6 +341550,8 @@
 ||omega89att.blog^
 ||omg138.blog^
 ||omg138-amp.blog^
+||omg369ace.blog^
+||omg555.blog^
 ||omo777.blog^
 ||ompgntu.blog^
 ||ompgrcg.blog^
@@ -341253,6 +341622,7 @@
 ||kado77com.otomotif.blog^
 ||madu777com.otomotif.blog^
 ||ottmaza.blog^
+||ottonew.blog^
 ||otw78.blog^
 ||otwasianwin88.blog^
 ||otwslot77.blog^
@@ -341565,15 +341935,19 @@
 ||petualanganhebat.blog^
 ||pez338.blog^
 ||pg168.blog^
+||pga68.blog^
 ||pga77link.blog^
 ||pga77login.blog^
 ||pga77logn.blog^
 ||pga77main.blog^
 ||pgatoto.blog^
+||pgauto89.blog^
 ||pgbet.blog^
 ||pgbetflik.blog^
 ||pghoki.blog^
 ||pghokican.blog^
+||pglucky88.blog^
+||pgrichz.blog^
 ||pgslot.blog^
 ||pgsoftasia128.blog^
 ||ph888.blog^
@@ -342161,6 +342535,7 @@
 ||pundi68rtpgacor.blog^
 ||pung98.blog^
 ||puntenslur.blog^
+||amp.purislot-smoke.blog^
 ||how.purislotnews.blog^
 ||pusaka.blog^
 ||pusaka99resmi.blog^
@@ -342492,6 +342867,7 @@
 ||rg777.blog^
 ||rhc4tp.blog^
 ||rhdtube.blog^
+||amp.ridefaboard.blog^
 ||rigen4d.blog^
 ||rileyreid.blog^
 ||rindabola.blog^
@@ -351898,6 +352274,7 @@
 ||kiupkvid.boats^
 ||kiupkvqq.boats^
 ||kjgroup.boats^
+||kkslot777.boats^
 ||klik.boats^
 ||klik-rtprun113.boats^
 ||klik988slot.boats^
@@ -352656,6 +353033,7 @@
 ||mamen123rtp.boats^
 ||mamen4d.boats^
 ||mamijudi.boats^
+||man88.boats^
 ||manaplay.boats^
 ||mandalika4d.boats^
 ||mangb0lehsegacoritu.boats^
@@ -352701,6 +353079,8 @@
 ||marijp107.boats^
 ||marijp188.boats^
 ||marina4d-apk.boats^
+||mariototo.boats^
+||martabak-188.boats^
 ||martabak188.boats^
 ||martoto.boats^
 ||mas4d.boats^
@@ -353378,6 +353758,7 @@
 ||okepphokizona.boats^
 ||okevisabet88zona.boats^
 ||okking.boats^
+||okp.boats^
 ||okresmi.boats^
 ||okvipp.boats^
 ||olb88.boats^
@@ -353826,8 +354207,10 @@
 ||pgslot.boats^
 ||pgsoft1000.boats^
 ||ph222.boats^
+||ph777.boats^
 ||phevkl.boats^
 ||phimsex.boats^
+||phjoin.boats^
 ||phl-jitu.boats^
 ||phl-juli.boats^
 ||phljitu.boats^
@@ -353889,6 +354272,7 @@
 ||pjs168.boats^
 ||pjs168-1.boats^
 ||pjslot168-1.boats^
+||pk7.boats^
 ||pkltogel.boats^
 ||pkltoto.boats^
 ||pkltoto1.boats^
@@ -356324,6 +356708,7 @@
 ||tokomumer.boats^
 ||tokoonline.boats^
 ||tokpedslot88.boats^
+||tokyo77.boats^
 ||tokyo88.boats^
 ||tokyo88gacor.boats^
 ||tokyo88slot.boats^
@@ -356739,6 +357124,7 @@
 ||vsb9.boats^
 ||vsbrtp1.boats^
 ||vsbrtp2.boats^
+||vu88.boats^
 ||vvipbalaptoto.boats^
 ||vvipmuara.boats^
 ||vvipstirtoto.boats^
@@ -358586,6 +358972,7 @@
 ||barudak4d.bond^
 ||barudak4d-cuan.bond^
 ||barudakwell.bond^
+||merubahsegalanya.barudakwin.bond^
 ||barz4.bond^
 ||bass99gowin.bond^
 ||bass99max.bond^
@@ -358747,6 +359134,7 @@
 ||bethard3.bond^
 ||bethard5.bond^
 ||betibet2.bond^
+||betingslot.bond^
 ||betiton4.bond^
 ||betjili.bond^
 ||betliga138.bond^
@@ -358983,6 +359371,7 @@
 ||blackgirlsxxx.bond^
 ||blackpornmovies.bond^
 ||xxx.blackpornmovies.bond^
+||tengah.blanketengine.bond^
 ||blesspolajitu.bond^
 ||blizz1.bond^
 ||blizz4.bond^
@@ -359842,6 +360231,7 @@
 ||cupidwin.bond^
 ||cupidwinvip.bond^
 ||cuspoker.bond^
+||cv777.bond^
 ||cwin05.bond^
 ||cwin05com.bond^
 ||cwin05s.bond^
@@ -361975,6 +362365,7 @@
 ||wap.ipvids.bond^
 ||xxx.ipvids.bond^
 ||iramagacor.bond^
+||young.iranettekal.bond^
 ||irwin-casino.bond^
 ||is99.bond^
 ||is99b.bond^
@@ -363462,9 +363853,11 @@
 ||lovetribun138.bond^
 ||lowonganjackpot.bond^
 ||loyalbet3.bond^
+||loyalslots5.bond^
 ||lpo88.bond^
 ||lpo88-rtpmaxwin.bond^
 ||lsbet4.bond^
+||lsbet5.bond^
 ||xn--860a.lspcm.bond^
 ||xn--rv2a.lspcm.bond^
 ||lt88slot.bond^
@@ -363723,6 +364116,7 @@
 ||manaplay.bond^
 ||mandalika4d.bond^
 ||mandiuang.bond^
+||manekispin.bond^
 ||mangaysex.bond^
 ||mania24hours.bond^
 ||maniakbet69.bond^
@@ -365176,6 +365570,7 @@
 ||petirterus.bond^
 ||petirx1000.bond^
 ||pg66.bond^
+||pg789.bond^
 ||pga77.bond^
 ||pga77bermain.bond^
 ||pga77daftar.bond^
@@ -365335,6 +365730,7 @@
 ||playfortuna2.bond^
 ||playfortuna3.bond^
 ||playgrand4.bond^
+||playgrand5.bond^
 ||playhuat.bond^
 ||playjonnycasino.bond^
 ||playkuda77.bond^
@@ -365345,6 +365741,7 @@
 ||playslots88jp.bond^
 ||playwithkemon.bond^
 ||playxxxvideos.bond^
+||plazaroyal5.bond^
 ||plinko-game.bond^
 ||plispan.bond^
 ||pln88.bond^
@@ -365815,6 +366212,7 @@
 ||qrissetiajitu77.bond^
 ||queen33.bond^
 ||queenbeebingo2.bond^
+||quidslots5.bond^
 ||quietmatureporn.bond^
 ||wap.quietmatureporn.bond^
 ||quinpandajago.bond^
@@ -366112,6 +366510,7 @@
 ||royaleboss-vip.bond^
 ||royaleinfinity-vip.bond^
 ||royalgacor.bond^
+||royalhouse3.bond^
 ||is.royalistplay1.bond^
 ||royalpoker88.bond^
 ||royalslots4.bond^
@@ -367429,6 +367828,7 @@
 ||sonitoto4.bond^
 ||sonitotog.bond^
 ||sonitotoin.bond^
+||sonsofslots4.bond^
 ||sorongtoto.bond^
 ||sorongtoto1.bond^
 ||sorongtotoe.bond^
@@ -367460,14 +367860,17 @@
 ||spinbolaunited.bond^
 ||spinbookie3.bond^
 ||spinharta.bond^
+||spinhill5.bond^
 ||spinit2.bond^
 ||spinland2.bond^
+||spinland4.bond^
 ||spinnerday.bond^
 ||spinoverse3.bond^
 ||spinqqemas.bond^
 ||spinson3.bond^
 ||spinstation2.bond^
 ||spintop88wheel.bond^
+||spinwinera.bond^
 ||splaymain.bond^
 ||sponge88.bond^
 ||sport388.bond^
@@ -367515,6 +367918,7 @@
 ||stake88.bond^
 ||pusat.stake88king.bond^
 ||stake88win.bond^
+||stakezon4.bond^
 ||starhuat.bond^
 ||starlinkbet88.bond^
 ||starph.bond^
@@ -367657,6 +368061,7 @@
 ||supergading.bond^
 ||ymps5.supergading.bond^
 ||ymps6.supergading.bond^
+||supergame4.bond^
 ||superhoki89.bond^
 ||superjoice.bond^
 ||superlays.bond^
@@ -368482,6 +368887,7 @@
 ||vegas77.bond^
 ||vegas77gacor.bond^
 ||vegas88zonamain.bond^
+||vegashero.bond^
 ||vegashero3.bond^
 ||vegashoki88.bond^
 ||vegasslotsbocoranrtp.bond^
@@ -370768,6 +371174,7 @@
 ||cannadicin.com.br^
 ||cantodeofertas.com.br^
 ||loja.cantorina.com.br^
+||hom-dashboard.caoguiarobo.com.br^
 ||caparaomusic.com.br^
 ||painel.capitaldepremios.com.br^
 ||capitalsexy.com.br^
@@ -371421,6 +371828,7 @@
 ||goldenamanda.com.br^
 ||goldenpokerclub.com.br^
 ||gomesdacruz.com.br^
+||gondolaspantanal.com.br^
 ||googlegatas.com.br^
 ||gostaspoucogostas.com.br^
 ||gostosanovinha.com.br^
@@ -376902,6 +377310,7 @@
 ||7spinpisang.buzz^
 ||7up.buzz^
 ||7video.buzz^
+||7win.buzz^
 ||1189-sws.7wj.buzz^
 ||1190-sws.7wj.buzz^
 ||1191-sws.7wj.buzz^
@@ -377632,6 +378041,7 @@
 ||coh51ji.aayh13.buzz^
 ||aazaixian15.buzz^
 ||aazaixian5.buzz^
+||ab88.buzz^
 ||abadi777.buzz^
 ||abadi777-rtp.buzz^
 ||abadi777-vip1.buzz^
@@ -377707,6 +378117,7 @@
 ||adultindustry.buzz^
 ||adultreels.buzz^
 ||adultsinfo.buzz^
+||ae777.buzz^
 ||ae86.buzz^
 ||ae88.buzz^
 ||ae888.buzz^
@@ -378660,6 +379071,7 @@
 ||asupanviral.buzz^
 ||asx0.buzz^
 ||at159.buzz^
+||atapbocor.buzz^
 ||atcholdings.buzz^
 ||atg88asli.buzz^
 ||atg88go.buzz^
@@ -379430,6 +379842,7 @@
 ||bacolviral.buzz^
 ||badak1780jp-jp.buzz^
 ||badak1788mty.buzz^
+||badak178fat.buzz^
 ||badak178fh.buzz^
 ||badak178pit.buzz^
 ||badak178pp.buzz^
@@ -379667,6 +380080,7 @@
 ||bb-kuda-77.buzz^
 ||bb36.buzz^
 ||bb44.buzz^
+||bb66.buzz^
 ||bb789.buzz^
 ||bbadnbltcpnebho.buzz^
 ||bbchuhz.buzz^
@@ -379801,6 +380215,7 @@
 ||m5n6o7p8.bdrq55.buzz^
 ||bdsmtubegalor.buzz^
 ||bdt222.buzz^
+||be88.buzz^
 ||be99.buzz^
 ||bearjl.buzz^
 ||bearwin99.buzz^
@@ -380127,6 +380542,7 @@
 ||bewokwin.buzz^
 ||bf289.buzz^
 ||bf56wn6rrda.buzz^
+||bg99.buzz^
 ||bgame888.buzz^
 ||bgd33.buzz^
 ||bgd55.buzz^
@@ -381360,6 +381776,7 @@
 ||bm10.buzz^
 ||bm12.buzz^
 ||bm15.buzz^
+||bm8.buzz^
 ||bmw-pencetwin.buzz^
 ||bmw4d.buzz^
 ||bmw777like.buzz^
@@ -384735,6 +385152,7 @@
 ||f7rmrka.buzz^
 ||f99.buzz^
 ||aejdfg.f9k3w7hx.buzz^
+||fabiana.buzz^
 ||fabiano.fabiana.buzz^
 ||fabiofa.buzz^
 ||fachai.buzz^
@@ -394441,6 +394859,7 @@
 ||lokasi4d.buzz^
 ||lokelcloud.buzz^
 ||loki99rtp-id.buzz^
+||lolajack.buzz^
 ||lolcam.buzz^
 ||4gv2t88w.lolicnhbell.buzz^
 ||ustbt8v2.lolicnhees.buzz^
@@ -395162,6 +395581,7 @@
 ||lukwin88.buzz^
 ||dytxmqigl64lpcuxwqx.lula1.buzz^
 ||hzyuxrpwpwqknvipz.lula1.buzz^
+||lulabet.buzz^
 ||lulapp01.buzz^
 ||lulem006.buzz^
 ||lulemenoru.buzz^
@@ -395629,6 +396049,7 @@
 ||xn--l7z.lzytv.buzz^
 ||xn--q5u.lzytv.buzz^
 ||xn--yor.lzytv.buzz^
+||m12.buzz^
 ||m3.buzz^
 ||7eb4pq6v.m4z7k6rp.buzz^
 ||akar.m69.buzz^
@@ -396659,6 +397080,8 @@
 ||megawin888.buzz^
 ||megawin88sepuh.buzz^
 ||megaxxxx.buzz^
+||meheng365.buzz^
+||meheng999.buzz^
 ||mehentai.buzz^
 ||meier.buzz^
 ||11.meiguihy3.buzz^
@@ -397032,6 +397455,7 @@
 ||511185.mfvxx103.buzz^
 ||ocfqjn.mfvxx103.buzz^
 ||wppooo985.mfxhh.buzz^
+||analisis.mg108.buzz^
 ||mg38bet.buzz^
 ||mg38bro.buzz^
 ||mg38drycare.buzz^
@@ -397042,6 +397466,7 @@
 ||mga38nice.buzz^
 ||mglion.buzz^
 ||mgm88.buzz^
+||mgm9.buzz^
 ||mgmvegas.buzz^
 ||mgr789.buzz^
 ||mgwcn11.buzz^
@@ -397149,6 +397574,7 @@
 ||minumcuy.buzz^
 ||minumcuy1.buzz^
 ||minyaktoto.buzz^
+||mio555.buzz^
 ||mioneplay.buzz^
 ||miowin98.buzz^
 ||7y7x.miseav.buzz^
@@ -397564,6 +397990,7 @@
 ||iy91.mspdav.buzz^
 ||mz6e.mspdav.buzz^
 ||mspin88.buzz^
+||mst88.buzz^
 ||msx911.buzz^
 ||mt123.buzz^
 ||mtao.buzz^
@@ -399098,6 +399525,7 @@
 ||newsindonesia.buzz^
 ||newvegas99.buzz^
 ||newvegas99win.buzz^
+||nex191.buzz^
 ||nexia789.buzz^
 ||next789.buzz^
 ||nextcasino.buzz^
@@ -399114,6 +399542,7 @@
 ||ngeslot8.buzz^
 ||ngeslot9.buzz^
 ||ngeslotid.buzz^
+||ngjulho.buzz^
 ||ngk99.buzz^
 ||nianbaisi8.buzz^
 ||nice1530.buzz^
@@ -399231,6 +399660,7 @@
 ||nocan77.buzz^
 ||nocan888.buzz^
 ||nocan99.buzz^
+||nokheng789.buzz^
 ||nokia111.buzz^
 ||nokia138.buzz^
 ||nolzi.buzz^
@@ -399271,6 +399701,7 @@
 ||nossaaposta.buzz^
 ||nosta88.buzz^
 ||nostr.buzz^
+||nova289.buzz^
 ||nova852.buzz^
 ||novaporn.buzz^
 ||liar.nowbsaono.buzz^
@@ -399513,6 +399944,7 @@
 ||oknegeri4d.buzz^
 ||okresmi.buzz^
 ||okta388-rtp1.buzz^
+||okthai88.buzz^
 ||amp.okto88.buzz^
 ||game.okto88.buzz^
 ||oktogel.buzz^
@@ -399732,6 +400164,7 @@
 ||54kb6p.otakuhira.buzz^
 ||2t861k6p.otakuhoin.buzz^
 ||otong.buzz^
+||otp55.buzz^
 ||otw78.buzz^
 ||outsbo.buzz^
 ||ovabetasikwd.buzz^
@@ -400234,6 +400667,7 @@
 ||pepe88rtp.buzz^
 ||peppermill.buzz^
 ||pepperpot.buzz^
+||pepsi123.buzz^
 ||perahubaja.buzz^
 ||perantarahalte66.buzz^
 ||peraplay.buzz^
@@ -400312,7 +400746,10 @@
 ||petualangceria.buzz^
 ||pg-slot.buzz^
 ||pg18hoki.buzz^
+||pg333.buzz^
+||pg3333.buzz^
 ||pg688z.buzz^
+||pg789.buzz^
 ||pg88.buzz^
 ||pg888th.buzz^
 ||pg88official.buzz^
@@ -400334,10 +400771,15 @@
 ||pgc789.buzz^
 ||pgchang.buzz^
 ||pgdee88.buzz^
+||pgeiei.buzz^
+||pgforyou.buzz^
 ||pgi188.buzz^
 ||pgjoker.buzz^
+||pgk45.buzz^
 ||agen.pgking.buzz^
+||pgls.buzz^
 ||pglucky88.buzz^
+||pgsgame.buzz^
 ||pgslot.buzz^
 ||pgslot99.buzz^
 ||pgslotth.buzz^
@@ -400781,6 +401223,7 @@
 ||polakocok.buzz^
 ||rtp1.polalayak.buzz^
 ||polamahjong.buzz^
+||polamegagroup.buzz^
 ||polamenang.buzz^
 ||polapermainan.buzz^
 ||polapetirkami.buzz^
@@ -401359,6 +401802,7 @@
 ||presidenwin88vip.buzz^
 ||prettyslots.buzz^
 ||prgmasl.buzz^
+||prim168.buzz^
 ||prima123.buzz^
 ||prima789.buzz^
 ||primecasino.buzz^
@@ -401573,6 +402017,7 @@
 ||qiezionline.buzz^
 ||qiezionline10.buzz^
 ||qiezionline15.buzz^
+||qiggtphm.buzz^
 ||1nzqbaxtcm.qimen52tw.buzz^
 ||gk4jqn.qimen52tw.buzz^
 ||x1862e23f5.qimen52tw.buzz^
@@ -401725,6 +402170,7 @@
 ||s02.qujingr.buzz^
 ||sswa.qujingr.buzz^
 ||quxodue1.buzz^
+||quznntml.buzz^
 ||qwzxhl.buzz^
 ||qwzxhl1.buzz^
 ||qwzxhl2.buzz^
@@ -402025,9 +402471,11 @@
 ||rdxg.buzz^
 ||rdxg2.buzz^
 ||rdxg25.buzz^
+||re777.buzz^
 ||realagenjitu.buzz^
 ||realbetcuan.buzz^
 ||realneo38.buzz^
+||realpragmatic88.buzz^
 ||realstockinfoa.buzz^
 ||realstockinfog.buzz^
 ||rebahin.buzz^
@@ -402141,6 +402589,7 @@
 ||riobet-vhod10.buzz^
 ||riobet0484.buzz^
 ||riobet1443.buzz^
+||riobet1869.buzz^
 ||riobet2610.buzz^
 ||riobet6372.buzz^
 ||riobet7164.buzz^
@@ -404304,6 +404753,7 @@
 ||aaae8t6.seven-huang.buzz^
 ||uuue8t6.seven-huang.buzz^
 ||seven4d.buzz^
+||sever-100amp.buzz^
 ||sewamobiljogya.buzz^
 ||swk.sewuk.buzz^
 ||sex-hubs.buzz^
@@ -404801,6 +405251,7 @@
 ||situfangxxx.buzz^
 ||situs-angkasa338.buzz^
 ||situs-king88.buzz^
+||situs-super88.buzz^
 ||situs-wa88.buzz^
 ||situs7evenluck.buzz^
 ||situs89.buzz^
@@ -404813,6 +405264,7 @@
 ||situsdewasloto.buzz^
 ||situsgacor88.buzz^
 ||situsgcr88.buzz^
+||situsgurulotto.buzz^
 ||situsjitu77.buzz^
 ||situskoin68.buzz^
 ||situsmantapnih.buzz^
@@ -406342,6 +406794,7 @@
 ||sumurtotoaja.buzz^
 ||sumurtotoini.buzz^
 ||sun303.buzz^
+||sun777.buzz^
 ||suneo138.buzz^
 ||suneoganteng.buzz^
 ||destiny.sungaiberkah.buzz^
@@ -406564,6 +407017,7 @@
 ||1x5st0a5a5.swaghot-dog.buzz^
 ||w55st02vt0.swaghot-dog.buzz^
 ||6rt0a51n.swaghot-tea.buzz^
+||swanjl.buzz^
 ||swankybingo.buzz^
 ||489154.swav001.buzz^
 ||728594.swav001.buzz^
@@ -408293,6 +408747,7 @@
 ||4742ghn2.tjs98.buzz^
 ||tk688.buzz^
 ||tk88.buzz^
+||tk99.buzz^
 ||tkb365.buzz^
 ||tkb38.buzz^
 ||tkn.buzz^
@@ -408706,6 +409161,7 @@
 ||tzyy.buzz^
 ||tzz122.buzz^
 ||u2x4j9.buzz^
+||u777.buzz^
 ||u888b.buzz^
 ||uang55max.buzz^
 ||uangcuan.buzz^
@@ -408725,6 +409181,7 @@
 ||ubgamingslot.buzz^
 ||ubur168.buzz^
 ||uc7pokerdom.buzz^
+||ucfymh.buzz^
 ||ucokjaya.buzz^
 ||ucokmania.buzz^
 ||ucokslotyii.buzz^
@@ -409133,6 +409590,7 @@
 ||vbcash88resmi.buzz^
 ||vbet77.buzz^
 ||vbmitaotunha.buzz^
+||vbxzrdk.buzz^
 ||vcaxxuesyuj.buzz^
 ||vchbcxxse01.buzz^
 ||vdchuzjssp1.buzz^
@@ -409415,6 +409873,7 @@
 ||wakandaplay.buzz^
 ||wakandaslot.buzz^
 ||waktu777ads1.buzz^
+||waktu777ads11.buzz^
 ||waktu777ads2.buzz^
 ||waktu777ads3.buzz^
 ||waktu777ads4.buzz^
@@ -410415,6 +410874,7 @@
 ||xum.wmrsxx.buzz^
 ||wmynzcejm.buzz^
 ||wmysora.buzz^
+||woc44my.buzz^
 ||wolfjl.buzz^
 ||wolutoto.buzz^
 ||wongkito4d.buzz^
@@ -410517,6 +410977,7 @@
 ||wuyewenxue.buzz^
 ||qew.wwny3.buzz^
 ||wwsn78.buzz^
+||wwvip88.buzz^
 ||wwwcuanikankoi66.buzz^
 ||wwwno41.buzz^
 ||wwwno8.buzz^
@@ -410653,6 +411114,7 @@
 ||xdl.buzz^
 ||xdt1.buzz^
 ||xdtrko.buzz^
+||xelvoni.buzz^
 ||xemmv.buzz^
 ||phim.xemsexnhat.buzz^
 ||xf10.buzz^
@@ -413466,6 +413928,7 @@
 ||z2hgwlqljzm0ay3vbkotx.buzz^
 ||z4s7w0u.buzz^
 ||z5y9e2.buzz^
+||z666.buzz^
 ||z6x4e2h.buzz^
 ||z8y0e7.buzz^
 ||z9slot.buzz^
@@ -424783,6 +425246,7 @@
 ||cliniquekimperron.ca^
 ||cloud9kids.ca^
 ||cloudsway.ca^
+||clovercostudio.ca^
 ||cloverdalefarm.ca^
 ||cloverwood.ca^
 ||clseq.ca^
@@ -424794,6 +425258,7 @@
 ||clubrsx.ca^
 ||portaldemofull.clubrunner.ca^
 ||clubseventeen.ca^
+||clumeq.ca^
 ||cman.ca^
 ||cmarshall.ca^
 ||cmtacademy.ca^
@@ -500979,6 +501444,7 @@
 ||nikecanadashoesshop.ca^
 ||nikeoutlets.ca^
 ||nikhi.ca^
+||nikosrestaurant.ca^
 ||ninjacloak.ca^
 ||ninjaslot.ca^
 ||shop.nipponsake.ca^
@@ -568057,6 +568523,7 @@
 ||asialive.cam^
 ||asialive88.cam^
 ||asialive88akseszona.cam^
+||asiampo.cam^
 ||asian.cam^
 ||asian303.cam^
 ||asianbeautyfuck.cam^
@@ -568088,6 +568555,7 @@
 ||asianyouporn.cam^
 ||asiaporn.cam^
 ||asiaroyal88.cam^
+||kendala.asiatogel88.cam^
 ||keren.asiatogel88.cam^
 ||asiawin189.cam^
 ||asiktogelku.cam^
@@ -568104,6 +568572,7 @@
 ||id.astonbet.cam^
 ||astonwin.cam^
 ||astra77.cam^
+||astreabet.cam^
 ||asu138.cam^
 ||atlas98.cam^
 ||atlas98s.cam^
@@ -568393,6 +568862,7 @@
 ||bearporn.cam^
 ||bearsporn.cam^
 ||beartwink-xxx.cam^
+||beb4d.cam^
 ||bebas888com.cam^
 ||bebasindo.cam^
 ||bebek66-gacor.cam^
@@ -568692,11 +569162,13 @@
 ||bola88.cam^
 ||bola88fun.cam^
 ||bola88ku.cam^
+||bola88pro.cam^
 ||bola88sport.cam^
 ||bolabosku.cam^
 ||bolaemas99.cam^
 ||bolaft.cam^
 ||bolagolbos.cam^
+||bolahits.cam^
 ||bolajaya2.cam^
 ||agen01.bolajaya2.cam^
 ||agen02.bolajaya2.cam^
@@ -568846,6 +569318,7 @@
 ||bukitmenangmulia77.cam^
 ||bukitmpo.cam^
 ||bukkaketube.cam^
+||bukti4.cam^
 ||buktikemenangan.cam^
 ||real.buktimaxwinyumetoto.cam^
 ||buktinya01.cam^
@@ -569066,6 +569539,7 @@
 ||city99.cam^
 ||ck444.cam^
 ||ck51.cam^
+||ck789.cam^
 ||ck9.cam^
 ||ck999.cam^
 ||ckbet.cam^
@@ -569335,6 +569809,7 @@
 ||dirumahada.cam^
 ||djarumgacor.cam^
 ||djarumtoto.cam^
+||dorelune.djerkhet.cam^
 ||djkasino.cam^
 ||djtogel.cam^
 ||dk11game.cam^
@@ -569406,6 +569881,7 @@
 ||dramakutv1.cam^
 ||dramaqu.cam^
 ||drbokep.cam^
+||anga.drodrolagi.cam^
 ||dropmms.cam^
 ||drtuber.cam^
 ||dryhouse.cam^
@@ -579429,6 +579905,7 @@
 ||spbobet.cash^
 ||spinbetter.cash^
 ||spincash88.cash^
+||spincity.cash^
 ||spinwin.cash^
 ||ss777.cash^
 ||st66.cash^
@@ -579524,6 +580001,7 @@
 ||wifislot88.cash^
 ||win11bet.cash^
 ||win303.cash^
+||win33.cash^
 ||win79.cash^
 ||wincash99.cash^
 ||wingslots77.cash^
@@ -579534,6 +580012,7 @@
 ||wstar77.cash^
 ||wtobet8.cash^
 ||wtosport.cash^
+||wwbet.cash^
 ||x1000.cash^
 ||xn--bnus-vqa.cash^
 ||xnxx.cash^
@@ -584617,6 +585096,7 @@
 ||aagmaal.cat^
 ||abelift.cat^
 ||sakti123.afes.cat^
+||agoraaltasegarra.cat^
 ||portaaporta.ajsolsona.cat^
 ||alesnostresmans.cat^
 ||allaontrencasallongada.cat^
@@ -605201,6 +605681,7 @@
 ||dewaraja88.cc^
 ||dewareceh.cc^
 ||dewarejeki.cc^
+||rtp.dewartp.cc^
 ||dewaruci.cc^
 ||dewasakti.cc^
 ||dewasamurai.cc^
@@ -605341,6 +605822,7 @@
 ||izswv12242.dewatrbng1bos.cc^
 ||jflxv36102.dewatrbng1bos.cc^
 ||jthkm65054.dewatrbng1bos.cc^
+||kdllb12345.dewatrbng1bos.cc^
 ||krgzp45600.dewatrbng1bos.cc^
 ||ktsfq41362.dewatrbng1bos.cc^
 ||kvikt46930.dewatrbng1bos.cc^
@@ -605567,6 +606049,7 @@
 ||dinastipoker.cc^
 ||dinda77.cc^
 ||dindongtogel.cc^
+||daftar.dingdong77x.cc^
 ||dingdongbet.cc^
 ||dingdongcasino.cc^
 ||dingdongkami.cc^
@@ -605863,6 +606346,7 @@
 ||djpimbz.cc^
 ||djpindov.cc^
 ||djsdh.cc^
+||se-asia.djshowstar.cc^
 ||djslot.cc^
 ||djtogel.cc^
 ||h5.djwn.cc^
@@ -608181,6 +608665,7 @@
 ||eyangslot.cc^
 ||eyangtogel.cc^
 ||eyangwkwk.cc^
+||vijayalakshme.eyehospital.cc^
 ||eyeofhorus.cc^
 ||gvtb8.eyhvcvbt.cc^
 ||7s7vxi.eylpvblbe.cc^
@@ -700822,6 +701307,7 @@
 ||palamelapg.cc^
 ||palapaangka.cc^
 ||palapajitu.cc^
+||scfoodjobs.paleodie.cc^
 ||palestine-info.cc^
 ||palingtop.cc^
 ||palm-springs-hotels.cc^
@@ -701904,6 +702390,7 @@
 ||perfectgirls.cc^
 ||perfecttwinkxxx.cc^
 ||perfectzone.cc^
+||perfectzone168.cc^
 ||ghp.pergoart-pakde123.cc^
 ||peri4d.cc^
 ||peri4d11.cc^
@@ -702054,6 +702541,7 @@
 ||pg138slot.cc^
 ||pg168bet.cc^
 ||pg2win.cc^
+||pg333x.cc^
 ||pg368.cc^
 ||pg444.cc^
 ||pg4u.cc^
@@ -702083,6 +702571,7 @@
 ||pgdog.cc^
 ||pgdragon.cc^
 ||pgdragon789.cc^
+||pgdubai8888.cc^
 ||pgebet.cc^
 ||pgeeee.cc^
 ||pgfutebol.cc^
@@ -702110,6 +702599,7 @@
 ||pp-pg-jdb-wg-rp8888.pgpg77.cc^
 ||pgplay.cc^
 ||pgplay24h.cc^
+||pgplay999.cc^
 ||pgsgames.cc^
 ||pgslot.cc^
 ||pgslot-to.cc^
@@ -710050,6 +710540,7 @@
 ||sboc890.cc^
 ||sbocash.cc^
 ||sbodewa.cc^
+||sbogg.cc^
 ||sbohoki.cc^
 ||sboku99.cc^
 ||sbomaxx.cc^
@@ -716804,6 +717295,7 @@
 ||tanduktoto.cc^
 ||tanduktoto2.cc^
 ||tanegashima.cc^
+||tanemaki.cc^
 ||tangan303.cc^
 ||tangandewa.cc^
 ||tangandewatop.cc^
@@ -817523,6 +818015,7 @@
 ||youslot88.cc^
 ||youslot88ab.cc^
 ||youslot88rt.cc^
+||tampang.youthinnovation.cc^
 ||youtuba.cc^
 ||youtubecliphot.cc^
 ||youtubedownloader.cc^
@@ -836065,6 +836558,7 @@
 ||88bolaresmi.cfd^
 ||88bosw1n-id.cfd^
 ||88capcut.cfd^
+||cfd.88dewi.cfd^
 ||88dewii.cfd^
 ||88goals.cfd^
 ||88herov.cfd^
@@ -836915,6 +837409,7 @@
 ||udin4d.abulkntl.cfd^
 ||abutogel45hjj.cfd^
 ||abutogel54hn.cfd^
+||abutogel8mnn.cfd^
 ||acamv.cfd^
 ||acarabrade4d.cfd^
 ||acaratvtarakan.cfd^
@@ -837917,6 +838412,7 @@
 ||allbadai100x.cfd^
 ||allbadai100y.cfd^
 ||allbadai100z.cfd^
+||allinrtpsantagg.cfd^
 ||allnagagg.cfd^
 ||allogacor.cfd^
 ||allotogel.cfd^
@@ -838660,6 +839156,7 @@
 ||angsaslot-win.cfd^
 ||angsaslota.cfd^
 ||angsaslotnew.cfd^
+||angsaslotup.cfd^
 ||angsaslotwin.cfd^
 ||angsatotoy.cfd^
 ||anikor.cfd^
@@ -839070,6 +839567,7 @@
 ||as1131wiw.cfd^
 ||asagam1ng777.cfd^
 ||asbkotako.cfd^
+||plug.asd123keras.cfd^
 ||asd88.cfd^
 ||asderstwsetowt031.cfd^
 ||asdf88.cfd^
@@ -839386,6 +839884,7 @@
 ||audy88if.cfd^
 ||audy88lah.cfd^
 ||audy88now.cfd^
+||audy88oto.cfd^
 ||audy88rr.cfd^
 ||audy88sor.cfd^
 ||audy88us.cfd^
@@ -839432,6 +839931,7 @@
 ||autojitu2.cfd^
 ||autokayat855.cfd^
 ||autoslot-88.cfd^
+||autoslot88-max.cfd^
 ||autoslot88aja.cfd^
 ||autoslot88b.cfd^
 ||autoslot88bg.cfd^
@@ -975455,6 +975955,7 @@
 ||bomjudicuan.cfd^
 ||bomjudirtp.cfd^
 ||bomjudislot.cfd^
+||bomslot.cfd^
 ||bonafit88-aa.cfd^
 ||bonafit88-bb.cfd^
 ||bonafit88a.cfd^
@@ -975900,6 +976401,7 @@
 ||boy4d.cfd^
 ||boydul.cfd^
 ||boylesports.cfd^
+||boyolali.cfd^
 ||boytogel.cfd^
 ||boytoto.cfd^
 ||boytotoid.cfd^
@@ -976432,6 +976934,7 @@
 ||cahayapoker.cfd^
 ||cahayaqq.cfd^
 ||cahayaraja.cfd^
+||cahayatoto5ytg.cfd^
 ||cahayavegas.cfd^
 ||cair33.cfd^
 ||cair50.cfd^
@@ -977965,6 +978468,7 @@
 ||ddiss.cfd^
 ||ddose007.cfd^
 ||deagletopgun.cfd^
+||deal-88.cfd^
 ||debudebu-air123.cfd^
 ||debutoto.cfd^
 ||debutoto1.cfd^
@@ -978352,6 +978856,7 @@
 ||dewi88asia.cfd^
 ||dewi88bet.cfd^
 ||dewi88bethoki.cfd^
+||dewi88bgwn.cfd^
 ||dewi88btwn.cfd^
 ||dewi88dna.cfd^
 ||dewi88gcr.cfd^
@@ -981119,6 +981624,7 @@
 ||gacormanis.cfd^
 ||gacormantap.cfd^
 ||gacormarkisa.cfd^
+||gacormarugame.cfd^
 ||gacormaryam.cfd^
 ||gacormember.cfd^
 ||gacormenkes.cfd^
@@ -982268,6 +982774,7 @@
 ||gempa100-pill4.cfd^
 ||gempa100-pill5.cfd^
 ||gempa100-pill6.cfd^
+||gempa100-pill7.cfd^
 ||gempa100a.cfd^
 ||gempa100b.cfd^
 ||gempa100c.cfd^
@@ -987870,6 +988377,7 @@
 ||k41s4rjp.cfd^
 ||k41sarjpp.cfd^
 ||k4isarjpp.cfd^
+||k5555.cfd^
 ||k86ball.cfd^
 ||k86seru.cfd^
 ||k86sportlink.cfd^
@@ -989498,6 +990006,7 @@
 ||ktp168-bet.cfd^
 ||ktp168jitu.cfd^
 ||ktp168link.cfd^
+||ktpjitu088.cfd^
 ||ktvtogel.cfd^
 ||ktvtoto.cfd^
 ||ku9995.cfd^
@@ -990253,6 +990762,7 @@
 ||lexusmax.cfd^
 ||lexuspadi.cfd^
 ||lexuspandan.cfd^
+||lexusperjalanan.cfd^
 ||lexuspetir.cfd^
 ||lexuspine.cfd^
 ||lexuspopokupa.cfd^
@@ -990364,6 +990874,7 @@
 ||luxbijak.lgolux.cfd^
 ||luxsensei.lgolux.cfd^
 ||site-1.lgolux.cfd^
+||lgomax99.cfd^
 ||lgopro99.cfd^
 ||lgopro99-alt.cfd^
 ||lgopro99-alt2.cfd^
@@ -990484,6 +990995,7 @@
 ||ligacash88ligagame.cfd^
 ||ligacash88pejuangjp.cfd^
 ||ligacash88pemilu2024.cfd^
+||ligaciputra2jm.cfd^
 ||ligadewa.cfd^
 ||ligafaktortn.cfd^
 ||ligagaruda.cfd^
@@ -992878,6 +993390,7 @@
 ||mega100x100.cfd^
 ||mega118.cfd^
 ||mega118gokz.cfd^
+||mega118labebe.cfd^
 ||mega118labibi.cfd^
 ||mega118rtp.cfd^
 ||mega188jth.cfd^
@@ -994331,6 +994844,7 @@
 ||nadim4d.cfd^
 ||naga-ace.cfd^
 ||naga-power.cfd^
+||naga1001.cfd^
 ||naga169.cfd^
 ||naga188.cfd^
 ||naga2000.cfd^
@@ -994734,6 +995248,7 @@
 ||nekoslott.cfd^
 ||nekotogel.cfd^
 ||nelayansakti.cfd^
+||nemo69.cfd^
 ||nemospinyes.cfd^
 ||nemotogel.cfd^
 ||nenek4d.cfd^
@@ -995715,6 +996230,7 @@
 ||onixzet77.cfd^
 ||onligatunai.cfd^
 ||online-agenbos168.cfd^
+||online-casino-schweiz.cfd^
 ||online-game-best128.cfd^
 ||online-top-win940.cfd^
 ||online88a.cfd^
@@ -996724,6 +997240,7 @@
 ||pbc88.cfd^
 ||pbowin-pill3.cfd^
 ||pbowin-pill4.cfd^
+||pbowin-pill5.cfd^
 ||pbowina.cfd^
 ||pbowinads.cfd^
 ||pbowinalta.cfd^
@@ -996863,6 +997380,7 @@
 ||pelukbetviponline.cfd^
 ||pelunasanjp.cfd^
 ||peluncur88.cfd^
+||peluncur88gcr.cfd^
 ||pemain777.cfd^
 ||pemain88.cfd^
 ||pemaingame.cfd^
@@ -996939,6 +997457,7 @@
 ||pendekar99.cfd^
 ||link01.pendekar99.cfd^
 ||link02.pendekar99.cfd^
+||pertunjukan.pendekarbiru.cfd^
 ||pendekarpanen88.cfd^
 ||pendekarqq.cfd^
 ||pendekarslot189.cfd^
@@ -997921,6 +998440,7 @@
 ||zys9onse3c1lei6jcvhc.petualanganseru.cfd^
 ||pg-pucuk138.cfd^
 ||pg11.cfd^
+||pg168.cfd^
 ||pg77.cfd^
 ||pg88.cfd^
 ||pg99.cfd^
@@ -998304,6 +998824,7 @@
 ||pjslot168.cfd^
 ||pjslot168c.cfd^
 ||pk777.cfd^
+||pk888.cfd^
 ||pkltogel.cfd^
 ||pkltoto.cfd^
 ||pkltoto2.cfd^
@@ -999185,6 +999706,7 @@
 ||pt777.cfd^
 ||pt777amp.cfd^
 ||ptgacor77.cfd^
+||ptgaming.cfd^
 ||ptptpan.cfd^
 ||ptr-amp.cfd^
 ||ptr138-amp.cfd^
@@ -1000470,6 +1000992,7 @@
 ||ratu338cuan.cfd^
 ||ratu338fun.cfd^
 ||ratu338hoki.cfd^
+||ratu338pg.cfd^
 ||ratu365.cfd^
 ||ratu365a.cfd^
 ||ratu365b.cfd^
@@ -1003866,6 +1004389,7 @@
 ||sbomaxx.cfd^
 ||sbopartai.cfd^
 ||sboslot99.cfd^
+||sbotop35vbf.cfd^
 ||sbouno.cfd^
 ||sbouno88.cfd^
 ||sboya.cfd^
@@ -1004156,6 +1004680,7 @@
 ||zaciws9.selectaffect28ma1f.cfd^
 ||zackb8r.selectaffect28ma1f.cfd^
 ||selektor.cfd^
+||selera4d.cfd^
 ||selerasekolah.cfd^
 ||seleratoto.cfd^
 ||selir188.cfd^
@@ -1005208,6 +1005733,7 @@
 ||situs62star.cfd^
 ||situs62vegas.cfd^
 ||situs899.cfd^
+||situsa.cfd^
 ||situsadmin77.cfd^
 ||situsafk.cfd^
 ||situsagenbos.cfd^
@@ -1005405,6 +1005931,7 @@
 ||sl-otyangini.cfd^
 ||sl0taladin.cfd^
 ||sl189.cfd^
+||sl3t4fb5.cfd^
 ||sl777.cfd^
 ||sl8800next.cfd^
 ||sl99betlegend.cfd^
@@ -1005530,6 +1006057,7 @@
 ||slot88p.cfd^
 ||slot88q.cfd^
 ||slot88r.cfd^
+||slot88resmi.cfd^
 ||slot88resmi10.cfd^
 ||slot88resmi11.cfd^
 ||slot88resmi13.cfd^
@@ -1005573,6 +1006101,7 @@
 ||slotbola888k.cfd^
 ||slotbom-77.cfd^
 ||slotbom77.cfd^
+||slotbom77bgwn.cfd^
 ||slotbom77bigwin.cfd^
 ||slotbom77bintang.cfd^
 ||slotbom77bwin.cfd^
@@ -1006438,6 +1006967,7 @@
 ||starwix.cfd^
 ||starzero.cfd^
 ||starzeus.cfd^
+||starzinoofficial.cfd^
 ||stasiun99.cfd^
 ||stasiunplay.cfd^
 ||stasiunplayrtpakurat.cfd^
@@ -1006954,6 +1007484,7 @@
 ||supermoon168.cfd^
 ||supermotowin77.cfd^
 ||superpalingjp.cfd^
+||superpaus123.cfd^
 ||superpg1688.cfd^
 ||superpink.cfd^
 ||superpro923.cfd^
@@ -1006966,6 +1007497,7 @@
 ||supersonicjuara.cfd^
 ||supersonicswd.cfd^
 ||superspindwt.cfd^
+||supersportbet.cfd^
 ||supersportyuyu33.cfd^
 ||superss33.cfd^
 ||supersvip.cfd^
@@ -1010029,6 +1010561,7 @@
 ||vulkan-deluxe-on-money.cfd^
 ||vvhelow.cfd^
 ||vvip-agenbos168.cfd^
+||vvip-neonwin386.cfd^
 ||vvip-shopi.cfd^
 ||vvipbalaptoto.cfd^
 ||vvipbobaslot77.cfd^
@@ -1010317,6 +1010850,7 @@
 ||wdmaximal.cfd^
 ||wdmeledak.cfd^
 ||wdmenyala.cfd^
+||wdminyak12.cfd^
 ||wdmore.cfd^
 ||bukti.wdmpo17.cfd^
 ||bukti2.wdmpo17.cfd^
@@ -1010470,6 +1011004,7 @@
 ||wg77populer.cfd^
 ||wgtotoe.cfd^
 ||wharta.cfd^
+||wheelgempa100.cfd^
 ||whhls3337.cfd^
 ||whhls35665.cfd^
 ||whhls3665.cfd^
@@ -1012869,6 +1013404,7 @@
 ||brustvergroesserung-drgrath.ch^
 ||brustwarze.ch^
 ||brustwarzen.ch^
+||buecher-balmer.ch^
 ||bujinkandojo.ch^
 ||bukkake.ch^
 ||bumsalp.ch^
@@ -1020215,6 +1020751,7 @@
 ||fesainmobiliaria.cl^
 ||feuandes.cl^
 ||financeconference.cl^
+||floridano.cl^
 ||forjar-fe.cl^
 ||fortune-rabbit.cl^
 ||frankbikes.cl^
@@ -1020665,6 +1021202,7 @@
 ||wildprint.cl^
 ||fotosporno.x86.cl^
 ||xtube.cl^
+||zaloreyes.cl^
 ||zona-didactica.cl^
 ||zonaerotica.cl^
 ||zonaescort.cl^
@@ -1028722,6 +1029260,7 @@
 ||bajaj4dabc.click^
 ||bajaj4dac.click^
 ||bajaj4dad.click^
+||bajaj4dasean.click^
 ||bajaj4dasli.click^
 ||bajaj4dbc.click^
 ||bajaj4dcc.click^
@@ -1029366,8 +1029905,10 @@
 ||aaa.bata-sonic.click^
 ||bata-sorvex.click^
 ||aaa.bata-utama.click^
+||bata-varexo.click^
 ||aaa.bata-ventora.click^
 ||aaa.bata-yupas.click^
+||bata-zolvira.click^
 ||bata123-rtp.click^
 ||bata123kuy.click^
 ||bata123rtp.click^
@@ -1030959,6 +1031500,8 @@
 ||bewok.click^
 ||bewok-calvero.click^
 ||bewok-corvixa.click^
+||bewok-drevix.click^
+||bewok-kelvoro.click^
 ||bewok-miresto.click^
 ||aaa.bewok-pilot.click^
 ||bewok-saryna.click^
@@ -1034150,6 +1034693,7 @@
 ||caragacor.click^
 ||carajackpot.click^
 ||carajpcepat.click^
+||carajujur69.click^
 ||caramainraja1.click^
 ||caramainraja2.click^
 ||caramainraja3.click^
@@ -1036232,6 +1036776,7 @@
 ||d3waliveplay.click^
 ||d3watgltop.click^
 ||d4naliga.click^
+||topone.d588.click^
 ||d69ku.click^
 ||d69kubig.click^
 ||d77.click^
@@ -1044668,6 +1045213,7 @@
 ||elina1.click^
 ||nomor-empat-puluh-tujuh.elit-plnregister.click^
 ||elit855.click^
+||elitcasino-tr.click^
 ||elitemei.click^
 ||elitese.click^
 ||elitet855.click^
@@ -1044679,6 +1045225,7 @@
 ||elitjplabobi.click^
 ||elitjplabuba.click^
 ||elitjprtp.click^
+||home.eliudgautier.click^
 ||ellatoto.click^
 ||elliebos89.click^
 ||rank1ya.elliedeaner.click^
@@ -1047420,6 +1047967,7 @@
 ||gasduabet.click^
 ||gasgaskoko4d.click^
 ||gasindong.click^
+||gasing-velora.click^
 ||gasing777.click^
 ||gasing777-keren.click^
 ||gasing777-rtp.click^
@@ -1052997,6 +1053545,7 @@
 ||infotujuhnaga.click^
 ||infowayang.click^
 ||infowin88gacor.click^
+||alternatif-prereporter.infy.click^
 ||anti-lagakar189.infy.click^
 ||laku-main.infy.click^
 ||login-sabrinanelsonwriter.infy.click^
@@ -1053450,6 +1053999,7 @@
 ||istanaslots1.click^
 ||istanaterbaik777.click^
 ||bookshelf.sunshineprimaryclub.com.istanawin.click^
+||wayang888.info.istanawin.click^
 ||pixelmakers.net.istanawin.click^
 ||palu88link.site.istanawin.click^
 ||istanbul-beauty.click^
@@ -1055155,6 +1055705,7 @@
 ||jogjaa7.click^
 ||jogjaa8.click^
 ||jogjatoto.click^
+||baru.joglo.click^
 ||join-masterkoin99.click^
 ||join-petarung138.click^
 ||join-starslot777.click^
@@ -1058287,6 +1058838,7 @@
 ||w8.kisarangroup.click^
 ||kisetoto.click^
 ||m.kishevent.click^
+||county.kisii.click^
 ||kisikisidpd.click^
 ||kisikisidpw.click^
 ||kisikisikal.click^
@@ -1058774,6 +1059326,7 @@
 ||koi138.click^
 ||koi200.click^
 ||koi234best.click^
+||koi234cit.click^
 ||koi234cuan.click^
 ||koi234d.click^
 ||koi234fit.click^
@@ -1060548,6 +1061101,7 @@
 ||libasgo043.click^
 ||libertybet.click^
 ||libertyslotscasifreespins.click^
+||libertyslotscasino.click^
 ||libertyslotscasinonodeposit.click^
 ||libra258.click^
 ||libra303.click^
@@ -1062448,6 +1063002,7 @@
 ||luk666.click^
 ||client.lukajatuh.click^
 ||lukissenja.click^
+||lukycola.click^
 ||luleme5139132120.click^
 ||lulopi6.click^
 ||lulujoki188.click^
@@ -1064876,6 +1065431,7 @@
 ||matrogoe12.click^
 ||matsoleh.click^
 ||matsunaga68.click^
+||eksplorasi.mattandcynthiaforri.click^
 ||maturegv.click^
 ||maturepornbase.click^
 ||maturepornbox.click^
@@ -1067618,6 +1068174,7 @@
 ||monas77q.click^
 ||monas77r.click^
 ||monas77s.click^
+||conf.monas77seven.click^
 ||monas77t.click^
 ||monas77u.click^
 ||monas77v.click^
@@ -1067813,6 +1068370,7 @@
 ||mostbetcasino.click^
 ||mostbetcasino-pt.click^
 ||mostbetcasinoturkey.click^
+||mostbett.click^
 ||mostfuckvideos.click^
 ||mostgayporn.click^
 ||mostgaypornvideos.click^
@@ -1069082,6 +1069640,7 @@
 ||narutokonoha.click^
 ||nasa-app.click^
 ||nasa4d.click^
+||nasawin168.click^
 ||nascp.click^
 ||xn--u5z.nashieryingku.click^
 ||k1.nashieryingku1.click^
@@ -1070127,6 +1070686,7 @@
 ||nswav23.click^
 ||kmtl.nswav23.click^
 ||ntaphost.click^
+||ntc22.click^
 ||nuansaslot1.click^
 ||nuansaslot2.click^
 ||nudeafrica.click^
@@ -1071129,6 +1071689,8 @@
 ||omg303.click^
 ||omg303apk.click^
 ||omg303slot.click^
+||omg555.click^
+||omg569x.click^
 ||omggacor.click^
 ||omi88.click^
 ||omni4d.click^
@@ -1071476,6 +1072038,7 @@
 ||osapple33.click^
 ||osb369.click^
 ||osbet33.click^
+||oscafunv1.click^
 ||oscarbos89.click^
 ||oscarplayer1.click^
 ||oscarplayer10.click^
@@ -1072795,6 +1073358,7 @@
 ||patrickspinscasino.click^
 ||patriot88.click^
 ||patronresmi.click^
+||pattaya88.click^
 ||patung288.click^
 ||amp.paulphangcontractor.click^
 ||paus-4d.click^
@@ -1072955,7 +1073519,9 @@
 ||payaboyabo14.click^
 ||payaboyabo16.click^
 ||payid-pokies-aussie.click^
+||payidpokies-au.click^
 ||amp.paymentdollar.click^
+||paysafecard-casino-uk.click^
 ||payung57.click^
 ||payung57slot.click^
 ||payung57vip.click^
@@ -1073747,6 +1074313,7 @@
 ||pgacors.click^
 ||rtp.pgacors.click^
 ||pgaming88.click^
+||pgapollo888.click^
 ||pgas88.click^
 ||pgbest88.click^
 ||pgbet368.click^
@@ -1074073,6 +1074640,7 @@
 ||pilotmaxwin.click^
 ||pin-up-casino-giris.click^
 ||pin-up-oyna.click^
+||pin4d.click^
 ||amp.pinangkasa.click^
 ||pinangrtp.click^
 ||pinangrtp1.click^
@@ -1074315,6 +1074883,7 @@
 ||pkltotovip.click^
 ||pkok.click^
 ||pkplay.click^
+||pkr365.click^
 ||pkr77a.click^
 ||pkr855.click^
 ||pkr88.click^
@@ -1076184,6 +1076753,7 @@
 ||prediksiwd.click^
 ||prediktorspaceman.click^
 ||preman-cendora.click^
+||preman-vorexa.click^
 ||preman-zalvex.click^
 ||preman69-noind.click^
 ||preman69-noind1.click^
@@ -1077167,6 +1077737,7 @@
 ||quazento.click^
 ||queen-gasing777.click^
 ||queen303.click^
+||queen88casino.click^
 ||queenbeebingocasifreespins.click^
 ||queengreatagain.click^
 ||queengreatagain1.click^
@@ -1078764,6 +1079335,7 @@
 ||rollingindark.click^
 ||mobile.rollingrichesgames.click^
 ||rollingsantai420.click^
+||rollingslotscasino.click^
 ||rollingslotscasinonodeposit.click^
 ||rollingspin.click^
 ||rollingstunhere.click^
@@ -1083442,6 +1084014,7 @@
 ||rumahapel.click^
 ||rumahbola88.click^
 ||rumahceria.click^
+||rumahcuan.click^
 ||rumahduit.click^
 ||rumahezynih.click^
 ||rumahfungame777.click^
@@ -1083480,6 +1084053,7 @@
 ||rumahwd89.click^
 ||rumaolala.click^
 ||rumi46.click^
+||rumislot.click^
 ||rumorkocak.click^
 ||rumpicuan.click^
 ||rumtar365.click^
@@ -1083663,6 +1084237,7 @@
 ||rtp-live-perihoki.saavatar.click^
 ||sabai388.click^
 ||sabaryaboncel.click^
+||link.sabaslots.click^
 ||sabetgaming.click^
 ||sabetslot.click^
 ||sabi4d-good.click^
@@ -1086136,6 +1086711,7 @@
 ||sga188daegu.click^
 ||sga188sejati.click^
 ||sga404asli.click^
+||sga508.click^
 ||sga508cool14.click^
 ||sga508cool19.click^
 ||sga508cool23.click^
@@ -1086144,6 +1086720,7 @@
 ||sga508ninja.click^
 ||sga508vip.click^
 ||sga68.click^
+||sga77.click^
 ||sga77adana.click^
 ||sga77ankara.click^
 ||sga77baiksekali.click^
@@ -1086471,6 +1087048,7 @@
 ||siap-banteng.click^
 ||siap33b.click^
 ||siap33c.click^
+||siap46.click^
 ||siap4d.click^
 ||siap88.click^
 ||siapahoki.click^
@@ -1086645,6 +1087223,7 @@
 ||simasbolaslotgacorpragmaticplay.click^
 ||simba69.click^
 ||crit.simba69-gacor.click^
+||crit.simba69-gacorr.click^
 ||simba69alternatif.click^
 ||simba69game.click^
 ||simba69gerbang.click^
@@ -1086741,10 +1087320,14 @@
 ||amp.sineadcampbellwallace.click^
 ||aaa.singa-blaze.click^
 ||aaa.singa-dorex.click^
+||singa-elorix.click^
 ||aaa.singa-jelajah.click^
+||singa-kelvona.click^
+||singa-olvera.click^
 ||aaa.singa-rovexa.click^
 ||singa-tevora.click^
 ||aaa.singa-veltro.click^
+||singa-viresto.click^
 ||singa1.click^
 ||singa10.click^
 ||singa2.click^
@@ -1088702,6 +1089285,7 @@
 ||spin805.click^
 ||spinagenbet38.click^
 ||c-ashpotlyl7.spinandwincasifreespins.click^
+||spinaniacasino.click^
 ||spinarena-empire.click^
 ||spinberhadiahbigpot88.click^
 ||spinbet99slot.click^
@@ -1088730,6 +1089314,7 @@
 ||spinempire-empire.click^
 ||spinfever-gold.click^
 ||spinfinitycasinonodeposit.click^
+||spinfredcasino.click^
 ||spingacor.click^
 ||spingame-treasure.click^
 ||spingaruda138.click^
@@ -1089942,6 +1090527,7 @@
 ||gam777.sungaisuci.click^
 ||sungaitoto.click^
 ||wolf.sungaitotohongkong.click^
+||champion.sungaitotosydney.click^
 ||sungayporn.click^
 ||sungaypornmovies.click^
 ||sungaypornvideos.click^
@@ -1091073,11 +1091659,13 @@
 ||taxi4dvermet.click^
 ||taxi4dwin.click^
 ||taxi88bos.click^
+||taxi88empat.click^
 ||taxi88megah.click^
 ||taxi88oke.click^
 ||taxi88satu.click^
 ||taxi88tiga.click^
 ||taxidbbb.click^
+||taxislot88-go.click^
 ||taxislot88abc.click^
 ||taxislot88ac.click^
 ||taxislot88ai.click^
@@ -1091942,6 +1092530,7 @@
 ||timezone55slot.click^
 ||amp.timhorehore.click^
 ||timibkindo.click^
+||timislots.click^
 ||timo4d.click^
 ||timo4danda.click^
 ||timo4djus.click^
@@ -1092119,8 +1092708,10 @@
 ||aaa.toge-hoki.click^
 ||aaa.toge-kalyx.click^
 ||aaa.toge-lunvex.click^
+||toge-morixa.click^
 ||aaa.toge-pelita.click^
 ||aaa.toge-primus.click^
+||toge-ravento.click^
 ||toge123.click^
 ||toge123-rtp.click^
 ||toge123gacor-rtp1.click^
@@ -1092251,6 +1092842,7 @@
 ||tokecang05.click^
 ||aaa.tokek-mavero.click^
 ||tokek-sorexa.click^
+||tokek-venaro.click^
 ||tokek55.click^
 ||tokek55cute.click^
 ||tokekemas.click^
@@ -1092484,6 +1093076,7 @@
 ||tongphu.click^
 ||tongtu139.click^
 ||tongtu94.click^
+||tonmtonmrestaurant.click^
 ||tonybetcasifreespins.click^
 ||toonanet.click^
 ||toonhentai.click^
@@ -1093918,6 +1094511,7 @@
 ||ultracuankuy.click^
 ||ultradewi.click^
 ||ultradonut.click^
+||macro.ultralight.click^
 ||ultraman.click^
 ||ultraman127.click^
 ||ultramangaya.click^
@@ -1098102,6 +1098696,7 @@
 ||youthtrice.click^
 ||youtiao2144.click^
 ||youtokekwin.click^
+||youtoo.click^
 ||youtoto.click^
 ||youtotologin.click^
 ||youwin-casino.click^
@@ -1099994,6 +1100589,7 @@
 ||baksobet.cloud^
 ||bakulhoki4d.cloud^
 ||baladatotortp.cloud^
+||balalin.cloud^
 ||balencking.cloud^
 ||balijitu.cloud^
 ||balimaju.cloud^
@@ -1100428,6 +1101024,7 @@
 ||bebek66-game.cloud^
 ||bebek66game.cloud^
 ||bebek66hey.cloud^
+||bebox.cloud^
 ||bebtoto.cloud^
 ||layanan.bebtoto-to-moon36.cloud^
 ||udahlah.becak4dkuat.cloud^
@@ -1100471,6 +1101068,7 @@
 ||berastogel.cloud^
 ||berduit88.cloud^
 ||berhasil01.cloud^
+||beritaklik.cloud^
 ||berjuangkita.cloud^
 ||berkah186.cloud^
 ||site.berlian-premium.cloud^
@@ -1100953,6 +1101551,7 @@
 ||bremborotator.cloud^
 ||brenjituidr.cloud^
 ||bri4d.cloud^
+||brianshinsekai.cloud^
 ||brightcart.cloud^
 ||bro225.cloud^
 ||bro225wild.cloud^
@@ -1101389,6 +1101988,7 @@
 ||tes.csnproject.cloud^
 ||ct4dku.cloud^
 ||ctfd.cloud^
+||cu77.cloud^
 ||cuan-sekarang.cloud^
 ||cuan303.cloud^
 ||cuan368.cloud^
@@ -1102021,6 +1102621,7 @@
 ||dubai888.cloud^
 ||duda88.cloud^
 ||link.dudasangar.cloud^
+||dudepcyber.cloud^
 ||duel77.cloud^
 ||duit138.cloud^
 ||duit618.cloud^
@@ -1104472,6 +1105073,7 @@
 ||jurutogel.cloud^
 ||jusmengkudu.cloud^
 ||jutawan188b.cloud^
+||digital.jutawanbetdindonesia.cloud^
 ||aman.jutawanterpercaya.cloud^
 ||devamp.jvip.cloud^
 ||jvip123.cloud^
@@ -1106550,6 +1107152,7 @@
 ||mrolym.cloud^
 ||mrrobot.cloud^
 ||ms-kumaha.cloud^
+||ms13.cloud^
 ||mso303bro.cloud^
 ||mso303no1.cloud^
 ||mso303vip.cloud^
@@ -1107127,6 +1107730,8 @@
 ||onbet88.cloud^
 ||onces4d.cloud^
 ||onebetasia.cloud^
+||onelove888.cloud^
+||oneokgold.cloud^
 ||test.oneplan.cloud^
 ||oneworldgood.cloud^
 ||onewso55.cloud^
@@ -1107182,6 +1107787,7 @@
 ||orangkaya77d.cloud^
 ||orbit88.cloud^
 ||orbit88b.cloud^
+||orbiz.cloud^
 ||order4dking.cloud^
 ||oreosky388.cloud^
 ||oricasino2.cloud^
@@ -1107207,6 +1107813,7 @@
 ||otakjitu77.cloud^
 ||otakudesu.cloud^
 ||ototo1.cloud^
+||ottonew.cloud^
 ||otw78.cloud^
 ||bra.ourguardianangelshealthcare.cloud^
 ||overplay138.cloud^
@@ -1107381,6 +1107988,7 @@
 ||parlay88.cloud^
 ||kekuatan-gelap.partaitogelresmicom.cloud^
 ||partnershipnewbook.cloud^
+||partybets.cloud^
 ||pas-judi.cloud^
 ||pas77.cloud^
 ||pasang-nomor.cloud^
@@ -1107582,6 +1108190,7 @@
 ||pg888th.cloud^
 ||pg88gacor.cloud^
 ||pgaduanpusat.cloud^
+||pgb168.cloud^
 ||pgbet88.cloud^
 ||pggroup777.cloud^
 ||pgjili.cloud^
@@ -1117661,6 +1118270,7 @@
 ||asokavip.club^
 ||asosiasibugati.club^
 ||aspeedx888.club^
+||shop.aspenpadel.club^
 ||asplink.club^
 ||asplogin.club^
 ||aspok.club^
@@ -1124280,6 +1124890,7 @@
 ||crossguild350.club^
 ||crot69.club^
 ||crowdfunding.club^
+||stickers.crown186d.club^
 ||crown2u.club^
 ||crown303.club^
 ||crown303bet.club^
@@ -1124574,6 +1125185,7 @@
 ||d3waveg4s.club^
 ||d4rk.club^
 ||i11egal.d4rk.club^
+||d59.club^
 ||d829.club^
 ||video.d86tr.club^
 ||d9bet.club^
@@ -1126552,6 +1127164,7 @@
 ||dewcas8win.club^
 ||dewetoto2d.club^
 ||dewi11.club^
+||wats.dewi11-adv.club^
 ||mudahdewi11.dewi11day.club^
 ||temen.dewi11key.club^
 ||adsterjagodewi11.dewi11kl.club^
@@ -1128364,6 +1128977,7 @@
 ||exodus777.club^
 ||exogaming.club^
 ||white.exosixsixsix.club^
+||delcentroeditores.experienti.club^
 ||explore138.club^
 ||m.exporn.club^
 ||expressking.club^
@@ -1128423,6 +1129037,7 @@
 ||f-v-f.club^
 ||f05.club^
 ||f07.club^
+||f08.club^
 ||f16betz.club^
 ||f1casino.club^
 ||f1casino16.club^
@@ -1137540,6 +1138155,7 @@
 ||judi88.club^
 ||judi88asia.club^
 ||judi89.club^
+||amp.judiaduayamonline.club^
 ||judiangka.club^
 ||judiangkalogin.club^
 ||judiasia96.club^
@@ -1140171,6 +1140787,7 @@
 ||l4pakpasti.club^
 ||l66.club^
 ||l78.club^
+||l83.club^
 ||l86th.club^
 ||l89login.club^
 ||la-beh.club^
@@ -1141675,6 +1142292,7 @@
 ||linkpromo138.club^
 ||linkpusat.club^
 ||linkpusat69.club^
+||linkpusatjudionline.club^
 ||linkqq.club^
 ||linkqq1221.club^
 ||linkqqgobet.club^
@@ -1142578,6 +1143196,7 @@
 ||luck88.club^
 ||luck88website.club^
 ||top1.luck8com.club^
+||luck97.club^
 ||luck99.club^
 ||luck99slot.club^
 ||luckbig8.club^
@@ -1145584,6 +1146203,7 @@
 ||meteorqqofficial.club^
 ||metfone-aza-andrex.club^
 ||bonusluhurtoto.metfone-aza-andrex.club^
+||methspin.club^
 ||methspin-online-pokies.club^
 ||metic4d.club^
 ||metlica.club^
@@ -1147281,6 +1147901,7 @@
 ||nanabet88.club^
 ||nanamaxwin.club^
 ||nanaplay.club^
+||nanas44.club^
 ||nanas777.club^
 ||nanaslot.club^
 ||nanatogel.club^
@@ -1148405,6 +1149026,7 @@
 ||okjkt10.club^
 ||okjl.club^
 ||okjp.club^
+||oklj.club^
 ||oknet.club^
 ||oknumgcr1.club^
 ||okokbet.club^
@@ -1149035,6 +1149657,7 @@
 ||otoslot.club^
 ||otot.club^
 ||otp365.club^
+||otp55.club^
 ||otpslot.club^
 ||otso.club^
 ||otso-casino.club^
@@ -1149858,6 +1150481,7 @@
 ||paristogel4d.club^
 ||paritoto.club^
 ||pariwin.club^
+||parkesburgbaptist.parkesburgbaptist.club^
 ||parkit4d.club^
 ||parkplatzsex.club^
 ||parlay-pro.club^
@@ -1150286,6 +1150910,7 @@
 ||pay77suka.club^
 ||pay77top.club^
 ||paydayloansonline.club^
+||paymax.club^
 ||paymydoctor.club^
 ||paypoker.club^
 ||paypoker69.club^
@@ -1150834,6 +1151459,7 @@
 ||pg333.club^
 ||pg338.club^
 ||pg38.club^
+||pg388.club^
 ||pg456.club^
 ||pg4d.club^
 ||pg6.club^
@@ -1150882,6 +1151508,7 @@
 ||pgs5000.club^
 ||pgs88.club^
 ||pgscaterhitam.club^
+||pgsh.club^
 ||pgshiotop.club^
 ||pgslot.club^
 ||pgslot-dragon.club^
@@ -1151169,6 +1151796,7 @@
 ||phpgreat.club^
 ||phpjj.club^
 ||phplaysa.club^
+||phpopen.club^
 ||phprun.club^
 ||phptutorials.club^
 ||phpub.club^
@@ -1151185,6 +1151813,7 @@
 ||phtayavip.club^
 ||phwin777.club^
 ||phwincom.club^
+||phwn.club^
 ||azure.phyllali.club^
 ||piala-qq.club^
 ||piala123.club^
@@ -1151442,6 +1152071,7 @@
 ||pjslot.club^
 ||pjslot168.club^
 ||pk-luk.club^
+||pk080.club^
 ||pk1slot.club^
 ||pk365.club^
 ||pk369.club^
@@ -1152491,6 +1153121,7 @@
 ||populer4d.club^
 ||populerbiru.club^
 ||popza24k.club^
+||popzar.club^
 ||porhubs.club^
 ||porka.club^
 ||porkas2d.club^
@@ -1153477,6 +1154108,7 @@
 ||ppn88.club^
 ||ppoker88qq.club^
 ||ppp9.club^
+||pps777.club^
 ||ppslot.club^
 ||pptopdewacas.club^
 ||pptoto.club^
@@ -1154764,6 +1155396,7 @@
 ||rahayu4d.club^
 ||rahayu88.club^
 ||rahayu88h.club^
+||rainbowrichescas.club^
 ||raingardentour.raingardentour.club^
 ||rainqq.club^
 ||raisa.club^
@@ -1159093,6 +1159726,7 @@
 ||sbets.club^
 ||sbf99.club^
 ||sbfplay55.club^
+||sbj666.club^
 ||sbjoker123.club^
 ||sbk21.club^
 ||sbnsukses.club^
@@ -1159250,6 +1159884,9 @@
 ||scv388.club^
 ||sd12.club^
 ||sd99.club^
+||sdgfsdgsdf.club^
+||sdghfdhdxf.club^
+||sdgsfdhf.club^
 ||sdk303.club^
 ||sdmoviespoint.club^
 ||sdomino.club^
@@ -1160118,6 +1160755,7 @@
 ||sg77.club^
 ||sg7773.club^
 ||sg96ace.club^
+||sga168.club^
 ||sga99.club^
 ||sga99a.club^
 ||sga99b.club^
@@ -1161647,6 +1162285,7 @@
 ||slotsphp.club^
 ||slotspin99.club^
 ||slotspk88.club^
+||slotssonline.club^
 ||slotstarbet138.club^
 ||slotstars77.club^
 ||slotsukbonus.club^
@@ -1162211,6 +1162850,7 @@
 ||sph77.club^
 ||sph88.club^
 ||sphjt.club^
+||spider88.club^
 ||spillers.club^
 ||spin-68.club^
 ||spin-ph-casino.club^
@@ -1163275,6 +1163915,7 @@
 ||surgasloter.club^
 ||surgaslotlink.club^
 ||surgatogel.club^
+||surgawin.club^
 ||surgawins.club^
 ||suria88.club^
 ||suria88cintee.club^
@@ -1163416,6 +1164057,7 @@
 ||syairsemar.club^
 ||syairsetan.club^
 ||syairsydney.club^
+||syairtoto.club^
 ||syairwla.club^
 ||sybs99.club^
 ||sydney303.club^
@@ -1165672,6 +1166314,7 @@
 ||triadtoto-01.club^
 ||triadtoto-03.club^
 ||triakarena.club^
+||tribun62.club^
 ||tribun855jitu.club^
 ||tribun855jp.club^
 ||tribunsakti.club^
@@ -1165892,6 +1166535,7 @@
 ||turbo4d.club^
 ||turbo78.club^
 ||turbo78jaya.club^
+||turbo78maju.club^
 ||turbo88.club^
 ||turbobet168.club^
 ||sub5.turbobet168.club^
@@ -1166528,6 +1167172,7 @@
 ||uujl.club^
 ||join.uuspastimenang1.club^
 ||play.uuspastimenang2.club^
+||uuspin.club^
 ||uustoto.club^
 ||uvw888.club^
 ||uw-99.club^
@@ -1167617,6 +1168262,7 @@
 ||walo888.club^
 ||walrus.club^
 ||wama88.club^
+||wangcuci88.club^
 ||wangi288.club^
 ||wangi4d.club^
 ||wangi4da.club^
@@ -1168103,6 +1168749,7 @@
 ||win1000xslot.club^
 ||win1131vip.club^
 ||win11bet.club^
+||win11betresmi.club^
 ||win11bets.club^
 ||win128.club^
 ||win138.club^
@@ -1168904,6 +1169551,7 @@
 ||x1dh.club^
 ||x1gaming.club^
 ||x1poker.club^
+||x388.club^
 ||x3smon.club^
 ||x44my.club^
 ||x500slot.club^
@@ -1169748,6 +1170396,7 @@
 ||zenbola.club^
 ||zenjitu.club^
 ||zentotovip.club^
+||zenwin.club^
 ||zenwin88.club^
 ||zeonslot.club^
 ||zeonslotgame.club^
@@ -1174747,6 +1175396,7 @@
 ||apkkampoeng.co^
 ||apkpakjago.co^
 ||apksingawin2.co^
+||apkslotonline.co^
 ||apkspro.co^
 ||apkstore1.co^
 ||apktogel.co^
@@ -1176745,6 +1177395,7 @@
 ||bayarjitu.co^
 ||bayarjituqris.co^
 ||bayartop.co^
+||bayee.co^
 ||bayitoto.co^
 ||baymisli.co^
 ||baystream.co^
@@ -1179306,6 +1179957,7 @@
 ||botuna55maju.co^
 ||boulderhouse.co^
 ||bounty88.co^
+||boutiqcarts.co^
 ||boviral777.co^
 ||bowo138.co^
 ||bowo77.co^
@@ -1181550,6 +1182202,7 @@
 ||chicessentials.co^
 ||chicken-confidential.co^
 ||chidochi.co^
+||chiefbarbersupplies.co^
 ||chii88.co^
 ||chiki88.co^
 ||chiki88a.co^
@@ -1181596,6 +1182249,7 @@
 ||chromflix.co^
 ||chroniker.co^
 ||chubbygay.co^
+||chubbysnacks.co^
 ||chujie.co^
 ||chumbacasinolite.co^
 ||churchillarms.co^
@@ -1182300,6 +1182954,7 @@
 ||asialive.com.co^
 ||asistenciamya.com.co^
 ||asociados.com.co^
+||asogestion.com.co^
 ||asumano.com.co^
 ||atleticobucaramanga.com.co^
 ||sbobet.atleticobucaramanga.com.co^
@@ -1191286,6 +1191941,7 @@
 ||buayapoker.devport.co^
 ||seo.devport.co^
 ||viralqq.devport.co^
+||devwear.co^
 ||dewa-togel.co^
 ||dewa08.co^
 ||dewa1000.co^
@@ -1192037,6 +1192693,7 @@
 ||divatogel.co^
 ||divatogel88situs.co^
 ||divatoto.co^
+||diverseit.co^
 ||dividedby.co^
 ||dividual.co^
 ||divisi303.co^
@@ -1199291,6 +1199948,7 @@
 ||elbayan.co^
 ||elcivico.co^
 ||eldato.co^
+||elderabuse.co^
 ||eldoradoradio.co^
 ||electograph.co^
 ||electriccity.co^
@@ -1202708,6 +1203366,7 @@
 ||gol5723.co^
 ||gol5757.co^
 ||gol5781.co^
+||gol5801.co^
 ||gol5808.co^
 ||gol5833.co^
 ||gol6044.co^
@@ -1214345,6 +1215004,7 @@
 ||lotretoto.co^
 ||lott8.co^
 ||lotte4d.co^
+||lotterycasino.co^
 ||lotto-thai.co^
 ||lotto01.co^
 ||lotto02.co^
@@ -1230469,6 +1231129,7 @@
 ||nocodeclub.co^
 ||nocodecms.co^
 ||nocturnalcities.co^
+||nodepositfreespins.co^
 ||nodrakor.co^
 ||nodusdesign.co^
 ||nohohairsalon.co^
@@ -1231406,6 +1232067,7 @@
 ||onlinemaxbet.co^
 ||onlinepoker99.co^
 ||onlinepokerindo.co^
+||onlinepokiesfastwithdrawal.co^
 ||onlineroulettecasino.co^
 ||onlinesabong.co^
 ||onlineslotpragmatic.co^
@@ -1232176,6 +1232838,7 @@
 ||palu4d.co^
 ||palugacor.co^
 ||palugadabet.co^
+||palumania.co^
 ||palung88.co^
 ||paman4d.co^
 ||pamanbet.co^
@@ -1233995,6 +1234658,7 @@
 ||picjav.co^
 ||pick4d.co^
 ||pickanose.co^
+||picturesinmotion.co^
 ||piece88.co^
 ||pig8.co^
 ||pigbet.co^
@@ -1245812,6 +1246476,7 @@
 ||soicaukubet.co^
 ||soicaumienbac.co^
 ||soicaurongbachkim.co^
+||soignestudios.co^
 ||soikeoplus.co^
 ||soju188login.co^
 ||soju777.co^
@@ -1246901,6 +1247566,7 @@
 ||sunonthebeach.co^
 ||sunpoker303.co^
 ||sunrisegolf.co^
+||sunshark.co^
 ||sunshineautosales.co^
 ||sunsv388.co^
 ||suntikrtp.co^
@@ -1247307,6 +1247973,7 @@
 ||sweetcitydesserts.co^
 ||sweetnanza.co^
 ||sweetrushbonanzademo.co^
+||sweetsino.co^
 ||sweetteallc.co^
 ||swertejackpot.co^
 ||swertresgo.co^
@@ -1247408,6 +1248075,7 @@
 ||sv3888.synergize.co^
 ||tetrahypesol.synergize.co^
 ||togelhongkong.synergize.co^
+||vkk-up.synergize.co^
 ||wulingmotors.synergize.co^
 ||synergyai.co^
 ||syp123.co^
@@ -1266504,6 +1267172,7 @@
 ||12dxj.com^
 ||12e88st.com^
 ||12ego777.com^
+||12elevenbrand.com^
 ||12em1pkr.com^
 ||12emakbet.com^
 ||12enakcuan.com^
@@ -1270104,6 +1270773,7 @@
 ||1820digital.com^
 ||18238924.com^
 ||18247892idt.com^
+||1828-trail-inn.com^
 ||kcqku.1829815733c9caf1.com^
 ||182coinmaster.com^
 ||182dtogel.com^
@@ -1302989,6 +1303659,7 @@
 ||588330.com^
 ||588338.com^
 ||588383.com^
+||588501.com^
 ||588521.com^
 ||5888slot.com^
 ||588domino.com^
@@ -1306099,6 +1306770,7 @@
 ||666ia.com^
 ||666igames.com^
 ||666indo.com^
+||666j-s.com^
 ||666j2k.com^
 ||666jdl.com^
 ||555d5.666jinan.com^
@@ -1309907,6 +1310579,7 @@
 ||75oppott.com^
 ||75pemenang77.com^
 ||75r-h25.com^
+||75r-slotonline.com^
 ||75r10.com^
 ||75r11.com^
 ||75r16.com^
@@ -1310243,6 +1310916,7 @@
 ||7777rt.com^
 ||7777slotxo.com^
 ||7777w.com^
+||7777w-n.com^
 ||7777w111s.com^
 ||7777w2.com^
 ||7777w2022.com^
@@ -1322378,6 +1323052,7 @@
 ||t0726.91zuixindizhi.com^
 ||91zwzm.com^
 ||91zxtv.com^
+||92039334.com^
 ||920fifthave11b.com^
 ||920karn.com^
 ||920mm.com^
@@ -1339786,6 +1340461,7 @@
 ||accessory-gallery.com^
 ||accessoryinsanity.com^
 ||accessoryo.com^
+||accessoutdoorsot.com^
 ||accessovietato.com^
 ||accessoxfordinc.com^
 ||accesspass.com^
@@ -1341528,6 +1342204,7 @@
 ||acetazolamider.com^
 ||acetechdesignstudio.com^
 ||acetechontario.com^
+||acetects.com^
 ||aceteens.com^
 ||acetelur.com^
 ||aceterbang.com^
@@ -1345826,6 +1346503,7 @@
 ||admissionjankari.com^
 ||admissionsplay.com^
 ||admissionsquest.com^
+||admissuscase.com^
 ||admit-one.com^
 ||admlinkspolo.com^
 ||admnadim.com^
@@ -1345941,6 +1346619,7 @@
 ||adoglikeyou.com^
 ||adoisg.com^
 ||adokkiaperti.com^
+||adolbaines.com^
 ||adolescenciaalape.com^
 ||adolescencias.com^
 ||adolescentadulthood.com^
@@ -1362984,6 +1363663,7 @@
 ||african-award.com^
 ||african-bitches.com^
 ||african-breasts.com^
+||african-dishes-restaurant.com^
 ||african-fantasies.com^
 ||african-goddesses.com^
 ||african-music-safari.com^
@@ -1363272,6 +1363952,7 @@
 ||afroboobs.com^
 ||afrobooty.com^
 ||afroboys.com^
+||afrobrutality.com^
 ||afrocelebs.com^
 ||afrocentricsounds.com^
 ||afrochicks.com^
@@ -1367702,6 +1368383,7 @@
 ||agenjudibolakita.com^
 ||agenjudibolaonlinebandarterpercaya.com^
 ||agenjudibolaonlineindonesia.com^
+||agenjudibolaonlineterbaik2018.com^
 ||agenjudibolaonlineterpercaya.com^
 ||agenjudibolapialadunia.com^
 ||agenjudibolapialadunia2018.com^
@@ -1369586,6 +1370268,7 @@
 ||agenslotpgsoft.com^
 ||modespin.agenslotpgsoft.com^
 ||agenslotpragmaticasia.com^
+||agenslotpro.com^
 ||agenslotpulsahariini.com^
 ||agenslotqq.com^
 ||agenslotqq188.com^
@@ -1378546,6 +1379229,7 @@
 ||preprod-creai.aims360.com^
 ||aimsfx.com^
 ||aimshospitalongole.com^
+||aimshospitalsap.com^
 ||aimsiremerald.com^
 ||aimslot.com^
 ||aimspinesports.com^
@@ -1378788,6 +1379472,7 @@
 ||aippg.com^
 ||aipratropium.com^
 ||aipresorts.com^
+||aiprodigi.com^
 ||aiproductreviewonline.com^
 ||1.1.1.lucky.aiqinga.com^
 ||aiqishequ.com^
@@ -1386788,6 +1387473,7 @@
 ||situs-togel158.alabasterasia.com^
 ||alabasterchess.com^
 ||alabastergirl.com^
+||alablancajewelry.com^
 ||alabo301.com^
 ||alabrasamexicanmadison.com^
 ||alabriqueterie.com^
@@ -1395343,6 +1396029,7 @@
 ||allairerentals.com^
 ||allairlinesoffices.com^
 ||allalexistexas.com^
+||allalgorithms.com^
 ||allall8.com^
 ||allalphabet.com^
 ||allamamuhammadiqbal.com^
@@ -1411275,6 +1411962,7 @@
 ||altoto4.com^
 ||altoto5.com^
 ||altovidigal.com^
+||altowingpalmbeach.com^
 ||altoyuk.com^
 ||altpangkalanslot.com^
 ||masku.altpap4d.com^
@@ -1413051,6 +1413739,7 @@
 ||amankuselalu.com^
 ||amankutop1.com^
 ||amankwtd4.com^
+||amanlanesuiteseminyak.com^
 ||amanler88.com^
 ||amanlerr.com^
 ||amanliga.com^
@@ -1428863,6 +1429552,7 @@
 ||amrtoto.com^
 ||amruthaboutique.com^
 ||amruthamshomefood.com^
+||amrwichita.com^
 ||amryl.com^
 ||ams-cyber.com^
 ||ams-innovate.com^
@@ -1429624,6 +1430314,7 @@
 ||anabellacorsi.com^
 ||anabellagaleano.com^
 ||anabellagoddess.com^
+||anabellaphotography.com^
 ||anabellechong.com^
 ||anabelleescort.com^
 ||anabelmoon.com^
@@ -1437877,6 +1438568,7 @@
 ||andersonvans.com^
 ||andersonvillewineandspirits.com^
 ||andes-mesili.com^
+||apk.andes-newyork.com^
 ||andesnewyork.com^
 ||andet-sted.com^
 ||andfat.com^
@@ -1438095,6 +1438787,7 @@
 ||andreakarshan.com^
 ||andreakazbeauty.com^
 ||andrealivescbus.com^
+||andrealmeidarodrigues.com^
 ||andrealochen.com^
 ||andrealopezmusic.com^
 ||andrealucasstudios.com^
@@ -1446192,6 +1446885,7 @@
 ||annamovies.com^
 ||annamrajudesigns.com^
 ||annanagarcycles.com^
+||annanailsmi.com^
 ||annanalis.com^
 ||annanba.com^
 ||annanbruce.com^
@@ -1448271,6 +1448965,7 @@
 ||antirungkadkawi777.com^
 ||antirungkadpastisoda.com^
 ||antirungkadslot.com^
+||antirungkadslotdemo.com^
 ||antirungkadsoda.com^
 ||antirungkap.com^
 ||antirungkat.com^
@@ -1451565,6 +1452260,7 @@
 ||apek88ratu.com^
 ||apek88red.com^
 ||apek88rejeki.com^
+||apek88resmi.com^
 ||apek88resto.com^
 ||apek88seru.com^
 ||apek88sinar.com^
@@ -1452481,6 +1453177,7 @@
 ||apigacor88qos.com^
 ||apigacor88rp.com^
 ||apigacor88rtp.com^
+||apigacor88se.com^
 ||apigacor88skw.com^
 ||apigacor88sport.com^
 ||apigacor88vip.com^
@@ -1454126,6 +1454823,7 @@
 ||apluscheats.com^
 ||apluscoinwash.com^
 ||apluscomputersforseniors.com^
+||aplusdogscolumbus.com^
 ||aplusdonsmovingandhauling.com^
 ||apluserotica.com^
 ||aplusethnic.com^
@@ -1454662,6 +1455360,7 @@
 ||apparelillustrated.com^
 ||appareljobboard.com^
 ||apparelny.com^
+||apparelskingdom.com^
 ||apparentlifestyle.com^
 ||apparentlyexempt.com^
 ||apparentmenang.com^
@@ -1455886,6 +1456585,7 @@
 ||apss-appos-mss2025.com^
 ||apssevilla2022.com^
 ||apssr.com^
+||apsstarmachine.com^
 ||apsua.com^
 ||apsunpro.com^
 ||apsupermarket.com^
@@ -1456845,6 +1457545,7 @@
 ||aquasexe.com^
 ||aquasilultracordless.com^
 ||aquasinosouthbeach.com^
+||aquaskills.com^
 ||aquaslot1.com^
 ||aquaslot10.com^
 ||aquaslot11.com^
@@ -1469839,6 +1470540,7 @@
 ||asd123now.com^
 ||asd123nya.com^
 ||asd123nyan.com^
+||asd123ori.com^
 ||asd123paten.com^
 ||asd123pedas.com^
 ||asd123penyu.com^
@@ -1490856,6 +1491558,7 @@
 ||attorneylombardi.com^
 ||attorneymello.com^
 ||attorneymyrtlebeachsc.com^
+||attorneyondine.com^
 ||attorneypeterkelley.com^
 ||attorneyrobinrochelle.com^
 ||attorneyscumberlandcountymaine.com^
@@ -1497850,6 +1498553,7 @@
 ||avenuevoyeur.com^
 ||avenulounge.com^
 ||aveomedia.com^
+||avepl.com^
 ||aveporn.com^
 ||averacing.com^
 ||average-ladies.com^
@@ -1505770,6 +1506474,7 @@
 ||ayuray.com^
 ||ayurbrandcares.com^
 ||ayurcareayurveda.com^
+||ayurharsha.com^
 ||ayurheart.com^
 ||ayurhubs.com^
 ||ayurnepal.com^
@@ -1514727,6 +1515432,7 @@
 ||backpackerfilms.com^
 ||backpackerhostels.com^
 ||backpackerinstantbooking.com^
+||backpackerqualitygear.com^
 ||backpackersblackpool.com^
 ||backpackershru.com^
 ||backpackersinternational.com^
@@ -1540150,6 +1540856,7 @@
 ||bandar-dominoqq.com^
 ||bandar-eratoto.com^
 ||bandar-for4d.com^
+||bandar-free-game-slot.com^
 ||bandar-gaming.com^
 ||bandar-gmtoto88.com^
 ||bandar-judi.com^
@@ -1541421,6 +1542128,7 @@
 ||bandarjudidaduonline.com^
 ||bandarjudidomino.com^
 ||bandarjudidominoqq.com^
+||bandarjudiikan.com^
 ||bandarjudiind.com^
 ||bandarjudiindo.com^
 ||bandarjudiindo-vip.com^
@@ -1543190,6 +1543898,7 @@
 ||bandarslotgg.com^
 ||bandarslotindo.com^
 ||bandarslotjackpot.com^
+||bandarslotjoker188.com^
 ||bandarslotmahjong.com^
 ||bandarslotmantap.com^
 ||bandarsloto.com^
@@ -1543608,6 +1544317,7 @@
 ||situs.bandartoto-register.com^
 ||bandartoto-togel.com^
 ||bandartoto1.com^
+||bandartoto123.com^
 ||bandartoto128.com^
 ||bandartoto228ku.com^
 ||bandartoto4dmacau.com^
@@ -1548769,6 +1549479,7 @@
 ||bapetencipocokjaya.com^
 ||bapetendepok.com^
 ||macaupools.bapetendumai.com^
+||bapetengayolues.com^
 ||bapetenjakartabarat.com^
 ||bapetenjakartaselatan.com^
 ||bapetenjakartatimur.com^
@@ -1552362,6 +1553073,7 @@
 ||basekit4d.com^
 ||basekosmetik.com^
 ||basel2021.com^
+||baselineactive.com^
 ||baselinelandscapes.com^
 ||baselineleeds.com^
 ||baselinemortgage.com^
@@ -1554779,6 +1555491,7 @@
 ||batik13.com^
 ||batik138.com^
 ||batik138akses.com^
+||batik138login.com^
 ||batik138masuk.com^
 ||batik138slot.com^
 ||batik168b.com^
@@ -1559824,6 +1560537,7 @@
 ||bayutoto10.com^
 ||bayutoto101.com^
 ||bayutoto11.com^
+||bayutoto1111-link.com^
 ||bayutoto12.com^
 ||bayutoto13.com^
 ||bayutoto15.com^
@@ -1569888,6 +1570602,7 @@
 ||beaumondeguitars.com^
 ||beaumondeorganics.com^
 ||beaumontchildren.com^
+||beaumontmorgan.com^
 ||beaumontpharmacy.com^
 ||beaumontpublic.com^
 ||beaumontregistries.com^
@@ -1573917,6 +1574632,7 @@
 ||bejogas.com^
 ||link1.bejogold.com^
 ||link10.bejogold.com^
+||link11.bejogold.com^
 ||link2.bejogold.com^
 ||link3.bejogold.com^
 ||link4.bejogold.com^
@@ -1576202,6 +1576918,7 @@
 ||belvedere-resources.com^
 ||belvederebaku.com^
 ||belvederebeachresort.com^
+||belvederediquarto.com^
 ||belvederefc.com^
 ||belvederefireisland.com^
 ||belvederepunk.com^
@@ -1581555,6 +1582272,7 @@
 ||berlian888by.com^
 ||berlian888bz.com^
 ||berlian888c.com^
+||berlian888ca.com^
 ||berlian888d.com^
 ||berlian888e.com^
 ||berlian888f.com^
@@ -1590316,6 +1591034,7 @@
 ||fklq.beta-archive.com^
 ||vfxt1.beta-archive.com^
 ||beta-co.com^
+||beta-eskesta.com^
 ||beta-homes.com^
 ||beta-maluku.com^
 ||beta-sex.com^
@@ -1603092,6 +1603811,7 @@
 ||bhdani.com^
 ||bhdraftinganddesign.com^
 ||bhdsalons.com^
+||bhedadsclub.com^
 ||bhedana.com^
 ||bheemasindian.com^
 ||gukuaikoulun13.bhetwlyx.com^
@@ -1610936,6 +1611656,7 @@
 ||bigwd606.com^
 ||bigwdwak.com^
 ||bigwebgoto.com^
+||bigwebslotonline.com^
 ||bigweekly.com^
 ||bigwestmedia.com^
 ||bigwet.com^
@@ -1618424,6 +1619145,7 @@
 ||birthdayfunction.com^
 ||birthdaygirl.com^
 ||birthdayhdimages.com^
+||birthdayoncall.com^
 ||birthdaysdalston.com^
 ||birthdaysex.com^
 ||birthdaywishes101.com^
@@ -1624502,6 +1625224,7 @@
 ||bk8cuan8.com^
 ||bk8cuan888.com^
 ||bk8cuanid.com^
+||bk8cuanid9.com^
 ||bk8cuanidr.com^
 ||bk8cuanjos.com^
 ||bk8cuann.com^
@@ -1627646,6 +1628369,7 @@
 ||blacklabelporn.com^
 ||blacklabelpro.com^
 ||blacklabelsex.com^
+||blacklabelthreads.com^
 ||blacklabeltux.com^
 ||blacklabelxxx.com^
 ||blacklabgalleryeverett.com^
@@ -1631947,6 +1632671,7 @@
 ||blakeofficial.com^
 ||blakeoil.com^
 ||blakeseely.com^
+||blakeshoes.com^
 ||blakesleevet.com^
 ||blakesoffarnham.com^
 ||blakespuzzles.com^
@@ -1814109,6 +1814834,7 @@
 ||blogtintuc.com^
 ||blogtogel.com^
 ||blogtogel1.com^
+||blogtogelonline.com^
 ||blogtorylane.com^
 ||israelqgtgt.blogtov.com^
 ||blogtownhall.com^
@@ -1815157,6 +1815883,7 @@
 ||bloogium.com^
 ||sexeschool.bloogx.com^
 ||blookcritic.com^
+||blooket-join.com^
 ||blooketjoinplaycodes.com^
 ||blookipedia.com^
 ||bloom-brothers.com^
@@ -1815197,6 +1815924,7 @@
 ||bloomfieldpublicschool.com^
 ||bloomfieldvillagepizza.com^
 ||sex.bloomhappy.com^
+||bloomhealthpartners.com^
 ||bloomhorticulture.com^
 ||blooming-18.com^
 ||bloomingardenslandscape.com^
@@ -1819413,6 +1820141,7 @@
 ||bluehouseskis.com^
 ||bluehustler.com^
 ||blueidesigns.com^
+||blueillusionbeauty.com^
 ||blueincome.com^
 ||blueindigocottage.com^
 ||blueindovegas4d.com^
@@ -1834443,843 +1835172,3 @@
 ||bojmec.com^
 ||bojo-toto.com^
 ||bojo388.com^
-||bojocams.com^
-||gr.bojocams.com^
-||tr.bojocams.com^
-||bojogaming.com^
-||bojoker.com^
-||bojoker123.com^
-||bojoker768.com^
-||bojoker88.com^
-||bojoko.com^
-||bojonegorojuto.com^
-||bojonegorokarir.com^
-||bojonegorotoday.com^
-||bojongmentengresidence.com^
-||bojot0t0-rtp.com^
-||bojototo.com^
-||bojototo-amp.com^
-||bojototo-amp-one.com^
-||bojototo-hype.com^
-||bojototo-jackpot.com^
-||bojototo-maxwin.com^
-||bojototo-rtp.com^
-||bojototo-rtp1.com^
-||bojototo-rtp2.com^
-||bojototo-rtp28.com^
-||bojototo-rtp29.com^
-||bojototo-rtp30.com^
-||bojototo-rtp31.com^
-||bojototo-rtp32.com^
-||bojototo-rtp33.com^
-||bojototo-rtp34.com^
-||bojototo-rtp35.com^
-||bojototo-rtp36.com^
-||bojototo-rtp37.com^
-||bojototo-rtp38.com^
-||bojototo-rtp39.com^
-||bojototo-rtpanjay.com^
-||bojototo-rtpbohay.com^
-||bojototo-rtpgood.com^
-||bojototo1.com^
-||bojototo10.com^
-||bojototo2.com^
-||bojototo3.com^
-||bojototo4.com^
-||bojototo5.com^
-||bojototo6.com^
-||bojototo7.com^
-||bojototo8.com^
-||bojototo9.com^
-||bojototocome.com^
-||bojototocorn.com^
-||bojototogarlic.com^
-||bojototortpbanyakin.com^
-||bojototortperisa.com^
-||bojototortpkepot.com^
-||bojototortpopitak.com^
-||bojototortppolisa.com^
-||bojototortpqwerty.com^
-||bojototortpwekasi.com^
-||bojototortpweris.com^
-||bojototoshy.com^
-||bojototosky.com^
-||bojotototime.com^
-||bojp1131.com^
-||bojpan.com^
-||bojudilukitoslot.com^
-||bojudimpo.com^
-||bojudionline.com^
-||bojudipoker.com^
-||bojudislot.com^
-||bojue.com^
-||bok-choy-celebs.com^
-||bok138.com^
-||bok138jp.com^
-||bok3p.com^
-||bokacoda.com^
-||bokamodesigns.com^
-||bokapsubur.com^
-||bokaptogel.com^
-||bokaptoto.com^
-||bokartu.com^
-||bokas88.com^
-||bokaseattle.com^
-||777joker123.bokaturist.com^
-||bokbloggeir.com^
-||bokbloggen.com^
-||bokbok21.com^
-||bokbokchicken.com^
-||bokchi.com^
-||bokdugbang.com^
-||bokeb2020.com^
-||bokebasia.com^
-||bokebhub.com^
-||bokebid.com^
-||bokebindoh.com^
-||bokebx.com^
-||bokedomino.com^
-||littlegirl2008.bokee.com^
-||seqp.bokee.com^
-||bokeff.com^
-||bokeff2023.com^
-||bokeff2024.com^
-||bokeh69.com^
-||bokehlink.com^
-||bokeibucantik.com^
-||bokeindo.com^
-||bokekoku-porn.com^
-||bokep.com^
-||id.bokep.com^
-||id.bokep-asia.com^
-||bokep-barat.com^
-||bokep-bokep.com^
-||bokep-bugil.com^
-||bokep-china.com^
-||bokep-gadis.com^
-||bokep-gratis.com^
-||bokep-gratisan.com^
-||bokep-id.com^
-||bokep-indo.com^
-||bokep-indo-13.com^
-||bokep-indo69.com^
-||bokep-indonesia.com^
-||bokep-jav.com^
-||bokep-jepang.com^
-||bokep-jilbab.com^
-||bokep-korea.com^
-||bokep-lokal.com^
-||bokep-ojol.com^
-||bokep-online.com^
-||bokep-perawan.com^
-||bokep-plus2.com^
-||bokep-streaming.com^
-||bokep-tante.com^
-||bokep-terbaru.com^
-||bokep-thailand.com^
-||bokep-tube.com^
-||bokep-video.com^
-||bokep-xxx.com^
-||bokep0.com^
-||bokep01.com^
-||bokep1.com^
-||bokep1000.com^
-||bokep101.com^
-||bokep123.com^
-||bokep12kb.com^
-||bokep13.com^
-||bokep14.com^
-||bokep16.com^
-||bokepjepanghd.bokep16.com^
-||downloadbokep.bokep16.com^
-||downloadvidio.bokep16.com^
-||media.bokep16.com^
-||newvideo.bokep16.com^
-||nonton.bokep16.com^
-||ratu.bokep16.com^
-||save.bokep16.com^
-||seks.bokep16.com^
-||sex.bokep16.com^
-||sexx.bokep16.com^
-||tante.bokep16.com^
-||bokep168.com^
-||bokep19.com^
-||bokep2.com^
-||bokep20.com^
-||bokep2014.com^
-||bokep2015.com^
-||bokep2017.com^
-||bokep2022.com^
-||bokep2023.com^
-||bokep2025.com^
-||bokep2026.com^
-||bokep212.com^
-||bokep21full.com^
-||bokep22.com^
-||indo.bokep22.com^
-||memek.bokep22.com^
-||porn.bokep22.com^
-||sex1.bokep22.com^
-||sex2.bokep22.com^
-||viral.bokep22.com^
-||bokep23.com^
-||bokep234.com^
-||player.bokep234.com^
-||bokep24.com^
-||bokep247.com^
-||bokep24h.com^
-||bokep26.com^
-||bokep3.com^
-||bokep303.com^
-||bokep31.com^
-||bokep321.com^
-||bokep33.com^
-||bokep360.com^
-||bokep365.com^
-||bokep378.com^
-||bokep3g.com^
-||bokep3gp.com^
-||bokep3gpgratis.com^
-||bokep3gpindonesia.com^
-||bokep3x.com^
-||bokep3xx.com^
-||bokep45.com^
-||bokep48.com^
-||bokep49.com^
-||bokep4k.com^
-||bokep4maniak.com^
-||bokep4x.com^
-||bokep4xx.com^
-||bokep50.com^
-||bokep57.com^
-||bokep5x.com^
-||bokep5xx.com^
-||bokep60.com^
-||bokep62.com^
-||bokep64.com^
-||bokep66.com^
-||bokep6x.com^
-||bokep7.com^
-||bokep70.com^
-||bokep76.com^
-||bokep77.com^
-||bokep777.com^
-||bokep78.com^
-||bokep789.com^
-||bokep8.com^
-||bokep80.com^
-||bokep855.com^
-||bokep86.com^
-||bokep888.com^
-||bokep8888.com^
-||bokep89.com^
-||bokep999.com^
-||bokep99a.com^
-||bokepaa.com^
-||bokepab.com^
-||bokepabgindo.com^
-||bokepadult.com^
-||bokepae.com^
-||bokepag.com^
-||bokepah.com^
-||bokepahh.com^
-||bokepaja.com^
-||bokepalam.com^
-||bokepamatir.com^
-||bokepanak.com^
-||bokepanaksma.com^
-||bokepanaksmp.com^
-||bokepanda.com^
-||www1.bokepanda.com^
-||bokepanime1.com^
-||bokepanu.com^
-||bokepar.com^
-||bokepargentina.com^
-||bokepartis.com^
-||bokepartisindonesia.com^
-||bokepas.com^
-||video.bokepas.com^
-||bokepascol.com^
-||bokepasian1.com^
-||bokepasli.com^
-||bokepasoy.com^
-||bokepat.com^
-||bokepav.com^
-||bokepavtub.com^
-||bokepax.com^
-||bokepaz.com^
-||bokepb.com^
-||bokepba.com^
-||bokepbacol.com^
-||bokepbae.com^
-||bokepbagus.com^
-||bokepbarat1.com^
-||bokepbarat12.com^
-||bokepbarat123.com^
-||bokepbarat321.com^
-||bokepbarat432.com^
-||bokepbarat456.com^
-||bokepbarat543.com^
-||bokepbarat654.com^
-||bokepbarat765.com^
-||bokepbarat789.com^
-||bokepbarat876.com^
-||bokepbarat987.com^
-||bokepbarbar.com^
-||bokepbaru88.com^
-||bokepbaruindo.com^
-||bokepbd.com^
-||bokepbe.com^
-||bokepbebas.com^
-||bokepbejat.com^
-||bokepbening.com^
-||bokepbet.com^
-||bokepbet007.com^
-||bokepbet008.com^
-||bokepbet1.com^
-||bokepbet111.com^
-||bokepbet123.com^
-||bokepbet2.com^
-||bokepbet212.com^
-||bokepbet222.com^
-||bokepbet555.com^
-||bokepbet88.com^
-||bokepbetqq.com^
-||bokepbf.com^
-||bokepbi.com^
-||bokepbidan.com^
-||bokepbigo.com^
-||bokepbinal.com^
-||bokepbinor.com^
-||bokepbintang.com^
-||bokepbiru.com^
-||bokepbling2.com^
-||bokepbo.com^
-||bokepbocah.com^
-||bokepbocil.com^
-||bokepbokap.com^
-||bokepbokep.com^
-||bokepbos.com^
-||bokepbox.com^
-||bokepboxhd.com^
-||bokepboxtv.com^
-||bokepboxx.com^
-||bokepbray.com^
-||bokepbrazzer1.com^
-||bokepbro.com^
-||bokepbugil.com^
-||bokepbugil17.com^
-||bokepbull.com^
-||bokepbung.com^
-||bokepby.com^
-||bokepc.com^
-||bokepcabe.com^
-||bokepcams.com^
-||bokepcantik.com^
-||bokepcasino.com^
-||bokepcasino1.com^
-||bokepcd.com^
-||bokepcenter.com^
-||bokepcerita.com^
-||bokepch.com^
-||bokepchat.com^
-||bokepchill.com^
-||bokepchina.com^
-||bokepcina123.com^
-||bokepcina234.com^
-||bokepcina321.com^
-||bokepcina345.com^
-||bokepcina456.com^
-||bokepcina567.com^
-||bokepcina678.com^
-||bokepcina765.com^
-||bokepcina789.com^
-||bokepcina876.com^
-||bokepcina987.com^
-||bokepclick.com^
-||bokepclip.com^
-||bokepco.com^
-||bokepcolmek.com^
-||bokepcool.com^
-||bokepcox.com^
-||bokepcrot.com^
-||bokepcrt.com^
-||bokepcrut.com^
-||bokepcun.com^
-||bokepcuy.com^
-||bokepcyber.com^
-||bokepd.com^
-||bokepde.com^
-||bokepdek.com^
-||bokepdella.com^
-||bokepdesu.com^
-||bokepdewa.com^
-||bokepdewasa.com^
-||bokepdiary.com^
-||bokepdo.com^
-||bokepdo3gp.com^
-||bokepdoku.com^
-||bokepdonlod.com^
-||bokepdot.com^
-||xgemoy.bokepdot.com^
-||bokepdugem.com^
-||bokepdulu.com^
-||bokepdvd.com^
-||bokeped.com^
-||bokepediaflix.com^
-||bokepee.com^
-||bokepef.com^
-||bokepeh.com^
-||bokepel.com^
-||bokepen.com^
-||bokepenak.com^
-||bokepep.com^
-||bokeperstante.com^
-||bokepes.com^
-||bokepet.com^
-||bokepewe.com^
-||bokepex.com^
-||bokepf.com^
-||bokepfa.com^
-||bokepfansclub.com^
-||bokepfb.com^
-||bokepfe.com^
-||bokepfilm.com^
-||bokepfoto.com^
-||bokepfree.com^
-||bokepfuck.com^
-||bokepfull.com^
-||bokepfullhd.com^
-||bokepfun.com^
-||bokepfy.com^
-||bokepfyp.com^
-||bokepg.com^
-||bokepgacor.com^
-||bokepgay.com^
-||bokepgede.com^
-||bokepgemoy.com^
-||bokepgg.com^
-||bokepgila.com^
-||bokepgo.com^
-||bokepgoku.com^
-||bokepgratis69.com^
-||bokepgrub.com^
-||bokepgu.com^
-||bokepgue.com^
-||bokepguru.com^
-||bokepgw.com^
-||bokepha.com^
-||bokephamil.com^
-||bokephamster.com^
-||bokephd.com^
-||bokephdgratis.com^
-||bokephdrsex.com^
-||bokephdsex.com^
-||bokephdv.com^
-||bokephdx.com^
-||bokephdx1.com^
-||bokephe.com^
-||bokephentai.com^
-||bokephihi.com^
-||bokephijab.com^
-||bokephit.com^
-||bokephitam.com^
-||bokephits.com^
-||bokephm.com^
-||bokepho.com^
-||bokepholic.com^
-||bokephomo.com^
-||bokephost.com^
-||bokephot123.com^
-||bokephot321.com^
-||bokephot51.com^
-||bokephot654.com^
-||bokephot765.com^
-||bokephot789.com^
-||bokephot876.com^
-||bokephot987.com^
-||bokephotindo.com^
-||bokephots.com^
-||bokephoy.com^
-||bokephp.com^
-||bokephp3gpbaru.com^
-||bokephub.com^
-||bokephubx.com^
-||bokephunter.com^
-||bokepi.com^
-||bokepia.com^
-||bokepid.com^
-||bokepid69.com^
-||bokepidaman.com^
-||bokepidn.com^
-||bokepidnofficial.com^
-||bokepidnresmi.com^
-||bokepido.com^
-||bokepidol.com^
-||bokepidr.com^
-||bokepigo.com^
-||bokepilem.com^
-||bokepimdo.com^
-||bokepina.com^
-||bokepinaja.com^
-||bokepind.com^
-||bokepindex.com^
-||bokepindian.com^
-||bokepindo1.com^
-||bokepindo11.com^
-||bokepindo123.com^
-||bokepindo123z.com^
-||bokepindo13.com^
-||bokepindo17.com^
-||bokepindo18.com^
-||bokepindo1z.com^
-||bokepindo2015.com^
-||bokepindo2018.com^
-||bokepindo2019.com^
-||bokepindo2023.com^
-||bokepindo2024.com^
-||bokepindo21.com^
-||bokepindo23.com^
-||bokepindo234z.com^
-||bokepindo247.com^
-||bokepindo25.com^
-||bokepindo28.com^
-||bokepindo2z.com^
-||bokepindo31.com^
-||bokepindo345z.com^
-||bokepindo3z.com^
-||bokepindo4z.com^
-||bokepindo68.com^
-||bokepindo69.com^
-||bokepindo88.com^
-||bokepindo99.com^
-||bokepindobaru.com^
-||bokepindofull.com^
-||bokepindoh.com^
-||bokepindoh13.com^
-||bokepindoh31.com^
-||bokepindohd.com^
-||bokepindohots.com^
-||bokepindohx.com^
-||bokepindonesi.com^
-||bokepindonesian.com^
-||bokepindoo.com^
-||bokepindopilihan.com^
-||bokepindoplay.com^
-||bokepindopoipet.com^
-||bokepindopro.com^
-||bokepindos.com^
-||bokepindosex.com^
-||bokepindosexxx.com^
-||bokepindostream.com^
-||bokepindosx.com^
-||bokepindoterbaru.com^
-||bokepindotg.com^
-||bokepindotub.com^
-||bokepindotv.com^
-||bokepindovideo.com^
-||bokepindovideos.com^
-||bokepindovip.com^
-||bokepindoviral.com^
-||bokepindow.com^
-||bokepindox.com^
-||bokepindoxxi.com^
-||bokepindoxxx.com^
-||bokepindoz.com^
-||bokepindozz.com^
-||bokepinduk.com^
-||bokepindx.com^
-||bokepinfoterbaru.com^
-||bokepini.com^
-||bokepinih.com^
-||bokepinivideo.com^
-||bokepink.com^
-||bokepino.com^
-||bokepinvideo.com^
-||bokepio.com^
-||bokepipin.com^
-||bokepiq.com^
-||bokepis.com^
-||bokepisrael.com^
-||bokepit.com^
-||bokepitalia.com^
-||bokepitu.com^
-||bokepj.com^
-||bokepjapanterbaru.com^
-||bokepjav.com^
-||bokepjava.com^
-||bokepjavdownload.com^
-||bokepjavhd.com^
-||bokepjavindo.com^
-||bokepjavsubindo.com^
-||bokepjavx3.com^
-||bokepjawa.com^
-||bokepjepang.com^
-||bokepjepang1.com^
-||bokepjepang123.com^
-||bokepjepang1234.com^
-||bokepjepang234.com^
-||bokepjepang2345.com^
-||bokepjepang235.com^
-||bokepjepang247.com^
-||bokepjepang321.com^
-||bokepjepang345.com^
-||bokepjepang3456.com^
-||bokepjepang432.com^
-||bokepjepang444.com^
-||bokepjepang456.com^
-||bokepjepang4567.com^
-||bokepjepang543.com^
-||bokepjepang555.com^
-||bokepjepang5678.com^
-||bokepjepang654.com^
-||bokepjepang666.com^
-||bokepjepang6789.com^
-||bokepjepang69.com^
-||bokepjepang765.com^
-||bokepjepang777.com^
-||bokepjepang789.com^
-||bokepjepang876.com^
-||bokepjepang888.com^
-||bokepjepang987.com^
-||bokepjepang9876.com^
-||bokepjepang999.com^
-||bokepjepangfull.com^
-||bokepjepanghd.com^
-||bokepjepangindo.com^
-||bokepjepangjav.com^
-||bokepjepangs.com^
-||bokepjepangsubindo.com^
-||bokepjepangterbaru.com^
-||bokepjepangx.com^
-||bokepjepangz.com^
-||bokepjerman.com^
-||bokepjilbab.com^
-||bokepjilbab3gp.com^
-||bokepjilbabmesum.com^
-||bokepjilbob.com^
-||bokepjo.com^
-||bokepjp.com^
-||bokepk.com^
-||bokepka.com^
-||bokepkamu.com^
-||bokepkaskus.com^
-||bokepkeren.com^
-||bokepkerudung.com^
-||bokepkimochi.com^
-||bokepkita.com^
-||bokepkita21.com^
-||bokepkorea123.com^
-||bokepkorea234.com^
-||bokepkorea247.com^
-||bokepkorea321.com^
-||bokepkorea345.com^
-||bokepkorea432.com^
-||bokepkorea456.com^
-||bokepkorea543.com^
-||bokepkorea567.com^
-||bokepkorea654.com^
-||bokepkorea678.com^
-||bokepkorea789.com^
-||bokepkorean.com^
-||bokepkoreax.com^
-||bokepkoreax123.com^
-||bokepkoreax234.com^
-||bokepkoreax345.com^
-||bokepkoreax456.com^
-||bokepkoreaz.com^
-||bokepku.com^
-||bokepku69.com^
-||bokepkuy.com^
-||bokepky.com^
-||bokepl.com^
-||bokepla.com^
-||bokeplagi.com^
-||bokeplah.com^
-||nonton.bokeplah.com^
-||bokeplama.com^
-||bokeplay.com^
-||bokeplayar21.com^
-||bokeplegit.com^
-||bokeplendir.com^
-||bokeplengkap.com^
-||bokeplesbian.com^
-||bokepli.com^
-||bokeplik.com^
-||bokeplike.com^
-||bokeplink.com^
-||bokepliv.com^
-||bokeplive18.com^
-||bokepliveviral.com^
-||bokeplk21.com^
-||bokeplkprd.com^
-||bokeplo.com^
-||bokeploh.com^
-||bokeplokal.com^
-||bokeplokalpride.com^
-||bokeplol.com^
-||bokeplot.com^
-||bokeplovers.com^
-||bokeplt.com^
-||bokepltd.com^
-||bokeplucah.com^
-||bokeplus.com^
-||bokeplux.com^
-||bokeply.com^
-||bokepma.com^
-||bokepmalay.com^
-||bokepmalaysia.com^
-||bokepmama.com^
-||bokepmama1.com^
-||bokepmami.com^
-||bokepman.com^
-||bokepmaniak.com^
-||bokepmantab.com^
-||bokepmantap.com^
-||bokepmas.com^
-||bokepmasturbasi.com^
-||bokepmax.com^
-||bokepmaya.com^
-||bokepmbah.com^
-||bokepmd.com^
-||bokepmeki.com^
-||bokepmelayu.com^
-||bokepmemek.com^
-||bokepmenu.com^
-||bokepmesum.com^
-||bokepmi.com^
-||bokepmiakhalifa.com^
-||bokepmini.com^
-||bokepmix.com^
-||bokepmiyabi.com^
-||bokepml69.com^
-||bokepmm.com^
-||bokepmo.com^
-||bokepmobi.com^
-||bokepmobile.com^
-||bokepmom.com^
-||bokepmon.com^
-||bokepmontok.com^
-||bokepmoon.com^
-||bokepmov.com^
-||bokepmp4.com^
-||bokepmu.com^
-||bokepmuda.com^
-||bokepmun.com^
-||bokepmy.com^
-||bokepn.com^
-||bokepna.com^
-||bokepne.com^
-||bokepneko.com^
-||bokepnenek.com^
-||bokepnesia.com^
-||bokepnew.com^
-||sex18.bokepnew.com^
-||bokepngentot.com^
-||bokepngetop.com^
-||bokepni.com^
-||bokepnih.com^
-||bokepnii.com^
-||bokepnindo.com^
-||bokepno.com^
-||bokepnod.com^
-||bokepnonton.com^
-||bokepnow.com^
-||bokepnt.com^
-||bokepnu.com^
-||bokepnusa.com^
-||bokepnusantara.com^
-||bokepnuts.com^
-||bokepnya123.com^
-||bokepnya234.com^
-||bokepnya345.com^
-||bokepnya456.com^
-||bokepocean.com^
-||bokepod.com^
-||bokepoe.com^
-||bokepoh.com^
-||bokepok.com^
-||bokepoke.com^
-||bokepomek.com^
-||bokepon.com^
-||bokeponani.com^
-||bokepone.com^
-||bokeponline17.com^
-||bokeponline18.com^
-||bokeponline69.com^
-||bokeponlinejepang.com^
-||bokeponlinestreaming.com^
-||bokeponlinestreaming69.com^
-||bokeponlineterbaru.com^
-||bokepono.com^
-||bokepoo.com^
-||bokepor.com^
-||bokeporno.com^
-||bokeportal.com^
-||bokepos.com^
-||bokepot.com^
-||bokepox.com^
-||bokepoy.com^
-||bokepp.com^
-||bokeppa.com^
-||bokeppamela.com^
-||bokeppanas.com^
-||bokeppe.com^
-||bokeppelajar.com^
-||bokeppijat.com^
-||bokeppinay.com^
-||bokepplay.com^
-||bokeppns.com^
-||bokepporno.com^
-||fa.bokepporno.com^
-||bokeppp.com^
-||bokeppremium.com^
-||bokeppro.com^
-||bokepptv.com^
-||bokeppublic.com^
-||bokeppump.com^
-||bokepq.com^
-||bokepqq.com^
-||bokepr.com^
-||bokeprare.com^
-||bokepratu.com^
-||bokepre.com^
-||bokepredtube.com^
-||bokepremaja.com^
-||bokepro.com^
-||bokeprom.com^
-||bokepsadis.com^
-||bokepsan.com^
-||bokepsange.com^
-||bokepsangekindo.com^
-||bokepsatu.com^
-||bokepsave.com^
-||bokepsd.com^
-||bokepsdxsmp.com^
-||bokepse.com^
-||bokepseed.com^
-||bokepsegar.com^
-||bokepseger.com^
-||bokepseks.com^
-||bokepseks69.com^
-||bokepseksasia.com^
-||bokepseksi.com^
-||bokepsemi69.com^
-||bokepsemok.com^
-||bokepsex1.com^
-||bokepsex69.com^
-||bokepsexfilm.com^
-||bokepsexfoto.com^
-||bokepsexhd.com^
-||bokepsexindo.com^
-||bokepsexterbaru.com^
-||bokepsextube.com^
-||bokepsexx.com^
-||bokepshare.com^
-||bokepshow.com^
-||bokepsiana.com^
-||bokepsimontok.com^
-||bokepsin.com^
-||bokepsin1.com^
-||bokepsindo.com^
-||bokepsindoh.com^
