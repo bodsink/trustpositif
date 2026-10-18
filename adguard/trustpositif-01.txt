@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26101800
+! Serial: 26101801
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -9710,6 +9710,7 @@
 ||indovg.app^
 ||indovip138.app^
 ||indoviral.app^
+||indowd.app^
 ||indoxl.app^
 ||indrabet.app^
 ||indratogel.app^
@@ -232199,6 +232200,7 @@
 ||tok99toto.bet^
 ||toke69.bet^
 ||bni.token4d.bet^
+||slot.token4d.bet^
 ||tokenized.bet^
 ||tokenpro.bet^
 ||tokeslot.bet^
@@ -270163,6 +270165,7 @@
 ||17.kangtotoberjaya.biz^
 ||18.kangtotoberjaya.biz^
 ||2.kangtotoberjaya.biz^
+||20.kangtotoberjaya.biz^
 ||7.kangtotoberjaya.biz^
 ||9.kangtotoberjaya.biz^
 ||aku.kangtotoberjaya.biz^
@@ -702574,6 +702577,7 @@
 ||pajaktotogroup.cc^
 ||pajakwd.cc^
 ||pajeroslot.cc^
+||pajerototo.cc^
 ||pak365.cc^
 ||pak4d.cc^
 ||pakarbet.cc^
@@ -843424,6 +843428,7 @@
 ||bmw108pasti.cfd^
 ||main1.bmw777.cfd^
 ||main2.bmw777.cfd^
+||main3.bmw777.cfd^
 ||bmwtogelk.cfd^
 ||m.bmwwlb.cfd^
 ||bmx4d.cfd^
@@ -1105237,6 +1105242,7 @@
 ||hanyadiviva.cloud^
 ||hanyakuda77.cloud^
 ||hanzala.cloud^
+||creators.hao788pro.cloud^
 ||happines.cloud^
 ||happympogacor.cloud^
 ||happymvp.cloud^
@@ -1109414,6 +1109420,7 @@
 ||pajakbola-sbobet.cloud^
 ||pajakbolajaya.cloud^
 ||pajakbolawin.cloud^
+||pajerototo.cloud^
 ||pak111.cloud^
 ||pak33game.cloud^
 ||pak365.cloud^
@@ -1291006,6 +1291013,7 @@
 ||33365375.com^
 ||33366122.com^
 ||333666889.com^
+||333666b.com^
 ||h5.333666f.com^
 ||333666game.com^
 ||333666win.com^
@@ -1303123,6 +1303131,7 @@
 ||npm10v7.4yi9e6cn.com^
 ||nzf4p2x.4yi9e6cn.com^
 ||4yj239n8i7.com^
+||4yk64.com^
 ||4ynfq4e68i23nr.com^
 ||4yos777.com^
 ||4you4all.com^
@@ -1327327,6 +1327336,7 @@
 ||99jitupokok.com^
 ||99jituprimer.com^
 ||99jitupro.com^
+||99jituqu.com^
 ||99jituregis.com^
 ||99jiturich.com^
 ||99jituroket.com^
@@ -1349527,6 +1349537,7 @@
 ||adsagen89.com^
 ||adsagesafvrtnreg5tg3d.com^
 ||adsand.com^
+||adsand-win-dewi11.com^
 ||adsansar.com^
 ||adsantibadai.com^
 ||adsapigacor88.com^
@@ -1383941,6 +1383952,7 @@
 ||akanasushi.com^
 ||akanbisa.com^
 ||akandcompany.com^
+||top1toto-x-wdbos-078.akandcompany.com^
 ||akandu.com^
 ||akane-sugazaki.com^
 ||akanebakery.com^
@@ -1385868,6 +1385880,7 @@
 ||aksesgacor368.com^
 ||aksesgading88.com^
 ||aksesgalaxy898.com^
+||aksesgamejp.com^
 ||2026082300.aksesgampa.com^
 ||2026082400.aksesgampa.com^
 ||2026082500.aksesgampa.com^
@@ -1386547,6 +1386560,7 @@
 ||olx19.aksesyok.com^
 ||olx191.aksesyok.com^
 ||olx194.aksesyok.com^
+||olx198.aksesyok.com^
 ||olx2.aksesyok.com^
 ||olx20.aksesyok.com^
 ||olx21.aksesyok.com^
@@ -1393814,6 +1393828,7 @@
 ||alexistogel-casino.com^
 ||alexistogel-cuan.com^
 ||alexistogel-daftar.com^
+||toto-slot.alexistogel-done.com^
 ||m.alexistogel-gaming.com^
 ||resmi.alexistogel-gaming.com^
 ||m.alexistogel-guru1.com^
@@ -1393837,6 +1393852,7 @@
 ||alexistogel-slot.com^
 ||official.alexistogel-slot-online.com^
 ||login.alexistogel-space.com^
+||bagong.alexistogel-start.com^
 ||alexistogel-terbaik.com^
 ||alexistogel-terpercaya.com^
 ||alexistogel007.com^
@@ -1424051,6 +1424067,7 @@
 ||amd303nova.com^
 ||amd303official.com^
 ||amd303online.com^
+||amd303ovo.com^
 ||amd303p.com^
 ||amd303pecah.com^
 ||amd303pemanis.com^
@@ -1430404,6 +1430421,7 @@
 ||topup.amppiktoto.com^
 ||amppilar1001.com^
 ||amppilarnaga88.com^
+||amppintarbola.com^
 ||amppinterest.com^
 ||amppion786.com^
 ||amppk369.com^
@@ -1431072,6 +1431090,7 @@
 ||amptt88sio.com^
 ||amptt88slot.com^
 ||acl606.amptuf.com^
+||api366.amptuf.com^
 ||amptugubet.com^
 ||amptugubetvip.com^
 ||human.amptumbal.com^
@@ -1443449,6 +1443468,7 @@
 ||angkabet31808.com^
 ||angkabet31855.com^
 ||angkabet31874.com^
+||angkabet31935.com^
 ||angkabet32033.com^
 ||angkabet32147.com^
 ||angkabet32321.com^
@@ -1444564,6 +1444584,7 @@
 ||angkasa168kebak.com^
 ||angkasa168kelas.com^
 ||angkasa168keras.com^
+||angkasa168laptop.com^
 ||angkasa168login.com^
 ||angkasa168mania.com^
 ||angkasa168mars.com^
@@ -1455663,6 +1455684,7 @@
 ||apkgacor.com^
 ||macantogel.apkgacorasli.com^
 ||apkgacorslot.com^
+||apkgacortoto.com^
 ||apkgacorwil.com^
 ||apkgacorwin.com^
 ||apkgajah55.com^
@@ -1465969,6 +1465991,7 @@
 ||aronaturals.com^
 ||aronbet88iconic.com^
 ||arnbt.aronbet88ido.com^
+||aronbt.aronbet88ido.com^
 ||aronbet88nice.com^
 ||aronbet88platinum.com^
 ||aronbet88premium.com^
@@ -1507452,6 +1507475,7 @@
 ||ayo-terbang.com^
 ||ayo-toto.com^
 ||ayo-vcstogel.com^
+||ayo008.com^
 ||ayo009.com^
 ||ayo1212.com^
 ||ayo1313.com^
@@ -1507615,7 +1507639,10 @@
 ||ayo88slot.com^
 ||ayo89.com^
 ||ayo99.com^
+||ayo999-e.com^
 ||ayo999a.com^
+||ayo999apk.com^
+||ayo999game.com^
 ||ayoajaib.com^
 ||ayoalaska77.com^
 ||ayoamin.com^
@@ -1512755,6 +1512782,7 @@
 ||babe88apk.com^
 ||babe88gaple.com^
 ||babe900.com^
+||babe900master.com^
 ||babe911.com^
 ||babeaction.com^
 ||babeaddicts.com^
@@ -1542578,6 +1542606,8 @@
 ||bandaar32207.com^
 ||bandaar32214.com^
 ||bandaar32339.com^
+||bandaar32358.com^
+||bandaar32461.com^
 ||bandaar32544.com^
 ||bandaar32554.com^
 ||bandaar36446.com^
@@ -1593955,6 +1593985,7 @@
 ||betcash303ace.com^
 ||betcash303biru.com^
 ||betcash303black.com^
+||betcash303burgundy.com^
 ||betcash303cdia.com^
 ||betcash303code.com^
 ||betcash303cuanmaksimal.com^
@@ -1606780,6 +1606811,7 @@
 ||bidadari29nice.com^
 ||bidadari29night.com^
 ||bidadari29official.com^
+||bidadari29old.com^
 ||bidadari29panda.com^
 ||bidadari29peace.com^
 ||bidadari29power.com^
@@ -1835073,26 +1835105,3 @@
 ||rtv-opaltogel.bobpearce.com^
 ||rumah-vo-777.bobpearce.com^
 ||rumus-vo777.bobpearce.com^
-||rupiahcv-777-net.bobpearce.com^
-||rupiahtoto-rtp.bobpearce.com^
-||rusun-togel88.bobpearce.com^
-||s78bet.bobpearce.com^
-||s88-l.bobpearce.com^
-||sabangtogel.bobpearce.com^
-||sahabatslot88.bobpearce.com^
-||saham-toto-link-alternatif.bobpearce.com^
-||saham-toto-togel.bobpearce.com^
-||sakti123.bobpearce.com^
-||salaktoto.bobpearce.com^
-||samarinda-cit.bobpearce.com^
-||sambal-cv777.bobpearce.com^
-||samehadaku.bobpearce.com^
-||samurai-69-slot.bobpearce.com^
-||samurai169.bobpearce.com^
-||sang-muliatoto-wap.bobpearce.com^
-||sangkar-perkutut.bobpearce.com^
-||sangtoto.bobpearce.com^
-||sapi-vo-777.bobpearce.com^
-||sate-jelly.bobpearce.com^
-||sbclive4d.bobpearce.com^
-||sbobet88-tangan-dewa.bobpearce.com^
