@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102001
+! Serial: 26102003
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -9423,6 +9423,7 @@
 ||hoki138.app^
 ||hoki178.app^
 ||hoki311.app^
+||hoki69.app^
 ||hoki77top.app^
 ||hoki89.app^
 ||hoki99.app^
@@ -51887,6 +51888,7 @@
 ||arena-keseruan.vercel.app^
 ||arena-koko500.vercel.app^
 ||arena-lgoace99.vercel.app^
+||arena-malam88.vercel.app^
 ||arena-matauang777.vercel.app^
 ||arena-molekot.vercel.app^
 ||arena-pitungoffice.vercel.app^
@@ -271443,6 +271445,7 @@
 ||kellymadison.biz^
 ||kellysummer.biz^
 ||keluaransdy.biz^
+||singaporepools.keluarantogel.biz^
 ||keluarlagi.biz^
 ||keluarqq.biz^
 ||keluarqqmaps.biz^
@@ -331773,6 +331776,7 @@
 ||asiantwinkxxx.blog^
 ||asianwin88.blog^
 ||asianwindelapan.blog^
+||asianwingamehouse.blog^
 ||asiaplay.blog^
 ||asiaproplay88rtp.blog^
 ||asiaroyal88.blog^
@@ -575194,6 +575198,7 @@
 ||ohmibod.cam^
 ||ohmy.cam^
 ||ohmybabes.cam^
+||ohya777.cam^
 ||ojol69.cam^
 ||ok555.cam^
 ||ok777.cam^
@@ -580823,6 +580828,7 @@
 ||pornmd.proxybit.casa^
 ||psg88.casa^
 ||psk777daftar.casa^
+||pubtogel.casa^
 ||pulsa333.casa^
 ||pulsa77.casa^
 ||pulsa99.casa^
@@ -715048,6 +715054,7 @@
 ||shaonvg4.cc^
 ||shaonvg5.cc^
 ||shapk.cc^
+||share5superhoki.cc^
 ||sharegacormax.cc^
 ||sharehokitime.cc^
 ||sharejili.cc^
@@ -1000593,6 +1000600,7 @@
 ||permai4d3.cfd^
 ||permai4drtp1.cfd^
 ||permai668.cfd^
+||permai668x.cfd^
 ||permai688.cfd^
 ||permai99.cfd^
 ||permaisuritogelb.cfd^
@@ -1005808,6 +1005816,7 @@
 ||rtphuat138.cfd^
 ||rtphuskyslot.cfd^
 ||rtphuskyslotgame.cfd^
+||rtphuskyslotking.cfd^
 ||rtphuskyslotvip.cfd^
 ||rtpiblis4d.cfd^
 ||rtpidbs88.cfd^
@@ -1023580,6 +1023589,7 @@
 ||bicicletasscott.cl^
 ||biogeoart.cl^
 ||ertepe-1.biogeoart.cl^
+||bnb69.cl^
 ||bonsaiexpress.cl^
 ||bonusfinder.cl^
 ||booze.cl^
@@ -1066271,6 +1066281,7 @@
 ||link.luna77.click^
 ||luna99.click^
 ||luna999x.click^
+||lunabet188.click^
 ||kelasdigital.lunabet78naikdaun.click^
 ||lunabet78-eu.lunabet78naikdaun.click^
 ||profile.lunabet78naikdaun.click^
@@ -1067251,6 +1067262,7 @@
 ||rtpraden4d02.mainlink.click^
 ||rtpvisi4d.mainlink.click^
 ||rtpvisi4d663.mainlink.click^
+||rtpvisi4d8900.mainlink.click^
 ||rtpvisi4d900.mainlink.click^
 ||rtpvisi4dpro.mainlink.click^
 ||mainlogamyok.click^
@@ -1098639,6 +1098651,7 @@
 ||videqq-ink.click^
 ||videw.click^
 ||videyco.click^
+||videyks-ink.click^
 ||videyvip.click^
 ||vidplaycrot.click^
 ||vidporn.click^
@@ -1099129,6 +1099142,9 @@
 ||9bc6c-83d-e081a.visigo4.click^
 ||visigo5.click^
 ||04b12-22e-30c46.visigo5.click^
+||visigo6.click^
+||27c5a-4fc-64d50.visigo6.click^
+||2be0e-bfd-122c1.visigo6.click^
 ||visionoverworld.click^
 ||visipola13.click^
 ||visitasianporn.click^
@@ -1109115,6 +1109131,7 @@
 ||lambo234s.cloud^
 ||lambo77d.cloud^
 ||lampu279.cloud^
+||lampu4d.cloud^
 ||ogpri5bl.lampumerah.cloud^
 ||lampung4d.cloud^
 ||lamrtp.cloud^
@@ -1186381,6 +1186398,7 @@
 ||airmax95.com.co^
 ||airmax97.com.co^
 ||ajmsolution.com.co^
+||akaislot.com.co^
 ||akang69.com.co^
 ||akslot.com.co^
 ||aktivo.com.co^
@@ -1220567,6 +1220585,7 @@
 ||marketpepsi.co^
 ||marketspin138.co^
 ||markettoto.co^
+||markettotoonline.co^
 ||marketwin138.co^
 ||marketwin138a.co^
 ||marketwin138link.co^
@@ -1297809,6 +1297828,7 @@
 ||3sistersktc.com^
 ||3sistersmop.com^
 ||3sitoto.com^
+||link.3situspgbet.com^
 ||miko69.situs.slot.gacor.3sixteen.com^
 ||3sjo777.com^
 ||3slot168.com^
@@ -1314679,6 +1314699,7 @@
 ||7774567.com^
 ||7774d.com^
 ||7774u.com^
+||3mpl3.7775277.com^
 ||mylv.7775277.com^
 ||h5.77766777.com^
 ||7777.com^
@@ -1314971,6 +1314992,7 @@
 ||777lucky22.com^
 ||777lucky25.com^
 ||777lucky28.com^
+||777luckys.com^
 ||777luckyslot.com^
 ||777luckyslot1.com^
 ||777luckyslotwin.com^
@@ -1343659,6 +1343681,7 @@
 ||aca-asso.com^
 ||aca-ep.com^
 ||aca-passwords.com^
+||aca14.com^
 ||acabada.com^
 ||acabando.com^
 ||acabandosolitas.com^
@@ -1382748,6 +1382771,7 @@
 ||gallery.aidanwilliamsphoto.com^
 ||aidapoolworldchampionships.com^
 ||pengeluaransgp.aidas2025.com^
+||aidatimeless.com^
 ||aidaubricolage.com^
 ||aide-sociale.com^
 ||americano-no-sugar.aide-sociale.com^
@@ -1412625,6 +1412649,7 @@
 ||alomujeres.com^
 ||alon-deloco.com^
 ||alonaija.com^
+||alonbrandman.com^
 ||pics.alonbyacarian.com^
 ||alondan.com^
 ||alondonlist.com^
@@ -1433316,6 +1433341,7 @@
 ||amptt88slot.com^
 ||acl606.amptuf.com^
 ||api366.amptuf.com^
+||kicau606.amptuf.com^
 ||amptugubet.com^
 ||amptugubetvip.com^
 ||human.amptumbal.com^
@@ -1445703,6 +1445729,7 @@
 ||angkabet31935.com^
 ||angkabet32033.com^
 ||angkabet32038.com^
+||angkabet32074.com^
 ||angkabet32133.com^
 ||angkabet32147.com^
 ||angkabet32321.com^
@@ -1445727,6 +1445754,7 @@
 ||angkabet80212.com^
 ||angkabet80215.com^
 ||angkabet80240.com^
+||angkabet80249.com^
 ||angkabet80660.com^
 ||angkabet80742.com^
 ||angkabet80801.com^
@@ -1449984,6 +1450012,7 @@
 ||anisabbw.com^
 ||anisacakesandbakes.com^
 ||anisacenter.com^
+||anisafrasheri.com^
 ||anisahshop.com^
 ||anisahub.com^
 ||anisajayateknik.com^
@@ -1454321,6 +1454350,7 @@
 ||aotaent.com^
 ||aotheaceoffades.com^
 ||jepor987.aotiathedrifter.com^
+||aotin-kitchen.com^
 ||aotkm.com^
 ||aotoys.com^
 ||aotracking.com^
@@ -1464286,6 +1464316,7 @@
 ||arena31752.com^
 ||arena31804.com^
 ||arena31808.com^
+||arena31940.com^
 ||arena32028.com^
 ||arena32084.com^
 ||arena32839.com^
@@ -1468263,6 +1468294,7 @@
 ||aronbet88nice.com^
 ||aronbet88platinum.com^
 ||aronbet88premium.com^
+||aronbet88tech.com^
 ||rttp.aronbet88tech.com^
 ||aronbetcasino.com^
 ||aronbetgirisi.com^
@@ -1525228,6 +1525260,7 @@
 ||bajaj4d.com^
 ||bajaj4d-cuan.com^
 ||bajaj4d-in.com^
+||bajaj4d-odd.com^
 ||bajaj4d-on.com^
 ||bajaj4d11.com^
 ||bajaj4d201.com^
@@ -1545470,6 +1545503,7 @@
 ||bandar80-amp69.com^
 ||bandar80-amp74.com^
 ||bandar80-amp86.com^
+||bandar80-amp87.com^
 ||bandar80-amp91.com^
 ||bandar80071.com^
 ||bandar80146.com^
@@ -1545967,6 +1546001,7 @@
 ||bandarcuy855.com^
 ||bandarcyberslot.com^
 ||bandardadupedia.com^
+||bandardaduslot.com^
 ||bandardaduslot88.com^
 ||bandardaftarsbobet.com^
 ||bandardana.com^
@@ -1586945,6 +1586980,7 @@
 ||bermainvip.com^
 ||bermainwakrtp.com^
 ||bermancosmeticsurgery.com^
+||bermanlimbongandpartners.com^
 ||bermar-ventanas.com^
 ||bermerdeka.com^
 ||berminal.com^
@@ -1628144,6 +1628180,7 @@
 ||bitung4dhoki.com^
 ||bitung4did.com^
 ||bitung4djaya.com^
+||bitung4dmanis.com^
 ||bitung4dnewku.com^
 ||bitung4dotakku.com^
 ||bitung4dresmi.com^
@@ -1835893,26 +1835930,3 @@
 ||www-totojitu-2021171966540478457.bobatutu.com^
 ||www-tvtogel.bobatutu.com^
 ||www-vipbet88.bobatutu.com^
-||www-wap-spbo-live-score.bobatutu.com^
-||www9uzjr4h.bobatutu.com^
-||wxom06bovpma4khvv9px.bobatutu.com^
-||wyc9cz49xgrq3z9quv1s.bobatutu.com^
-||wzuqjqfefqvyoqp4p1ci.bobatutu.com^
-||x1qoamdhz238h8lptmg4.bobatutu.com^
-||x2ps6rbfdp.bobatutu.com^
-||x46gbofq12bw2xngzlf7.bobatutu.com^
-||x547g49gftq9tek67zdw.bobatutu.com^
-||x5vs8bq095zatd8qc2lr.bobatutu.com^
-||x6azvfsgtjg8d90o8rmz.bobatutu.com^
-||x6czwkmyqa.bobatutu.com^
-||x6xh0se4y3jwqqa272kz.bobatutu.com^
-||x785xx9l1uehf96yrc02.bobatutu.com^
-||x7on6yf1x1ojjmldgle1.bobatutu.com^
-||xakgwfigz4oy1zusy27k.bobatutu.com^
-||xapru1gvafl5yjiixzqn.bobatutu.com^
-||xavier.bobatutu.com^
-||xbx33f6yvhn6nwptfh7j.bobatutu.com^
-||xccl139h73ck38jdk4lw.bobatutu.com^
-||xfaa6fje08cw9mgl54ee.bobatutu.com^
-||xfewa26hmghvpu9lmu0u.bobatutu.com^
-||xfgr6w4vgjdhywkobcf6.bobatutu.com^
