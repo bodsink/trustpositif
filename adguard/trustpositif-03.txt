@@ -1,14 +1,7 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102003
+! Serial: 26102101
 ! Part: 03/06
-||no11452.situsedm.com^
-||no11453.situsedm.com^
-||no11454.situsedm.com^
-||no11455.situsedm.com^
-||no11456.situsedm.com^
-||no11457.situsedm.com^
-||no11458.situsedm.com^
 ||no11459.situsedm.com^
 ||no1146.situsedm.com^
 ||no11460.situsedm.com^
@@ -573750,7 +573743,6 @@
 ||pdip.wargaeverywhere.com^
 ||wargafilter4d.com^
 ||wargagacor.com^
-||wargagame.com^
 ||wargago88.com^
 ||wargagoku.com^
 ||wargagoku168.com^
@@ -1509006,7 +1508998,6 @@
 ||agen188.e-kinerja.uinjkt.ac.id^
 ||uinmer.ac.id^
 ||uinsurakarta.ac.id^
-||uisb.ac.id^
 ||gudangslot.ukanjuruhan.ac.id^
 ||ihokibet.ukdmks.ac.id^
 ||student.ukitoraja.ac.id^
@@ -1510330,7 +1510321,6 @@
 ||4dslot.alistore.id^
 ||alittiba.id^
 ||restaurant.aljazeerah.id^
-||alkahfisomalangu.id^
 ||alkalam.id^
 ||alkemi.id^
 ||allas.id^
@@ -1512913,7 +1512903,6 @@
 ||bengkelpintar.id^
 ||bengkelstroke.id^
 ||bengkelweb.id^
-||bengkelwebsite.id^
 ||bengkuluakses.id^
 ||bengkuluasik.id^
 ||bengkuluhoki.id^
@@ -1528237,7 +1528226,6 @@
 ||bmw4d.id^
 ||bmw4dmax.id^
 ||bmwcash.id^
-||bmwjakarta.id^
 ||bmx4dd.id^
 ||bnb69.id^
 ||bnn-bandarlampungkota.id^
@@ -1529150,7 +1529138,6 @@
 ||store.calanda.id^
 ||calboned.id^
 ||calegdaerah.id^
-||calicoliving.id^
 ||callcenteradakami-cloud.id^
 ||callcentermandiri.id^
 ||calling.id^
@@ -1529768,7 +1529755,6 @@
 ||alfianhusin.co.id^
 ||allabs.co.id^
 ||almultazam.co.id^
-||alomet.co.id^
 ||alona.co.id^
 ||dashboard.altissia.co.id^
 ||amanah.co.id^
@@ -1537205,7 +1537191,6 @@
 ||mail.indowin.energidutautama.co.id^
 ||enine.co.id^
 ||gb777.entermotor.co.id^
-||enusa.co.id^
 ||eonnabsd.co.id^
 ||darularifin.epesantren.co.id^
 ||equnix.co.id^
@@ -1538461,7 +1538446,6 @@
 ||samaravillage.co.id^
 ||slot-zeus.sambellayah.co.id^
 ||samiraresidence.co.id^
-||samuderapratamamandiri.co.id^
 ||hoki303.samya.co.id^
 ||autoconfig.sanex.co.id^
 ||saniter.co.id^
@@ -1538799,7 +1538783,6 @@
 ||travelfood.co.id^
 ||kantor-cabang.travelku.co.id^
 ||travelmap.co.id^
-||travelumroh.co.id^
 ||treeangle.co.id^
 ||tren.co.id^
 ||trendingnews.co.id^
@@ -1541271,7 +1541254,6 @@
 ||distributorzymunoindonesia.id^
 ||distrikkualakencana-kabmimika.id^
 ||distrodakwah.id^
-||disty.id^
 ||pramulihpos.disway.id^
 ||disyaminda.id^
 ||disyanjakkotabandung.id^
@@ -1544358,7 +1544340,6 @@
 ||harianjawatimur.id^
 ||harianmobil.id^
 ||harianmu.id^
-||harianpagi.id^
 ||harianpedia.id^
 ||hariansejarah.id^
 ||hariantangerang.id^
@@ -1545406,7 +1545387,6 @@
 ||ina2018apg.id^
 ||ina62.id^
 ||inacl.id^
-||inacoop.id^
 ||inadex.id^
 ||slotonline.inadex.id^
 ||inagara.id^
@@ -1561263,7 +1561243,6 @@
 ||nolimit77.id^
 ||nolimitcity.id^
 ||nolimits.id^
-||nolsatu.id^
 ||nomat.id^
 ||nomina.id^
 ||agen89.nomis.id^
@@ -1561866,7 +1561845,6 @@
 ||ejurnal.cip.or.id^
 ||komunitas.cqfoundation.or.id^
 ||cricketindonesia.or.id^
-||csf.or.id^
 ||dana.or.id^
 ||faw99.darulmukmin.or.id^
 ||darussalamtellesang.or.id^
@@ -1564150,7 +1564128,6 @@
 ||pikapel.id^
 ||pikasik.id^
 ||pikaslot.id^
-||pikat.id^
 ||pikcandy.id^
 ||pikcerita.id^
 ||pikcoconut.id^
@@ -1570529,7 +1570506,6 @@
 ||swifthawk.id^
 ||swiftwind.id^
 ||swistech.id^
-||switchmobile.id^
 ||m.swprqh.id^
 ||swtoto.id^
 ||m.swydxh.id^
@@ -1571000,7 +1570976,6 @@
 ||temanggung-news.id^
 ||temanggungnews.id^
 ||temaninklusi.id^
-||temanjalan.id^
 ||temanjaya.id^
 ||temanjp.id^
 ||temanjpbesar.id^
@@ -1712103,3 +1712078,16 @@
 ||qqstar88.mangalammarmotiles.in^
 ||qqstars.mangalammarmotiles.in^
 ||qqsutera.mangalammarmotiles.in^
+||qqtopbet.mangalammarmotiles.in^
+||qris-toto.mangalammarmotiles.in^
+||queen-slot.mangalammarmotiles.in^
+||rabandot.mangalammarmotiles.in^
+||racing-slot88-login.mangalammarmotiles.in^
+||racun-slot.mangalammarmotiles.in^
+||rafatar.mangalammarmotiles.in^
+||raffi-888-slot.mangalammarmotiles.in^
+||raffi-99.mangalammarmotiles.in^
+||raffi-ahmad-888-slot.mangalammarmotiles.in^
+||raffi-ahmad-png.mangalammarmotiles.in^
+||rafi-888.mangalammarmotiles.in^
+||rafi-888-slot.mangalammarmotiles.in^

@@ -1,20 +1,7 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102003
+! Serial: 26102101
 ! Part: 04/06
-||qqtopbet.mangalammarmotiles.in^
-||qris-toto.mangalammarmotiles.in^
-||queen-slot.mangalammarmotiles.in^
-||rabandot.mangalammarmotiles.in^
-||racing-slot88-login.mangalammarmotiles.in^
-||racun-slot.mangalammarmotiles.in^
-||rafatar.mangalammarmotiles.in^
-||raffi-888-slot.mangalammarmotiles.in^
-||raffi-99.mangalammarmotiles.in^
-||raffi-ahmad-888-slot.mangalammarmotiles.in^
-||raffi-ahmad-png.mangalammarmotiles.in^
-||rafi-888.mangalammarmotiles.in^
-||rafi-888-slot.mangalammarmotiles.in^
 ||ragam-slot.mangalammarmotiles.in^
 ||rahayu-4d.mangalammarmotiles.in^
 ||rahwana-togel.mangalammarmotiles.in^
@@ -319657,7 +319644,6 @@
 ||ilucky88.io^
 ||ilyusha.io^
 ||imagecolorpicker.io^
-||ik.imagekit.io^
 ||imagemodel.io^
 ||beta.imaginevr.io^
 ||imbagacor.io^
@@ -1825800,3 +1825786,29 @@
 ||anchorpointchamber.org^
 ||ancient-egypt.org^
 ||ancientartz.org^
+||ancientcitychurch.org^
+||ancientegyptclassic.org^
+||ancientforests.org^
+||ancientitineraries.org^
+||ancientsudan.org^
+||ancientufo.org^
+||ancillacatholichospital.org^
+||anclab.org^
+||anclainmobiliaria.org^
+||ancolbet.org^
+||ancolwin.org^
+||ancq.org^
+||ancsf.org^
+||ancyouthleague.org^
+||ancyra.org^
+||anda138.org^
+||anda138cat.org^
+||anda138cb.org^
+||anda138cc.org^
+||anda138fast.org^
+||anda138hd.org^
+||anda138id.org^
+||anda138king.org^
+||anda138nes.org^
+||anda138one.org^
+||anda138op.org^

@@ -1,37 +1,7 @@
 ! Title: Trust Positif Kominfo part 06 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102003
+! Serial: 26102101
 ! Part: 06/06
-||bogetepat.xyz^
-||bogetogel.xyz^
-||bogetoto.xyz^
-||bogetoto6d.xyz^
-||bogetoto8008.xyz^
-||bogetoto99.xyz^
-||bogetotowin.xyz^
-||bogil.xyz^
-||bogil-gacor.xyz^
-||bogil-ultimate.xyz^
-||bogilajaib.xyz^
-||bogilcc.xyz^
-||bogilclub.xyz^
-||bogilcuan.xyz^
-||bogilera.xyz^
-||bogilgcr.xyz^
-||bogilgila.xyz^
-||bogilhoki.xyz^
-||bogilholic.xyz^
-||bogilhost.xyz^
-||bogilindo.xyz^
-||bogiljp.xyz^
-||bogiljpseru.xyz^
-||bogiljpslot.xyz^
-||bogilkita.xyz^
-||bogilku.xyz^
-||bogilkusehat.xyz^
-||bogilmain.xyz^
-||bogilmenang.xyz^
-||bogilnyaman.xyz^
 ||bogiloke.xyz^
 ||bogilpage.xyz^
 ||bogilplay.xyz^

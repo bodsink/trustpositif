@@ -1,8 +1,7 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102003
+! Serial: 26102101
 ! Part: 02/06
-||www-wap-spbo-live-score.bobatutu.com^
 ||www9uzjr4h.bobatutu.com^
 ||wxom06bovpma4khvv9px.bobatutu.com^
 ||wyc9cz49xgrq3z9quv1s.bobatutu.com^
@@ -17082,7 +17081,6 @@
 ||bootycamps.com^
 ||bootycatchers.com^
 ||bootycave.com^
-||bootycenter.com^
 ||bootychat.com^
 ||bootyclapxxx.com^
 ||bootyclicks.com^
@@ -40503,7 +40501,6 @@
 ||buahnagaa.com^
 ||buahnagamerah.com^
 ||buahnagavip.com^
-||buahnanas.com^
 ||buahnangka.com^
 ||buahnara.com^
 ||buahnenas.com^
@@ -896638,7 +896635,6 @@
 ||kembangkeren.com^
 ||kembangkoll.com^
 ||kembangkopi.com^
-||kembangku.com^
 ||kembangloh.com^
 ||kembanglope.com^
 ||kembanglotus.com^
@@ -919870,7 +919866,6 @@
 ||kitasuara4d.com^
 ||kitasuka77.com^
 ||kitasukaidola.com^
-||kitasukses.com^
 ||kitasultan.com^
 ||kitasumo777.com^
 ||kitasupply.com^
@@ -937604,7 +937599,6 @@
 ||konterhp88.com^
 ||konterjitu.com^
 ||konterjp168.com^
-||konterkuota.com^
 ||konterprox500.com^
 ||konterraja33.com^
 ||konterrtp.com^
@@ -1279858,7 +1279852,6 @@
 ||nomorboba.com^
 ||nomorbogil.com^
 ||nomorbuka.com^
-||nomorcantikbos.com^
 ||nomorcantikmakassar.com^
 ||nomorcepathk.com^
 ||nomorcepatsgp.com^
@@ -1722149,7 +1722142,6 @@
 ||saraswatinursinginstitute.com^
 ||saraswatipacker.com^
 ||saraswatipatra.com^
-||saraswatisepti.com^
 ||sarasweet.com^
 ||saraswirls.com^
 ||sarasxxx.com^
@@ -1880811,3 +1880803,10 @@
 ||no1145.situsedm.com^
 ||no11450.situsedm.com^
 ||no11451.situsedm.com^
+||no11452.situsedm.com^
+||no11453.situsedm.com^
+||no11454.situsedm.com^
+||no11455.situsedm.com^
+||no11456.situsedm.com^
+||no11457.situsedm.com^
+||no11458.situsedm.com^

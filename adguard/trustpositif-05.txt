@@ -1,33 +1,7 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102003
+! Serial: 26102101
 ! Part: 05/06
-||ancientcitychurch.org^
-||ancientegyptclassic.org^
-||ancientforests.org^
-||ancientitineraries.org^
-||ancientsudan.org^
-||ancientufo.org^
-||ancillacatholichospital.org^
-||anclab.org^
-||anclainmobiliaria.org^
-||ancolbet.org^
-||ancolwin.org^
-||ancq.org^
-||ancsf.org^
-||ancyouthleague.org^
-||ancyra.org^
-||anda138.org^
-||anda138cat.org^
-||anda138cb.org^
-||anda138cc.org^
-||anda138fast.org^
-||anda138hd.org^
-||anda138id.org^
-||anda138king.org^
-||anda138nes.org^
-||anda138one.org^
-||anda138op.org^
 ||anda138pro.org^
 ||anda138sen.org^
 ||anda138top.org^
@@ -125872,7 +125846,6 @@
 ||gusipeaceprizeinternational.org^
 ||guskaramahavidyalaya.org^
 ||gusojanitorial.org^
-||guspenmigas.org^
 ||gusse.org^
 ||gustagale88.org^
 ||gustavusadolphus.org^
@@ -353368,7 +353341,6 @@
 ||yayasankhair.org^
 ||yayasankiwari.org^
 ||yayasankesejahteraankorpribali.org.yayasankorpribali.org^
-||yayasanlenterahati.org^
 ||yayasanmaju.org^
 ||yayasannurulislam.org^
 ||yayasanparamelati.org^
@@ -2049906,3 +2049878,33 @@
 ||bogerolex.xyz^
 ||bogesakti.xyz^
 ||bogetenang.xyz^
+||bogetepat.xyz^
+||bogetogel.xyz^
+||bogetoto.xyz^
+||bogetoto6d.xyz^
+||bogetoto8008.xyz^
+||bogetoto99.xyz^
+||bogetotowin.xyz^
+||bogil.xyz^
+||bogil-gacor.xyz^
+||bogil-ultimate.xyz^
+||bogilajaib.xyz^
+||bogilcc.xyz^
+||bogilclub.xyz^
+||bogilcuan.xyz^
+||bogilera.xyz^
+||bogilgcr.xyz^
+||bogilgila.xyz^
+||bogilhoki.xyz^
+||bogilholic.xyz^
+||bogilhost.xyz^
+||bogilindo.xyz^
+||bogiljp.xyz^
+||bogiljpseru.xyz^
+||bogiljpslot.xyz^
+||bogilkita.xyz^
+||bogilku.xyz^
+||bogilkusehat.xyz^
+||bogilmain.xyz^
+||bogilmenang.xyz^
+||bogilnyaman.xyz^
