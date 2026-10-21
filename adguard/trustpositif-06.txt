@@ -1,7 +1,19 @@
 ! Title: Trust Positif Kominfo part 06 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102111
+! Serial: 26102112
 ! Part: 06/06
+||balon4dku27.xyz^
+||balon4dku28.xyz^
+||balon4dku29.xyz^
+||balon4dku3.xyz^
+||balon4dku30.xyz^
+||balon4dku31.xyz^
+||balon4dku32.xyz^
+||balon4dku33.xyz^
+||balon4dku34.xyz^
+||balon4dku35.xyz^
+||balon4dku36.xyz^
+||balon4dku37.xyz^
 ||balon4dku38.xyz^
 ||balon4dku39.xyz^
 ||balon4dku40.xyz^

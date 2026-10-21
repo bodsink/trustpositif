@@ -1,7 +1,13 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102111
+! Serial: 26102112
 ! Part: 05/06
+||pn.0505dy.org^
+||pojokqq.0505dy.org^
+||poker224.0505dy.org^
+||poker228.0505dy.org^
+||poker757.0505dy.org^
+||poker88qq.0505dy.org^
 ||pokerintan.0505dy.org^
 ||pokerkiu.0505dy.org^
 ||pokermaya.0505dy.org^
@@ -35719,6 +35725,7 @@
 ||bitdefenderlogin.org^
 ||bite-back.org^
 ||bitelabs.org^
+||bitemarks.org^
 ||celebrities.biteus.org^
 ||pspslot-one.bitfunnel.org^
 ||bitgamble.org^
@@ -1413575,6 +1413582,7 @@
 ||bkhoki.surf^
 ||bmwpoker.surf^
 ||bocoranmcmtoto.surf^
+||bokepah.surf^
 ||bokepcrot.surf^
 ||bokepindoh.surf^
 ||bokepinfo.surf^
@@ -1921206,6 +1921214,7 @@
 ||mandiri88.wiki^
 ||11.mandiri88.wiki^
 ||mandiuang.wiki^
+||manhwadesu.wiki^
 ||mania138.wiki^
 ||maniakplay.wiki^
 ||manialg365.wiki^
@@ -1972163,6 +1972172,7 @@
 ||javmost.ws^
 ||javporn.ws^
 ||javstream.ws^
+||javsubid.ws^
 ||javsubindo.ws^
 ||jayabola.ws^
 ||jayapoker.ws^
@@ -1987592,6 +1987602,7 @@
 ||keptsecret.xxx^
 ||khloekay.xxx^
 ||kichdam.xxx^
+||kingbokep.xxx^
 ||kinggstick.xxx^
 ||kinkiest.xxx^
 ||kinkwhore.xxx^
@@ -2049847,15 +2049858,3 @@
 ||balon4dku24.xyz^
 ||balon4dku25.xyz^
 ||balon4dku26.xyz^
-||balon4dku27.xyz^
-||balon4dku28.xyz^
-||balon4dku29.xyz^
-||balon4dku3.xyz^
-||balon4dku30.xyz^
-||balon4dku31.xyz^
-||balon4dku32.xyz^
-||balon4dku33.xyz^
-||balon4dku34.xyz^
-||balon4dku35.xyz^
-||balon4dku36.xyz^
-||balon4dku37.xyz^

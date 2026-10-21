@@ -1,7 +1,9 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102111
+! Serial: 26102112
 ! Part: 04/06
+||pragmatic-demo-sugar-rush.lyricsmix.in^
+||pragmatic-demo1718511762109449.lyricsmix.in^
 ||pragmatic-free-play-demo.lyricsmix.in^
 ||pragmatic-indonesia.lyricsmix.in^
 ||pragmatic-lapak-pusat.lyricsmix.in^
@@ -1673436,7 +1673438,9 @@
 ||knit.brewback.online^
 ||kyut.brewback.online^
 ||lopps.brewback.online^
+||brewcoolmax.online^
 ||brewekpokemontoto.online^
+||brewhyoper.online^
 ||brewoktoto.online^
 ||iholx4gz.brewoktoto-testi.online^
 ||yp5nlrgj.brewoktoto-testi.online^
@@ -1819658,9 +1819662,3 @@
 ||pk99.0505dy.org^
 ||pkq.0505dy.org^
 ||pkvresmi.0505dy.org^
-||pn.0505dy.org^
-||pojokqq.0505dy.org^
-||poker224.0505dy.org^
-||poker228.0505dy.org^
-||poker757.0505dy.org^
-||poker88qq.0505dy.org^

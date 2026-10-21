@@ -1,7 +1,9 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102111
+! Serial: 26102112
 ! Part: 03/06
+||bandarq.siterubix.com^
+||bandarseo.siterubix.com^
 ||bandartogellengkap.siterubix.com^
 ||bandartogelwla.siterubix.com^
 ||bolavita.siterubix.com^
@@ -926074,6 +926076,7 @@
 ||dewahoki777.design^
 ||dewanalo.design^
 ||dewazeus33.design^
+||dicrotin.design^
 ||dimensi303.design^
 ||divatogel.design^
 ||divisi303.design^
@@ -1715105,5 +1715108,3 @@
 ||pragmatic-demo.lyricsmix.in^
 ||pragmatic-demo-anti-lag.lyricsmix.in^
 ||pragmatic-demo-indonesia.lyricsmix.in^
-||pragmatic-demo-sugar-rush.lyricsmix.in^
-||pragmatic-demo1718511762109449.lyricsmix.in^

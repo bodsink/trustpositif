@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102111
+! Serial: 26102112
 ! Part: 02/06
 ||trik-gacor-sweet-bonanza-hari-ini.bobatutu.com^
 ||trik-jp-sweet-bonanza.bobatutu.com^
@@ -5024,6 +5024,7 @@
 ||bokepindostream.com^
 ||bokepindosx.com^
 ||bokepindoterbaru.com^
+||bokepindoterbaru1.com^
 ||bokepindotg.com^
 ||bokepindotub.com^
 ||bokepindotv.com^
@@ -614626,6 +614627,7 @@
 ||hentaimundoi.com^
 ||hentaimuscle.com^
 ||hentaimy.com^
+||hentaimyanmar.com^
 ||hentainaked.com^
 ||hentainanime.com^
 ||hentainavi.com^
@@ -1141479,6 +1141481,7 @@
 ||melodieshow.com^
 ||melodihoki.com^
 ||melodiiii.com^
+||melodijav.com^
 ||melodikemenangan.com^
 ||melodikisarantoto.com^
 ||melodiktv.com^
@@ -1878251,5 +1878254,3 @@
 ||bandarcemeonline.siterubix.com^
 ||bandardominoqq.siterubix.com^
 ||bandarjudicemeonline.siterubix.com^
-||bandarq.siterubix.com^
-||bandarseo.siterubix.com^
