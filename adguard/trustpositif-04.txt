@@ -1,7 +1,11 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102302
+! Serial: 26102304
 ! Part: 04/06
+||taruhan-sbobet88-deposit-termurah.keralabuses.in^
+||taruhantoto-hoki.keralabuses.in^
+||taruna-bola.keralabuses.in^
+||taruna-bola-slot1717681625180177.keralabuses.in^
 ||tarung-hoki-slot.keralabuses.in^
 ||tarungtoto.keralabuses.in^
 ||tata-janeta-bawalah-cintaku.keralabuses.in^
@@ -628533,6 +628537,7 @@
 ||pinkbet.live^
 ||pinkcam.live^
 ||pinksweatsmusic.live^
+||pinkviral.live^
 ||pinky88.live^
 ||pinnacleplayer.live^
 ||pinoqqkeren.live^
@@ -1292268,6 +1292273,7 @@
 ||bokeponline.net^
 ||bokeponline69.net^
 ||bokepp.net^
+||bokeppemersatu.net^
 ||bokeppijat.net^
 ||bokeppro.net^
 ||bokeprare.net^
@@ -1427880,6 +1427886,7 @@
 ||llokasi4d.net^
 ||goya.lloret.net^
 ||lloydfarmersmkt.net^
+||lltextille.net^
 ||lltogel.net^
 ||lltoto.net^
 ||llumiq.net^
@@ -1813941,12 +1813948,3 @@
 ||tahmansafari.online^
 ||tahta-0524.online^
 ||tahta-0624.online^
-||tahta-0724.online^
-||ta.tahta2025.online^
-||taht.tahta2025.online^
-||tahta2.tahta2025.online^
-||tahta4.tahta2025.online^
-||tahta6.tahta2025.online^
-||tahta8.tahta2025.online^
-||tahta.tahta2026.online^
-||tahta1.tahta2026.online^

@@ -1,7 +1,8 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102302
+! Serial: 26102304
 ! Part: 02/06
+||pasang-air-panas-di-kamar-mandi.bobatutu.com^
 ||pasar88bisatop279.bobatutu.com^
 ||pasarbet168.bobatutu.com^
 ||pasir.bobatutu.com^
@@ -290748,6 +290749,7 @@
 ||documentingreality.com^
 ||documentoregistrato.com^
 ||documentosbinarios.com^
+||documents-files.com^
 ||documentsstores.com^
 ||documentuniverse.com^
 ||documystere.com^
@@ -1516764,6 +1516766,7 @@
 ||ptcuan.com^
 ||ptcuan88.com^
 ||app.ptdbsviissas.com^
+||ptdentsuindonesia.com^
 ||ptdfi.com^
 ||ptdhacked.com^
 ||ptdjayametalindo.com^
@@ -1875543,8 +1875546,3 @@
 ||simonsayscasino.com^
 ||simonsblogpark.com^
 ||simonscans.com^
-||simonscanshotties.com^
-||simonscansnudegirls.com^
-||simonseniron.com^
-||simonsfans.com^
-||simonsgardens.com^

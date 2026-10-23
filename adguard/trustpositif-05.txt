@@ -1,7 +1,16 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102302
+! Serial: 26102304
 ! Part: 05/06
+||tahta-0724.online^
+||ta.tahta2025.online^
+||taht.tahta2025.online^
+||tahta2.tahta2025.online^
+||tahta4.tahta2025.online^
+||tahta6.tahta2025.online^
+||tahta8.tahta2025.online^
+||tahta.tahta2026.online^
+||tahta1.tahta2026.online^
 ||tahta2.tahta2026.online^
 ||tahta3.tahta2026.online^
 ||tahta6.tahta2026.online^
@@ -374372,6 +374381,7 @@
 ||vilabet78.org^
 ||vilafrancavirtual.org^
 ||app.vilanovademeia.org^
+||apps.vilanovademeia.org^
 ||vilapoker.org^
 ||vilaslot.org^
 ||vilaslotgacor.org^
@@ -1411449,6 +1411459,7 @@
 ||sentrabaju-lazada.store^
 ||sentrabisnis.store^
 ||sentuhakumas.store^
+||sentuhdingin.store^
 ||senux.store^
 ||senyowin.store^
 ||senyum4d.store^
@@ -1417367,6 +1417378,7 @@
 ||sudirman1688.store^
 ||sudirman168parlay.store^
 ||sudirman168pilihan.store^
+||sudutmalam.store^
 ||sueadamaean.store^
 ||sugar379.store^
 ||sugarbonanza.store^
@@ -2045571,20 +2045583,3 @@
 ||a1mojibola.xyz^
 ||a1nawala.xyz^
 ||a1nova.xyz^
-||a1p7.xyz^
-||a1panda.xyz^
-||a1petir.xyz^
-||a1pisces.xyz^
-||a1porsche.xyz^
-||a1presiden.xyz^
-||a1ruangrindu.xyz^
-||a1sb365.xyz^
-||a1sbobet365.xyz^
-||a1sbobetku.xyz^
-||a1sbosupport.xyz^
-||a1scorpio.xyz^
-||a1slot.xyz^
-||a1slot-real.xyz^
-||a1slot4d.xyz^
-||a1slotarmy.xyz^
-||a1slotbeta.xyz^

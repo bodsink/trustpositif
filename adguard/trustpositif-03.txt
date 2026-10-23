@@ -1,7 +1,12 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102302
+! Serial: 26102304
 ! Part: 03/06
+||simonscanshotties.com^
+||simonscansnudegirls.com^
+||simonseniron.com^
+||simonsfans.com^
+||simonsgardens.com^
 ||simonsgirls.com^
 ||simonshangout.com^
 ||simonshaus.com^
@@ -1267272,6 +1267277,7 @@
 ||xml-acetoto888.pages.dev^
 ||xml-sitemaps.pages.dev^
 ||xmlforanalysis.pages.dev^
+||35ec3ae2.xmmexbecok.pages.dev^
 ||xmommy.pages.dev^
 ||xmother.pages.dev^
 ||xms-aksi.pages.dev^
@@ -1717969,7 +1717975,3 @@
 ||taro-net.keralabuses.in^
 ||taro456.keralabuses.in^
 ||taruhan-bola-terpercaya.keralabuses.in^
-||taruhan-sbobet88-deposit-termurah.keralabuses.in^
-||taruhantoto-hoki.keralabuses.in^
-||taruna-bola.keralabuses.in^
-||taruna-bola-slot1717681625180177.keralabuses.in^
