@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102401
+! Serial: 26102403
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -6732,6 +6732,7 @@
 ||nagahoki88.base44.app^
 ||nagahoki88gacor.base44.app^
 ||newgame7979.base44.app^
+||oowacha123.base44.app^
 ||rajapanengacor.base44.app^
 ||vipgame99.base44.app^
 ||basedburn.app^
@@ -48845,6 +48846,7 @@
 ||toto777.app^
 ||toto7788.app^
 ||toto88.app^
+||toto888.app^
 ||toto999.app^
 ||totoagung.app^
 ||totoarizona88.app^
@@ -62373,6 +62375,7 @@
 ||inpoinpoketua.vercel.app^
 ||inruangwd.vercel.app^
 ||insaneforensics.vercel.app^
+||insat-hoki123.vercel.app^
 ||inspektorat-id.vercel.app^
 ||inst-kups.vercel.app^
 ||inst-tsni.vercel.app^
@@ -81595,6 +81598,7 @@
 ||allfirma.wasmer.app^
 ||arganismecosmetics.wasmer.app^
 ||avatarajah.wasmer.app^
+||betunamde.wasmer.app^
 ||bgmuseum-yoga.wasmer.app^
 ||bodygearguide.wasmer.app^
 ||cetak-kupon-bni.wasmer.app^
@@ -135182,6 +135186,7 @@
 ||games.bonus888.asia^
 ||bonus99.asia^
 ||bonusfreebet.asia^
+||4d.bonusolxtoto.asia^
 ||bonusqq.asia^
 ||bonustime.asia^
 ||boobs.asia^
@@ -212051,6 +212056,7 @@
 ||simontok.best^
 ||simplebet8.best^
 ||accessibility.simplee.best^
+||sinar28.best^
 ||sinarjpalways.best^
 ||watch.sinemaxxi.best^
 ||singaporepools.best^
@@ -234861,6 +234867,7 @@
 ||toto878e.bet^
 ||toto878g.bet^
 ||toto88.bet^
+||toto888.bet^
 ||toto88slot.bet^
 ||toto89.bet^
 ||toto911.bet^
@@ -281966,6 +281973,7 @@
 ||northquest.biz^
 ||a46ec8xk.nos69jaya.biz^
 ||nosqq.biz^
+||amp.notif4d.biz^
 ||notmygrandpa.biz^
 ||nottinghillcarnival.biz^
 ||nova126.biz^
@@ -370312,6 +370320,7 @@
 ||ramatogel.bond^
 ||ramatogeldragon.bond^
 ||ramen-bet.bond^
+||rametoto.bond^
 ||randomporncom.bond^
 ||rantaitoto.bond^
 ||rapreaplou.bond^
@@ -1067473,6 +1067482,7 @@
 ||ligamansion2.click^
 ||ligaonline8.click^
 ||ligaonline888.click^
+||ligapastiaman.click^
 ||ligapedia.click^
 ||ligapediatoto.click^
 ||ligaplay88.click^
@@ -1102284,6 +1102294,10 @@
 ||visigo6.click^
 ||27c5a-4fc-64d50.visigo6.click^
 ||2be0e-bfd-122c1.visigo6.click^
+||visigo7.click^
+||bccb1-c28-77b3b.visigo7.click^
+||visigo8.click^
+||0f828-656-4a64b.visigo8.click^
 ||visionoverworld.click^
 ||visipola13.click^
 ||visitasianporn.click^
@@ -1189531,6 +1189545,7 @@
 ||asiajp227.cocolatte.co^
 ||astro35.cocolatte.co^
 ||atom19.cocolatte.co^
+||barat28.cocolatte.co^
 ||batik13.cocolatte.co^
 ||batu45.cocolatte.co^
 ||batu56.cocolatte.co^
@@ -1189608,6 +1189623,7 @@
 ||profit14.cocolatte.co^
 ||raja24.cocolatte.co^
 ||raja54.cocolatte.co^
+||rajajp55-aa.cocolatte.co^
 ||senja14.cocolatte.co^
 ||serijp-net.cocolatte.co^
 ||sikat43.cocolatte.co^
@@ -1265326,6 +1265342,7 @@
 ||01-kapten.com^
 ||01-kaptencsn.com^
 ||01-like.com^
+||titik.01-maria0251.com^
 ||01-nude-asian-porn-girls.com^
 ||01-nude-pussy-girls-tits-ass-xxx-lesbian-sex-pics.com^
 ||01-pkindo.com^
@@ -1272004,6 +1272021,7 @@
 ||1121slotterus.com^
 ||1121slottop.com^
 ||1121sloturanus.com^
+||1121slotvenus.com^
 ||1121slotwagyu.com^
 ||1121slotxxx.com^
 ||1121spin.com^
@@ -1307295,6 +1307313,7 @@
 ||4jerk.com^
 ||4jeruk777.com^
 ||4jili.com^
+||4jjewelers.com^
 ||4jkttogel.com^
 ||4jl16.com^
 ||4jlbet.com^
@@ -1308679,6 +1308698,7 @@
 ||4uvoyeurs.com^
 ||4uxxx.com^
 ||4v4t4rt0t0.com^
+||4vaaa.com^
 ||4vagina.com^
 ||4vaginas.com^
 ||4vap.com^
@@ -1310048,6 +1310068,7 @@
 ||548turner.com^
 ||m.548turner.com^
 ||5490u.com^
+||54984034.com^
 ||5498783216.com^
 ||549bet.com^
 ||549c.com^
@@ -1331372,10 +1331393,14 @@
 ||988singabesar.com^
 ||988slot.com^
 ||988slot00.com^
+||988slot6.com^
 ||988slot88.com^
 ||988slotaa.com^
 ||988slotcom.com^
 ||988slotdl.com^
+||988slotg.com^
+||m.988slotg.com^
+||988slotgame.com^
 ||988sloti.com^
 ||988slotjogos.com^
 ||988slotl.com^
@@ -1331385,6 +1331410,7 @@
 ||988slotp.com^
 ||988slotsc.com^
 ||988slotu.com^
+||988slotva.com^
 ||988sltpetir.com^
 ||988sport.com^
 ||988start.com^
@@ -1334902,6 +1334928,7 @@
 ||9winlink9.com^
 ||9winofficial.com^
 ||9winpet.com^
+||9winpet3.com^
 ||9winresort.com^
 ||9winresort2.com^
 ||9winresort3.com^
@@ -1344992,6 +1345019,7 @@
 ||abilenenewlife.com^
 ||abilenesportinggoods.com^
 ||abileneyoga.com^
+||abilfunnels.com^
 ||abilify2020.com^
 ||abilify36.com^
 ||abilifyaripiprazole.com^
@@ -1389236,6 +1389264,7 @@
 ||ajowinfree.com^
 ||ajowinfun.com^
 ||ajowingame.com^
+||ajowininfo.com^
 ||ajowinklik.com^
 ||ajowinlink.com^
 ||ajowinlite.com^
@@ -1389258,6 +1389287,7 @@
 ||ajowintop.com^
 ||ajowinup.com^
 ||ajowinvip.com^
+||ajowwin.com^
 ||ajoydas.com^
 ||ajoyfulriot.com^
 ||ajozfilms.com^
@@ -1390132,6 +1390162,7 @@
 ||akarjitumbl.com^
 ||akarjpjp.com^
 ||akarjpslot.com^
+||akarjth.com^
 ||akarkode4d.com^
 ||akarkongg.com^
 ||akarlailiau.com^
@@ -1399920,6 +1399951,7 @@
 ||official.alexistogel-slot-online.com^
 ||login.alexistogel-space.com^
 ||bagong.alexistogel-start.com^
+||getsuga.alexistogel-start.com^
 ||keren.alexistogel-start.com^
 ||super.alexistogel-start.com^
 ||alexistogel-terbaik.com^
@@ -1401390,6 +1401422,7 @@
 ||cihuy.alhalabi-restaurant.com^
 ||alhamacf.com^
 ||alhamarfitnesscenter.com^
+||alhambra-bar-restaurante.com^
 ||alhambrainvestment.com^
 ||alhambraphillycheesesteaks.com^
 ||alhambraproductions.com^
@@ -1417620,6 +1417653,7 @@
 ||alt-chicks.com^
 ||alt-contacts.com^
 ||mau.alt-crs99.com^
+||yuk.alt-crs99.com^
 ||alt-danagg.com^
 ||alt-danaggday.com^
 ||alt-danaggfun.com^
@@ -1449569,6 +1449603,7 @@
 ||angkabet-amp69.com^
 ||angkabet-amp74.com^
 ||angkabet-amp75.com^
+||angkabet-amp86.com^
 ||angkabet-amp87.com^
 ||angkabet-amp91.com^
 ||angkabet-amp94.com^
@@ -1449641,6 +1449676,7 @@
 ||angkabet39928.com^
 ||angkabet7788.com^
 ||angkabet80071.com^
+||angkabet80164.com^
 ||angkabet80192.com^
 ||angkabet80212.com^
 ||angkabet80215.com^
@@ -1449986,6 +1450022,7 @@
 ||angkajitu-jari.com^
 ||angkajitu-rtp-iwantogel.com^
 ||angkajitu-rusun.com^
+||togelterbaik.angkajitu-top.com^
 ||angkajitu-tototogel.com^
 ||angkajitu-usahatoto.com^
 ||angkajitu1.com^
@@ -1468223,6 +1468260,7 @@
 ||arena212gue.com^
 ||arena212hoki.com^
 ||arena212jp.com^
+||arena212login.com^
 ||arena212rp.com^
 ||arena212sip.com^
 ||arena24a.com^
@@ -1468259,6 +1468297,7 @@
 ||arena32028.com^
 ||arena32038.com^
 ||arena32084.com^
+||arena32488.com^
 ||arena32839.com^
 ||arena32887.com^
 ||arena32920.com^
@@ -1472247,6 +1472286,7 @@
 ||aronbet88premium.com^
 ||aronbet88tech.com^
 ||rttp.aronbet88tech.com^
+||aronbet88vip.com^
 ||aronbetcasino.com^
 ||aronbetgirisi.com^
 ||aronbetguncel.com^
@@ -1474451,6 +1474491,7 @@
 ||artistogl.com^
 ||artistonwheels.com^
 ||artistoto.com^
+||angkahot.artistoto-web.com^
 ||artistoto1.com^
 ||artistoto2.com^
 ||artistoto3.com^
@@ -1514372,6 +1514413,7 @@
 ||ayo-terbang.com^
 ||ayo-toto.com^
 ||ayo-vcstogel.com^
+||ayo005.com^
 ||ayo008.com^
 ||ayo009.com^
 ||ayo1212.com^
@@ -1549174,6 +1549216,7 @@
 ||bambumeletup.com^
 ||bambumenarik.com^
 ||bambumu.com^
+||bambunewamp.com^
 ||bambunext.com^
 ||bambuoutdoor.com^
 ||bambupaydia.com^
@@ -1549547,6 +1549590,7 @@
 ||bandaar32488.com^
 ||bandaar32544.com^
 ||bandaar32554.com^
+||bandaar32677.com^
 ||bandaar32744.com^
 ||bandaar36446.com^
 ||bandaarqq.com^
@@ -1550099,6 +1550143,7 @@
 ||bandar80-amp86.com^
 ||bandar80-amp87.com^
 ||bandar80-amp91.com^
+||bandar80-amp94.com^
 ||bandar80071.com^
 ||bandar80146.com^
 ||bandar80164.com^
@@ -1557211,6 +1557256,7 @@
 ||banteng69liar.com^
 ||banteng69ndxsukses.com^
 ||banteng69prima.com^
+||banteng69qa.com^
 ||banteng69resmi.com^
 ||banteng69tranding.com^
 ||banteng76.com^
@@ -1558839,6 +1558885,7 @@
 ||barat168slot.com^
 ||barat2024.com^
 ||barat2789.com^
+||barat28.com^
 ||barat303.com^
 ||barat4dslot.com^
 ||barat69.com^
@@ -1564421,6 +1564468,7 @@
 ||batik188-gaming.com^
 ||batik188-sga.com^
 ||batik188slot.com^
+||batik19.com^
 ||batik303slot.com^
 ||batik369.com^
 ||batik4d.com^
@@ -1622399,6 +1622447,7 @@
 ||bima138go.com^
 ||bima138oke.com^
 ||bima138slot.com^
+||bima14.com^
 ||bima178.com^
 ||bima2024.com^
 ||bima22.com^
@@ -1625970,6 +1626019,7 @@
 ||biolabet88.com^
 ||biolabet99.com^
 ||biolabetaja.com^
+||biolabetakses3.com^
 ||biolabetbuktiwd.com^
 ||biolabetcuan.com^
 ||biolabetgacor.com^
@@ -1632893,6 +1632943,7 @@
 ||bitung4dotakku.com^
 ||bitung4dresmi.com^
 ||bitung4dsloto.com^
+||bitung4dwd.com^
 ||bitung4dx1000.com^
 ||bitung99.com^
 ||bitungangka.com^
@@ -1831413,6 +1831464,7 @@
 ||link5.bobafly.com^
 ||link6.bobafly.com^
 ||link7.bobafly.com^
+||link8.bobafly.com^
 ||satu.bobafly.com^
 ||sembilan.bobafly.com^
 ||tiga.bobafly.com^
@@ -1837268,32 +1837320,3 @@
 ||no-togel-kalajengking-4d.bobatutu.com^
 ||no-togel-lalat-kawin.bobatutu.com^
 ||no-togel-lipan.bobatutu.com^
-||no-togel-makan.bobatutu.com^
-||no-togel-sakit-gigi.bobatutu.com^
-||no-togel-sepeda-3d.bobatutu.com^
-||no-togel-yang-keluar-hari-ini.bobatutu.com^
-||no-yg-keluar-hari-ini.bobatutu.com^
-||no0qgjjagoabf609ceb5.bobatutu.com^
-||nobartv-online.bobatutu.com^
-||nodegree-contactus.bobatutu.com^
-||nomer-togel-56.bobatutu.com^
-||nomer-togel-91.bobatutu.com^
-||nomer-togel-bantal.bobatutu.com^
-||nomer-togel-guru.bobatutu.com^
-||nomer-togel-nelayan.bobatutu.com^
-||nomer-togel-penipu.bobatutu.com^
-||nomer-togel-sekarang-sidney.bobatutu.com^
-||nomer-togel-unta.bobatutu.com^
-||nomor-28-dalam-togel.bobatutu.com^
-||nomor-32-togel.bobatutu.com^
-||nomor-68-togel.bobatutu.com^
-||nomor-96-togel.bobatutu.com^
-||nomor-apa-naik-hongkong.bobatutu.com^
-||nomor-bekicot-togel.bobatutu.com^
-||nomor-cicak-jatuh-togel.bobatutu.com^
-||nomor-erek-erek.bobatutu.com^
-||nomor-hk-hari-ini-6d.bobatutu.com^
-||nomor-keluar-taiwan-hari-ini.bobatutu.com^
-||nomor-keluar-togel4d-hari-ini-singapura.bobatutu.com^
-||nomor-malaikat-0808.bobatutu.com^
-||nomor-sgp-yang-keluar.bobatutu.com^
