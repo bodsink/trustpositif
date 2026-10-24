@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102400
+! Serial: 26102401
 ! Part: 02/06
 ||nomor-togel-10.bobatutu.com^
 ||nomor-togel-50.bobatutu.com^

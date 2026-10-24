@@ -1,7 +1,9 @@
 ! Title: Trust Positif Kominfo part 06 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102400
+! Serial: 26102401
 ! Part: 06/06
+||mdyy2320.957067.xyz^
+||mdyy2321.957067.xyz^
 ||mdyy2322.957067.xyz^
 ||mdyy2323.957067.xyz^
 ||mdyy2324.957067.xyz^
@@ -463233,6 +463235,7 @@
 ||hdporn4us.unblockproject.xyz^
 ||unblockupc.xyz^
 ||uncang2kaki.xyz^
+||uncenjav.xyz^
 ||uncensoredhentai.xyz^
 ||uncensoredhentaiguardian.xyz^
 ||uncfoundation.xyz^
@@ -500773,6 +500776,7 @@
 ||xn--taret-m1a.xyz^
 ||xn--tbk-b13e.xyz^
 ||xn--tck5fa.xyz^
+||xn--tckj1nkc.xyz^
 ||xn--tckl5au0i.xyz^
 ||xn--tda2f7cydsd0a.xyz^
 ||xn--tglnln88-60af2dwcq.xyz^

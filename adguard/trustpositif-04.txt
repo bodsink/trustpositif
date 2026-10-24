@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102400
+! Serial: 26102401
 ! Part: 04/06
 ||melati-88-slot-login1717681635181126.keralabuses.in^
 ||melbet-uganda.keralabuses.in^
@@ -1368596,6 +1368596,7 @@
 ||heyslot.net^
 ||heyslot88.net^
 ||heywhatsthebigidea.net^
+||heyzo.net^
 ||heyzoo.net^
 ||heyzou.net^
 ||hezy.net^
@@ -1536494,6 +1536495,7 @@
 ||order-one.takeeoutee.net^
 ||takehardme.net^
 ||takeitoff.net^
+||takejav.net^
 ||takemywife.net^
 ||takeru77.net^
 ||ero-abnormal.takeshin.net^
@@ -1811014,4 +1811016,3 @@
 ||4ffmx4.slotxo255.online^
 ||4ii4wm.slotxo255.online^
 ||4izad4.slotxo255.online^
-||4jrxz4.slotxo255.online^

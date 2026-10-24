@@ -1,7 +1,8 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102400
+! Serial: 26102401
 ! Part: 05/06
+||4jrxz4.slotxo255.online^
 ||4rd.slotxo255.online^
 ||4tiav4.slotxo255.online^
 ||4vbtz4.slotxo255.online^
@@ -2037140,6 +2037141,7 @@
 ||888142.xyz^
 ||888191.xyz^
 ||888242.xyz^
+||888264.xyz^
 ||74214.888293.xyz^
 ||888323.xyz^
 ||v9jrd.8883391.xyz^
@@ -2044884,5 +2044886,3 @@
 ||mdyy2317.957067.xyz^
 ||mdyy2318.957067.xyz^
 ||mdyy2319.957067.xyz^
-||mdyy2320.957067.xyz^
-||mdyy2321.957067.xyz^

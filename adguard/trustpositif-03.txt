@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102400
+! Serial: 26102401
 ! Part: 03/06
 ||sigma168top50.com^
 ||sigma168top51.com^
