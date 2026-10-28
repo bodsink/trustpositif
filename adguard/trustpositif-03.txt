@@ -1,7 +1,97 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102806
+! Serial: 26102807
 ! Part: 03/06
+||888slot.shopwithsoles.com^
+||888slot-apk.shopwithsoles.com^
+||888slot-dewa.shopwithsoles.com^
+||888slot-rtp.shopwithsoles.com^
+||88gg-slot-login171768058677005.shopwithsoles.com^
+||88slotdewa-red.shopwithsoles.com^
+||89-erek-erek.shopwithsoles.com^
+||89-togel.shopwithsoles.com^
+||8togel-hk.shopwithsoles.com^
+||90-erek-erek.shopwithsoles.com^
+||96ace-indonesia.shopwithsoles.com^
+||98-di-erek-erek.shopwithsoles.com^
+||98-minggu-berapa-tahun.shopwithsoles.com^
+||98toto-1026.shopwithsoles.com^
+||98toto-art.shopwithsoles.com^
+||99-erek-erek.shopwithsoles.com^
+||99-hoki-slot171768014632982.shopwithsoles.com^
+||99angpau.shopwithsoles.com^
+||99kingslot.shopwithsoles.com^
+||a-1-adalah.shopwithsoles.com^
+||a-symbol.shopwithsoles.com^
+||ababet88.shopwithsoles.com^
+||abadi-jaya-elektronik.shopwithsoles.com^
+||abjad-4d-togel.shopwithsoles.com^
+||about-you-1975-lirik-terjemahan.shopwithsoles.com^
+||abu-togel.shopwithsoles.com^
+||abu-togel171766735296273.shopwithsoles.com^
+||acak-angka-bolak-balik.shopwithsoles.com^
+||acak-angka-tarung.shopwithsoles.com^
+||acak-nama-online.shopwithsoles.com^
+||acara-tv-caesar-wu.shopwithsoles.com^
+||account-center.shopwithsoles.com^
+||ace88play.shopwithsoles.com^
+||aceh-slot-login.shopwithsoles.com^
+||actor-mltr.shopwithsoles.com^
+||acumalaka-sound-effect.shopwithsoles.com^
+||ada-yg-lain-di-senyummu.shopwithsoles.com^
+||adalo.shopwithsoles.com^
+||adegan-ciuman-ranveer-dan-ishani.shopwithsoles.com^
+||adele-i-drink-wine-lirik.shopwithsoles.com^
+||adi-main-bola-lagi-yuk.shopwithsoles.com^
+||ado-penyanyi.shopwithsoles.com^
+||adsfort-adalah.shopwithsoles.com^
+||adult-online-game.shopwithsoles.com^
+||advan-s7a-sekolah.shopwithsoles.com^
+||adzan-jumat-jogja.shopwithsoles.com^
+||af1-jelly-swoosh.shopwithsoles.com^
+||afbcash.shopwithsoles.com^
+||afc-asian-cup.shopwithsoles.com^
+||afc-champions-league-2017.shopwithsoles.com^
+||afc-cup-u20-2023.shopwithsoles.com^
+||aff-cup-2024.shopwithsoles.com^
+||ag4d.shopwithsoles.com^
+||agama-kobel-pemain-bola.shopwithsoles.com^
+||agama-pemain-sinetron-panggilan.shopwithsoles.com^
+||agama-ruce-nuenda.shopwithsoles.com^
+||agar-io-play-org.shopwithsoles.com^
+||agen-699-slot.shopwithsoles.com^
+||agen-878-slot171768013932200.shopwithsoles.com^
+||agen-bola-138.shopwithsoles.com^
+||agen-bola-deposit-pulsa.shopwithsoles.com^
+||agen-bus-eka-surabaya.shopwithsoles.com^
+||agen-bus-san.shopwithsoles.com^
+||agen-cuan138.shopwithsoles.com^
+||agen-es-krim-walls.shopwithsoles.com^
+||agen-idn89.shopwithsoles.com^
+||agen-mpo777.shopwithsoles.com^
+||agen-sinar-jaya-cibinong.shopwithsoles.com^
+||agen-slot-338171767927263860.shopwithsoles.com^
+||agen-sv388.shopwithsoles.com^
+||agen-togel-inatogel.shopwithsoles.com^
+||agen-togel-shiowla.shopwithsoles.com^
+||agen-toto-play.shopwithsoles.com^
+||agen128.shopwithsoles.com^
+||agen138-rtp-tinggi.shopwithsoles.com^
+||agen169.shopwithsoles.com^
+||agenasiaslot.shopwithsoles.com^
+||agent-betting-online.shopwithsoles.com^
+||ahhad4.shopwithsoles.com^
+||ahli-bet88.shopwithsoles.com^
+||ahlibet88.shopwithsoles.com^
+||ahmed-zaki-iskandar.shopwithsoles.com^
+||aikatsu-dance-fusion.shopwithsoles.com^
+||air-di-erek-erek.shopwithsoles.com^
+||airbet.shopwithsoles.com^
+||airbet88-rtp-live.shopwithsoles.com^
+||ajaib368.shopwithsoles.com^
+||ajos-slot1717681552172713.shopwithsoles.com^
+||aki-chainsaw-man-age.shopwithsoles.com^
+||akko-starfish-vs-jelly-black.shopwithsoles.com^
 ||aksara88-slot-login.shopwithsoles.com^
 ||aksi-koboi-plat-dinas-polri.shopwithsoles.com^
 ||aksi-toto-slot-login171767160966907.shopwithsoles.com^
@@ -26656,6 +26746,7 @@
 ||sisterpornscenes.com^
 ||sisters-unlimited.com^
 ||sisters18.com^
+||sistersandfriendscatering.com^
 ||sistersbedandbreakfast.com^
 ||sisterscafemarion.com^
 ||sisterscasinobonus.com^
@@ -28831,6 +28922,7 @@
 ||situs35201.com^
 ||situs35266.com^
 ||situs35268.com^
+||situs35427.com^
 ||situs35526.com^
 ||situs35568.com^
 ||situs35752.com^
@@ -28962,6 +29054,7 @@
 ||slot2.situs388jp.com^
 ||slot3.situs388jp.com^
 ||situs389.com^
+||situs38941.com^
 ||situs38947.com^
 ||situs38966.com^
 ||situs389sport.com^
@@ -63985,6 +64078,7 @@
 ||situstogel88zvip.com^
 ||situstogel99.com^
 ||situstogel9naga.com^
+||situstogelalexis.com^
 ||situstogelaman.com^
 ||situstogelbatman4d.com^
 ||situstogelbatmantoto.com^
@@ -64139,6 +64233,7 @@
 ||situstoto-amp87.com^
 ||situstoto-amp91.com^
 ||situstoto-amp92.com^
+||situstoto-amp93.com^
 ||situstoto-amp97.com^
 ||situstoto-amp98.com^
 ||situstoto-login176.com^
@@ -77582,6 +77677,7 @@
 ||slotdepositpulsa2024.com^
 ||slotdepositpulsa777.com^
 ||slotdepositpulsa88.com^
+||5k.slotdepositpulsaindosat.com^
 ||slotdepositpulsatelkomsel.com^
 ||slotdepositpulsatri.com^
 ||slotdepositqris.com^
@@ -112775,6 +112871,7 @@
 ||sorong889.com^
 ||sorongkita.com^
 ||sorongmito.com^
+||sorongnews.com^
 ||sorongsaja.com^
 ||sorongtoto.com^
 ||sorongtoto3.com^
@@ -126810,6 +126907,7 @@
 ||sritotoleaf.com^
 ||sritotoled.com^
 ||sritotolexus.com^
+||sritotolibra.com^
 ||sritotolimo.com^
 ||sritotolink.com^
 ||sritotolion.com^
@@ -157978,6 +158076,7 @@
 ||suit4d.com^
 ||suitablefor.com^
 ||suitangtang.com^
+||suitbalak7.com^
 ||suitcasestories.com^
 ||suitdep.com^
 ||most-fe.suitdev.com^
@@ -164095,6 +164194,7 @@
 ||sumbuplay.com^
 ||sumbuslot.com^
 ||sumbutogel.com^
+||sumbutop.com^
 ||sumbuvip.com^
 ||sumbuwin.com^
 ||sumcum.com^
@@ -164158,6 +164258,7 @@
 ||summer-knight.com^
 ||summer138.com^
 ||summer138core.com^
+||summer138on.com^
 ||summer138vibe.com^
 ||summer138wd.com^
 ||summer18.com^
@@ -168756,6 +168857,7 @@
 ||superdewa34.com^
 ||superdewa35.com^
 ||superdewa36.com^
+||superdewa37.com^
 ||superdewa4.com^
 ||superdewa5.com^
 ||superdewa6.com^
@@ -198410,6 +198512,7 @@
 ||tajir777o.com^
 ||tajir777online.com^
 ||tajir777p.com^
+||tajir777play.com^
 ||tajir777resmi.com^
 ||tajir777rtp.com^
 ||tajir777slot.com^
@@ -199549,6 +199652,7 @@
 ||talklets.com^
 ||talklikeaphysicist.com^
 ||talkloco.com^
+||talkmahoningvalley.com^
 ||talkmedianews.com^
 ||talkmoneycafe.com^
 ||talknsex.com^
@@ -255640,6 +255744,7 @@
 ||threelittlebearswj.com^
 ||threelittlebirdspr.com^
 ||threelittlepigsdc.com^
+||threelzcasino.com^
 ||threemantap.com^
 ||threemedya.com^
 ||threemeninkilts.com^
@@ -266466,6 +266571,7 @@
 ||titan69slot.com^
 ||titan77700.com^
 ||titan7772.com^
+||titan77722.com^
 ||titan7774.com^
 ||titan7779.com^
 ||titan777aa.com^
@@ -272243,6 +272349,7 @@
 ||togel158mart.com^
 ||togel158max.com^
 ||togel158on.com^
+||togel158os.com^
 ||togel158rtp.com^
 ||togel158satu.com^
 ||togel158siaga.com^
@@ -286053,6 +286160,7 @@
 ||login.topansakti.com^
 ||masuk.topansakti.com^
 ||daftar.topansakti-mbew.com^
+||login.topansakti-mbew.com^
 ||topansakti159.com^
 ||topansaktibas.com^
 ||daftar.topansaktibas.com^
@@ -286899,6 +287007,8 @@
 ||topcer33comte.com^
 ||topcer33concentratedenergy.com^
 ||topcer33d.com^
+||login.topcer33dewekan.com^
+||main.topcer33dewekan.com^
 ||topcer33duc.com^
 ||topcer33e.com^
 ||topcer33f.com^
@@ -288232,6 +288342,7 @@
 ||topjitugacor.com^
 ||topjitugg.com^
 ||topjituinfolunas.com^
+||resmi.topjitukaisar1.com^
 ||topjitulunas.com^
 ||topjitunewpola.com^
 ||topjitunewrtp.com^
@@ -290335,6 +290446,7 @@
 ||topwd31467.com^
 ||topwd31523.com^
 ||topwd31620.com^
+||topwd31748.com^
 ||topwd32033.com^
 ||topwd33710.com^
 ||topwd33803.com^
@@ -313587,6 +313699,7 @@
 ||trhatun.com^
 ||trhikayeler.com^
 ||trhura.com^
+||tri-7bet.com^
 ||tri-7betajasih2.com^
 ||tri-96.com^
 ||tri-anglerecords.com^
@@ -313609,12 +313722,14 @@
 ||pokemon-free.tri-dot.com^
 ||tri-it-taproom.com^
 ||tri-linkasia.com^
+||tri-resmii.com^
 ||new.tri-resmii.com^
 ||tri-state-foam.com^
 ||tri-state-sex.com^
 ||tri-statefloor.com^
 ||tri-xxx.com^
 ||tri138.com^
+||tri138link.com^
 ||tri138slot.com^
 ||tri168slot.com^
 ||tri3bet.com^
@@ -313680,6 +313795,7 @@
 ||tri7luck.com^
 ||tri7online.com^
 ||tri7site.com^
+||tri7slot.com^
 ||tri7slotter.com^
 ||tri7sport.com^
 ||tri7sports.com^
@@ -313700,6 +313816,7 @@
 ||tri8games.com^
 ||tri96gcr.com^
 ||tri96kembang.com^
+||tri96ok.com^
 ||tri96win.com^
 ||tri99slot.com^
 ||triachichi.com^
@@ -315011,6 +315128,7 @@
 ||triphaseformations.com^
 ||amp-resmi.triphaseformations.com^
 ||triphiburan.com^
+||triphoki177.com^
 ||triphon-water.com^
 ||tripigator.com^
 ||tripimagined.com^
@@ -453115,6 +453233,7 @@
 ||tvtoto32214.com^
 ||tvtoto32217.com^
 ||tvtoto32264.com^
+||tvtoto32291.com^
 ||tvtoto32551.com^
 ||tvtoto32854.com^
 ||tvtoto32900.com^
@@ -458663,6 +458782,7 @@
 ||udin34488.com^
 ||udin34508.com^
 ||udin34555.com^
+||udin34564.com^
 ||udin34617.com^
 ||udin34653.com^
 ||udin34742.com^
@@ -487160,6 +487280,7 @@
 ||up36555.com^
 ||up36666.com^
 ||up36697.com^
+||up36842.com^
 ||up36972.com^
 ||up36981.com^
 ||up36985.com^
@@ -492767,6 +492888,7 @@
 ||rimonabantnorx.us.com^
 ||rimonaoutlet.us.com^
 ||rims.us.com^
+||login.rina4d.us.com^
 ||riseofcobra.us.com^
 ||riverisland.us.com^
 ||rjw.us.com^
@@ -501634,6 +501756,7 @@
 ||v21-l.com^
 ||v21-n.com^
 ||v21-s.com^
+||v21-u.com^
 ||v210x10g.com^
 ||v210x10q.com^
 ||v21app.com^
@@ -501674,6 +501797,7 @@
 ||v2tokyo188.com^
 ||v2vip.com^
 ||v3310.com^
+||v33kk.com^
 ||v33o.com^
 ||v350f200.com^
 ||v3563.com^
@@ -617731,6 +617855,7 @@
 ||wati32214.com^
 ||wati32217.com^
 ||wati32291.com^
+||wati32339.com^
 ||wati32358.com^
 ||wati32551.com^
 ||wati32563.com^
@@ -620192,6 +620317,7 @@
 ||wdmahjoong30613.com^
 ||wdmahjoong31042.com^
 ||wdmahjoong32556.com^
+||wdmahjoong32761.com^
 ||wdmahjoong32762.com^
 ||wdmahjoong33258.com^
 ||wdmahjoong33637.com^
@@ -621214,6 +621340,7 @@
 ||wearpro8et.com^
 ||wearsemutwin.com^
 ||wearshopping.com^
+||wearsilky.com^
 ||wearstevens.com^
 ||wearsturdy.com^
 ||wearsvalleyadventures.com^
@@ -805826,6 +805953,7 @@
 ||v645dech.yashanglife.com^
 ||yasharamen.com^
 ||yashashi.com^
+||amp.yashaswinisingh.com^
 ||yashchildrenhospital.com^
 ||yashfoto.com^
 ||yashisushifl.com^
@@ -832695,6 +832823,7 @@
 ||zeus138pesona.com^
 ||zeus138petir.com^
 ||zeus138phantom.com^
+||zeus138pijar.com^
 ||zeus138pilaris.com^
 ||zeus138pixel.com^
 ||zeus138plasma.com^
@@ -834518,6 +834647,7 @@
 ||zia33452.com^
 ||zia33460.com^
 ||zia33495.com^
+||zia33498.com^
 ||zia33524.com^
 ||zia33637.com^
 ||zia33642.com^
@@ -870672,6 +870802,7 @@
 ||hachinohe.vonza.cx^
 ||hirakawa.vonza.cx^
 ||ichinomiya.vonza.cx^
+||iwakura.vonza.cx^
 ||voyeurs.cx^
 ||vswin.cx^
 ||vvipsultan.cx^
@@ -886314,6 +886445,7 @@
 ||kakekpaus123.cyou^
 ||kakekpro.cyou^
 ||kakeksaji.cyou^
+||kakekslot.cyou^
 ||kaki268.cyou^
 ||kaki268-alt.cyou^
 ||kaki4d-cap.cyou^
@@ -909245,6 +909377,7 @@
 ||bong88bet.day^
 ||bonus-to.day^
 ||bonus888.day^
+||bos303.day^
 ||bosku777.day^
 ||bospaito.day^
 ||bosplay77.day^
@@ -959365,6 +959498,7 @@
 ||amptombak.dev^
 ||amptombak118.dev^
 ||amraibra.dev^
+||galaxy.amx-puncak.dev^
 ||gunung.amx-puncak.dev^
 ||macan.amx-puncak.dev^
 ||pesawat.amx-puncak.dev^
@@ -971863,6 +971997,7 @@
 ||indomigoreng.dev^
 ||indopokerku.dev^
 ||indoprideflip.dev^
+||indosat-lagi.dev^
 ||indosattoto.dev^
 ||dg.indosattoto.dev^
 ||indosattotokicau.dev^
@@ -990020,6 +990155,7 @@
 ||akses-idnpoker2026.pages.dev^
 ||akses-ied.pages.dev^
 ||akses-indobet88-shop.pages.dev^
+||akses-indosatoto.pages.dev^
 ||akses-indowin66baru.pages.dev^
 ||akses-isabel.pages.dev^
 ||akses-islandtechnologies.pages.dev^
@@ -990245,6 +990381,7 @@
 ||akses-warna-biru.pages.dev^
 ||akses-web-gacor.pages.dev^
 ||akses-winlotre.pages.dev^
+||akses-with-indosattoto.pages.dev^
 ||akses-xpressinstallation.pages.dev^
 ||akses-ysthbrnx.pages.dev^
 ||akses1cvterbaru.pages.dev^
@@ -990404,6 +990541,7 @@
 ||aksesterusan.pages.dev^
 ||aksestogel-petslan.pages.dev^
 ||aksestoto.pages.dev^
+||aksestoto-holden.pages.dev^
 ||aksestoto4d.pages.dev^
 ||aksestototogel.pages.dev^
 ||aksesuarlar2.pages.dev^
@@ -991602,6 +991740,7 @@
 ||alexis88-premium.pages.dev^
 ||alexis89.pages.dev^
 ||alexis900.pages.dev^
+||alexis900-vip.pages.dev^
 ||alexis910jp.pages.dev^
 ||alexisaltro.pages.dev^
 ||alexiscrowf.pages.dev^
@@ -991656,6 +991795,7 @@
 ||alexistogel-slot-gacor.pages.dev^
 ||alexistogel-ssswitchgears.pages.dev^
 ||alexistogel-tempat-game.pages.dev^
+||alexistogel-tempat-terpercaya.pages.dev^
 ||alexistogel-terpercaya.pages.dev^
 ||alexistogel-the-king.pages.dev^
 ||alexistogel-toto.pages.dev^
@@ -991903,6 +992043,7 @@
 ||aliciacatalina-qqdewa.pages.dev^
 ||aliciagastromkt-togell-online.pages.dev^
 ||aliciaherreraseguros.pages.dev^
+||alicmusic-indosattoto.pages.dev^
 ||alicollectionlahore.pages.dev^
 ||alidiscounts-sule88.pages.dev^
 ||alidiscounts-super333.pages.dev^
@@ -998387,6 +998528,7 @@
 ||amp-indoraja-6.pages.dev^
 ||amp-indoratu89.pages.dev^
 ||amp-indosat.pages.dev^
+||amp-indosat-1uj.pages.dev^
 ||amp-indosga.pages.dev^
 ||amp-indoslot888idlink-indoslot888.pages.dev^
 ||amp-indowd-49g.pages.dev^
@@ -999441,6 +999583,7 @@
 ||amp-ledak388.pages.dev^
 ||amp-ledakslot10.pages.dev^
 ||amp-ledakslot11.pages.dev^
+||amp-ledakslot12.pages.dev^
 ||amp-ledakslot2.pages.dev^
 ||amp-ledakslot3.pages.dev^
 ||amp-ledakslot7.pages.dev^
@@ -1026326,6 +1026469,7 @@
 ||batankrajan.pages.dev^
 ||batans-abocom.pages.dev^
 ||batansabo-com.pages.dev^
+||bataonline.pages.dev^
 ||batara.pages.dev^
 ||batara188.pages.dev^
 ||batara303-duniacuan.pages.dev^
@@ -1029392,6 +1029536,7 @@
 ||bersama-super33.pages.dev^
 ||bersama-teman-teman.pages.dev^
 ||bersama-toktoto-pasti.pages.dev^
+||bersama-tri7neo.pages.dev^
 ||bersama-tvtoto.pages.dev^
 ||bersama-ucokslot.pages.dev^
 ||bersama-usaha.pages.dev^
@@ -1073923,6 +1074068,7 @@
 ||edgewaterdental-health.pages.dev^
 ||edgewaterproduce.pages.dev^
 ||edhvac-piu-piu.pages.dev^
+||edibleforest-booking.pages.dev^
 ||ediciones.pages.dev^
 ||ediciones-6y5.pages.dev^
 ||ediciones-dada.pages.dev^
@@ -1078809,6 +1078955,7 @@
 ||evergreenevents.pages.dev^
 ||evergutduit.pages.dev^
 ||everhold-amp.pages.dev^
+||everify-neco.pages.dev^
 ||everightlab-teams.pages.dev^
 ||everlastingcurbappeal.pages.dev^
 ||everlearnfunmariska.pages.dev^
@@ -1107417,6 +1107564,7 @@
 ||idnslot-8mc.pages.dev^
 ||idnslot-abc.pages.dev^
 ||idnslot-anastasiabeverlyhills.pages.dev^
+||idnslot-asia.pages.dev^
 ||idnslot-eal.pages.dev^
 ||idnslot-emmerololth.pages.dev^
 ||idnslot-gacor-7ux.pages.dev^
@@ -1109425,6 +1109573,7 @@
 ||inclusionhealth-careersseonami1.pages.dev^
 ||inclusionhealth-seonami.pages.dev^
 ||inclusionhealth-seosanji.pages.dev^
+||inclusionworlds-sailing.pages.dev^
 ||inclusive-astro128.pages.dev^
 ||inclusive-society-advancement-keynote.pages.dev^
 ||inclusive-victory97.pages.dev^
@@ -1110421,6 +1110570,7 @@
 ||indosange.pages.dev^
 ||indosangebispak.pages.dev^
 ||indosangebugil.pages.dev^
+||indosat-antiphising.pages.dev^
 ||indosat-cr8.pages.dev^
 ||indosat-ex.pages.dev^
 ||indosat-kelas-yok.pages.dev^
@@ -1110432,6 +1110582,7 @@
 ||indosataje.pages.dev^
 ||indosatgacor.pages.dev^
 ||indosatkuylogin.pages.dev^
+||indosatno.pages.dev^
 ||indosatoto-00.pages.dev^
 ||indosatoto-01.pages.dev^
 ||indosatoto-1gv.pages.dev^
@@ -1110445,8 +1110596,11 @@
 ||indosatoto-damaedance.pages.dev^
 ||indosatoto-dgl.pages.dev^
 ||indosatoto-dq2.pages.dev^
+||indosatoto-eg2.pages.dev^
 ||indosatoto-is-back.pages.dev^
 ||indosatoto-linkvip.pages.dev^
+||indosatoto-login.pages.dev^
+||indosatoto-login-eud.pages.dev^
 ||indosatoto-masuk.pages.dev^
 ||indosatoto-masukinaja.pages.dev^
 ||indosatoto-mrkung.pages.dev^
@@ -1110460,6 +1110614,7 @@
 ||indosatoto-w.pages.dev^
 ||indosatoto-w1.pages.dev^
 ||indosatoto1.pages.dev^
+||indosatotoantiphising.pages.dev^
 ||indosatotoart.pages.dev^
 ||indosatotobaby.pages.dev^
 ||indosatotobar.pages.dev^
@@ -1110495,7 +1110650,9 @@
 ||indosatotoxxyz.pages.dev^
 ||indosatslot-gaming.pages.dev^
 ||indosattoto-1.pages.dev^
+||indosattoto-evidences-com.pages.dev^
 ||indosattoto-pusat-indikator.pages.dev^
+||indosattoto-resmi.pages.dev^
 ||indosattoto-resmi-afo.pages.dev^
 ||indosattotobaiksekali.pages.dev^
 ||indoscore.pages.dev^
@@ -1133330,6 +1133487,7 @@
 ||kkakklaskklalksllakklslkallkslal.pages.dev^
 ||kkb-53w.pages.dev^
 ||kkbandarpenawar-rasairi.pages.dev^
+||kkc-indosatoto.pages.dev^
 ||kkc-kicaumania.pages.dev^
 ||kkchenderoh-my.pages.dev^
 ||kkcr.pages.dev^
@@ -1147882,6 +1148040,7 @@
 ||logingameonlinekoin138.pages.dev^
 ||logingampang.pages.dev^
 ||logingarda4d.pages.dev^
+||logingaruda138.pages.dev^
 ||logingaruda777.pages.dev^
 ||logingate-goldwin678-krml.pages.dev^
 ||loginggsoft.pages.dev^
@@ -1148481,6 +1148640,8 @@
 ||lontongsayur-1db.pages.dev^
 ||lontongsayur-83p.pages.dev^
 ||lontongtoto.pages.dev^
+||look-ho-indosattoto.pages.dev^
+||look-me-indosattoto.pages.dev^
 ||look-see-lunatogel.pages.dev^
 ||lookatmenow-acehbola.pages.dev^
 ||lookatmenowss.pages.dev^
@@ -1148592,6 +1148753,7 @@
 ||losbet-gaming.pages.dev^
 ||losbetlogin.pages.dev^
 ||loscabosashlandma.pages.dev^
+||loscabostennisopenn.pages.dev^
 ||loscalifornianos-org.pages.dev^
 ||loschanoscasasdemadera-6hh.pages.dev^
 ||loscompadresrestaurants.pages.dev^
@@ -1151069,6 +1151231,7 @@
 ||macau-resmi-terpercaya.pages.dev^
 ||macau-roso-hoki.pages.dev^
 ||macau-toto-bergeraksss.pages.dev^
+||macau-toto-link.pages.dev^
 ||macau-toto123apk.pages.dev^
 ||macau-x-kamarrudin.pages.dev^
 ||macau128-gaming.pages.dev^
@@ -1157152,6 +1157315,7 @@
 ||master-terobos.pages.dev^
 ||master-togel.pages.dev^
 ||master-togel-79j.pages.dev^
+||master-togel-slotgacor.pages.dev^
 ||master-togel2.pages.dev^
 ||master-totomacau.pages.dev^
 ||master-totoqq.pages.dev^
@@ -1160495,6 +1160659,7 @@
 ||megahokiamp.pages.dev^
 ||megahokii.pages.dev^
 ||megahokikuku.pages.dev^
+||megajackpot88-kyoto.pages.dev^
 ||megajitu-el.pages.dev^
 ||megajp-amp-doy.pages.dev^
 ||megajp-aoq.pages.dev^
@@ -1175245,6 +1175410,7 @@
 ||netlifyapp-jdk138.pages.dev^
 ||netlifylsk.pages.dev^
 ||netmantapjos.pages.dev^
+||netnatur.pages.dev^
 ||netnetmav.pages.dev^
 ||netonert.pages.dev^
 ||netpak-top.pages.dev^
@@ -1180019,6 +1180185,7 @@
 ||nunikutami-vvip-premium.pages.dev^
 ||nunkaestarde-quieres-encontrar-el-trabajo-de-tus-suenos.pages.dev^
 ||nunmpangbentarko.pages.dev^
+||nunojp-com.pages.dev^
 ||nunung.pages.dev^
 ||nunuqrgacor.pages.dev^
 ||nunuyuncletazmania.pages.dev^
@@ -1180736,6 +1180903,7 @@
 ||obor138daftar-login.pages.dev^
 ||obor138t.pages.dev^
 ||obor2a.pages.dev^
+||obor43-com.pages.dev^
 ||obor5.pages.dev^
 ||obor88slot.pages.dev^
 ||oborac.pages.dev^
@@ -1182212,6 +1182380,7 @@
 ||olibati.pages.dev^
 ||olibekas.pages.dev^
 ||olice-commissioner-on-the-war.pages.dev^
+||olimp-ex-indosatoto.pages.dev^
 ||olimp-ex-parlay.pages.dev^
 ||olimp-ex-slot99.pages.dev^
 ||olimpeconom.pages.dev^
@@ -1182400,6 +1182569,7 @@
 ||olx188-slot88.pages.dev^
 ||olx188-taruhan-sbobet.pages.dev^
 ||olx188casino88.pages.dev^
+||olx188h-ej6.pages.dev^
 ||olx188livebetting.pages.dev^
 ||olx188pialadunia.pages.dev^
 ||olx188situsbola.pages.dev^
@@ -1185309,6 +1185479,7 @@
 ||otw88.pages.dev^
 ||otw88-ampad-1.pages.dev^
 ||otw88-ampad-2-10p.pages.dev^
+||otw88c.pages.dev^
 ||otwartapracownia.pages.dev^
 ||otwarte-warsztaty-gis.pages.dev^
 ||otwbos-official2.pages.dev^
@@ -1196661,6 +1196832,7 @@
 ||pilihan-game-populer.pages.dev^
 ||pilihan-google.pages.dev^
 ||pilihan-kedua-gacor.pages.dev^
+||pilihan-layanan-terbaik.pages.dev^
 ||pilihan-login-situs-kicautoto.pages.dev^
 ||pilihan-matranjauu.pages.dev^
 ||pilihan-nenek.pages.dev^
@@ -1202506,6 +1202678,7 @@
 ||power-meriam.pages.dev^
 ||power-mesin-slotgacor.pages.dev^
 ||power-morowaliutarakab.pages.dev^
+||power-mpomasuk.pages.dev^
 ||power-networking.pages.dev^
 ||power-nos138.pages.dev^
 ||power-of-edu.pages.dev^
@@ -1204161,6 +1204334,7 @@
 ||priscilla-aonomakeup-pasti-naik.pages.dev^
 ||priscillaweidlein.pages.dev^
 ||prisco.pages.dev^
+||prisedeterre-creations.pages.dev^
 ||prisedirecte.pages.dev^
 ||prisma-login.pages.dev^
 ||prismara.pages.dev^
@@ -1237416,6 +1237590,7 @@
 ||sikit-aaa-promovenorthamerica.pages.dev^
 ||sikit-aaaa-friendsindustries.pages.dev^
 ||sikit-aaaaa-dongki.pages.dev^
+||sikit-aaah.pages.dev^
 ||sikit-aja-3qx.pages.dev^
 ||sikit-aja-bang-olxtoto.pages.dev^
 ||sikit-aja-bangg.pages.dev^
@@ -1239699,6 +1239874,7 @@
 ||situs-macau-terpercaya.pages.dev^
 ||situs-madu303-terpercaya.pages.dev^
 ||situs-mahjong-222.pages.dev^
+||situs-mahjong-asia.pages.dev^
 ||situs-mahkota188.pages.dev^
 ||situs-manjur4d.pages.dev^
 ||situs-mantap.pages.dev^
@@ -1240124,6 +1240300,7 @@
 ||situs-vcs777.pages.dev^
 ||situs-viaplay777.pages.dev^
 ||situs-vip.pages.dev^
+||situs-wd-qq1221.pages.dev^
 ||situs-wd33.pages.dev^
 ||situs-wdgacor4d.pages.dev^
 ||situs-wdktv.pages.dev^
@@ -1261419,6 +1261596,7 @@
 ||terbangbang6.pages.dev^
 ||terbangbebas.pages.dev^
 ||terbangbersama.pages.dev^
+||terbangbersama-apizeus777.pages.dev^
 ||terbangbersama-equinoxgroupltd.pages.dev^
 ||terbangbersama502team.pages.dev^
 ||terbangbersamabintang.pages.dev^
@@ -1272766,6 +1272944,7 @@
 ||tutor-jaga-brand.pages.dev^
 ||tutor-konek-amp.pages.dev^
 ||tutor-naik-1sx.pages.dev^
+||tutor-naik-cb5.pages.dev^
 ||tutor-naik-dong-koooooo.pages.dev^
 ||tutor-naik-lp.pages.dev^
 ||tutor-naik-page.pages.dev^
@@ -1273222,6 +1273401,7 @@
 ||txt-agency.pages.dev^
 ||txt-mois.pages.dev^
 ||txtha.pages.dev^
+||txxnslvtss33-three.pages.dev^
 ||ty303.pages.dev^
 ||ty88-amprojct.pages.dev^
 ||tyara88.pages.dev^
@@ -1295412,6 +1295592,7 @@
 ||terimampq.dev^
 ||ternatetoto.dev^
 ||tesla338.dev^
+||teslatotoweb.dev^
 ||tevfikbagcivan.dev^
 ||okay.texaskita.dev^
 ||okay.texaskita3.dev^
@@ -1496253,6 +1496434,7 @@
 ||judolhoki88mythic.hair^
 ||judolhoki88nada.hair^
 ||judolhoki88naik.hair^
+||judolhoki88net.hair^
 ||judolhoki88official.hair^
 ||judolhoki88onv.hair^
 ||judolhoki88pgsoft.hair^
@@ -1598367,6 +1598549,7 @@
 ||jualfurniture.id^
 ||jualgelangkaret.id^
 ||jualhidrolikmedan.id^
+||jualikankoi.id^
 ||jualobatdorongan.id^
 ||jualobatpembesarpenis.id^
 ||jualobatperangsang.id^
@@ -1632112,6 +1632295,7 @@
 ||lotuspelangi.am.in^
 ||lotuspelangiasik.am.in^
 ||lotuspelangioxy.am.in^
+||lotuspelangipro.am.in^
 ||lotussweetbonanza.am.in^
 ||mastiraja.am.in^
 ||mmsbaba.am.in^
@@ -1637278,6 +1637462,7 @@
 ||boombetting.in^
 ||boompass.in^
 ||borneopoker.in^
+||bos303.in^
 ||bos5000.in^
 ||bos88.in^
 ||bosbandarqq.in^
@@ -1695206,6 +1695391,7 @@
 ||menu.heritageschoolballia.in^
 ||hero4d.in^
 ||herototo.in^
+||jakarta.hiddenbistro.in^
 ||hidemark.in^
 ||hinalandcompany.in^
 ||hindi1.in^
@@ -1723183,131 +1723369,3 @@
 ||bali-vacation-slot-demo1717681968214509.kelkarfragrances.in^
 ||balislot-login.kelkarfragrances.in^
 ||balkan-bet-slot.kelkarfragrances.in^
-||balsem-geliga.kelkarfragrances.in^
-||bamslot.kelkarfragrances.in^
-||ban-bocor-erek-erek.kelkarfragrances.in^
-||ban-togel-slot1717682217239333.kelkarfragrances.in^
-||bandar-188-slot171767152454906.kelkarfragrances.in^
-||bandar-bo-slot171767151153034.kelkarfragrances.in^
-||bandar-hoki-666.kelkarfragrances.in^
-||bandar-pokermania88-online-deposit-50-ribu.kelkarfragrances.in^
-||bandar-pragmatic-play-casino.kelkarfragrances.in^
-||bandar-situs-slot.kelkarfragrances.in^
-||bandar-slot-3671717682494266902.kelkarfragrances.in^
-||bandar-togel-bet-termurah.kelkarfragrances.in^
-||bandar-togel-dan-slot-terpercaya1717683221335361.kelkarfragrances.in^
-||bandar-togel-deposit-pulsa-5000.kelkarfragrances.in^
-||bandar-togel-online-gototo.kelkarfragrances.in^
-||bandar-togel-online-terbesar.kelkarfragrances.in^
-||bandar-togel-rajabandot.kelkarfragrances.in^
-||bandar-togel-slot-77.kelkarfragrances.in^
-||bandar-togel-terpecaya.kelkarfragrances.in^
-||bandar-togel-terpercaya-dolantogel.kelkarfragrances.in^
-||bandar-togel-wdbos.kelkarfragrances.in^
-||bandar66-slot.kelkarfragrances.in^
-||bandargaming-rtp.kelkarfragrances.in^
-||bandarjitu-rtp.kelkarfragrances.in^
-||bandartogel.kelkarfragrances.in^
-||bandarwins-slot.kelkarfragrances.in^
-||bandit-138.kelkarfragrances.in^
-||bandit-168-slot1717682157233334.kelkarfragrances.in^
-||bandit-lapa-lapa-lirik.kelkarfragrances.in^
-||bandungtoto.kelkarfragrances.in^
-||bang-jago-slot-online171767152855413.kelkarfragrances.in^
-||bang-main-togel-yuk.kelkarfragrances.in^
-||bangjago-selot.kelkarfragrances.in^
-||bangkek-pridiksi.kelkarfragrances.in^
-||bank-888-slot.kelkarfragrances.in^
-||bank-nagari-cash-management.kelkarfragrances.in^
-||banner-bola.kelkarfragrances.in^
-||banner-pecel-lele-cdr.kelkarfragrances.in^
-||bar-togel.kelkarfragrances.in^
-||barat-togel.kelkarfragrances.in^
-||barayateam.kelkarfragrances.in^
-||barcatoto-login.kelkarfragrances.in^
-||barcelona-lolos-16-besar-liga-champions.kelkarfragrances.in^
-||barcode-88.kelkarfragrances.in^
-||barcrest-slots17176783291357.kelkarfragrances.in^
-||bareng-jp-slot.kelkarfragrances.in^
-||bareng-slot88.kelkarfragrances.in^
-||barokah-888-slot.kelkarfragrances.in^
-||barokah-slot888.kelkarfragrances.in^
-||bartender-slot.kelkarfragrances.in^
-||basah-189.kelkarfragrances.in^
-||base-th-10-lucu.kelkarfragrances.in^
-||batara-vip-slot1717683709384069.kelkarfragrances.in^
-||batarabet88.kelkarfragrances.in^
-||batas-umur-pemain-piala-dunia-2022.kelkarfragrances.in^
-||bathtub-slot1717682198237435.kelkarfragrances.in^
-||batik-188.kelkarfragrances.in^
-||batik-slot-777171767152054273.kelkarfragrances.in^
-||batikslot-demo.kelkarfragrances.in^
-||batmantoto-login-alternatif.kelkarfragrances.in^
-||batu-ajaib.kelkarfragrances.in^
-||batu-pirus-merah.kelkarfragrances.in^
-||bayar-pdam-di-mbanking-bca.kelkarfragrances.in^
-||bayar4d.kelkarfragrances.in^
-||bayi-togel-2d.kelkarfragrances.in^
-||bayu-toto-togel.kelkarfragrances.in^
-||bbfs-abadi-togel.kelkarfragrances.in^
-||bbm-sign-in-online.kelkarfragrances.in^
-||bbn14d-slot-login.kelkarfragrances.in^
-||bbs78-prediction-togel-rabu.kelkarfragrances.in^
-||bbtoto-sidney.kelkarfragrances.in^
-||bc-game-slot1717681960213685.kelkarfragrances.in^
-||bca368-gacor.kelkarfragrances.in^
-||bca368-slot.kelkarfragrances.in^
-||bd-slot881717682273244992.kelkarfragrances.in^
-||bebas-888-slot.kelkarfragrances.in^
-||bebas-ip-bebas-buy-spin.kelkarfragrances.in^
-||bebasbet88-slot171767152955535.kelkarfragrances.in^
-||bebe-toto.kelkarfragrances.in^
-||bebek-jago-slot17176711532319.kelkarfragrances.in^
-||bedak-padat-yang-bagus-untuk-usia-30-tahun-keatas.kelkarfragrances.in^
-||bedanya-foundation-dan-concealer.kelkarfragrances.in^
-||bedanya-kambing-jantan-dan-betina.kelkarfragrances.in^
-||bedanya-queen-bed-dan-double-bed.kelkarfragrances.in^
-||bee-larva.kelkarfragrances.in^
-||bejing-pool.kelkarfragrances.in^
-||bejo4d-slot171767123814382.kelkarfragrances.in^
-||belajar-qori-untuk-pemula.kelkarfragrances.in^
-||belalang-no-togel.kelkarfragrances.in^
-||belegend-slot-login.kelkarfragrances.in^
-||beli-starlight-member-murah.kelkarfragrances.in^
-||belt-bags.kelkarfragrances.in^
-||belut-jp-gacor-slot.kelkarfragrances.in^
-||bemo-4d-slot.kelkarfragrances.in^
-||bemo88-slot.kelkarfragrances.in^
-||benben.kelkarfragrances.in^
-||benda-z.kelkarfragrances.in^
-||bendera88-com171903702653950.kelkarfragrances.in^
-||bengkung-ibu-melahirkan.kelkarfragrances.in^
-||benteng-786.kelkarfragrances.in^
-||bento-toto.kelkarfragrances.in^
-||bentuk-lapangan-bola-bakar.kelkarfragrances.in^
-||benua-terluas-adalah-benua.kelkarfragrances.in^
-||benz-togel.kelkarfragrances.in^
-||berapa-divisi-liga-inggris.kelkarfragrances.in^
-||berapa-gaji-pemain-bola-mbappe.kelkarfragrances.in^
-||berapa-harga-paket-axis.kelkarfragrances.in^
-||berapa-harga-pigeon.kelkarfragrances.in^
-||berapa-lama-proses-sunat-laser.kelkarfragrances.in^
-||berapa-member-astro.kelkarfragrances.in^
-||berapa-modal-untuk-menjadi-distributor-unilever.kelkarfragrances.in^
-||berapa-sendok-takaran-susu-prenagen-emesis.kelkarfragrances.in^
-||berapa-tinggi-net-putera-dalam-permainan-bola-voli.kelkarfragrances.in^
-||berapa-ukuran-permainan-bola-voli.kelkarfragrances.in^
-||berapa-umur-willie-salim.kelkarfragrances.in^
-||beras-cap-nanas.kelkarfragrances.in^
-||berdamailah-dengan-keadaan.kelkarfragrances.in^
-||berewok.kelkarfragrances.in^
-||berikut-ini-yang-merupakan-komponen-pasif-antara-lain.kelkarfragrances.in^
-||berikut-tinggi-net-bola-voli-putra-dan-putri.kelkarfragrances.in^
-||berita-bola-copa-america-2016.kelkarfragrances.in^
-||berita-bola-indo.kelkarfragrances.in^
-||berita-bola-u20.kelkarfragrances.in^
-||berita-hasil-bola.kelkarfragrances.in^
-||berita-liga-inggris-terbaru-hari-ini.kelkarfragrances.in^
-||berita-terkini-world-cup-2022.kelkarfragrances.in^
-||berita-transfer-pemain-2017.kelkarfragrances.in^
-||berkah-supermarket.kelkarfragrances.in^

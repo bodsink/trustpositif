@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102806
+! Serial: 26102807
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -2665,6 +2665,7 @@
 ||sbobet.agency^
 ||sbobetmain.agency^
 ||amp-168.sedaptogel.agency^
+||amp-169.sedaptogel.agency^
 ||sehokigcr.agency^
 ||sehokimoon.agency^
 ||sejoli76.agency^
@@ -53137,6 +53138,7 @@
 ||astroranjana4.vercel.app^
 ||astroranjana6.vercel.app^
 ||astroslot.vercel.app^
+||astroslot-three.vercel.app^
 ||astrostat.vercel.app^
 ||astrotech-rho.vercel.app^
 ||astrotech-ten.vercel.app^
@@ -135026,6 +135028,7 @@
 ||bestreview.asia^
 ||bestslot789.asia^
 ||besttogel.asia^
+||besttoko4d.asia^
 ||bestworld.asia^
 ||bet-coin.asia^
 ||bet-togel.asia^
@@ -208620,6 +208623,7 @@
 ||99kp.best^
 ||99qiuqiu.best^
 ||9bet.best^
+||9nagawin.best^
 ||a1togel.best^
 ||a77.best^
 ||a99.best^
@@ -296824,6 +296828,7 @@
 ||blogg.port25.biz^
 ||portail-sexe.biz^
 ||portal138.biz^
+||portalgbo.biz^
 ||portalpangeran.biz^
 ||portalsion88.biz^
 ||portaltoto.biz^
@@ -370782,6 +370787,7 @@
 ||pandawa777.bond^
 ||pandawa88winrtp.bond^
 ||pandawatoto.bond^
+||pandawin.bond^
 ||pandawin3.bond^
 ||pandawine.bond^
 ||pandawinjp.bond^
@@ -375630,6 +375636,7 @@
 ||gb88.boutique^
 ||gbo303n.boutique^
 ||gbo4d11.boutique^
+||gbosky16.boutique^
 ||gbowin16.boutique^
 ||gem188.boutique^
 ||gem188-amp.boutique^
@@ -573833,6 +573840,7 @@
 ||dirtycoffee.cafe^
 ||djarumtoto.cafe^
 ||dnatoto.cafe^
+||dolar138.cafe^
 ||donutfactory.cafe^
 ||drg78.cafe^
 ||dunia77.cafe^
@@ -578425,6 +578433,7 @@
 ||squad777.mainsquad777.cam^
 ||amp.mainsupraslot.cam^
 ||mainyuk69.cam^
+||maju22.cam^
 ||majujp.cam^
 ||majukapal.cam^
 ||makelarrrr33.cam^
@@ -581542,6 +581551,8 @@
 ||zh.transex.cam^
 ||transexuals.cam^
 ||treesoftreasure.cam^
+||tri7bet.cam^
+||tri88.cam^
 ||triad303.cam^
 ||triadjitu.cam^
 ||triadtoto.cam^
@@ -583171,6 +583182,7 @@
 ||bookie7.casa^
 ||bos21.casa^
 ||1.bos303.casa^
+||3.bos303.casa^
 ||bosbandarq.casa^
 ||bosgambir.casa^
 ||boshepoker.casa^
@@ -591221,6 +591233,7 @@
 ||veram.casino^
 ||vernons.casino^
 ||support.very-well.casino^
+||vflbet.casino^
 ||vi68.casino^
 ||vicibet.casino^
 ||victoryvaultcasino.casino^
@@ -593221,6 +593234,7 @@
 ||3gpjizz.cc^
 ||3gpking.cc^
 ||3hiidude.cc^
+||3ipevnb.cc^
 ||3iso777.cc^
 ||3king.cc^
 ||3kings.cc^
@@ -603007,6 +603021,7 @@
 ||bisi666.cc^
 ||bisikangaib.cc^
 ||bisnis4d.cc^
+||bisnis4dbf.cc^
 ||bisnis4duj.cc^
 ||bisnis555.cc^
 ||bisnis555x.cc^
@@ -614601,6 +614616,7 @@
 ||enakcuan.cc^
 ||enakqq.cc^
 ||enakslotcf.cc^
+||enakslotky.cc^
 ||enakslotnb.cc^
 ||enakslotoj.cc^
 ||enakslottf.cc^
@@ -724424,6 +724440,7 @@
 ||sv288.cc^
 ||sv388id.cc^
 ||sv388link.cc^
+||svbbwt3.cc^
 ||svcc.cc^
 ||cpeo1g8hrj.svdpyumm.cc^
 ||api.sve.cc^
@@ -841221,6 +841238,7 @@
 ||pangerantoto-4.center^
 ||pangerantoto2.center^
 ||pangerantoto3.center^
+||tiamo.papeer.center^
 ||paris123.center^
 ||parlay88.center^
 ||payung57.center^
@@ -1029340,6 +1029358,7 @@
 ||jardinmania.cl^
 ||jiumpoficial.cl^
 ||jmjpanama2019.cl^
+||joachim.cl^
 ||jobhunter.cl^
 ||joc.cl^
 ||joyeriagazzella.cl^
@@ -1154372,6 +1154391,7 @@
 ||markasmpo.club^
 ||markaspetir.club^
 ||markaspoker.club^
+||naik.markasrans.club^
 ||markasrtptop1.club^
 ||markasslot.club^
 ||markastoto.club^
@@ -1216464,6 +1216484,8 @@
 ||indosatoto.co^
 ||indosatslot.co^
 ||indosattoto.co^
+||indosattotoresmi.co^
+||indosatyakinbisa.co^
 ||indosbo.co^
 ||indosbobet88.co^
 ||indoseru.co^
@@ -1224830,6 +1224852,7 @@
 ||loginshionaga.co^
 ||loginsini.co^
 ||loginsitusgacor.co^
+||loginsitusslotgacor.co^
 ||loginslot.co^
 ||loginslot88bet.co^
 ||loginslot99bet.co^
@@ -1299688,6 +1299711,7 @@
 ||33365375.com^
 ||33366122.com^
 ||333666889.com^
+||333666a.com^
 ||333666b.com^
 ||h5.333666f.com^
 ||333666game.com^
@@ -1319289,6 +1319313,7 @@
 ||6amnews.com^
 ||6ampbebasbet.com^
 ||6ampceri4d.com^
+||6ampdolar508.com^
 ||6amphk4d.com^
 ||6ampino.com^
 ||6ampinter4d.com^
@@ -1328076,6 +1328101,7 @@
 ||888togel.com^
 ||888togel1.com^
 ||888togel10.com^
+||888togel101.com^
 ||888togel11.com^
 ||888togel12.com^
 ||888togel13.com^
@@ -1334430,6 +1334456,7 @@
 ||988slotslots.com^
 ||988slotu.com^
 ||988slotva.com^
+||988slotweb.com^
 ||988sltpetir.com^
 ||988sport.com^
 ||988start.com^
@@ -1334635,6 +1334662,7 @@
 ||98totox52.com^
 ||98totox53.com^
 ||98totox54.com^
+||98totox55.com^
 ||98totox6.com^
 ||98totox7.com^
 ||98totox8.com^
@@ -1348333,6 +1348361,7 @@
 ||ablegaysex.com^
 ||ablegridaudio.com^
 ||ablelg.com^
+||ablelifecare.com^
 ||ablemedsupply.com^
 ||ablemodels.com^
 ||ablemotionmobility.com^
@@ -1391519,6 +1391548,7 @@
 ||ajaiblari.com^
 ||ajaibluas.com^
 ||ajaibmanjur.com^
+||ajaibmantap.com^
 ||ajaibmasuk.com^
 ||ajaibmaxwin.com^
 ||ajaibmaxwinslot.com^
@@ -1395235,6 +1395265,7 @@
 ||akseslexus88.com^
 ||akseslgo138.com^
 ||alk.akseslido88.com^
+||blaze.akseslido88.com^
 ||eeve.akseslido88.com^
 ||ledakan.akseslido88.com^
 ||sausage.akseslido88.com^
@@ -1403038,10 +1403069,12 @@
 ||alexistogel-mahjong.com^
 ||alexistogel-max.com^
 ||alexistogel-media.com^
+||alexistogel-network.com^
 ||alexistogel-nexus.com^
 ||alexistogel-official.com^
 ||alexistogel-online.com^
 ||new.alexistogel-payplay.com^
+||alexistogel-plus.com^
 ||alexistogel-pragmatic.com^
 ||toto-togel.alexistogel-pro.com^
 ||m.alexistogel-promotion.com^
@@ -1403051,6 +1403084,7 @@
 ||alexistogel-slot.com^
 ||official.alexistogel-slot-online.com^
 ||login.alexistogel-space.com^
+||alexistogel-star.com^
 ||bagong.alexistogel-start.com^
 ||getsuga.alexistogel-start.com^
 ||keren.alexistogel-start.com^
@@ -1431568,6 +1431602,7 @@
 ||amaviemas.com^
 ||sky01.amavifans.com^
 ||sky02.amavifans.com^
+||1st.amavifight.com^
 ||vvip01.amavifight.com^
 ||vvip02.amavifight.com^
 ||vvip03.amavifight.com^
@@ -1436509,6 +1436544,7 @@
 ||amp-super.com^
 ||amp-super805.com^
 ||amp-supersunday.com^
+||indogacor.amp-surga11.com^
 ||amp-tante4d.com^
 ||amp-thunder.com^
 ||amp-tidakbisaseo.com^
@@ -1453907,6 +1453943,7 @@
 ||angkasa168melayang.com^
 ||angkasa168meteor.com^
 ||angkasa168naik.com^
+||angkasa168ndxrotasi.com^
 ||angkasa168official.com^
 ||angkasa168pc.com^
 ||angkasa168pecah.com^
@@ -1507932,6 +1507969,7 @@
 ||autoaccessportage.com^
 ||autoaccidentsclaim.com^
 ||autoadditionspro.com^
+||indosatoto.autoagencyeg.com^
 ||jepor987.autoalertserves.com^
 ||autoallslotpg.com^
 ||autoambiente.com^
@@ -1520823,6 +1520861,7 @@
 ||hot-pussy66.b7pp.com^
 ||mollysun.b7pp.com^
 ||wild-thing.b7pp.com^
+||b7qno5.com^
 ||b7slot.com^
 ||b7vip1.com^
 ||7-nagatoto.b7web.com^
@@ -1560299,6 +1560338,7 @@
 ||bantaitogelcasa.com^
 ||bantaitogelcayok.com^
 ||bantaitogeldiaz.com^
+||bantaitogelgiyu.com^
 ||bantaitogeliser.com^
 ||bantaitogeliter.com^
 ||bantaitogeljude.com^
@@ -1567953,6 +1567993,7 @@
 ||www5.batiknewyear.com^
 ||www6.batiknewyear.com^
 ||www7.batiknewyear.com^
+||batiknight.com^
 ||batiknine.com^
 ||batiknow.com^
 ||batikofficial.com^
@@ -1590826,6 +1590867,7 @@
 ||bengkel69sky.com^
 ||bengkel69star.com^
 ||bengkel69stay.com^
+||bengkel69sub.com^
 ||bengkel69victory.com^
 ||akses.bengkel69victory.com^
 ||bengkel69vvip.com^
@@ -1614997,6 +1615039,7 @@
 ||bewin999jt.com^
 ||bewin999login.com^
 ||bewin999m.com^
+||bewin999ribu.com^
 ||bewin999slot.com^
 ||bewin999top.com^
 ||bewin999yok.com^
@@ -1615909,6 +1615952,7 @@
 ||bgnkalimantantimur.com^
 ||bgnnusatenggaratimur.com^
 ||bgnstore.com^
+||livekeluaransgp.bgnsumateraselatan.com^
 ||bgnudes.com^
 ||bgo.com^
 ||bgogame.com^
@@ -1832377,6 +1832421,7 @@
 ||blueboysx.com^
 ||blueboyz.com^
 ||bluebras.com^
+||bluebrewsbistro.com^
 ||bluebridgeapps.com^
 ||bluebridgehouse.com^
 ||bluebubblesscuba.com^
@@ -1838361,33 +1838406,3 @@
 ||fruit-jelly-milk-cheese.bobatutu.com^
 ||fruit-salad-jelly.bobatutu.com^
 ||fsb7bo4fot.bobatutu.com^
-||ft23rcbypi38mx5fbg2q.bobatutu.com^
-||ftdxougkwh.bobatutu.com^
-||ftjhdqdtonrp5j1dxaq4.bobatutu.com^
-||ftqbqeleaz.bobatutu.com^
-||fuath.bobatutu.com^
-||fullhouse.bobatutu.com^
-||fulltoto-rtp.bobatutu.com^
-||fulus-adalah.bobatutu.com^
-||fun88-login.bobatutu.com^
-||fungsi-serum-red-jelly.bobatutu.com^
-||funny-jelly-bean-flavors.bobatutu.com^
-||fura.bobatutu.com^
-||furamin-obat-apa.bobatutu.com^
-||furcorn-s-jelly-dreams-apk.bobatutu.com^
-||furfur.bobatutu.com^
-||fury.bobatutu.com^
-||future.bobatutu.com^
-||fveaenp4dqxfkexzau2y.bobatutu.com^
-||fvemd3sq85kszznqa4sv.bobatutu.com^
-||fwnnbvrcal.bobatutu.com^
-||fwvtl6pugi3horwdurg1.bobatutu.com^
-||fx7lfnifnvymhja5fme1.bobatutu.com^
-||fxy8jn6n4xdz7ohfbvq3.bobatutu.com^
-||fz9h6hxdoe.bobatutu.com^
-||fzodvk8kby.bobatutu.com^
-||fztf9weepmhteny2vprh.bobatutu.com^
-||g0a7spaei4.bobatutu.com^
-||g0nl0d3no4.bobatutu.com^
-||g11resmi.bobatutu.com^
-||g2kwp8nzuq2y82hl6ot9.bobatutu.com^
