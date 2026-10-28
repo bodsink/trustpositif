@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102704
+! Serial: 26102800
 ! Part: 03/06
 ||mega-mustika-sekarang.shopwithsoles.com^
 ||mega-price.shopwithsoles.com^
@@ -1579576,7 +1579576,6 @@
 ||pasarbaris.indonesianet.co.id^
 ||indonesiatoday.co.id^
 ||indonesiatourguide.co.id^
-||indonetwork.co.id^
 ||caramemutihkanwajah.indonetwork.co.id^
 ||ciptaglobalraya.indonetwork.co.id^
 ||dutacantik.indonetwork.co.id^

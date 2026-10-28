@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102704
+! Serial: 26102800
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^

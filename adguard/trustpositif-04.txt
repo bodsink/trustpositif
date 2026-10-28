@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26102704
+! Serial: 26102800
 ! Part: 04/06
 ||pintu-toto.kelkarfragrances.in^
 ||pintutogel.kelkarfragrances.in^
