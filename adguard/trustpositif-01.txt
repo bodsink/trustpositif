@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26103001
+! Serial: 26103003
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -89810,6 +89810,7 @@
 ||ollo4dpride.web.app^
 ||olx-mancing-mania.web.app^
 ||olx888-deal.web.app^
+||olx888-deals.web.app^
 ||olx888-game.web.app^
 ||olx888deal.web.app^
 ||olxmap-c3c44.web.app^
@@ -188725,6 +188726,7 @@
 ||latolato138.bar^
 ||ifrimart.launchedan.bar^
 ||lavabet138.bar^
+||lavowin.bar^
 ||layarfilm99.bar^
 ||layarkaca21.bar^
 ||lazadatoto.bar^
@@ -204079,6 +204081,7 @@
 ||misterwin777c.beauty^
 ||misterwin777f.beauty^
 ||misterwin777rtp.beauty^
+||mit77.beauty^
 ||mito99.beauty^
 ||mitoto.beauty^
 ||mitoto-578.beauty^
@@ -213279,6 +213282,7 @@
 ||momgape.best^
 ||momlick.best^
 ||momo4d.best^
+||momoplaygame.best^
 ||momoplayvip.best^
 ||mompuk.best^
 ||monkclimb.best^
@@ -580682,6 +580686,7 @@
 ||maxferari.cam^
 ||maximaslot.cam^
 ||maxtoto.cam^
+||maxwin303.cam^
 ||mb666.cam^
 ||mba66.cam^
 ||mbak4d.cam^
@@ -587497,6 +587502,7 @@
 ||fa.vecchiescopate.casa^
 ||zh.vecchiescopate.casa^
 ||vegamoviess.casa^
+||vegashoki88-laku.casa^
 ||vegashoki88slot.casa^
 ||vg99.casa^
 ||vibokep.casa^
@@ -593922,6 +593928,7 @@
 ||0518h7.cc^
 ||0525vip.cc^
 ||0534775.cc^
+||05415.cc^
 ||05auditogel.cc^
 ||05baceph.cc^
 ||05bacesuper.cc^
@@ -600370,6 +600377,7 @@
 ||menu.aksescepat138.cc^
 ||aksesloginfuji188.cc^
 ||aksesmodaljitu.cc^
+||aksespwr4dgo.cc^
 ||aksestogel.cc^
 ||akseswokebet.cc^
 ||akshouq.cc^
@@ -991338,6 +991346,7 @@
 ||tv6.filmseries21.cfd^
 ||tv7.filmseries21.cfd^
 ||tv8.filmseries21.cfd^
+||filmterbaru.cfd^
 ||filterbet33.cfd^
 ||fina77e.cfd^
 ||final4d.cfd^
@@ -1154015,6 +1154024,7 @@
 ||laverne.club^
 ||akses1.lavowin.club^
 ||akses2.lavowin.club^
+||akses3.lavowin.club^
 ||resmi1.lavowin.club^
 ||resmi2.lavowin.club^
 ||resmi3.lavowin.club^
@@ -1204310,6 +1204320,7 @@
 ||daftarkinggaruda138.co^
 ||daftarkiu.co^
 ||daftarlinksbobet.co^
+||daftarlinksitusgacor.co^
 ||daftarlive22.co^
 ||daftarmaindomino.co^
 ||daftarmainjoker123.co^
@@ -1252794,6 +1252805,7 @@
 ||raku365.co^
 ||rakujaya.co^
 ||rakukita.co^
+||rakun77.co^
 ||rakun99.co^
 ||rakuten365.co^
 ||rakyaaattt4d.co^
@@ -1272291,6 +1272303,7 @@
 ||02xxx.com^
 ||02yoga.com^
 ||02ys88.com^
+||02yukislot99.com^
 ||03-alfa.com^
 ||03-asean.com^
 ||03-audi.com^
@@ -1278861,6 +1278874,7 @@
 ||11bolayes.com^
 ||11bolaz.com^
 ||11boskecil88.com^
+||11bpjs777.com^
 ||11bpo777.com^
 ||11brjogos.com^
 ||11bsi138.com^
@@ -1303452,6 +1303466,7 @@
 ||jj.339av.com^
 ||m.339av.com^
 ||33ag.com^
+||33ag19.com^
 ||33ag22.com^
 ||33ag23.com^
 ||33ag30.com^
@@ -1320696,11 +1320711,13 @@
 ||666maniskali.com^
 ||666movies.com^
 ||666myth.com^
+||666ns.com^
 ||666ns123abc.com^
 ||666ns678abc.com^
 ||666ns789abc.com^
 ||666ns890abc.com^
 ||666nsex.com^
+||666nsnav.com^
 ||666nsnavi.com^
 ||666papapa.com^
 ||666phl2.com^
@@ -1331174,6 +1331191,7 @@
 ||888jg.com^
 ||888jg-navi.com^
 ||888jg123abc.com^
+||888jg234abc.com^
 ||888jgnavi.com^
 ||888jili7.com^
 ||888jitu.com^
@@ -1337888,9 +1337906,12 @@
 ||988singabesar.com^
 ||988slot.com^
 ||988slot00.com^
+||988slot11.com^
+||988slot22.com^
 ||988slot6.com^
 ||988slot88.com^
 ||988slotaa.com^
+||988slotbr.com^
 ||988slotcom.com^
 ||988slotdl.com^
 ||988slotg.com^
@@ -1454436,6 +1454457,7 @@
 ||anekatototeam.com^
 ||anekatototop.com^
 ||anekatotouser.com^
+||anekatotovc.com^
 ||anekatotoview.com^
 ||anekatotovip.com^
 ||anekatotovt.com^
@@ -1456330,6 +1456352,7 @@
 ||angkabet32133.com^
 ||angkabet32147.com^
 ||angkabet32191.com^
+||angkabet32207.com^
 ||angkabet32214.com^
 ||angkabet32291.com^
 ||angkabet32321.com^
@@ -1479254,6 +1479277,7 @@
 ||arreglatucaso.com^
 ||arreglos15.com^
 ||arrelsrestaurantprades.com^
+||arremolina.com^
 ||arrendoegypt.com^
 ||arrest-sm.com^
 ||arrestation.com^
@@ -1483325,6 +1483349,8 @@
 ||arwanaa388.com^
 ||arwanaarena.com^
 ||arwanaberani.com^
+||arwanablue.com^
+||m.arwanablue.com^
 ||arwanacantik.com^
 ||arwanacuan.com^
 ||arwanacurah.com^
@@ -1483344,12 +1483370,14 @@
 ||arwanageprek.com^
 ||arwanaglobal.com^
 ||arwanagm.com^
+||m.arwanago.com^
 ||arwanagol.com^
 ||arwanagold.com^
 ||arwanagolden.com^
 ||arwanahakim.com^
 ||arwanaharum.com^
 ||arwanahebat.com^
+||m.arwanahias.com^
 ||arwanahoki.com^
 ||arwanaimut.com^
 ||arwanaindo.com^
@@ -1483398,6 +1483426,7 @@
 ||arwanaqq.com^
 ||arwanaqu.com^
 ||arwanaraja.com^
+||arwanared.com^
 ||smart.arwanared.com^
 ||arwanaroyal.com^
 ||arwanasakti.com^
@@ -1495851,9 +1495880,11 @@
 ||asiaroyal88hoki.com^
 ||asiaroyal88idn.com^
 ||asiaroyal88indo.com^
+||asiaroyal88jp.com^
 ||asiaroyal88koko.com^
 ||asiaroyal88ku.com^
 ||asiaroyal88kuenu.com^
+||asiaroyal88laku.com^
 ||asiaroyal88madness.com^
 ||asiaroyal88mbg.com^
 ||asiaroyal88neutron.com^
@@ -1532355,6 +1532386,7 @@
 ||badaikaliboss.com^
 ||badaikeren.com^
 ||badaikeris.com^
+||badaiking.com^
 ||badaikontan.com^
 ||badaiku.com^
 ||badailink.com^
@@ -1532372,6 +1532404,7 @@
 ||badaimobile.com^
 ||badaimobile1.com^
 ||badaimobile2.com^
+||badaimobile3.com^
 ||badaiori.com^
 ||badaipasir.com^
 ||badaipasti.com^
@@ -1535810,6 +1535843,7 @@
 ||baileeparis.com^
 ||baileeshomebrew.com^
 ||bailefunk.com^
+||bailemhuire.com^
 ||bailesdesalon.com^
 ||bailey4u.com^
 ||baileyandbanjo.com^
@@ -1560106,6 +1560140,7 @@
 ||bandartotoaman.com^
 ||bandartotoapk.com^
 ||bandartotoapp.com^
+||bandartotoarena.com^
 ||bandartotoasia.com^
 ||bandartotoasli.com^
 ||bandartotobet.com^
@@ -1564009,6 +1564044,7 @@
 ||bantal188.com^
 ||bantal777.com^
 ||bantal88.com^
+||bantalair.com^
 ||bantalanvandal.com^
 ||bantalempuk.com^
 ||bantalguling.com^
@@ -1625443,6 +1625479,7 @@
 ||bighokijr.com^
 ||bighokilucu.com^
 ||bighokimanis.com^
+||bighokimentari.com^
 ||bighokirapi.com^
 ||bighokis.com^
 ||bighokisaja.com^
@@ -1705168,6 +1705205,7 @@
 ||ewepaksa2018.blogspot.com^
 ||ewg423.blogspot.com^
 ||ewhack.blogspot.com^
+||ewhufewyjrehy.blogspot.com^
 ||ewinedann.blogspot.com^
 ||ewqsf.blogspot.com^
 ||ewrjpoijhhuyik.blogspot.com^
@@ -1839343,27 +1839381,3 @@
 ||qm3xdzfa0k.bobatotobet.com^
 ||qme34r2x1y.bobatotobet.com^
 ||qnmbdj2cww.bobatotobet.com^
-||qph4fknbbw.bobatotobet.com^
-||qq6y7jjw2w.bobatotobet.com^
-||qrwegorxij.bobatotobet.com^
-||qs2mqfz8bm.bobatotobet.com^
-||qwp0s8g2ee.bobatotobet.com^
-||qyig7w3wbq.bobatotobet.com^
-||r2h9p7u9jz.bobatotobet.com^
-||r7er6lsa8s.bobatotobet.com^
-||rasdo5xrwk.bobatotobet.com^
-||rdt625z644.bobatotobet.com^
-||reushukxt2.bobatotobet.com^
-||rfez6rk3y6.bobatotobet.com^
-||rjdc3w94f6.bobatotobet.com^
-||rmefuwweqp.bobatotobet.com^
-||rpy8bifk0b.bobatotobet.com^
-||rtd77sf6we.bobatotobet.com^
-||rvjjrwjbft.bobatotobet.com^
-||rwx2pdscic.bobatotobet.com^
-||rz53buhras.bobatotobet.com^
-||rzbgdvqhdq.bobatotobet.com^
-||s0j294ldnh.bobatotobet.com^
-||s4k6kpaxeu.bobatotobet.com^
-||s7qpzzvork.bobatotobet.com^
-||sd3izyvooo.bobatotobet.com^
