@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26103101
+! Serial: 26103102
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -9673,6 +9673,7 @@
 ||andromache.iboslot.app^
 ||antigone.iboslot.app^
 ||arlan.iboslot.app^
+||asta.iboslot.app^
 ||hector.iboslot.app^
 ||himeko.iboslot.app^
 ||jason.iboslot.app^
@@ -173827,6 +173828,7 @@
 ||linkghk11.autos^
 ||linkghk12.autos^
 ||linkghk13.autos^
+||linkghk15.autos^
 ||linkghk2.autos^
 ||linkghk3.autos^
 ||linkghk5.autos^
@@ -177905,6 +177907,7 @@
 ||rtpgendut188xl.autos^
 ||rtpghk1a.autos^
 ||rtpghk1b.autos^
+||rtpghk1c.autos^
 ||rtpghk6.autos^
 ||rtpghk8.autos^
 ||rtpgigacuan.autos^
@@ -418205,6 +418208,7 @@
 ||waktu777amp.buzz^
 ||waktu777amp1.buzz^
 ||waktu777amp2.buzz^
+||waktu777amp3.buzz^
 ||waktu777vip1.buzz^
 ||waktu777vip2.buzz^
 ||waktu777vip3.buzz^
@@ -585472,6 +585476,7 @@
 ||bos21.casa^
 ||1.bos303.casa^
 ||3.bos303.casa^
+||4.bos303.casa^
 ||bosbandarq.casa^
 ||bosgambir.casa^
 ||boshepoker.casa^
@@ -844449,6 +844454,7 @@
 ||bosplay77.ceo^
 ||bulantogel.ceo^
 ||byon88.ceo^
+||pelopor.cantiktotonet.ceo^
 ||captainlucky.ceo^
 ||capthai77.ceo^
 ||cas4d.ceo^
@@ -1028824,6 +1028830,7 @@
 ||indoxlplay.chat^
 ||ini.chat^
 ||inibet.chat^
+||interwin.chat^
 ||intim.chat^
 ||mk.intim.chat^
 ||tr.intim.chat^
@@ -1108413,6 +1108420,10 @@
 ||visitasiansex.click^
 ||visitgaysex.click^
 ||visitmanianow.click^
+||visitop1.click^
+||43eb8-54d-20acc.visitop1.click^
+||visitop2.click^
+||d5712-507-61749.visitop2.click^
 ||visitor1.click^
 ||visitor8.click^
 ||visitorbet.click^
@@ -1279196,6 +1279207,8 @@
 ||11hebat777.com^
 ||11hemat138.com^
 ||11hentai.com^
+||11hercules99.com^
+||login.11hercules99.com^
 ||11hilo.com^
 ||11hok.com^
 ||11i9bet.com^
@@ -1313080,6 +1313093,7 @@
 ||4danugerahtoto2.com^
 ||4dapktogel.com^
 ||4dartis.com^
+||4dasbtr5r.com^
 ||4dasian.com^
 ||4dasli.com^
 ||4dawn.com^
@@ -1325646,6 +1325660,7 @@
 ||777winslot.com^
 ||777wisatabet.com^
 ||777wisatabets.com^
+||777wznavi.com^
 ||777x.com^
 ||777xhamster.com^
 ||777xkgamedownload.com^
@@ -1325709,6 +1325724,7 @@
 ||779kk.com^
 ||779mv.com^
 ||77aduhoki.com^
+||77ag17.com^
 ||77ag18.com^
 ||77ag19.com^
 ||77ag20.com^
@@ -1326205,6 +1326221,7 @@
 ||77rp5p.com^
 ||77rp5t.com^
 ||77rp6e3.com^
+||77rp77rp.com^
 ||77rp8i.com^
 ||77rp9f.com^
 ||77rp9k.com^
@@ -1383258,6 +1383275,7 @@
 ||agenlahir99.com^
 ||agenlala.com^
 ||agenlambang.com^
+||agenlangit.com^
 ||agenlapak.com^
 ||agenlapakqq.com^
 ||agenlaris.com^
@@ -1394158,6 +1394176,7 @@
 ||air168z.com^
 ||air169slot.com^
 ||air178.com^
+||air268.com^
 ||air334.com^
 ||air404.com^
 ||air4asiabet.com^
@@ -1398420,6 +1398439,7 @@
 ||akses-diva.com^
 ||akses-divalotre.com^
 ||akses-for4d.com^
+||gm1.akses-gampang.com^
 ||akses-gaspol77.com^
 ||akses-gongbola-amp.com^
 ||akses-gopay303.com^
@@ -1401972,6 +1401992,7 @@
 ||akusinaga4d.com^
 ||akuslot88.com^
 ||akuslot888.com^
+||akusobat500.com^
 ||akusoqi88.com^
 ||akuspike.com^
 ||akustay.com^
@@ -1406816,6 +1406837,7 @@
 ||alexistogel-ads.com^
 ||alexistogel-agen.com^
 ||alexistogel-alternatif.com^
+||alexistogel-asd.com^
 ||sg.alexistogel-asia.com^
 ||sg.alexistogel-asia1.com^
 ||toto4d.alexistogel-badai.com^
@@ -1456621,6 +1456643,8 @@
 ||angkabet32291.com^
 ||angkabet32321.com^
 ||angkabet32339.com^
+||angkabet32358.com^
+||angkabet32407.com^
 ||angkabet32551.com^
 ||angkabet33524.com^
 ||angkabet33803.com^
@@ -1475345,6 +1475369,7 @@
 ||arena32028.com^
 ||arena32038.com^
 ||arena32084.com^
+||arena32214.com^
 ||arena32291.com^
 ||arena32358.com^
 ||arena32488.com^
@@ -1488771,6 +1488796,7 @@
 ||asia200home.com^
 ||asia200jp.com^
 ||asia200kilat.com^
+||asia200mx.com^
 ||asia200rp.com^
 ||asia200situs.com^
 ||asia200toto.com^
@@ -1556748,6 +1556774,7 @@
 ||bandaar32834.com^
 ||bandaar32839.com^
 ||bandaar32887.com^
+||bandaar32920.com^
 ||bandaar36446.com^
 ||bandaarqq.com^
 ||bandabarubatam.com^
@@ -1592041,6 +1592068,7 @@
 ||belierpress.com^
 ||believe-it-or-not-porn.com^
 ||believeamer4d.com^
+||believeflair.com^
 ||believehrp.com^
 ||believeimage.com^
 ||asg55boss.believeimage.com^
@@ -1594806,6 +1594834,7 @@
 ||bengkel69fly.com^
 ||bengkel69gcr.com^
 ||bengkel69go.com^
+||bengkel69goal.com^
 ||bengkel69good.com^
 ||bengkel69ic.com^
 ||bengkel69id.com^
@@ -1615312,6 +1615341,7 @@
 ||beton88rtp.com^
 ||beton88s.com^
 ||beton88slot.com^
+||beton88terpercaya.com^
 ||beton88z.com^
 ||beton999.com^
 ||beton999play.com^
@@ -1838273,30 +1838303,3 @@
 ||bluesensemarketingidn.com^
 ||blueserve.com^
 ||bluesex.com^
-||bluesexlinks.com^
-||bluesexpics.com^
-||bluesexshop.com^
-||bluesexxx.com^
-||bluesgelay88.com^
-||bluesharkcharters.com^
-||baby.bluesharkcharters.com^
-||fish.bluesharkcharters.com^
-||bluesharkrichtonpark.com^
-||blueshemale.com^
-||blueshighwayride.com^
-||blueshows.com^
-||claymore.bluesif.com^
-||blueskatzgrill.com^
-||bluesky-web.com^
-||bluesky4web.com^
-||blueskyartgallery.com^
-||togelon.blueskybuilders.com^
-||blueskycabinsatharlan.com^
-||blueskydentaloffice.com^
-||blueskyescorts.com^
-||blueskykong.com^
-||blueskymassagefl.com^
-||blueskymush.com^
-||blueskymystyleus.com^
-||blueskysessions.com^
-||blueskyslot.com^
