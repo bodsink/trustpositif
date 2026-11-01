@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26110100
+! Serial: 26110101
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -7689,6 +7689,7 @@
 ||catw.app^
 ||catzero.app^
 ||cavolo.app^
+||cawan4d.app^
 ||cazeus.app^
 ||cazimbo1.app^
 ||cb678.app^
@@ -51817,6 +51818,7 @@
 ||amp-rioaviationcom11.vercel.app^
 ||amp-rogerberrymp.vercel.app^
 ||amp-ronansegalharrington.vercel.app^
+||amp-rouge-kappa.vercel.app^
 ||amp-royal138-eight.vercel.app^
 ||amp-royal138-sos.vercel.app^
 ||amp-rtpagenslotgacor-info.vercel.app^
@@ -56608,6 +56610,7 @@
 ||careerpluz-ngerank.vercel.app^
 ||careerrealities.vercel.app^
 ||careers-sped.vercel.app^
+||caregiverusa.vercel.app^
 ||careproject-paling-gacor.vercel.app^
 ||carhartt88.vercel.app^
 ||cari-pttogel-di-penelusuran-gambar.vercel.app^
@@ -60328,6 +60331,7 @@
 ||fkipumrah.vercel.app^
 ||flava-orpin.vercel.app^
 ||flavor-presidenslot.vercel.app^
+||flavorificdistro.vercel.app^
 ||flexchelsea-kudamas11.vercel.app^
 ||flexchelsea-kudamas11-blush.vercel.app^
 ||flick-cuan.vercel.app^
@@ -276232,6 +276236,7 @@
 ||22.kangtotoberjaya.biz^
 ||23.kangtotoberjaya.biz^
 ||24.kangtotoberjaya.biz^
+||25.kangtotoberjaya.biz^
 ||7.kangtotoberjaya.biz^
 ||9.kangtotoberjaya.biz^
 ||aku.kangtotoberjaya.biz^
@@ -500691,6 +500696,7 @@
 ||michaelkors-canadaoutlet.ca^
 ||michaelkors-outlet-canada.ca^
 ||michaelmas.ca^
+||michaelsadecki.ca^
 ||michaelwoodworth.ca^
 ||micheline.ca^
 ||michelledoreyforestell.ca^
@@ -500723,6 +500729,7 @@
 ||mindsettinginstitute.ca^
 ||mindspacecounselling.ca^
 ||minesushikelowna.ca^
+||minhasestates.ca^
 ||minidrivingschool.ca^
 ||minimore.ca^
 ||minimumdepositcasino.ca^
@@ -501733,6 +501740,7 @@
 ||mr-master.ca^
 ||mrbeast-casino.ca^
 ||mrbetcasino.ca^
+||mrduncan.ca^
 ||mrescaperoom.ca^
 ||mrmender.ca^
 ||mrporn.ca^
@@ -501753,6 +501761,7 @@
 ||murraydobbin.ca^
 ||murraysclothing.ca^
 ||batarabet-alternatif.musecondominiums.ca^
+||museeshistoiremontreal.ca^
 ||mushroomcoffeecanada.ca^
 ||musicline.ca^
 ||muskokakayakschool.ca^
@@ -593428,6 +593437,7 @@
 ||spinago9.casino^
 ||spinaru.casino^
 ||spinbara.casino^
+||spinbet99.casino^
 ||spinbetter.casino^
 ||spinbonus.casino^
 ||spinbounty.casino^
@@ -598531,6 +598541,7 @@
 ||7rai.cc^
 ||7rajatogel.cc^
 ||d.7rmphxawk5.cc^
+||7rure1z.cc^
 ||7rwin.cc^
 ||7ry1j.cc^
 ||7sbet.cc^
@@ -615430,6 +615441,7 @@
 ||dewasultan.cc^
 ||dewat4win.cc^
 ||dewata4d.cc^
+||ini.dewata55gacor.cc^
 ||dewata88.cc^
 ||dewataclub.cc^
 ||dewatacuan.cc^
@@ -627785,6 +627797,7 @@
 ||gnw42.cc^
 ||gnw43.cc^
 ||gnw44.cc^
+||gnxdpoz.cc^
 ||amateurs.go.cc^
 ||book1520.go.cc^
 ||chickencoop2000.go.cc^
@@ -701575,6 +701588,7 @@
 ||login.mega777hoki.cc^
 ||met.mega777phone.cc^
 ||comeback.mega777play.cc^
+||super.mega777sgd.cc^
 ||mega777x5.cc^
 ||mega888download.cc^
 ||mega888slot.cc^
@@ -1108881,6 +1108895,7 @@
 ||visitmanianow.click^
 ||visitop1.click^
 ||43eb8-54d-20acc.visitop1.click^
+||7fe47-5e9-08545.visitop1.click^
 ||visitop2.click^
 ||d5712-507-61749.visitop2.click^
 ||visitor1.click^
@@ -1137267,6 +1137282,7 @@
 ||caturwin.club^
 ||caturwinkk.club^
 ||cauthu.club^
+||cawan4d.club^
 ||cawan78kita.club^
 ||cazinouri.club^
 ||cb164.club^
@@ -1141741,6 +1141757,7 @@
 ||eblivoe.club^
 ||ebobet.club^
 ||ebola88.club^
+||eboninature.club^
 ||ebonisantai.club^
 ||eboniwar.club^
 ||ebonybbw.club^
@@ -1154750,6 +1154767,7 @@
 ||akses1.lavowin.club^
 ||akses2.lavowin.club^
 ||akses3.lavowin.club^
+||kings1.lavowin.club^
 ||resmi1.lavowin.club^
 ||resmi2.lavowin.club^
 ||resmi3.lavowin.club^
@@ -1195207,6 +1195225,7 @@
 ||causecorps.co^
 ||amor-in.cavooled.co^
 ||cawa4d.co^
+||cawan4d.co^
 ||cawapres.co^
 ||cayman168.co^
 ||cazeuscasino.co^
@@ -1259765,6 +1259784,7 @@
 ||slot-demo.co^
 ||slot-fin.co^
 ||slot-gacor.co^
+||padukabet.slot-indosat.co^
 ||slot-joker123.co^
 ||slot-kamboja.co^
 ||slot-mesin22.co^
@@ -1279154,6 +1279174,7 @@
 ||1121slotbb.com^
 ||1121slotbet.com^
 ||1121slotbintang.com^
+||1121slotbumi.com^
 ||1121slotcc.com^
 ||1121slotdd.com^
 ||1121slotee.com^
@@ -1321499,6 +1321520,7 @@
 ||666i2.com^
 ||666i3j.com^
 ||666ia.com^
+||666iabc123.com^
 ||666igames.com^
 ||666indo.com^
 ||666j-s.com^
@@ -1338687,11 +1338709,13 @@
 ||988betakses.com^
 ||988betb.com^
 ||988betbandarbola.com^
+||988betbca.com^
 ||988betlink.com^
 ||988betonline.com^
 ||988betsbobetcasino.com^
 ||988betsbobetonline.com^
 ||988betsitusjudionline.com^
+||988betsweet.com^
 ||988betting.com^
 ||988bni.com^
 ||988bos.com^
@@ -1340856,6 +1340880,7 @@
 ||99sizi99.com^
 ||99sl.com^
 ||99sl-navi.com^
+||99sl192kle.com^
 ||99sl3j.com^
 ||99sl7d.com^
 ||99sl8a.com^
@@ -1404998,6 +1405023,7 @@
 ||aldiyarhotel.com^
 ||aldjepe.com^
 ||aldjin.com^
+||bantuan.aldlayanan.com^
 ||aldmacau.com^
 ||aldmantap.com^
 ||aldmax.com^
@@ -1407433,6 +1407459,7 @@
 ||m.alexistogel-promotion.com^
 ||alexistogel-qris.com^
 ||alexistogel-resmi.com^
+||alexistogel-sdf.com^
 ||alexistogel-seo.com^
 ||alexistogel-slot.com^
 ||official.alexistogel-slot-online.com^
@@ -1408602,6 +1408629,7 @@
 ||alfama8888.com^
 ||alfama8889.com^
 ||alfama889.com^
+||alfama9090.com^
 ||alfama9292.com^
 ||alfama9600.com^
 ||alfama9696.com^
@@ -1457141,6 +1457169,7 @@
 ||angkabet-amp59.com^
 ||angkabet-amp60.com^
 ||angkabet-amp66.com^
+||angkabet-amp68.com^
 ||angkabet-amp69.com^
 ||angkabet-amp74.com^
 ||angkabet-amp75.com^
@@ -1457208,6 +1457237,8 @@
 ||angkabet32339.com^
 ||angkabet32358.com^
 ||angkabet32407.com^
+||angkabet32461.com^
+||angkabet32544.com^
 ||angkabet32551.com^
 ||angkabet33524.com^
 ||angkabet33803.com^
@@ -1468870,6 +1468901,7 @@
 ||apigacor88for.com^
 ||apigacor88gacor.com^
 ||apigacor88game.com^
+||apigacor88je.com^
 ||apigacor88k.com^
 ||apigacor88link.com^
 ||apigacor88main.com^
@@ -1472164,6 +1472196,7 @@
 ||uedaa23xxcv.apriltotofire.com^
 ||apriltotogame.com^
 ||apriltotogames.com^
+||apriltotogece.com^
 ||apriltotogembira.com^
 ||apriltotogenerative.com^
 ||apriltotogreat.com^
@@ -1475899,6 +1475932,7 @@
 ||arena212hoki.com^
 ||arena212jp.com^
 ||arena212login.com^
+||arena212lohan.com^
 ||arena212rp.com^
 ||arena212sip.com^
 ||arena24a.com^
@@ -1475939,6 +1475973,7 @@
 ||arena32214.com^
 ||arena32291.com^
 ||arena32358.com^
+||arena32461.com^
 ||arena32488.com^
 ||arena32839.com^
 ||arena32887.com^
@@ -1521043,6 +1521078,7 @@
 ||ai.ayamjpsama.com^
 ||aj.ayamjpsama.com^
 ||ak.ayamjpsama.com^
+||al.ayamjpsama.com^
 ||p.ayamjpsama.com^
 ||r.ayamjpsama.com^
 ||t.ayamjpsama.com^
@@ -1540985,6 +1541021,7 @@
 ||bali5625.com^
 ||bali626.com^
 ||bali67cuan.com^
+||bali67island.com^
 ||bali7425.com^
 ||bali74251.com^
 ||bali777a.com^
@@ -1557347,6 +1557384,7 @@
 ||bandaar32887.com^
 ||bandaar32920.com^
 ||bandaar36446.com^
+||bandaar81398.com^
 ||bandaarqq.com^
 ||bandabarubatam.com^
 ||bandadebullas.com^
@@ -1557890,6 +1557928,7 @@
 ||bandar8.com^
 ||bandar80.com^
 ||bandar80-amp1.com^
+||bandar80-amp21.com^
 ||bandar80-amp29.com^
 ||bandar80-amp33.com^
 ||bandar80-amp36.com^
@@ -1608550,6 +1608589,7 @@
 ||betbahis365.com^
 ||betbahissite.com^
 ||betbal365.com^
+||betbalak7.com^
 ||betbalancer.com^
 ||betball222.com^
 ||betbandar.com^
@@ -1838030,44 +1838070,3 @@
 ||blowjobfantasies.com^
 ||blowjobfaq.com^
 ||blowjobfest.com^
-||blowjobfetish.com^
-||blowjobfever.com^
-||blowjobfilmpjes.com^
-||blowjobfilms.com^
-||blowjobfotos.com^
-||blowjobfreaks.com^
-||blowjobfree.com^
-||blowjobfreepics.com^
-||blowjobfreeporn.com^
-||blowjobfrenzy.com^
-||blowjobfuckingsex.com^
-||blowjobfucks.com^
-||blowjobfun.com^
-||blowjobgaggers.com^
-||blowjobgalleries.com^
-||blowjobgallery.com^
-||blowjobgallerys.com^
-||blowjobgals.com^
-||blowjobgirl.com^
-||blowjobgirls.com^
-||blowjobgroup.com^
-||blowjobhaven.com^
-||blowjobhdpics.com^
-||blowjobhdvideo.com^
-||blowjobheat.com^
-||blowjobheaven.com^
-||blowjobherald.com^
-||blowjobhoes.com^
-||blowjobhoneys.com^
-||blowjobhot.com^
-||blowjobhotties.com^
-||blowjobhouse.com^
-||blowjobhubx.com^
-||blowjobhunters.com^
-||blowjobimages.com^
-||blowjobinc.com^
-||blowjobincar.com^
-||blowjobindex.com^
-||blowjobindianporn.com^
-||blowjobit.com^
-||blowjobjade.com^
