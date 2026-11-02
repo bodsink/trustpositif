@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26110201
+! Serial: 26110203
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -1082,6 +1082,7 @@
 ||preciosaboutique.ae^
 ||premify.ae^
 ||puerto99.ae^
+||pwk.ae^
 ||rentmen.ae^
 ||saffronhotel.ae^
 ||ecool.saunadubai.ae^
@@ -2469,6 +2470,7 @@
 ||m77casino.agency^
 ||mabar88.agency^
 ||mabosbet.agency^
+||mabosplay.agency^
 ||mabuktogel.agency^
 ||macanasia888.agency^
 ||macau303.agency^
@@ -49774,6 +49776,7 @@
 ||totogel.app^
 ||totolotre.app^
 ||totomax188.app^
+||totonusantara.app^
 ||login.totopecah.app^
 ||totosg.app^
 ||totoslot777.app^
@@ -86382,6 +86385,7 @@
 ||dealerbmwjakarta-mustika78.web.app^
 ||dealolx888.web.app^
 ||deals-olx888.web.app^
+||dealsolx888.web.app^
 ||debelisi.web.app^
 ||decires-cepe.web.app^
 ||decorab2.web.app^
@@ -206801,6 +206805,7 @@
 ||rp88.beauty^
 ||rp899a.beauty^
 ||rphoki.beauty^
+||rphokimax.beauty^
 ||rr1221asia.beauty^
 ||rrgroup.beauty^
 ||rrrhino88.beauty^
@@ -213631,6 +213636,7 @@
 ||lgo234.best^
 ||lgo4d.best^
 ||lgoindo.best^
+||lgopro99.best^
 ||lido88.best^
 ||lido88poker.best^
 ||liga138.best^
@@ -213885,6 +213891,7 @@
 ||mamubaji.best^
 ||manadotogel.best^
 ||manclub.best^
+||mancur96.best^
 ||mandiriqq.best^
 ||mangaku.best^
 ||mangaraw.best^
@@ -214020,6 +214027,7 @@
 ||mentalqq.best^
 ||menyala123kuylah.best^
 ||meoh789.best^
+||meohmiaw.best^
 ||mepay.best^
 ||merahwd.best^
 ||merahwd99.best^
@@ -347440,6 +347448,7 @@
 ||ikantongkolpotong.lingmasakkan.blog^
 ||iphone17sudahada.lingmasakkan.blog^
 ||janganpigilagi.lingmasakkan.blog^
+||kakekx1000.lingmasakkan.blog^
 ||karung1.lingmasakkan.blog^
 ||kasihduitpokoknya.lingmasakkan.blog^
 ||kasihduitpokoknya00.lingmasakkan.blog^
@@ -382847,6 +382856,7 @@
 ||juaraslot88.broker^
 ||kudabetvip.broker^
 ||liga188.broker^
+||lk21.broker^
 ||mahadevbook.broker^
 ||maxslot88.broker^
 ||mjslot777.broker^
@@ -581407,6 +581417,7 @@
 ||latobet88main.cam^
 ||latoto.cam^
 ||lauvelez.cam^
+||lavowin.cam^
 ||layar138.cam^
 ||layar138gacor.cam^
 ||layar138ok.cam^
@@ -586307,6 +586318,7 @@
 ||agentotobet45.casa^
 ||aiporn.casa^
 ||ajaib888.casa^
+||akaislot.casa^
 ||akong4d.casa^
 ||akseskaisarjp.casa^
 ||akunpro.casa^
@@ -707085,6 +707097,7 @@
 ||nicematurexxx.cc^
 ||niceph8.cc^
 ||nickweb.cc^
+||jos.nidey.cc^
 ||en.nienmov.cc^
 ||nih1dlm.cc^
 ||nika168.cc^
@@ -989951,6 +989964,7 @@
 ||cieeciee88.cfd^
 ||cihuy88.cfd^
 ||cim4drtp.cfd^
+||cimax21.cfd^
 ||cina365.cfd^
 ||cina777.cfd^
 ||cina788.cfd^
@@ -1040567,6 +1040581,7 @@
 ||arenajayapro2.click^
 ||arenajayapro3.click^
 ||arenajayapro4.click^
+||arenajayapro5.click^
 ||arenajayasehati.click^
 ||arenajayaslot4.click^
 ||arenajayasolusi.click^
@@ -1088126,6 +1088141,7 @@
 ||petunjukjp.click^
 ||pewaris.click^
 ||176c7-cde-58168.pewarisakses2.click^
+||6c11c-0c5-32957.pewarisakses2.click^
 ||fb8d5-be0-ed440.pewarisakses2.click^
 ||8b89f-8e9-da843.pewarisakses3.click^
 ||63d39-5eb-498f2.pewarisakses4.click^
@@ -1155885,6 +1155901,7 @@
 ||akses2.lavowin.club^
 ||akses3.lavowin.club^
 ||kings1.lavowin.club^
+||kings2.lavowin.club^
 ||resmi1.lavowin.club^
 ||resmi2.lavowin.club^
 ||resmi3.lavowin.club^
@@ -1197787,6 +1197804,7 @@
 ||masjp55.cocolatte.co^
 ||master15.cocolatte.co^
 ||menang30.cocolatte.co^
+||merdeka47.cocolatte.co^
 ||modjp.cocolatte.co^
 ||neko54.cocolatte.co^
 ||nos17.cocolatte.co^
@@ -1283455,6 +1283473,7 @@
 ||13003533.com^
 ||izin-new.1301gallery.com^
 ||1303westbarbara.com^
+||o9q9.13053301866.com^
 ||130afaf.com^
 ||130bahis.com^
 ||130betlike.com^
@@ -1300485,6 +1300504,7 @@
 ||29nikmat777.com^
 ||29oppott.com^
 ||29osis777.com^
+||29ovabet.com^
 ||29padi777.com^
 ||29pak.com^
 ||29pejuang138.com^
@@ -1319954,6 +1319974,7 @@
 ||5akong99.com^
 ||5ampbebasbet.com^
 ||5ampceri4d.com^
+||5ampdolar508.com^
 ||5amphk4d.com^
 ||5ampinter4d.com^
 ||5ampkasih.com^
@@ -1354201,6 +1354222,7 @@
 ||about-free-interracial-sex.com^
 ||about-free-sex-movie.com^
 ||about-free-sex-video.com^
+||h8d5.about-goodnity.com^
 ||about-hardcore-sex.com^
 ||about-hardcoresex.com^
 ||about-hbg.com^
@@ -1395105,6 +1395127,7 @@
 ||aiaslot.com^
 ||aiaslot365.com^
 ||aiaslot88.com^
+||aiasport365.com^
 ||aiassetedge.com^
 ||aiatsl.com^
 ||aiauboi.com^
@@ -1445223,6 +1445246,7 @@
 ||amposg888.com^
 ||ampososlot.com^
 ||ampososlotv1.com^
+||ampovaheng.com^
 ||ampovogg.com^
 ||ampovogg-1.com^
 ||ampovogg-2.com^
@@ -1458503,6 +1458527,7 @@
 ||angkabet80240.com^
 ||angkabet80242.com^
 ||angkabet80249.com^
+||angkabet80546.com^
 ||angkabet80561.com^
 ||angkabet80660.com^
 ||angkabet80742.com^
@@ -1466083,6 +1466108,7 @@
 ||antogel.com^
 ||antogist.com^
 ||antogokil.com^
+||antohihi.com^
 ||antohoki.com^
 ||antohoki-nih.com^
 ||antohoki00.com^
@@ -1477844,6 +1477870,7 @@
 ||arenajav.com^
 ||arenajaya.com^
 ||arenajaya-amp1.com^
+||arenajaya-amp2.com^
 ||arenajaya1.com^
 ||arenajaya100.com^
 ||arenajaya101.com^
@@ -1477857,6 +1477884,7 @@
 ||arenajaya110.com^
 ||arenajaya111.com^
 ||arenajaya112.com^
+||arenajaya113.com^
 ||arenajaya2.com^
 ||arenajayahebat.com^
 ||arenajayahoki.com^
@@ -1559727,6 +1559755,7 @@
 ||bandarcolok19.com^
 ||bandarcolok345.com^
 ||bandarcolok49.com^
+||bandarcolok5.com^
 ||bandarcolok777.com^
 ||bandarcolok789.com^
 ||bandarcolok88.com^
@@ -1596806,6 +1596835,7 @@
 ||bengkel69sky.com^
 ||bengkel69star.com^
 ||bengkel69stay.com^
+||bengkel69stuf.com^
 ||bengkel69sub.com^
 ||bengkel69victory.com^
 ||akses.bengkel69victory.com^
@@ -1597645,6 +1597675,7 @@
 ||bento123istimewa.com^
 ||bento123jernih.com^
 ||bento123kaca.com^
+||bento123kionghi.com^
 ||bento123klik.com^
 ||bento123kuat.com^
 ||bento123log.com^
@@ -1610351,6 +1610382,7 @@
 ||betcash303gold.com^
 ||betcash303h2h.com^
 ||betcash303haka.com^
+||betcash303haki.com^
 ||betcash303hijau.com^
 ||betcash303idx.com^
 ||betcash303login.com^
@@ -1838512,16 +1838544,3 @@
 ||situs-slot-rtp-100-persen.bloomingblondeworld.com^
 ||situs-slot-to-x5171767129021762.bloomingblondeworld.com^
 ||situs-slot-yang-bagus.bloomingblondeworld.com^
-||situs-tiger78.bloomingblondeworld.com^
-||situs-to-slot1717682533270847.bloomingblondeworld.com^
-||situs-togel-100-persen.bloomingblondeworld.com^
-||situs-togel-depo-10k.bloomingblondeworld.com^
-||situs-togel-jp-besar.bloomingblondeworld.com^
-||situs-togel-neon4d.bloomingblondeworld.com^
-||situs-togel-pakde4d.bloomingblondeworld.com^
-||situs-togel-resmi.bloomingblondeworld.com^
-||situs-togel-resmi-toto.bloomingblondeworld.com^
-||situs-togel-shio-kambing.bloomingblondeworld.com^
-||situs-togel-terbesar-di-indonesia.bloomingblondeworld.com^
-||situs-togel-terpercaya-di-indonesia.bloomingblondeworld.com^
-||situs-togel-toto-4d.bloomingblondeworld.com^
