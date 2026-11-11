@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111103
+! Serial: 26111106
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -63152,6 +63152,7 @@
 ||holicnation.vercel.app^
 ||holiday-1.vercel.app^
 ||hollytreeclub-mixparlay.vercel.app^
+||holoholoisland.vercel.app^
 ||holy77.vercel.app^
 ||holy789-bonus.vercel.app^
 ||holy789-kualifikasi-piala-dunia.vercel.app^
@@ -95982,6 +95983,7 @@
 ||greenfilmfest.com.ar^
 ||greenwand.com.ar^
 ||greep.com.ar^
+||grillosartore.com.ar^
 ||grupodinamica.com.ar^
 ||grupopampa.com.ar^
 ||gruposp.com.ar^
@@ -130718,6 +130720,7 @@
 ||teratai168.art^
 ||teratai777.art^
 ||teratai888.art^
+||teratai888-2025.art^
 ||teratai888-resmi.art^
 ||teratai888ck.art^
 ||teratai888id.art^
@@ -164375,6 +164378,7 @@
 ||gentlemen-nightclub.at^
 ||slot.geotec-showroom.at^
 ||gereift.at^
+||gerhardhaeupler.at^
 ||geschwister.at^
 ||gesellschaftsdamen.at^
 ||getoff.at^
@@ -186193,6 +186197,7 @@
 ||juara4dvviipp.baby^
 ||juara4dvvip.baby^
 ||juaraslot88.baby^
+||juarawin178.baby^
 ||gokil.judi89win.baby^
 ||judolbet88.baby^
 ||judolbet88x.baby^
@@ -212408,6 +212413,7 @@
 ||nagasaon88.beer^
 ||nagaslot168menang.beer^
 ||nami55.beer^
+||neko4dvvip7.beer^
 ||nekobet99.beer^
 ||mem.neo77.beer^
 ||neo77-vip1.beer^
@@ -212621,6 +212627,7 @@
 ||gg.ultrabet.beer^
 ||ia.ultrabet.beer^
 ||la.ultrabet.beer^
+||pa.ultrabet.beer^
 ||po.ultrabet.beer^
 ||unobet77.beer^
 ||unsurhokiq.beer^
@@ -582052,6 +582059,7 @@
 ||tube8.cafe^
 ||tunas4d.cafe^
 ||ufabet168.cafe^
+||cabangolx.ultrabet.cafe^
 ||olxtoto.ultrabet.cafe^
 ||seram.ultrabet.cafe^
 ||urbanoasis.cafe^
@@ -718900,6 +718908,7 @@
 ||pandorajewellery.cc^
 ||pandoraqq.cc^
 ||panduangameonline.cc^
+||bek.pandubet77.cc^
 ||paneltoto.cc^
 ||panen123.cc^
 ||panen138.cc^
@@ -1067905,6 +1067914,7 @@
 ||floating-dragon.click^
 ||flokitoto.click^
 ||flora77.click^
+||florian66.click^
 ||flow888.click^
 ||flowerblooming1.click^
 ||flowin77.click^
@@ -1085886,6 +1085896,7 @@
 ||rtpvisi4d635.main99.click^
 ||rtpvisi4d653.main99.click^
 ||rtpvisi4d789.main99.click^
+||rtpvisi4dsd.main99.click^
 ||main99-theslot777.click^
 ||mainagenplay88.click^
 ||mainajajuaramaxwin.click^
@@ -1104983,6 +1104994,7 @@
 ||pulau69.click^
 ||pulau69ads.click^
 ||pulau69aplk.click^
+||pulau69disini.click^
 ||pulau69resmi.click^
 ||pulau69super.click^
 ||pulau69x.click^
@@ -1123967,6 +1123979,10 @@
 ||visi4dufd.click^
 ||visi4dumr.click^
 ||visi4duof.click^
+||visiakses1.click^
+||da4bf-fb7-39c59.visiakses1.click^
+||visiakses2.click^
+||07eea-9d1-d5b59.visiakses2.click^
 ||visibet88.click^
 ||visible39.click^
 ||visigo1.click^
@@ -1134310,6 +1134326,7 @@
 ||lgobola.cloud^
 ||lgohoki.cloud^
 ||lgoindo.cloud^
+||lgomax99.cloud^
 ||lgomega.cloud^
 ||uplavel.lgopro99ku.cloud^
 ||lgosuper.cloud^
@@ -1219155,6 +1219172,7 @@
 ||link-34.mpo100.com.co^
 ||link-35.mpo100.com.co^
 ||link-36.mpo100.com.co^
+||link-37.mpo100.com.co^
 ||link-4.mpo100.com.co^
 ||link-5.mpo100.com.co^
 ||link-6.mpo100.com.co^
@@ -1294838,6 +1294856,7 @@
 ||1001slotlink.com^
 ||1001slotlog.com^
 ||1001slotmag.com^
+||1001slotmantap.com^
 ||1001slotmax.com^
 ||1001slotnet.com^
 ||1001sloto.com^
@@ -1309346,6 +1309365,8 @@
 ||1sultanmbs.com^
 ||1sultanmbsa.com^
 ||1sultanmbsslot.com^
+||1sumber777.com^
+||akses.1sumber777-amp.com^
 ||1sumberqq.com^
 ||1sun4d.com^
 ||1sunda777.com^
@@ -1311067,6 +1311088,7 @@
 ||1ytuan.com^
 ||1yvsqkf836.com^
 ||1ywq.com^
+||1yy111.com^
 ||1yy555.com^
 ||1yytt.com^
 ||1yyyonline.com^
@@ -1314817,6 +1314839,7 @@
 ||23thingsinternational.com^
 ||23titikbet.com^
 ||23tukul777.com^
+||yht.23u8sng.com^
 ||23ultimaslot.com^
 ||23unik777.com^
 ||23uninaga.com^
@@ -1336031,6 +1336054,7 @@
 ||55r7dky.com^
 ||55racing.com^
 ||55ris777.com^
+||55rk123abc.com^
 ||55rk55.com^
 ||55rk789abc.com^
 ||55rog777.com^
@@ -1337629,6 +1337653,7 @@
 ||5rp0game.com^
 ||5rt.com^
 ||5rt-a.com^
+||5rt123abc.com^
 ||5rt1g.com^
 ||5rtnavi.com^
 ||5rtpdolar138.com^
@@ -1339697,6 +1339722,7 @@
 ||666indo.com^
 ||666j-s.com^
 ||666j2k.com^
+||666j5l.com^
 ||666jdl.com^
 ||555d5.666jinan.com^
 ||666jlbet.com^
@@ -1339710,9 +1339736,11 @@
 ||666myth.com^
 ||666ns.com^
 ||666ns123abc.com^
+||666ns3j8.com^
 ||666ns678abc.com^
 ||666ns789abc.com^
 ||666ns890abc.com^
+||666ns8x5.com^
 ||666nsex.com^
 ||666nsnav.com^
 ||666nsnavi.com^
@@ -1342472,6 +1342500,7 @@
 ||6rt.com^
 ||6rt9s.com^
 ||6rtabc123.com^
+||6rtabc456.com^
 ||6rtpbigsloto777.com^
 ||6rtpdolar138.com^
 ||6rtpgas138.com^
@@ -1343535,6 +1343564,7 @@
 ||75megasensa.com^
 ||75meter.com^
 ||75modal138.com^
+||75modal777.com^
 ||75mos777.com^
 ||75msislot.com^
 ||75naga508.com^
@@ -1343901,6 +1343931,7 @@
 ||7777w88r.com^
 ||7777w8fe.com^
 ||7777w99a.com^
+||7777w9l2.com^
 ||7777wcom.com^
 ||7777wdua.com^
 ||7777wlogin.com^
@@ -1344438,6 +1344469,7 @@
 ||777yk.com^
 ||777yk-navi.com^
 ||777yk123abc.com^
+||777yk234abc.com^
 ||777yknavi.com^
 ||777youporn.com^
 ||777zxa.com^
@@ -1345722,6 +1345754,7 @@
 ||xxx.79yyyyy.com^
 ||7a40q8bnql.com^
 ||7aala.com^
+||yht.7ab5n3t.com^
 ||7abditogel.com^
 ||7adil777.com^
 ||7adu303.com^
@@ -1357690,6 +1357723,7 @@
 ||999sex.com^
 ||999sf.com^
 ||999sl123abc.com^
+||999sl234abc.com^
 ||999slofficial.com^
 ||999slot.com^
 ||999slotio.com^
@@ -1360178,6 +1360212,7 @@
 ||9n9n2k.com^
 ||9n9n3f.com^
 ||9n9n4.com^
+||9n9nabc123.com^
 ||9n9nhub.com^
 ||9n9nnavi.com^
 ||9n9vt6.com^
@@ -1394807,6 +1394842,7 @@
 ||afaduck.com^
 ||afaeveryone.com^
 ||afafabc456.com^
+||afafabc789.com^
 ||afafast.com^
 ||afafc.com^
 ||afafdua.com^
@@ -1412776,6 +1412812,7 @@
 ||aimgoldenhand.com^
 ||aimgraphics.com^
 ||aimgzbd.com^
+||aimheatandair.com^
 ||aimhigherin.com^
 ||aimhighself.com^
 ||aimhightutors.com^
@@ -1415500,6 +1415537,7 @@
 ||ak1-trash.com^
 ||bust.ak11ay.com^
 ||console.ak168168.com^
+||ak1t7orosaik.com^
 ||ak2bos.com^
 ||ak2boy.com^
 ||ak2coi.com^
@@ -1423371,6 +1423409,7 @@
 ||ald2288.com^
 ||ald66.com^
 ||ald66macau.com^
+||ald66win.com^
 ||ald89.com^
 ||ald9977.com^
 ||aldactol.com^
@@ -1444546,6 +1444585,7 @@
 ||link12.alternatifcongtogelal.com^
 ||link13.alternatifcongtogelal.com^
 ||link14.alternatifcongtogelal.com^
+||link17.alternatifcongtogelal.com^
 ||link2.alternatifcongtogelal.com^
 ||link3.alternatifcongtogelal.com^
 ||link4.alternatifcongtogelal.com^
@@ -1456716,6 +1456756,7 @@
 ||nonama.amentirebirthretreat.com^
 ||amenworkz.com^
 ||amer-film.com^
+||amer15.com^
 ||amer4d.com^
 ||amer4d-alternatif.com^
 ||amer4d-main.com^
@@ -1460009,6 +1460050,7 @@
 ||ampamerta88.com^
 ||ampammo88.com^
 ||ampampera.com^
+||jokerok.ampampuh.com^
 ||ampanablog.com^
 ||ampandara77.com^
 ||ampandara88.com^
@@ -1461034,6 +1461076,7 @@
 ||ampjagomaxwin.com^
 ||ampjagowin404.com^
 ||ampjagoyuk.com^
+||link.ampjaksel.com^
 ||ampjam138.com^
 ||ampjamtoto.com^
 ||ampjanda.com^
@@ -1475793,6 +1475836,7 @@
 ||angkabet34555.com^
 ||angkabet35266.com^
 ||angkabet35810.com^
+||angkabet36624.com^
 ||angkabet36721.com^
 ||angkabet36981.com^
 ||angkabet36992.com^
@@ -1475808,6 +1475852,7 @@
 ||angkabet78015.com^
 ||angkabet79302.com^
 ||angkabet80071.com^
+||angkabet80146.com^
 ||angkabet80164.com^
 ||angkabet80192.com^
 ||angkabet80212.com^
@@ -1495123,6 +1495168,7 @@
 ||arena80071.com^
 ||arena80146.com^
 ||arena80164.com^
+||arena80212.com^
 ||arena80408.com^
 ||arena80412.com^
 ||arena81045.com^
@@ -1540474,6 +1540520,7 @@
 ||ayamteror.com^
 ||ayamthai.com^
 ||ayamthailand.com^
+||ayamtiga.com^
 ||ayamtim.com^
 ||ayamtimah.com^
 ||ayamtinggi.com^
@@ -1576610,6 +1576657,7 @@
 ||bandaar8078064.com^
 ||bandaar8078305.com^
 ||bandaar81398.com^
+||bandaar81514.com^
 ||bandaarqq.com^
 ||bandabarubatam.com^
 ||bandadebullas.com^
@@ -1597839,6 +1597887,7 @@
 ||bazzarsystem.com^
 ||store.bazzzarshop.com^
 ||bb-2112.com^
+||bb-abogados.com^
 ||bb-angel.com^
 ||bb-bb-bb.com^
 ||bb-bet7.com^
@@ -1599186,6 +1599235,7 @@
 ||bbokep.com^
 ||bbola234.com^
 ||bbola855.com^
+||bbola88.com^
 ||bbola9.com^
 ||bbolaa234.com^
 ||bbolahiu.com^
@@ -1600929,6 +1600979,7 @@
 ||bc88-rain.com^
 ||bc888.com^
 ||bc888b.com^
+||bc888f.com^
 ||bc88alt.com^
 ||bc88asik.com^
 ||bc88best.com^
@@ -1614846,6 +1614897,7 @@
 ||bengkel69most.com^
 ||bengkel69oke.com^
 ||kuy.bengkel69online.com^
+||kuy01.bengkel69online.com^
 ||bengkel69or.com^
 ||bengkel69pro.com^
 ||bengkel69resmi.com^
@@ -1615704,6 +1615756,7 @@
 ||bento123hotel.com^
 ||bento123id.com^
 ||bento123istimewa.com^
+||bento123j.com^
 ||bento123jernih.com^
 ||bento123kaca.com^
 ||bento123kionghi.com^
@@ -1618266,6 +1618319,7 @@
 ||berkat4d-menyala.com^
 ||berkat4d-naik.com^
 ||berkat4d-official.com^
+||berkat4d-toto.com^
 ||berkat4dgacor.com^
 ||berkat4dslot.com^
 ||berkat767gacor.com^
@@ -1644111,6 +1644165,7 @@
 ||bigbosselitesalon.com^
 ||amp.bigbosseng.com^
 ||amp.bigbossengtt.com^
+||meluncur.bigbossengtt.com^
 ||seng.bigbossengtt.com^
 ||tautan.bigbossengtt.com^
 ||bebslotgacor.bigbossgacor.com^
@@ -1841277,44 +1841332,3 @@
 ||toketcewe.blogspot.com^
 ||toketcewekcantik.blogspot.com^
 ||toketcilik.blogspot.com^
-||toketdewasa.blogspot.com^
-||toketdewsa.blogspot.com^
-||toketdwasa.blogspot.com^
-||toketgadis.blogspot.com^
-||toketgaleri.blogspot.com^
-||toketge.blogspot.com^
-||toketgede69.blogspot.com^
-||toketgedeamat.blogspot.com^
-||toketgedetoket.blogspot.com^
-||toketgg.blogspot.com^
-||toketgundul.blogspot.com^
-||tokethonda.blogspot.com^
-||toketibu.blogspot.com^
-||toketigosexy.blogspot.com^
-||toketjanda.blogspot.com^
-||toketjepang.blogspot.com^
-||toketjilboobs.blogspot.com^
-||toketjos.blogspot.com^
-||toketkenyal.blogspot.com^
-||toketkimcil.blogspot.com^
-||toketm.blogspot.com^
-||toketmalay.blogspot.com^
-||toketmecodang.blogspot.com^
-||toketmemekbasah.blogspot.com^
-||toketmemekbugil.blogspot.com^
-||toketmemekgratis.blogspot.com^
-||toketmengkal.blogspot.com^
-||toketmengkel.blogspot.com^
-||toketmerah.blogspot.com^
-||toketmesum.blogspot.com^
-||toketmontok-vs-pahamulus.blogspot.com^
-||toketmontok1.blogspot.com^
-||toketmp3.blogspot.com^
-||toketmts.blogspot.com^
-||toketmungil.blogspot.com^
-||toketnakal.blogspot.com^
-||toketnikmat.blogspot.com^
-||toketnyagede.blogspot.com^
-||toketpecun.blogspot.com^
-||toketpeju.blogspot.com^
-||toketperawan.blogspot.com^
