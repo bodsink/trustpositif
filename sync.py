@@ -410,6 +410,10 @@ def write_readme(serial, names):
         "Daftar blokir AdGuard Home dari zona RPZ `trustpositifkominfo`.",
         f"Serial: `{serial}`.",
         "",
+        "Tiap jam serial diambil dari master zona `trustpositifkominfo`. Jika serial di master berubah, daftar di repo ini ikut berubah.",
+        "",
+        "Pasang semua URL di bawah di AdGuard Home, satu URL satu blocklist: Filters → DNS blocklists → Add blocklist → Add a custom list.",
+        "",
     ]
     lines.extend(f"- {repository_raw_prefix()}/{name}" for name in names)
     README_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
