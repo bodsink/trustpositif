@@ -1,7 +1,14 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111303
+! Serial: 26111305
 ! Part: 05/06
+||mabestotal.one^
+||mabukwins.one^
+||macam177.one^
+||macan33.one^
+||macanbola.one^
+||macanngamuk.one^
+||macanwin.one^
 ||macaobet77.one^
 ||macau-999.one^
 ||macau188.one^
@@ -1421332,6 +1421339,7 @@
 ||vicvitv8t.site^
 ||viczhou-id.site^
 ||vidacohol.site^
+||vidaxx.site^
 ||vidbokep.site^
 ||vidcom.site^
 ||viddeyli.site^
@@ -2028515,7 +2028523,3 @@
 ||stiker-wa-kontol453.gadingku88.vip^
 ||stnmgg43wm.gadingku88.vip^
 ||storeslot.gadingku88.vip^
-||suburtoto454.gadingku88.vip^
-||sukawd73.gadingku88.vip^
-||sule66455.gadingku88.vip^
-||sultanlotre456.gadingku88.vip^

@@ -1,7 +1,10 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111303
+! Serial: 26111305
 ! Part: 04/06
+||seventeen-hug-lyrics.apollowebdesign.in^
+||sezairi-orang-mana.apollowebdesign.in^
+||sg-2-hand-of-hope.apollowebdesign.in^
 ||sg99-slot-login.apollowebdesign.in^
 ||sgp-life.apollowebdesign.in^
 ||sgp-live-hari-ini-tercepat.apollowebdesign.in^
@@ -1758188,10 +1758191,3 @@
 ||mabarvippanda.one^
 ||mabbar69.one^
 ||mabestogel.one^
-||mabestotal.one^
-||mabukwins.one^
-||macam177.one^
-||macan33.one^
-||macanbola.one^
-||macanngamuk.one^
-||macanwin.one^

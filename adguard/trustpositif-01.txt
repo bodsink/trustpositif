@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111303
+! Serial: 26111305
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -1702133,6 +1702133,7 @@
 ||berkattoto.blogspot.com^
 ||berkatundian.blogspot.com^
 ||berkatundian17.blogspot.com^
+||berkebunwenak.blogspot.com^
 ||berkerut.blogspot.com^
 ||berkhaa-pertamina.blogspot.com^
 ||berkicot.blogspot.com^
@@ -1783104,6 +1783105,7 @@
 ||mediatkk.blogspot.com^
 ||mediavideodownload.blogspot.com^
 ||mediavir4l778.blogspot.com^
+||mediaviraiiii.blogspot.com^
 ||mediaviral04.blogspot.com^
 ||mediaviral409.blogspot.com^
 ||mediaviral777.blogspot.com^
@@ -1842126,5 +1842128,3 @@
 ||the-isis-commentary.blogspot.com^
 ||the-jacs.blogspot.com^
 ||the-judi.blogspot.com^
-||the-koi-gate-slot.blogspot.com^
-||the-komeng.blogspot.com^

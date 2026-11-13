@@ -1,7 +1,10 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111303
+! Serial: 26111305
 ! Part: 03/06
+||angkasajptop75651.schlepzig.com^
+||angkasajptop75652.schlepzig.com^
+||angkasajptop75653.schlepzig.com^
 ||angkasajptop75654.schlepzig.com^
 ||angkasajptop75655.schlepzig.com^
 ||angkasajptop75656.schlepzig.com^
@@ -1699567,7 +1699570,6 @@
 ||situs-judi-online-sbobet.suzukigarut.co.id^
 ||syair-togel-com.suzukigarut.co.id^
 ||store.swingwatch.co.id^
-||syaf.co.id^
 ||syariahmandiri.co.id^
 ||synapsagroup.co.id^
 ||synthesishomes-tangerangselatan.co.id^
@@ -1747697,6 +1747699,3 @@
 ||server-slot-filipina.apollowebdesign.in^
 ||service-jam-swatch.apollowebdesign.in^
 ||seus138.apollowebdesign.in^
-||seventeen-hug-lyrics.apollowebdesign.in^
-||sezairi-orang-mana.apollowebdesign.in^
-||sg-2-hand-of-hope.apollowebdesign.in^

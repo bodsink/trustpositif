@@ -1,7 +1,9 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111303
+! Serial: 26111305
 ! Part: 02/06
+||the-koi-gate-slot.blogspot.com^
+||the-komeng.blogspot.com^
 ||the-maestroxxvideos.blogspot.com^
 ||the-missing-closet.blogspot.com^
 ||the-new-hardcore-life.blogspot.com^
@@ -230883,6 +230885,7 @@
 ||csaba-kovacs.com^
 ||csababorbely.com^
 ||csabu.com^
+||csacommunity.com^
 ||csacreativestudio.com^
 ||csaforthree.com^
 ||csagag.com^
@@ -1857812,6 +1857815,3 @@
 ||angkasajptop75648.schlepzig.com^
 ||angkasajptop75649.schlepzig.com^
 ||angkasajptop75650.schlepzig.com^
-||angkasajptop75651.schlepzig.com^
-||angkasajptop75652.schlepzig.com^
-||angkasajptop75653.schlepzig.com^
