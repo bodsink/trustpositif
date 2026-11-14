@@ -1,7 +1,18 @@
 ! Title: Trust Positif Kominfo part 06 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111402
+! Serial: 26111404
 ! Part: 06/06
+||game.bandartotoakun.vip^
+||bandarxl.vip^
+||bandarxl0268.vip^
+||bandarxl2749.vip^
+||bandarxl2898.vip^
+||bandarxl2954.vip^
+||bandarxl55.vip^
+||bandarxl58.vip^
+||bandarxl5973.vip^
+||bandarxl6492.vip^
+||bandarxl6982.vip^
 ||bandarxl76.vip^
 ||bandarxl79.vip^
 ||bandarxl82.vip^

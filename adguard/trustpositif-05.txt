@@ -1,7 +1,11 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111402
+! Serial: 26111404
 ! Part: 05/06
+||buku-tafsir-mimpi-00-99318.dewacashdana.one^
+||buku-tafsir-mimpi-2d319.dewacashdana.one^
+||buku-tafsir-mimpi-4d320.dewacashdana.one^
+||buku-tafsir-mimpi-bergambar321.dewacashdana.one^
 ||buku-tapsir-mimpi322.dewacashdana.one^
 ||bumi303uwe.dewacashdana.one^
 ||bungaslot-amp8888.dewacashdana.one^
@@ -1649734,6 +1649738,7 @@
 ||asiapoker99.tips^
 ||asiaroyal88.tips^
 ||atom138.tips^
+||avtub.tips^
 ||babawin.tips^
 ||bacan4d.tips^
 ||bacantoto.tips^
@@ -2027259,14 +2027264,3 @@
 ||bandartoto.vip^
 ||bandartoto228.vip^
 ||bandartoto666.vip^
-||game.bandartotoakun.vip^
-||bandarxl.vip^
-||bandarxl0268.vip^
-||bandarxl2749.vip^
-||bandarxl2898.vip^
-||bandarxl2954.vip^
-||bandarxl55.vip^
-||bandarxl58.vip^
-||bandarxl5973.vip^
-||bandarxl6492.vip^
-||bandarxl6982.vip^

@@ -1,7 +1,11 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111402
+! Serial: 26111404
 ! Part: 03/06
+||angkasajptop71148.schlepzig.com^
+||angkasajptop71149.schlepzig.com^
+||angkasajptop71150.schlepzig.com^
+||angkasajptop71151.schlepzig.com^
 ||angkasajptop71152.schlepzig.com^
 ||angkasajptop71153.schlepzig.com^
 ||angkasajptop71154.schlepzig.com^
@@ -1748258,7 +1748262,3 @@
 ||pemain-bola-dari-huruf-b.aaaos.in^
 ||pemain-bola-dari-italia.aaaos.in^
 ||pemain-bola-gendut.aaaos.in^
-||pemain-bola-kamerun.aaaos.in^
-||pemain-bola-kelahiran-desember.aaaos.in^
-||pemain-bola-prancis-2022.aaaos.in^
-||pemain-israel.aaaos.in^

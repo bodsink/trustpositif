@@ -1,7 +1,11 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111402
+! Serial: 26111404
 ! Part: 02/06
+||teenpornlesbian.blogspot.com^
+||teenpornmega.blogspot.com^
+||teenpornn.blogspot.com^
+||teenpornnews.blogspot.com^
 ||teenpornopics.blogspot.com^
 ||teenpornosex.blogspot.com^
 ||teenpornosu.blogspot.com^
@@ -759017,6 +759021,7 @@
 ||hstyane.com^
 ||hsufilmfestival.com^
 ||hsuiza.com^
+||coretax.hsumgo.com^
 ||hsupercussion.com^
 ||hsux.com^
 ||fr.hsux.com^
@@ -900476,6 +900481,7 @@
 ||javtal.com^
 ||javtalk.com^
 ||javtall.com^
+||javtante.com^
 ||javtap.com^
 ||javtar.com^
 ||javtasty.com^
@@ -1858718,7 +1858724,3 @@
 ||angkasajptop71145.schlepzig.com^
 ||angkasajptop71146.schlepzig.com^
 ||angkasajptop71147.schlepzig.com^
-||angkasajptop71148.schlepzig.com^
-||angkasajptop71149.schlepzig.com^
-||angkasajptop71150.schlepzig.com^
-||angkasajptop71151.schlepzig.com^

@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111402
+! Serial: 26111404
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -1380086,6 +1380086,7 @@
 ||acehurbanfood.com^
 ||acehvivabeach.com^
 ||acehyper.com^
+||cdn2.aceimg.com^
 ||cdn2.aceimgg.com^
 ||aceimortalr.com^
 ||up.aceimp.com^
@@ -1703557,6 +1703558,7 @@
 ||beritaseks66.blogspot.com^
 ||beritaseks69.blogspot.com^
 ||beritaseksqq.blogspot.com^
+||beritasekssonlineeviral.blogspot.com^
 ||beritaselebriti168.blogspot.com^
 ||beritaselebritisidn.blogspot.com^
 ||beritasemi303.blogspot.com^
@@ -1784947,6 +1784949,7 @@
 ||mediaviral777.blogspot.com^
 ||mediaviralberitaterkini.blogspot.com^
 ||mediaviralindonesia009.blogspot.com^
+||mediaviralindonesia034.blogspot.com^
 ||mediaviralindonesia111283.blogspot.com^
 ||mediaviralindonesia80.blogspot.com^
 ||mediaviralindonesia86.blogspot.com^
@@ -1842612,7 +1842615,3 @@
 ||teenpornfreee.blogspot.com^
 ||teenpornfull.blogspot.com^
 ||teenpornhub.blogspot.com^
-||teenpornlesbian.blogspot.com^
-||teenpornmega.blogspot.com^
-||teenpornn.blogspot.com^
-||teenpornnews.blogspot.com^

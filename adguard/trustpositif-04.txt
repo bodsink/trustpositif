@@ -1,7 +1,11 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111402
+! Serial: 26111404
 ! Part: 04/06
+||pemain-bola-kamerun.aaaos.in^
+||pemain-bola-kelahiran-desember.aaaos.in^
+||pemain-bola-prancis-2022.aaaos.in^
+||pemain-israel.aaaos.in^
 ||pemain-juventus-2021.aaaos.in^
 ||pemain-sepak-bola-dari-spanyol.aaaos.in^
 ||pemain-sepak-bola-dunia-yg-beragama-islam.aaaos.in^
@@ -1338133,6 +1338137,7 @@
 ||v88gacor.my^
 ||valeantica.my^
 ||van-thejepe.my^
+||cdn.vdoy.my^
 ||vegamovies-nl.my^
 ||venturebase.my^
 ||viartoto.my^
@@ -1754874,7 +1754879,3 @@
 ||buku-mimpi-pembunuh315.dewacashdana.one^
 ||buku-shio-mimpi-2023316.dewacashdana.one^
 ||buku-tafsir-1001-mimpi317.dewacashdana.one^
-||buku-tafsir-mimpi-00-99318.dewacashdana.one^
-||buku-tafsir-mimpi-2d319.dewacashdana.one^
-||buku-tafsir-mimpi-4d320.dewacashdana.one^
-||buku-tafsir-mimpi-bergambar321.dewacashdana.one^
