@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111600
+! Serial: 26111601
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -144139,6 +144139,7 @@
 ||gt914.asia^
 ||gta777.asia^
 ||gta78.asia^
+||gta99.asia^
 ||gtatogel.asia^
 ||gtgxke.asia^
 ||de.gtgxke.asia^
@@ -146900,6 +146901,7 @@
 ||jk888.asia^
 ||jk88a.asia^
 ||jk8b.asia^
+||jk8e.asia^
 ||jk9.asia^
 ||jkbet8.asia^
 ||jkbet888.asia^
@@ -229947,6 +229949,7 @@
 ||gtg911win.bet^
 ||gtm168.bet^
 ||gtm789bet.bet^
+||gto99.bet^
 ||gtr777.bet^
 ||av.gts.bet^
 ||gtslot88.bet^
@@ -231236,6 +231239,7 @@
 ||j9com.bet^
 ||j9in.bet^
 ||j9slot.bet^
+||j9ya.bet^
 ||ja.bet^
 ||ja12.bet^
 ||ja15.bet^
@@ -231311,6 +231315,7 @@
 ||jambislot.bet^
 ||jambobet.bet^
 ||jametkuproy88.bet^
+||jamslots.bet^
 ||jamtogel.bet^
 ||jamtoto.bet^
 ||jamu.bet^
@@ -231369,6 +231374,7 @@
 ||jaya777.bet^
 ||jaya9betcom.bet^
 ||jaya9casino.bet^
+||jayabd.bet^
 ||jayabola.bet^
 ||jayabola2.bet^
 ||jayahoki.bet^
@@ -231718,6 +231724,7 @@
 ||jmd88.bet^
 ||jn789.bet^
 ||jnd28.bet^
+||joa77.bet^
 ||jocker.bet^
 ||jodan189.bet^
 ||jodohjaya.bet^
@@ -232248,6 +232255,7 @@
 ||kfruiva.bet^
 ||kftopo.bet^
 ||kg.bet^
+||kg995.bet^
 ||kg996.bet^
 ||kgbd88con.bet^
 ||kgf8.bet^
@@ -268729,6 +268737,7 @@
 ||delta88.biz^
 ||delta888.biz^
 ||deltabet88.biz^
+||deltalab.biz^
 ||deltatogel.biz^
 ||deltatogel-03.biz^
 ||delulu.biz^
@@ -276872,6 +276881,7 @@
 ||ikanterbang.biz^
 ||ikatancinta.biz^
 ||ikercasillas-br.biz^
+||ikhlas.biz^
 ||iki2.biz^
 ||ikituke.biz^
 ||iklan-viral.biz^
@@ -278269,6 +278279,7 @@
 ||jap77new.biz^
 ||japan-cosmetic.biz^
 ||japan-porn.biz^
+||japan138.biz^
 ||japan168.biz^
 ||japanese--schoolgirls.biz^
 ||japanese-babes.biz^
@@ -639908,6 +639919,7 @@
 ||gso789.cc^
 ||gss88.cc^
 ||gswin.cc^
+||gt108games.cc^
 ||gt66.cc^
 ||member.gt99bet.cc^
 ||gta-apk.cc^
@@ -704217,6 +704229,7 @@
 ||jksp93.cc^
 ||jksst-nsz.cc^
 ||jkt168.cc^
+||jkt48.cc^
 ||jktjkt.cc^
 ||jktoto.cc^
 ||jkwin.cc^
@@ -1082724,6 +1082737,7 @@
 ||j99top.click^
 ||j9casifreespins.click^
 ||j9casinonodeposit.click^
+||ja88.click^
 ||win.jaakcasino-bonus.click^
 ||jaambaaveega.click^
 ||jaba88.click^
@@ -1085444,6 +1085458,7 @@
 ||jwin303-production.click^
 ||jwin303-protec.click^
 ||jwin303-techno.click^
+||jwin7.click^
 ||jwin77.click^
 ||jwin7casino.click^
 ||jwinalwayswin-vip.click^
@@ -1843619,7 +1843634,3 @@
 ||sv388sabungayamonlinepadangpanjang.blogspot.com^
 ||sv388sabungayamonlinepalu.blogspot.com^
 ||sv388sabungayamonlinepekalongan.blogspot.com^
-||sv388sabungayamonlinepekanbaru.blogspot.com^
-||sv388sabungayamonlinepematangsiantar.blogspot.com^
-||sv388sabungayamonlineterpercaya.blogspot.com^
-||sv388sabungayampw.blogspot.com^
