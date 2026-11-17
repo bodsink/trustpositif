@@ -1,26 +1,7 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111707
+! Serial: 26111710
 ! Part: 04/06
-||royalgacor.id^
-||royalgaming.id^
-||royalgarden.id^
-||royalhoki77.id^
-||attk.royallaptop.id^
-||nium.royallaptop.id^
-||tamago.royallaptop.id^
-||royalpaito.id^
-||royalqq.id^
-||royalslots.id^
-||royalsyair.id^
-||royaltoto.id^
-||royaltulip-resort.id^
-||royalty.id^
-||royalwin88.id^
-||nexus-adalah.royhon.id^
-||roymax.id^
-||rozalinda.id^
-||rp-balarjabar.id^
 ||rp369.id^
 ||rp66.id^
 ||rp8888pro.id^
@@ -2916,7 +2897,6 @@
 ||smandasabdl.id^
 ||smansalangsa.id^
 ||smantas.id^
-||smaplawfirm.id^
 ||bankbjb.smart-ar.id^
 ||smartavatar.id^
 ||smartcapital.id^
@@ -4547,7 +4527,6 @@
 ||3lvgi.tihuqy.id^
 ||tijar.id^
 ||tiketjepe.id^
-||tiketmu.id^
 ||tiketslot.id^
 ||tiki4d.id^
 ||tikicantik.id^
@@ -1753245,3 +1753224,14 @@
 ||sexspielzeug.startspot.nl^
 ||sexthumb.startspot.nl^
 ||sextienertjes.startspot.nl^
+||sextoyfun.startspot.nl^
+||sextoys-webcamsex.startspot.nl^
+||sextrailer.startspot.nl^
+||sextrailers.startspot.nl^
+||sextrailers-sexvideos.startspot.nl^
+||sexverhaal.startspot.nl^
+||sexverhalen-erotische-verhalen.startspot.nl^
+||sexverhalen-strand.startspot.nl^
+||sexverhalen-tieners.startspot.nl^
+||sexverhalen-verkracht.startspot.nl^
+||sexverzamelingen.startspot.nl^

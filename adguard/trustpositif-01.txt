@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111707
+! Serial: 26111710
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -841976,7 +841976,6 @@
 ||ws138.cc^
 ||jcsz.ws8doak.cc^
 ||wsa3.cc^
-||wsae.cc^
 ||wsaman.cc^
 ||wsasd.cc^
 ||wsawvyis.cc^
@@ -1549820,7 +1549819,6 @@
 ||awethumbs.com^
 ||awetindo.com^
 ||awetkali.com^
-||awetku.com^
 ||awetlatinpussy.com^
 ||awetlogin.com^
 ||awetnew.com^
@@ -1625650,7 +1625648,6 @@
 ||bemefi.com^
 ||bemese.com^
 ||bemfeuntar.com^
-||bemfisipunpad.com^
 ||bemfkgunhas.com^
 ||bemfkgusakti.com^
 ||bemfkipulm.com^
@@ -1844664,3 +1844661,5 @@
 ||sportandcash.blogspot.com^
 ||sportarticlesnusantara.blogspot.com^
 ||sportation99.blogspot.com^
+||sportbabespornvideos.blogspot.com^
+||sportbetting328.blogspot.com^

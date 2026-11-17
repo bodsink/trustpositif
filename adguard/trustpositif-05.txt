@@ -1,18 +1,7 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111707
+! Serial: 26111710
 ! Part: 05/06
-||sextoyfun.startspot.nl^
-||sextoys-webcamsex.startspot.nl^
-||sextrailer.startspot.nl^
-||sextrailers.startspot.nl^
-||sextrailers-sexvideos.startspot.nl^
-||sexverhaal.startspot.nl^
-||sexverhalen-erotische-verhalen.startspot.nl^
-||sexverhalen-strand.startspot.nl^
-||sexverhalen-tieners.startspot.nl^
-||sexverhalen-verkracht.startspot.nl^
-||sexverzamelingen.startspot.nl^
 ||sexwebcam-pagina.startspot.nl^
 ||sexwebcam-vrouwen.startspot.nl^
 ||sexwensen.startspot.nl^
@@ -243004,7 +242993,6 @@
 ||antigues.org^
 ||antik288.org^
 ||antikalah.org^
-||antikorupsi.org^
 ||antikqiu9.org^
 ||antikqq.org^
 ||antiktogel.org^
@@ -499554,7 +499542,6 @@
 ||pdaporn.org^
 ||pdasex.org^
 ||pdbali.org^
-||pdbklaten.org^
 ||tsunami.pdc.org^
 ||pdc-cpd.org^
 ||pdc2020.org^
@@ -588952,7 +588939,6 @@
 ||wayan4d.org^
 ||wayan4dx.org^
 ||wayanadtourism.org^
-||wayang.org^
 ||wayang123.org^
 ||wayang188.org^
 ||wayang23.org^
@@ -1198661,7 +1198647,6 @@
 ||bukukejutan.site^
 ||bukukeren.site^
 ||bukukors.site^
-||bukuku.site^
 ||bukulapisan.site^
 ||bukuma.site^
 ||bukumaju.site^
@@ -2022632,3 +2022617,16 @@
 ||arti-mimpi-dikasih-rokok-sama-orang.mygroundbiz.us^
 ||arti-mimpi-naik-mobil-bersama-laki-laki.mygroundbiz.us^
 ||asia-918.mygroundbiz.us^
+||asiktogelku.mygroundbiz.us^
+||aura4d.mygroundbiz.us^
+||autojp88.mygroundbiz.us^
+||babatoto.mygroundbiz.us^
+||babi-togel-4d.mygroundbiz.us^
+||baca-operation-true-love.mygroundbiz.us^
+||balon-no-togel.mygroundbiz.us^
+||bandar-126.mygroundbiz.us^
+||bandar-togel-98toto.mygroundbiz.us^
+||bandar-togel-togelup.mygroundbiz.us^
+||bandar36-login.mygroundbiz.us^
+||bandarslot88.mygroundbiz.us^
+||bandungtoto-togel-login.mygroundbiz.us^

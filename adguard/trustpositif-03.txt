@@ -1,12 +1,7 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111707
+! Serial: 26111710
 ! Part: 03/06
-||angkasajptop1181.schlepzig.com^
-||angkasajptop1182.schlepzig.com^
-||angkasajptop1183.schlepzig.com^
-||angkasajptop1184.schlepzig.com^
-||angkasajptop1185.schlepzig.com^
 ||angkasajptop1186.schlepzig.com^
 ||angkasajptop1187.schlepzig.com^
 ||angkasajptop1188.schlepzig.com^
@@ -333620,7 +333615,6 @@
 ||terlatobolgheri.com^
 ||terlatomontalcino.com^
 ||terlengkapdomain.com^
-||terlihat.com^
 ||terliki.com^
 ||terlukisindah.com^
 ||terma-baltic.com^
@@ -1706833,7 +1706827,6 @@
 ||certbaseds.id^
 ||cerutu4dgacor.id^
 ||cetakkalender.id^
-||cetakpackaging.id^
 ||cetar88.id^
 ||cfund.id^
 ||cgk303.id^
@@ -1707293,7 +1707286,6 @@
 ||balitransport.co.id^
 ||akun-pro-thailand.baliyoni.co.id^
 ||balkondes.co.id^
-||bandarahaluoleo.co.id^
 ||bandarbola.co.id^
 ||bandarcapsa.co.id^
 ||akun-pro.bandarkridajasindo.co.id^
@@ -1714494,7 +1714486,6 @@
 ||server-prancis.dartair.co.id^
 ||databoks.co.id^
 ||datahk.co.id^
-||daun.co.id^
 ||daunmuda.co.id^
 ||debrief.co.id^
 ||deliverinc.co.id^
@@ -1719513,7 +1719504,6 @@
 ||expobia.id^
 ||exportinsider.id^
 ||exquisiteconnection.id^
-||extratime.id^
 ||eyacon.id^
 ||eyang88poker.id^
 ||eyangmaster.id^
@@ -1730659,7 +1730649,6 @@
 ||lensamu.id^
 ||lensasastra.id^
 ||lensaupdate.id^
-||lenterafarma.id^
 ||lenteraliterasi.id^
 ||lenteramata.id^
 ||lenterapoker.id^
@@ -1733110,7 +1733099,6 @@
 ||rtpjago2-aman-33.mitsubishi-serang.id^
 ||mitsubishi-truck.id^
 ||mitsubishibandung.id^
-||mitsubishibekasi.id^
 ||mitsubishijabar.id^
 ||mitsubishijatim.id^
 ||mitsubishimojokerto.id^
@@ -1739306,7 +1739294,6 @@
 ||bantuan.or.id^
 ||bapsm-dki.or.id^
 ||batihkurowo.or.id^
-||baznasjatim.or.id^
 ||baznastala.or.id^
 ||data5d.berkarya.or.id^
 ||binomo.or.id^
@@ -1739929,7 +1739916,6 @@
 ||kksp.or.id^
 ||akunbet.komas.or.id^
 ||komnasperempuan.or.id^
-||koni.or.id^
 ||ajo88.koni.or.id^
 ||area188.koni.or.id^
 ||hokicuy.koni.or.id^
@@ -1742873,7 +1742859,6 @@
 ||propertipedia.id^
 ||propertycub.id^
 ||propertyexpo.id^
-||propertyhits.id^
 ||m.1uae92.propertyindonesia.id^
 ||m.propertyindonesia.id^
 ||propertymarket.id^
@@ -1744174,3 +1744159,22 @@
 ||royaleboss.id^
 ||royaleinfinity.id^
 ||royalflush.id^
+||royalgacor.id^
+||royalgaming.id^
+||royalgarden.id^
+||royalhoki77.id^
+||attk.royallaptop.id^
+||nium.royallaptop.id^
+||tamago.royallaptop.id^
+||royalpaito.id^
+||royalqq.id^
+||royalslots.id^
+||royalsyair.id^
+||royaltoto.id^
+||royaltulip-resort.id^
+||royalty.id^
+||royalwin88.id^
+||nexus-adalah.royhon.id^
+||roymax.id^
+||rozalinda.id^
+||rp-balarjabar.id^

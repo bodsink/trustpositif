@@ -1,9 +1,7 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111707
+! Serial: 26111710
 ! Part: 02/06
-||sportbabespornvideos.blogspot.com^
-||sportbetting328.blogspot.com^
 ||sportbokterbaik.blogspot.com^
 ||sportbook206.blogspot.com^
 ||sportbook815terpercaya.blogspot.com^
@@ -84948,7 +84946,6 @@
 ||bukitq1.com^
 ||bukitqq.com^
 ||bukitraja787.com^
-||bukitrhema.com^
 ||bukitsedap.com^
 ||bukitseribu.com^
 ||bukitsibayak.com^
@@ -263971,7 +263968,6 @@
 ||daftarsegi88.com^
 ||daftarsejarahjitu.com^
 ||daftarsejitu.com^
-||daftarsekolah.com^
 ||daftarsekoppoker.com^
 ||daftarseleb.com^
 ||amp1.daftarsensa138.com^
@@ -855909,7 +855905,6 @@
 ||istanaimpianofficial.com^
 ||istanainfo.com^
 ||istanainstant.com^
-||istanait.com^
 ||istanajackpot168.com^
 ||istanajamu.com^
 ||istanajantan.com^
@@ -972859,7 +972854,6 @@
 ||kampusia88.com^
 ||kampusiap.com^
 ||kampusih.com^
-||kampusin.com^
 ||kampusin88.com^
 ||kampusinces.com^
 ||kampusindah.com^
@@ -1442993,7 +1442987,6 @@
 ||opinarg.com^
 ||opinedraft.com^
 ||opinibangsa.com^
-||opinibekasi.com^
 ||api-qa.opinion-edge.com^
 ||opinion-id.com^
 ||opinionatedlesbian.com^
@@ -1691724,7 +1691717,6 @@
 ||redadult.com^
 ||redadultos.com^
 ||redafrovenezolana.com^
-||redaksi62.com^
 ||gb777.redaksi88.com^
 ||redaksibogor.com^
 ||redaksibola.com^
@@ -1860560,3 +1860552,8 @@
 ||angkasajptop1178.schlepzig.com^
 ||angkasajptop1179.schlepzig.com^
 ||angkasajptop1180.schlepzig.com^
+||angkasajptop1181.schlepzig.com^
+||angkasajptop1182.schlepzig.com^
+||angkasajptop1183.schlepzig.com^
+||angkasajptop1184.schlepzig.com^
+||angkasajptop1185.schlepzig.com^
