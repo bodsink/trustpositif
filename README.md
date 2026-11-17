@@ -1,7 +1,7 @@
 # Trust Positif
 
 Daftar blokir AdGuard Home dari zona RPZ `trustpositifkominfo`.
-Serial: `26111704`.
+Serial: `26111707`.
 
 Data zona `trustpositifkominfo` dan daftar di repo ini di-update otomatis jika ada perubahan dari master zona.
 

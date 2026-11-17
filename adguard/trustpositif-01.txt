@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 01 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111704
+! Serial: 26111707
 ! Part: 01/06
 ||38.54.1.102rtpmposurga^
 ||0gomovies.ac^
@@ -6255,6 +6255,7 @@
 ||ao88top.app^
 ||aoewin3.app^
 ||aokbet.app^
+||aoncash.app^
 ||aoncash188.app^
 ||aos7.app^
 ||aos77a.app^
@@ -9594,6 +9595,7 @@
 ||hmd29.app^
 ||ho77.app^
 ||ho880.app^
+||hobi188.app^
 ||hobi99.app^
 ||hobipasang.app^
 ||hodatoto.app^
@@ -11025,6 +11027,7 @@
 ||libet.app^
 ||partners.licc.app^
 ||liderbet.app^
+||lido88.app^
 ||lifegenius.app^
 ||liga188.app^
 ||liga365.app^
@@ -49290,6 +49293,7 @@
 ||slotjoker.app^
 ||slotkanjeng.app^
 ||slotkilau4d.app^
+||slotking69.app^
 ||slotmacau188.app^
 ||slotmaxwin.app^
 ||bonanza.slotmaxwin.app^
@@ -50476,6 +50480,7 @@
 ||usaklub.app^
 ||usaslot.app^
 ||usbet168.app^
+||userslot.app^
 ||usj1.app^
 ||usracing.app^
 ||usun.app^
@@ -64142,6 +64147,7 @@
 ||interslotcity.vercel.app^
 ||interslotgacor.vercel.app^
 ||interwin.vercel.app^
+||interwin-bonus10k.vercel.app^
 ||interwin-purebredkittiess.vercel.app^
 ||interwin-rtp-slot.vercel.app^
 ||interwin-simrikyuwapariwar-about.vercel.app^
@@ -144726,6 +144732,7 @@
 ||hobbymaindepok8899.asia^
 ||hobbytaruhan.asia^
 ||hobi123.asia^
+||hobi188.asia^
 ||hobi69.asia^
 ||hobi77.asia^
 ||hobi89.asia^
@@ -152767,6 +152774,7 @@
 ||nuri88.asia^
 ||nusa365.asia^
 ||nusa77.asia^
+||nusabet-vip.asia^
 ||nusabet88.asia^
 ||nusagg.asia^
 ||nusantara-rtp4d.asia^
@@ -158886,6 +158894,7 @@
 ||slotkartupoker.asia^
 ||slotkencana.asia^
 ||slotking.asia^
+||slotking69.asia^
 ||slotking777.asia^
 ||slotking888.asia^
 ||slotkp88.asia^
@@ -219144,6 +219153,7 @@
 ||totpari.best^
 ||tower-jp.best^
 ||towerjp.best^
+||toyoslot.best^
 ||toyota303.best^
 ||trabas007.best^
 ||trabas007hoki.best^
@@ -230656,6 +230666,7 @@
 ||ho688.bet^
 ||hob.bet^
 ||hobi.bet^
+||hobi188.bet^
 ||hobibet77.bet^
 ||hobicuan.bet^
 ||hobimain.bet^
@@ -230943,6 +230954,7 @@
 ||ibet138.bet^
 ||ibet1668.bet^
 ||ibet365.bet^
+||ibet44.bet^
 ||ibet777.bet^
 ||ibet789.bet^
 ||ibet88.bet^
@@ -233392,6 +233404,7 @@
 ||liga188bola.bet^
 ||liga365ku.bet^
 ||liga388.bet^
+||liga855.bet^
 ||liga88.bet^
 ||liga89.bet^
 ||liga99.bet^
@@ -240454,6 +240467,7 @@
 ||slotking333.bet^
 ||slotking456.bet^
 ||slotking569.bet^
+||slotking69.bet^
 ||slotkingkong569.bet^
 ||slotktv789.bet^
 ||slotland-casino.bet^
@@ -274772,6 +274786,7 @@
 ||good-business.biz^
 ||good888.biz^
 ||goodb0gil.biz^
+||goodbola.biz^
 ||goodcmslot.biz^
 ||goodd3wtgl.biz^
 ||gooddoctorcompany.biz^
@@ -303704,6 +303719,7 @@
 ||pureporn.biz^
 ||live.nevadagaming.puresite.biz^
 ||puri199.biz^
+||purimall-axe.biz^
 ||purislot.biz^
 ||purnama4d.biz^
 ||purnamaqq.biz^
@@ -315054,6 +315070,7 @@
 ||monstervineyards.stonehiveswfl.biz^
 ||stonemall.biz^
 ||stonespecialties.biz^
+||komunitas.stonyplainpies.biz^
 ||stoolpigeons.biz^
 ||stopnuclearpower.biz^
 ||storageworks.biz^
@@ -342406,6 +342423,7 @@
 ||bokepsin.blog^
 ||bokeptoket.blog^
 ||bokepviral.blog^
+||link.bola-99.blog^
 ||bola1.blog^
 ||bola138.blog^
 ||bola188.blog^
@@ -354588,6 +354606,7 @@
 ||rjabonanza88.blog^
 ||rjdomino.blog^
 ||rmk828.blog^
+||food.rmsfoodsinc.blog^
 ||rnb69.blog^
 ||rnd777.blog^
 ||robin66.blog^
@@ -357458,6 +357477,7 @@
 ||supra88.blog^
 ||supraamp.blog^
 ||supraluck.blog^
+||amp.supraslotplay.blog^
 ||surefendi188.blog^
 ||surga11.blog^
 ||surga168.blog^
@@ -358619,6 +358639,7 @@
 ||ww1.virdsam.blog^
 ||ww2.virdsam.blog^
 ||virgo-123.blog^
+||virtusplay-nf.virtusplay-nf.blog^
 ||virus4drtp.blog^
 ||visa-id.blog^
 ||visabet88.blog^
@@ -406623,6 +406644,7 @@
 ||king66.buzz^
 ||king68.buzz^
 ||king88.buzz^
+||king88-asli.buzz^
 ||king88-resmi.buzz^
 ||king888.buzz^
 ||king88bet.buzz^
@@ -594851,6 +594873,7 @@
 ||agenslot.care^
 ||agentoto88.care^
 ||akar69x.care^
+||alexis17.care^
 ||alfa77.care^
 ||animasu.care^
 ||avtub.care^
@@ -740760,6 +740783,7 @@
 ||slot88jp.cc^
 ||slot88jp14.cc^
 ||slot88jp15.cc^
+||slot88jp16.cc^
 ||slot88ku.cc^
 ||slot88online.cc^
 ||slot88resmi.cc^
@@ -1013468,6 +1013492,7 @@
 ||ibbalternatiflink.cfd^
 ||ibcbet.cfd^
 ||ibet44.cfd^
+||top.ibet44.cfd^
 ||ibetwinasia.cfd^
 ||iblistotog.cfd^
 ||ibmgas.cfd^
@@ -1013520,6 +1013545,7 @@
 ||icon69bet.cfd^
 ||icongunskydid.cfd^
 ||iconsiam168.cfd^
+||iconwin.cfd^
 ||rtp01.iconwin.cfd^
 ||ictoto.cfd^
 ||ictotois.cfd^
@@ -1050624,6 +1050650,7 @@
 ||sunwin.city^
 ||sunwinc.city^
 ||superslot88.city^
+||supraslot-super.city^
 ||tairikvip.city^
 ||tangkasnet.city^
 ||taruhanbolasbobet.city^
@@ -1095200,6 +1095227,7 @@
 ||rtpvisi4d635.main99.click^
 ||rtpvisi4d653.main99.click^
 ||rtpvisi4d789.main99.click^
+||rtpvisi4d969.main99.click^
 ||rtpvisi4dsd.main99.click^
 ||main99-theslot777.click^
 ||mainagenplay88.click^
@@ -1133373,6 +1133401,7 @@
 ||5e5cc-c5f-e3b5a.visineo1.click^
 ||visineo2.click^
 ||8d724-e0f-1c1ad.visineo2.click^
+||bf93e-adf-dd3a1.visineo2.click^
 ||visionoverworld.click^
 ||visipola13.click^
 ||visipro1.click^
@@ -1144813,6 +1144842,7 @@
 ||mobile-ampuh.cloud^
 ||terizla.mobile-legend.cloud^
 ||mobilee.cloud^
+||mobilefun3.cloud^
 ||mobilmatik88.cloud^
 ||mobilmurah.cloud^
 ||mobilsport.cloud^
@@ -1200732,6 +1200762,7 @@
 ||slotkenzo.club^
 ||slotkilau4d.club^
 ||slotking69.club^
+||slotking69alternatif.club^
 ||slotking777.club^
 ||slotklikwin88.club^
 ||slotkoi.club^
@@ -1254684,6 +1254715,7 @@
 ||v2.luvyaa.co^
 ||v3.luvyaa.co^
 ||v4.luvyaa.co^
+||v5.luvyaa.co^
 ||luwak777.co^
 ||luwak88resmi.co^
 ||lux123daftar.co^
@@ -1274068,6 +1274100,7 @@
 ||phrichph.co^
 ||phs777.co^
 ||phswerte.co^
+||trend.phxdevices.co^
 ||piala-qq.co^
 ||piala128.co^
 ||piala168.co^
@@ -1290934,6 +1290967,7 @@
 ||ufo4d.co^
 ||ufo555.co^
 ||amp.ufo777mbg.co^
+||new.ufo777mbg.co^
 ||ufo79.co^
 ||ufobet.co^
 ||ufogoal.co^
@@ -1309159,6 +1309193,7 @@
 ||11aitt.com^
 ||11ajaj.com^
 ||11ampceri4d.com^
+||11ampdolar508.com^
 ||11amphk4d.com^
 ||11ampino.com^
 ||11ampinter4d.com^
@@ -1317239,6 +1317274,7 @@
 ||2026102900.1988top1.com^
 ||2026110100.1988top1.com^
 ||2026110500.1988top1.com^
+||2026111500.1988top1.com^
 ||hebat.1988top1.com^
 ||1988ux.com^
 ||198bar.com^
@@ -1322606,6 +1322642,7 @@
 ||1xlite-32476.com^
 ||1xlite-51266.com^
 ||1xlite-61844.com^
+||1xlite-6487.com^
 ||1xlite-85807.com^
 ||1xliteuz.com^
 ||1xlover.com^
@@ -1333578,6 +1333615,7 @@
 ||32megasensa.com^
 ||32menangbet88.com^
 ||32milestone.com^
+||dxt.32mjiz4.com^
 ||32modal138.com^
 ||32modal777.com^
 ||32mos777.com^
@@ -1351394,6 +1351432,7 @@
 ||666f192kle.com^
 ||666f3.com^
 ||666f3j.com^
+||666f63x.com^
 ||666f9s.com^
 ||666fabc456.com^
 ||666fcs.com^
@@ -1361968,6 +1362007,7 @@
 ||888fw-navi.com^
 ||888fw234abc.com^
 ||888fw7k.com^
+||888fw7k2.com^
 ||888fw9t.com^
 ||888fwnavi.com^
 ||888game.com^
@@ -1369191,6 +1369231,7 @@
 ||996ace.com^
 ||996casino.com^
 ||996fuli.com^
+||996id4.com^
 ||996mmc.com^
 ||99700n.com^
 ||9970255.com^
@@ -1373091,6 +1373132,7 @@
 ||a1515.com^
 ||a15ribu.com^
 ||a16-virgin.com^
+||a16apk.com^
 ||a17zi8ktc3je8qsmst.com^
 ||a18ans.com^
 ||a18gacor.com^
@@ -1410719,6 +1410761,7 @@
 ||agen138cuan.com^
 ||agen138gacor.com^
 ||agen138gas.com^
+||agen138go.com^
 ||agen138juara.com^
 ||agen138kuat.com^
 ||agen138login.com^
@@ -1411994,6 +1412037,7 @@
 ||agenbettingterpercaya1.com^
 ||agenbettingtogel.com^
 ||agenbetvip.com^
+||agenbetz.com^
 ||agenbgw.com^
 ||agenbhs.com^
 ||agenbig.com^
@@ -1415765,6 +1415809,7 @@
 ||agent855c.com^
 ||agent855cash.com^
 ||agent855e.com^
+||agent855h.com^
 ||agent855k.com^
 ||agent855ku.com^
 ||agent855v.com^
@@ -1423831,6 +1423876,7 @@
 ||ahwannuo.com^
 ||ahwatukeefoothillsdentalcare.com^
 ||ahwatukeesportsandspine.com^
+||ahwehweydance.com^
 ||ahwgallery.com^
 ||ahwwinterclassic.com^
 ||ahwxxny.com^
@@ -1424231,6 +1424277,7 @@
 ||aidansclub.com^
 ||aidanwilliamsphoto.com^
 ||gallery.aidanwilliamsphoto.com^
+||play.aidapk.com^
 ||aidapoolworldchampionships.com^
 ||pengeluaransgp.aidas2025.com^
 ||aidatimeless.com^
@@ -1429875,6 +1429922,7 @@
 ||ledakan.akseslido88.com^
 ||qiuqiu.akseslido88.com^
 ||sausage.akseslido88.com^
+||wind.akseslido88.com^
 ||akseslido88rtp.com^
 ||aksesligaciputra.com^
 ||aksesligaklik.com^
@@ -1430392,13 +1430440,21 @@
 ||olx239.aksesyok.com^
 ||olx24.aksesyok.com^
 ||olx240.aksesyok.com^
+||olx241.aksesyok.com^
 ||olx242.aksesyok.com^
 ||olx243.aksesyok.com^
 ||olx244.aksesyok.com^
 ||olx245.aksesyok.com^
 ||olx246.aksesyok.com^
 ||olx247.aksesyok.com^
+||olx248.aksesyok.com^
+||olx249.aksesyok.com^
 ||olx25.aksesyok.com^
+||olx250.aksesyok.com^
+||olx253.aksesyok.com^
+||olx254.aksesyok.com^
+||olx255.aksesyok.com^
+||olx256.aksesyok.com^
 ||olx26.aksesyok.com^
 ||olx27.aksesyok.com^
 ||olx28.aksesyok.com^
@@ -1431313,6 +1431369,7 @@
 ||akumaukaya7.com^
 ||akumaukaya8.com^
 ||akumaukaya9.com^
+||cuma-hobi188-yang-bisa.akumaurank1.com^
 ||giga138-jangan-kendor.akumaurank1.com^
 ||nusa188-antiphising.akumaurank1.com^
 ||phising-mimi303-awas.akumaurank1.com^
@@ -1433285,6 +1433342,7 @@
 ||aladincash10.com^
 ||aladincash12.com^
 ||aladincash2.com^
+||aladincash22.com^
 ||aladincash3.com^
 ||aladincash33.com^
 ||aladincash5.com^
@@ -1433897,6 +1433955,7 @@
 ||alanimals.com^
 ||alanislyrics.com^
 ||alanisnude.com^
+||alanisutopia.com^
 ||alanizpropane.com^
 ||alanjmckimm.com^
 ||alanjonesmusic.com^
@@ -1439559,6 +1439618,7 @@
 ||alicemassages.com^
 ||alicemchard.com^
 ||alicemisswow.com^
+||alicemonroerealtor.com^
 ||alicemotion.com^
 ||alicemushroomschocolates.com^
 ||alicenblunderland.com^
@@ -1466376,6 +1466436,7 @@
 ||sky01.amavifans.com^
 ||sky02.amavifans.com^
 ||1st.amavifight.com^
+||2st.amavifight.com^
 ||vvip01.amavifight.com^
 ||vvip02.amavifight.com^
 ||vvip03.amavifight.com^
@@ -1471160,7 +1471221,9 @@
 ||amp-lunatogeljp.com^
 ||amp-lunatogelofficial.com^
 ||amp-lux168.com^
+||amp-mabosbet.com^
 ||login.amp-mabosbet.com^
+||order.amp-mabosbet.com^
 ||amp-macancuan.com^
 ||amp-macaudewa.com^
 ||amp-mad.com^
@@ -1487687,6 +1487750,7 @@
 ||angkabet33524.com^
 ||angkabet33803.com^
 ||angkabet34125.com^
+||angkabet34437.com^
 ||angkabet34488.com^
 ||angkabet34555.com^
 ||angkabet35266.com^
@@ -1496971,6 +1497035,7 @@
 ||aonbola77.com^
 ||aonbola88.com^
 ||aoncash.com^
+||aoncash0mps.com^
 ||b6g9ob.aoncash0mps.com^
 ||aoncash1.com^
 ||aoncash10.com^
@@ -1496988,6 +1497053,7 @@
 ||aoncash369.com^
 ||aoncash388slot.com^
 ||aoncash44.com^
+||b6g9gr.aoncash4m7v.com^
 ||b6g9ob.aoncash4m7v.com^
 ||aoncash55.com^
 ||aoncash6.com^
@@ -1497003,22 +1497069,32 @@
 ||b6g9ob.aoncash9car6.com^
 ||aoncash9i66.com^
 ||b6g9ob.aoncash9i66.com^
+||aoncashadi6a5.com^
 ||b6g9ob.aoncashadi6a5.com^
+||aoncashd6b9.com^
 ||b6g9ob.aoncashd6b9.com^
+||aoncashdiam0nd.com^
+||b6g9ob.aoncashdiam0nd.com^
+||aoncashhsac.com^
 ||b6g9ob.aoncashhsac.com^
 ||aoncashindo.com^
+||b6g9ob.aoncashjtgc.com^
 ||aoncashjvm.com^
 ||b6g9ob.aoncashjvm.com^
 ||smart.aoncashjvm.com^
+||aoncashlink.com^
 ||b6g9ob.aoncashpanda.com^
 ||aoncashqq.com^
 ||b6g9gr.aoncashqq6.com^
 ||b6g9ob.aoncashqq6.com^
 ||aoncashrtp.com^
 ||b6g9ob.aoncashuu7.com^
+||aoncashxcv.com^
 ||b6g9ob.aoncashxcv.com^
+||b6g9gp.aoncashyee.com^
 ||b6g9ob.aoncashyee.com^
 ||aoncashyenom.com^
+||b6g9ob.aoncashyenom.com^
 ||aoncollection.com^
 ||aonde.com^
 ||aondesexo.com^
@@ -1500389,6 +1500465,7 @@
 ||apizeus777cq.com^
 ||apizeus777fr.com^
 ||apizeus777j.com^
+||apizeus777lai.com^
 ||apizeus777mt.com^
 ||apizeus777qi.com^
 ||apizeus777qk.com^
@@ -1501918,6 +1501995,7 @@
 ||apoils.com^
 ||apoilsurmsn.com^
 ||apoiogenoino.com^
+||apoixos.com^
 ||apokalypsesoftware.com^
 ||apoke.com^
 ||apoker303.com^
@@ -1507181,6 +1507259,7 @@
 ||arena30374356.com^
 ||arena30375409.com^
 ||arena30377.com^
+||arena30378194.com^
 ||arena30379648.com^
 ||arena30390.com^
 ||arena303slot.com^
@@ -1621320,6 +1621399,7 @@
 ||bee-charmed.com^
 ||bee-elle.com^
 ||bee-et-smart.com^
+||dewa.bee-imbajp.com^
 ||bee-pearl.com^
 ||bee-planning.com^
 ||bee-porn.com^
@@ -1627177,6 +1627257,7 @@
 ||kuy.bengkel69online.com^
 ||kuy01.bengkel69online.com^
 ||kuy02.bengkel69online.com^
+||kuy03.bengkel69online.com^
 ||bengkel69or.com^
 ||bengkel69pro.com^
 ||bengkel69resmi.com^
@@ -1639056,6 +1639137,7 @@
 ||bet2poker.com^
 ||bet2sbobet.com^
 ||bet2slot.com^
+||bet2slot777.com^
 ||bet2slota.com^
 ||go.bet2slotaja.com^
 ||bet2slotkita.com^
@@ -1640515,6 +1640597,7 @@
 ||betberryseru.com^
 ||betberrysip.com^
 ||betberrysky.com^
+||betberryslot.com^
 ||betberrysquad.com^
 ||betberrystart.com^
 ||betberrythebest.com^
@@ -1641907,6 +1641990,7 @@
 ||beth.bethannejackson.com^
 ||bethany-hospice.com^
 ||bethany-mota.com^
+||bethany-thomas.com^
 ||bethany-web.com^
 ||bethanybb.com^
 ||bethanybella.com^
@@ -1662273,6 +1662357,7 @@
 ||bimabet-fusion.com^
 ||bimabet-g9.com^
 ||bimabet-gacor.com^
+||bimabet-gaming.com^
 ||bimabet-gg.com^
 ||bimabet-ggl.com^
 ||bimabet-halfdan.com^
@@ -1844579,59 +1844664,3 @@
 ||sportandcash.blogspot.com^
 ||sportarticlesnusantara.blogspot.com^
 ||sportation99.blogspot.com^
-||sportbabespornvideos.blogspot.com^
-||sportbetting328.blogspot.com^
-||sportbokterbaik.blogspot.com^
-||sportbook206.blogspot.com^
-||sportbook815terpercaya.blogspot.com^
-||sportbookgameonline.blogspot.com^
-||sportbookgaming.blogspot.com^
-||sportbookmalaysia.blogspot.com^
-||sportbookonlineindonesia.blogspot.com^
-||sportbookpialabolaasia.blogspot.com^
-||sportbookpialadunia.blogspot.com^
-||sportbookterpercaya.blogspot.com^
-||sportcanduqq.blogspot.com^
-||sportcars388.blogspot.com^
-||sportcasino77.blogspot.com^
-||sportcasino88.blogspot.com^
-||sportduniaunik.blogspot.com^
-||sporthondaqq.blogspot.com^
-||sportibetting.blogspot.com^
-||sportilmu.blogspot.com^
-||sportivdick.blogspot.com^
-||sportivenestles.blogspot.com^
-||sportjokergaming.blogspot.com^
-||sportjudibola.blogspot.com^
-||sportlazabet.blogspot.com^
-||sportmaxmpo.blogspot.com^
-||sportmedan.blogspot.com^
-||sportnews303.blogspot.com^
-||sportoriginalmurah.blogspot.com^
-||sports-808.blogspot.com^
-||sports-betting-bookie.blogspot.com^
-||sports-gambling-agents.blogspot.com^
-||sports-newberita-idolacash.blogspot.com^
-||sports-w88.blogspot.com^
-||sports3699.blogspot.com^
-||sports4quarter.blogspot.com^
-||sportsahabat303.blogspot.com^
-||sportsbetting2021.blogspot.com^
-||sportsbettingbybobet.blogspot.com^
-||sportsbettingdafaviet888.blogspot.com^
-||sportsbobets.blogspot.com^
-||sportsbook-slots.blogspot.com^
-||sportsbook-terpercaya.blogspot.com^
-||sportsbookasia.blogspot.com^
-||sportsbookasia77.blogspot.com^
-||sportsbooklivecasino88.blogspot.com^
-||sportsbookscore.blogspot.com^
-||sportsbookterbaru.blogspot.com^
-||sportsclub8.blogspot.com^
-||sportscrown303.blogspot.com^
-||sportsdesk01.blogspot.com^
-||sportsehati.blogspot.com^
-||sportsfreelivesdirectlink1.blogspot.com^
-||sportsfreelivestv3.blogspot.com^
-||sportsfreelivestvtvtvtv.blogspot.com^
-||sportsgays.blogspot.com^
