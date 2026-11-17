@@ -1,7 +1,8 @@
 ! Title: Trust Positif Kominfo part 06 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111710
+! Serial: 26111711
 ! Part: 06/06
+||bandungtoto-togel-login.mygroundbiz.us^
 ||bayarjitu.mygroundbiz.us^
 ||bencong-togel.mygroundbiz.us^
 ||bensu4d-togel.mygroundbiz.us^
@@ -708867,6 +708868,7 @@
 ||slotbesarcut.xyz^
 ||slotbesarcutrtp.xyz^
 ||slotbesardaya.xyz^
+||slotbesarfull.xyz^
 ||slotbesargatot.xyz^
 ||slotbesargaya.xyz^
 ||slotbesargol.xyz^

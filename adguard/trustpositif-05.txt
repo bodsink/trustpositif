@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111710
+! Serial: 26111711
 ! Part: 05/06
 ||sexwebcam-pagina.startspot.nl^
 ||sexwebcam-vrouwen.startspot.nl^
@@ -1217833,6 +1217833,7 @@
 ||dewakakek77-star.site^
 ||dewakakek77-terpercaya.site^
 ||dewakakek77-trusted.site^
+||dewakakek77-uhuy.site^
 ||dewakakek77-web.site^
 ||dewakakek77-white.site^
 ||dewakakek77-win.site^
@@ -2022629,4 +2022630,3 @@
 ||bandar-togel-togelup.mygroundbiz.us^
 ||bandar36-login.mygroundbiz.us^
 ||bandarslot88.mygroundbiz.us^
-||bandungtoto-togel-login.mygroundbiz.us^

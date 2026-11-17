@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111710
+! Serial: 26111711
 ! Part: 02/06
 ||sportbokterbaik.blogspot.com^
 ||sportbook206.blogspot.com^
@@ -277236,6 +277236,7 @@
 ||datatogel888.com^
 ||datatogelamp-404.com^
 ||datatogelbet.com^
+||datatogelboss.com^
 ||datatogelbro.com^
 ||datatogelcorp-amp.com^
 ||datatogeler.com^
