@@ -1,7 +1,12 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111802
+! Serial: 26111803
 ! Part: 04/06
+||pesona369.my.id^
+||pesonabett77.my.id^
+||pesonaslotter.my.id^
+||pestahadiahshopee.my.id^
+||petir166gacor.my.id^
 ||petir166petir166.my.id^
 ||petir166petir166pg.my.id^
 ||petir166petir166vip.my.id^
@@ -1755657,9 +1755662,3 @@
 ||sexzin.nl^
 ||sexzine.nl^
 ||sexzoek.nl^
-||sexzoeken.nl^
-||sexzoeker.nl^
-||sexzoekertjes.nl^
-||sexzoekmachine.nl^
-||sexzondergrenzen.nl^
-||sexzone.nl^

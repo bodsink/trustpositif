@@ -1,7 +1,11 @@
 ! Title: Trust Positif Kominfo part 06 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111802
+! Serial: 26111803
 ! Part: 06/06
+||nomor-0887-kartu-apa.jordans5.us^
+||nomor-cina.jordans5.us^
+||nomor-hp-10-menit.jordans5.us^
+||nomor-jatuh-kamboja.jordans5.us^
 ||nomor-kalajengking-4d.jordans5.us^
 ||nomor-kampleng.jordans5.us^
 ||nomor-orang-sakit-togel.jordans5.us^

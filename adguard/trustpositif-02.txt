@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111802
+! Serial: 26111803
 ! Part: 02/06
 ||slotuntungbanyak123.blogspot.com^
 ||slotuntungdua.blogspot.com^
@@ -16956,6 +16956,7 @@
 ||viralskandal.blogspot.com^
 ||viralskandal18.blogspot.com^
 ||viralskandal62.blogspot.com^
+||viralskandalblog.blogspot.com^
 ||viralskandalindo.blogspot.com^
 ||viralsks.blogspot.com^
 ||viralslotgacor.blogspot.com^
@@ -1861106,4 +1861107,3 @@
 ||angkasajptop101042.schlepzig.com^
 ||angkasajptop101043.schlepzig.com^
 ||angkasajptop101044.schlepzig.com^
-||angkasajptop101045.schlepzig.com^

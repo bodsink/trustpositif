@@ -1,7 +1,8 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111802
+! Serial: 26111803
 ! Part: 03/06
+||angkasajptop101045.schlepzig.com^
 ||angkasajptop101046.schlepzig.com^
 ||angkasajptop101047.schlepzig.com^
 ||angkasajptop101048.schlepzig.com^
@@ -867906,6 +867907,7 @@
 ||infositusjudi.wordpress.com^
 ||infositusjudiindonesia.wordpress.com^
 ||infositusjudiqq.wordpress.com^
+||infoskandalprostitusionline3september2026.wordpress.com^
 ||infoslot9.wordpress.com^
 ||infoslotgacor188.wordpress.com^
 ||infoslotgacorid.wordpress.com^
@@ -944410,6 +944412,7 @@
 ||yurika-endo.com^
 ||yurilove.com^
 ||yuriluv.com^
+||yurinime.com^
 ||yurinokikai-fukusi.com^
 ||yurionfes.com^
 ||yuriroom.com^
@@ -1741316,8 +1741319,3 @@
 ||pesgslt1.my.id^
 ||pesgslt2.my.id^
 ||pesgslt3.my.id^
-||pesona369.my.id^
-||pesonabett77.my.id^
-||pesonaslotter.my.id^
-||pestahadiahshopee.my.id^
-||petir166gacor.my.id^

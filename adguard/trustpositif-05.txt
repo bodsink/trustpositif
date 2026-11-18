@@ -1,7 +1,13 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111802
+! Serial: 26111803
 ! Part: 05/06
+||sexzoeken.nl^
+||sexzoeker.nl^
+||sexzoekertjes.nl^
+||sexzoekmachine.nl^
+||sexzondergrenzen.nl^
+||sexzone.nl^
 ||sexzsite.nl^
 ||dokterkink.sexzsite.nl^
 ||sexzwanger.nl^
@@ -846103,6 +846109,7 @@
 ||tv-yaweme.rest^
 ||1rx4c70b.tv-yaweme.rest^
 ||tvlayarskorlink.rest^
+||media2.twimg.rest^
 ||twitspin.rest^
 ||twitspin-win.rest^
 ||twitspinjp.rest^
@@ -2021532,7 +2021539,3 @@
 ||nobartv-gratis.jordans5.us^
 ||nokia-3300-classic.jordans5.us^
 ||nomer-togel-40.jordans5.us^
-||nomor-0887-kartu-apa.jordans5.us^
-||nomor-cina.jordans5.us^
-||nomor-hp-10-menit.jordans5.us^
-||nomor-jatuh-kamboja.jordans5.us^
