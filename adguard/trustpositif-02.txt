@@ -1,7 +1,36 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26111901
+! Serial: 26111904
 ! Part: 02/06
+||slotjokergamingrasi180.blogspot.com^
+||slotjokergamingrasi181.blogspot.com^
+||slotjokergamingrasi182.blogspot.com^
+||slotjokergamingrasi183.blogspot.com^
+||slotjokergamingrasi184.blogspot.com^
+||slotjokergamingrasi185.blogspot.com^
+||slotjokergamingrasi186.blogspot.com^
+||slotjokergamingrasi187.blogspot.com^
+||slotjokergamingrasi188.blogspot.com^
+||slotjokergamingrasi189.blogspot.com^
+||slotjokergamingrasi19.blogspot.com^
+||slotjokergamingrasi190.blogspot.com^
+||slotjokergamingrasi191.blogspot.com^
+||slotjokergamingrasi192.blogspot.com^
+||slotjokergamingrasi193.blogspot.com^
+||slotjokergamingrasi194.blogspot.com^
+||slotjokergamingrasi195.blogspot.com^
+||slotjokergamingrasi196.blogspot.com^
+||slotjokergamingrasi197.blogspot.com^
+||slotjokergamingrasi198.blogspot.com^
+||slotjokergamingrasi199.blogspot.com^
+||slotjokergamingrasi20.blogspot.com^
+||slotjokergamingrasi21.blogspot.com^
+||slotjokergamingrasi22.blogspot.com^
+||slotjokergamingrasi23.blogspot.com^
+||slotjokergamingrasi24.blogspot.com^
+||slotjokergamingrasi25.blogspot.com^
+||slotjokergamingrasi26.blogspot.com^
+||slotjokergamingrasi27.blogspot.com^
 ||slotjokergamingrasi28.blogspot.com^
 ||slotjokergamingrasi29.blogspot.com^
 ||slotjokergamingrasi30.blogspot.com^
@@ -33760,6 +33789,7 @@
 ||bmwyes4d.com^
 ||bmwyng.com^
 ||bmwz3coupe.com^
+||bmx-asia2025.com^
 ||bmx-king.com^
 ||bmx4d.com^
 ||bmx4d-jp.com^
@@ -50317,6 +50347,7 @@
 ||bolahitjalan.com^
 ||bolahitjaya.com^
 ||bolahitjerman.com^
+||bolahitjitu.com^
 ||bolahitjiwoo.com^
 ||bolahitkane.com^
 ||bolahitkaya.com^
@@ -58005,6 +58036,7 @@
 ||bonusnewmember100persenslot.com^
 ||bonusnewmember100persentorendah.com^
 ||bonusnewmember100slotgametokecil.com^
+||bonusnewmemberdidepan.com^
 ||bonusnewmemberiblbet.com^
 ||bonusnewmemberslot.com^
 ||bonusnewmemberterbesar.com^
@@ -64198,6 +64230,7 @@
 ||bosjoko-amp92.com^
 ||bosjoko-amp94.com^
 ||bosjoko-amp95.com^
+||bosjoko-amp98.com^
 ||bosjoko-amp99.com^
 ||bosjoko-vip.com^
 ||bosjoko0253.com^
@@ -64297,6 +64330,7 @@
 ||bosjoko81244.com^
 ||bosjoko81254.com^
 ||bosjoko81256.com^
+||bosjoko81291.com^
 ||bosjoko81456.com^
 ||bosjoko81466.com^
 ||bosjoko81511.com^
@@ -80210,6 +80244,7 @@
 ||test.broadage.com^
 ||broadalbinhotel.com^
 ||broadappetit.com^
+||broadaxedental.com^
 ||broadaxetavern.com^
 ||broadband-adult.com^
 ||broadband-adult-tv.com^
@@ -130185,6 +130220,7 @@
 ||carolkuykendall.com^
 ||carollaradio.com^
 ||carolleclerc.com^
+||carolleecooper.com^
 ||carollsushi.com^
 ||carollynchwilliams.com^
 ||carolmagalhaes.com^
@@ -161058,6 +161094,7 @@
 ||checkgrannyporn.com^
 ||checkhbuffet.com^
 ||checkhentai.com^
+||checkhostname.com^
 ||checki4d.com^
 ||checkinboyabet88.com^
 ||checkinbrno.com^
@@ -195810,6 +195847,7 @@
 ||citawin-amp89.com^
 ||citawin-amp91.com^
 ||citawin-amp94.com^
+||citawin-amp97.com^
 ||citawin30055.com^
 ||citawin30124.com^
 ||citawin30609.com^
@@ -197394,6 +197432,7 @@
 ||ck789abc123.com^
 ||ck789abc234.com^
 ||ck789abc345.com^
+||ck789rt7.com^
 ||ck789sg8.com^
 ||ck846.com^
 ||cka303.com^
@@ -272655,6 +272694,7 @@
 ||dalangkasih.com^
 ||dalangkeren88.com^
 ||dalangkubebas.com^
+||dalangkucinta.com^
 ||dalangkujagoan.com^
 ||dalangkujaya.com^
 ||dalangkujos.com^
@@ -275057,6 +275097,7 @@
 ||dana87126.com^
 ||dana87133.com^
 ||dana87142.com^
+||dana87213.com^
 ||dana87355.com^
 ||dana87364.com^
 ||dana87410.com^
@@ -288287,6 +288328,7 @@
 ||hut.de.com^
 ||donate.huwawe.de.com^
 ||travel.huwawe.de.com^
+||amp.ibet44.de.com^
 ||iblbethoki.de.com^
 ||idamantoto.de.com^
 ||idcash88.de.com^
@@ -288367,6 +288409,7 @@
 ||naek.lpbh.de.com^
 ||lpo88.de.com^
 ||mabosplaygame.de.com^
+||maboswayone.de.com^
 ||maboswaysite.de.com^
 ||maboswaytop.de.com^
 ||bandot.macau.de.com^
@@ -297147,6 +297190,7 @@
 ||depo168semesta.com^
 ||depo168seru.com^
 ||depo168site.com^
+||id.depo168site.com^
 ||depo168slot.com^
 ||depo168spin.com^
 ||depo168start.com^
@@ -297438,6 +297482,7 @@
 ||depobos-amp49.com^
 ||depobos-amp50.com^
 ||depobos-amp52.com^
+||depobos-amp58.com^
 ||depobos-amp59.com^
 ||depobos-amp60.com^
 ||depobos-amp66.com^
@@ -298248,6 +298293,7 @@
 ||depowingslot168.com^
 ||depowow388.com^
 ||depoxito.com^
+||depoxito-play.com^
 ||depoxito1.com^
 ||depoxito17.com^
 ||depoxito2.com^
@@ -298341,6 +298387,7 @@
 ||depoxitosite.com^
 ||depoxitoslots.com^
 ||depoxitospin.com^
+||depoxitoss.com^
 ||depoxitostart.com^
 ||depoxitostrong.com^
 ||depoxitosuper.com^
@@ -304463,6 +304510,7 @@
 ||dewa88nih.com^
 ||dewa88ok.com^
 ||dewa88one.com^
+||dewa88play.com^
 ||dewa88poker.com^
 ||dewa88pro.com^
 ||dewa88resmi.com^
@@ -320541,6 +320589,7 @@
 ||dingdongtogel-amp87.com^
 ||dingdongtogel-amp91.com^
 ||dingdongtogel-amp94.com^
+||dingdongtogel-amp97.com^
 ||dingdongtogel-vip.com^
 ||dingdongtogel007.com^
 ||dingdongtogel0071.com^
@@ -378099,6 +378148,7 @@
 ||drugrehabspanaway.com^
 ||drugrehabsteamboatsprings.com^
 ||drug-rehab.drugrehabsummitpark.com^
+||drugrehabtemplecity.com^
 ||drugrehabwaco.com^
 ||dayak77-drugrehabwaco.drugrehabwaco.com^
 ||newcomb.drugrehabwinchester.com^
@@ -420167,6 +420217,7 @@
 ||emakbet-come.com^
 ||emakbet-official.com^
 ||emakbet-strike.com^
+||emakbet12.com^
 ||emakbetdatang.com^
 ||emakbetdisini.com^
 ||emakbetoye.com^
@@ -421593,6 +421644,7 @@
 ||leveltigabelas.emaskitawangi.com^
 ||leveltigapuluh.emaskitawangi.com^
 ||leveltigapuluhdua.emaskitawangi.com^
+||leveltigapuluhempat.emaskitawangi.com^
 ||leveltigapuluhsatu.emaskitawangi.com^
 ||leveltigapuluhtiga.emaskitawangi.com^
 ||leveltujuh.emaskitawangi.com^
@@ -421721,6 +421773,7 @@
 ||emaswangiasli.com^
 ||emaswangibebas.com^
 ||emaswangidahsyat.com^
+||emaswangigrup.com^
 ||emaswangiheng.com^
 ||emaswangihome.com^
 ||emaswangihuat.com^
@@ -431023,6 +431076,7 @@
 ||eropa999.com^
 ||eropa99bang.com^
 ||access.eropa99bang.com^
+||eropa99bowl.com^
 ||eropa99bray.com^
 ||eropa99bro.com^
 ||eropa99fyp.com^
@@ -440845,6 +440899,7 @@
 ||defy.eu.com^
 ||denizensdad.eu.com^
 ||dentalimplants.eu.com^
+||depo168.eu.com^
 ||depoxito.eu.com^
 ||der.eu.com^
 ||desilva.eu.com^
@@ -441118,6 +441173,7 @@
 ||lwe.eu.com^
 ||lyrics.eu.com^
 ||mabosplay-co.eu.com^
+||mabosway.eu.com^
 ||maboswayhot.eu.com^
 ||maboswayku.eu.com^
 ||maboswayonline.eu.com^
@@ -441279,6 +441335,7 @@
 ||pulsaindosat.eu.com^
 ||pulsatri.eu.com^
 ||purislot.purislot.eu.com^
+||simple.purislot.eu.com^
 ||qq88bet.eu.com^
 ||quicknode.eu.com^
 ||r2b.eu.com^
@@ -441461,6 +441518,7 @@
 ||usamet.eu.com^
 ||usergacorid.eu.com^
 ||userimport.eu.com^
+||userslot.eu.com^
 ||utorren-t.eu.com^
 ||uz-vezemo.eu.com^
 ||valkyrieprofile2.eu.com^
@@ -456235,6 +456293,7 @@
 ||ezebet-official.com^
 ||ezebet88.com^
 ||ezebet9.com^
+||ezebetcom.com^
 ||platform.ezebetcom.com^
 ||ezebetgaming.com^
 ||ezebetvip.com^
@@ -466711,6 +466770,7 @@
 ||fatcai80660.com^
 ||fatcai80725.com^
 ||fatcai80801.com^
+||fatcai80808.com^
 ||fatcai80845.com^
 ||fatcai80901.com^
 ||fatcai80912.com^
@@ -489514,6 +489574,7 @@
 ||fia72914.com^
 ||fia73508.com^
 ||fia74629.com^
+||fia75014.com^
 ||fia76192.com^
 ||fia76568.com^
 ||fia76722.com^
@@ -583078,6 +583139,7 @@
 ||gengtoto92.com^
 ||gengtoto922.com^
 ||gengtoto929.com^
+||gengtoto93.com^
 ||gengtoto939.com^
 ||gengtoto949.com^
 ||gengtoto956.com^
@@ -605511,6 +605573,7 @@
 ||glowin88seger.com^
 ||glowin88silver.com^
 ||glowin88sip.com^
+||glowin88site.com^
 ||glowin88slot.com^
 ||glowin88slots.com^
 ||glowin88social.com^
@@ -617594,6 +617657,7 @@
 ||goodday69.com^
 ||gooddaybingo.com^
 ||gooddaydonuts.com^
+||gooddayfun.com^
 ||gooddaymilyaranhadiah.com^
 ||gooddaypasta.com^
 ||gooddayreverse.com^
@@ -624676,6 +624740,7 @@
 ||grandbet88mini.com^
 ||grandbet88new.com^
 ||grandbet88nolimit.com^
+||grandbet88ntt.com^
 ||grandbet88online.com^
 ||grandbet88onthenews.com^
 ||grandbet88ontherocks.com^
@@ -631048,6 +631113,7 @@
 ||justice.growthpointlaw.com^
 ||growthscience.com^
 ||growthunlimitedpreschool.com^
+||growthxcashflowwithsupra.com^
 ||growtogather.com^
 ||growupyourbiz.com^
 ||growwisehealth.com^
@@ -647379,6 +647445,7 @@
 ||hamropalo.com^
 ||hamroprajashakti.com^
 ||hamrosuchana.com^
+||hamrovoicetech.com^
 ||hamrunscouts.com^
 ||appspot.hamsabaghdad.com^
 ||hamsabkiaawaz.com^
@@ -649938,6 +650005,7 @@
 ||putih.hao788-pit.com^
 ||robot.hao788-pit.com^
 ||situasi.hao788-pit.com^
+||venus.hao788-pit.com^
 ||wangi.hao788-pit.com^
 ||hao788a.com^
 ||hao788aa.com^
@@ -708501,6 +708569,7 @@
 ||hikaribet-vip.com^
 ||hikaribet-vvip.com^
 ||hikaribet-win.com^
+||hikaribet3.com^
 ||hikaribet5.com^
 ||hikaribet88.com^
 ||hikaribetiu.com^
@@ -717841,6 +717910,7 @@
 ||hobi188gas.com^
 ||hobi188gcr.com^
 ||hobi188gg.com^
+||hobi188gift.com^
 ||hobi188go.com^
 ||hobi188gogo.com^
 ||hobi188gol.com^
@@ -719184,6 +719254,7 @@
 ||hoki101.com^
 ||hoki101-asli.com^
 ||hoki108.com^
+||web.hoki108-tori.com^
 ||hoki108a.com^
 ||hoki108b.com^
 ||hoki108demo.com^
@@ -723086,6 +723157,7 @@
 ||hokijitu33710.com^
 ||hokijitu33803.com^
 ||hokijitu34638.com^
+||hokijitu34656.com^
 ||hokijitu35810.com^
 ||hokijitu36981.com^
 ||hokijitu37278.com^
@@ -774587,6 +774659,7 @@
 ||houseof-hazards.com^
 ||houseof69.com^
 ||houseof7sins.com^
+||royalslot.houseofagapela.com^
 ||houseofallporn.com^
 ||houseofanal.com^
 ||houseofangell.com^
@@ -827227,6 +827300,7 @@
 ||ikontotobisa.com^
 ||ikontotocloud.com^
 ||ikontotodaftar.com^
+||ikontotoevent.com^
 ||ikontotohoki.com^
 ||ikontotolink.com^
 ||ikontotomacau.com^
@@ -829834,7 +829908,9 @@
 ||imbajp-yun.com^
 ||imbajp-zip.com^
 ||imbajp-zotei.com^
+||imbajp0.com^
 ||imbajp1.com^
+||imbajp11.com^
 ||imbajp2.com^
 ||imbajp3.com^
 ||imbajp4.com^
@@ -829843,8 +829919,11 @@
 ||imbajpalt.com^
 ||imbajpamp1.com^
 ||imbajpbet.com^
+||imbajpcom.com^
 ||imbajpe.com^
 ||imbajpee.com^
+||imbajpft.com^
+||imbajpi.com^
 ||imbajppp.com^
 ||imbajpwin.com^
 ||imbajpx.com^
@@ -848572,6 +848651,7 @@
 ||link8.inilexus.com^
 ||link9.inilexus.com^
 ||mkt.inilexus.com^
+||inilgolux.com^
 ||iniliga.com^
 ||iniliga365.com^
 ||iniliga365ku.com^
@@ -854685,12 +854765,16 @@
 ||interwin.com^
 ||link.interwin-bio.com^
 ||interwin-dota.com^
+||login.interwin-dua.com^
 ||akses.interwin-dunia.com^
+||bandar.interwin-go.com^
 ||real.interwin-jaya.com^
 ||digital.interwin-juara.com^
 ||inget.interwin-king.com^
 ||interwin-login.com^
+||pusat.interwin-mezzo.com^
 ||interwin-official.com^
+||link.interwin-saya.com^
 ||close.interwin-usb.com^
 ||open.interwin-usb.com^
 ||interwin012.com^
@@ -856474,7 +856558,9 @@
 ||iosbetmars.com^
 ||iosbetmoon.com^
 ||iosbetnorth.com^
+||iosbetofficial.com^
 ||iosbetoxford.com^
+||iosbetparty.com^
 ||iosbetpetir.com^
 ||iosbetplay.com^
 ||iosbetplus.com^
@@ -857934,6 +858020,7 @@
 ||ipototodara.com^
 ||ipototoder.com^
 ||ipototodev.com^
+||ipototoelite.com^
 ||ipototofire.com^
 ||ipototofun.com^
 ||ipototogacor.com^
@@ -876234,6 +876321,7 @@
 ||damriword.it.com^
 ||dana100juara.it.com^
 ||dana100top.it.com^
+||dana69.it.com^
 ||danajoker.it.com^
 ||danaliga.it.com^
 ||danantaraindonesia.it.com^
@@ -876297,6 +876385,7 @@
 ||depopajerototo.it.com^
 ||depopulsa.it.com^
 ||deposlotqris.it.com^
+||depoxito.it.com^
 ||dermagawin.it.com^
 ||desa-wawasan.it.com^
 ||amp.desa4dmakmur.it.com^
@@ -880515,6 +880604,7 @@
 ||rekor777.it.com^
 ||relaxtoto.it.com^
 ||remixasia.it.com^
+||remixgakure.it.com^
 ||remixtoto85.it.com^
 ||renaikinshi388.it.com^
 ||resmi55toto.it.com^
@@ -881812,6 +881902,7 @@
 ||toko79.it.com^
 ||tokobungasensen.it.com^
 ||tokocuan168.it.com^
+||tokogaming.it.com^
 ||tokonet303.it.com^
 ||tokosiwa.it.com^
 ||tokosuper805.it.com^
@@ -882171,6 +882262,7 @@
 ||usahatoto-toto5.it.com^
 ||usebootstrap.it.com^
 ||usergacorid.it.com^
+||daftar.userslot.it.com^
 ||usul-bet.it.com^
 ||usulbet.it.com^
 ||usulbet1.it.com^
@@ -892517,6 +892609,7 @@
 ||jagoledak-bc.com^
 ||jagoledak-kp.com^
 ||jagoledak-lq.com^
+||jagoledak-nc.com^
 ||jagoledak-pit.com^
 ||ada.jagoledak-pit.com^
 ||apakah.jagoledak-pit.com^
@@ -939257,6 +939350,7 @@
 ||jktjkt75.com^
 ||jktjkt8.com^
 ||jktjkt9.com^
+||jktjktag.com^
 ||jktjktapp.com^
 ||jktjktcom.com^
 ||jktjktdownload.com^
@@ -952902,6 +952996,9 @@
 ||jpmania61.jpmania-masuk.com^
 ||jpmania62.jpmania-masuk.com^
 ||jpmania63.jpmania-masuk.com^
+||jpmania66.jpmania-masuk.com^
+||jpmania67.jpmania-masuk.com^
+||jpmania68.jpmania-masuk.com^
 ||jpmania7.jpmania-masuk.com^
 ||jpmania8.jpmania-masuk.com^
 ||jpmania9.jpmania-masuk.com^
@@ -958400,6 +958497,7 @@
 ||juara8871359.com^
 ||juara88723.com^
 ||juara8873914.com^
+||juara8874583.com^
 ||juara8875036.com^
 ||juara8876801.com^
 ||juara8877204.com^
@@ -981746,6 +981844,7 @@
 ||akun-pro-malaysia.kampunginggrissolo.com^
 ||akun-pro-platinum.kampunginggrissolo.com^
 ||akun-pro-thailand.kampunginggrissolo.com^
+||kampunginspirasi.com^
 ||kampungit.com^
 ||kampungjackpot.com^
 ||kampungjag77.com^
@@ -1037205,6 +1037304,7 @@
 ||km716.com^
 ||km758.com^
 ||km7710.com^
+||km7713.com^
 ||km772.com^
 ||km7721.com^
 ||km772a.com^
@@ -1041402,6 +1041502,7 @@
 ||dana.koin138-siap.com^
 ||deposit.koin138-siap.com^
 ||wallet.koin138-siap.com^
+||withdraw.koin138-siap.com^
 ||koin138-up.com^
 ||koin1386.com^
 ||koin138cuan.com^
@@ -1043604,6 +1043705,7 @@
 ||kokoromaidstone.com^
 ||kokoronotomo.com^
 ||kokorostatecollege.com^
+||kokorotunaguippai.com^
 ||kokorowish.com^
 ||kokos188.com^
 ||kokosaldo4d.com^
@@ -1056042,6 +1056144,7 @@
 ||kpkfoto.com^
 ||kpkfox.com^
 ||kpkfree.com^
+||kpkfrk.com^
 ||kpkfunds.com^
 ||kpkg1.com^
 ||kpkganteng.com^
@@ -1058520,6 +1058623,7 @@
 ||ks88slot.com^
 ||wkx19s601rpmgpa.ks9827.com^
 ||zrthqtrcorbsff.ks9827.com^
+||ks99.com^
 ||ks99app.com^
 ||ks99sports.com^
 ||ksa-employers.com^
@@ -1068312,6 +1068416,7 @@
 ||la81636.com^
 ||la81690.com^
 ||la81735.com^
+||la81784.com^
 ||la81785.com^
 ||la81801.com^
 ||la82522.com^
@@ -1079533,6 +1079638,7 @@
 ||lapak86456.com^
 ||lapak87473.com^
 ||lapak87687.com^
+||lapak87952.com^
 ||lapak88.com^
 ||lapak88495.com^
 ||lapak88504.com^
@@ -1079579,6 +1079685,7 @@
 ||lapak99-amp87.com^
 ||lapak99-amp91.com^
 ||lapak99-amp94.com^
+||lapak99-amp95.com^
 ||lapak99-amp97.com^
 ||lapak9972519.com^
 ||lapak9974198.com^
@@ -1110821,6 +1110928,7 @@
 ||lgoluxbee.com^
 ||lgoluxbet.com^
 ||lgoluxbv.com^
+||lgoluxc.com^
 ||lgoluxcaps.com^
 ||lgoluxchain.com^
 ||lgoluxcorn.com^
@@ -1114494,6 +1114602,7 @@
 ||ligabandot76043.com^
 ||ligabandot76253.com^
 ||ligabandot78032.com^
+||ligabandot78416.com^
 ||ligabandot79341.com^
 ||ligabandot79654.com^
 ||ligabandot80660.com^
@@ -1120162,6 +1120271,7 @@
 ||linetgl888.com^
 ||linetgllogin.com^
 ||linetogel.com^
+||linetogel-amp100.com^
 ||linetogel-amp21.com^
 ||linetogel-amp29.com^
 ||linetogel-amp33.com^
@@ -1124197,6 +1124307,7 @@
 ||linkemasperak88a.com^
 ||linkemo78.com^
 ||ganteng.linkemosi.com^
+||test.linkemosi.com^
 ||linkempu138.com^
 ||linken001.com^
 ||linken1.com^
@@ -1130788,6 +1130899,7 @@
 ||lisatoto09.com^
 ||lisatotoapk.com^
 ||lisatotogg.com^
+||lisatotojogja.com^
 ||portal.lisatotojogja.com^
 ||lisatotomedan.com^
 ||lisatotopapua.com^
@@ -1151347,6 +1151459,7 @@
 ||lokethoki10.com^
 ||lokethoki11.com^
 ||lokethoki12.com^
+||lokethoki13.com^
 ||lokethokijp.com^
 ||lokethokinew.com^
 ||lokethokipro02.com^
@@ -1165264,6 +1165377,7 @@
 ||lucubetmantap.com^
 ||lucubetoke.com^
 ||lucubetoke1.com^
+||lucubetwak.com^
 ||lucubetyes.com^
 ||lucubetyes1.com^
 ||lucudisgo.com^
@@ -1166665,6 +1166779,7 @@
 ||luna34200.com^
 ||luna34220.com^
 ||luna34225.com^
+||luna34239.com^
 ||luna34256.com^
 ||luna34279.com^
 ||luna34310.com^
@@ -1175645,6 +1175760,7 @@
 ||maboswayonline.com^
 ||maboswayplay.com^
 ||maboswayplayer.com^
+||maboswayportal.com^
 ||maboswaypragmatic.com^
 ||maboswaypro.com^
 ||maboswayregister.com^
@@ -1208605,6 +1208721,7 @@
 ||mancingduit81398.com^
 ||mancingduit81460.com^
 ||mancingduit81511.com^
+||mancingduit81514.com^
 ||mancingduit81536.com^
 ||mancingduit81556.com^
 ||mancingduit81690.com^
@@ -1221561,6 +1221678,7 @@
 ||jagoanmaxwin.marettotohope.com^
 ||marettotoku.com^
 ||marettotomoon.com^
+||marettotosaiko.com^
 ||marettotosenang.com^
 ||marettotoviral.com^
 ||marettotowap.com^
@@ -1221662,6 +1221780,7 @@
 ||margiesdiner.com^
 ||margiesdreamdiner.com^
 ||margiessoulfood.com^
+||margin77jpofficial.com^
 ||marginalpork.com^
 ||marginalray.com^
 ||meat.marginedge.com^
@@ -1222132,6 +1222251,7 @@
 ||maria83672.com^
 ||maria83676.com^
 ||maria83697.com^
+||maria83723.com^
 ||maria83754.com^
 ||maria83888.com^
 ||maria83900.com^
@@ -1227285,6 +1227405,7 @@
 ||markaswd-amp1.com^
 ||markaswd-amp2.com^
 ||markaswd-amp20.com^
+||markaswd-amp24.com^
 ||markaswd-amp26.com^
 ||markaswd-amp29.com^
 ||markaswd-amp3.com^
@@ -1227345,6 +1227466,7 @@
 ||markaswd82410.com^
 ||markaswd83329.com^
 ||markaswd84059.com^
+||markaswd85127.com^
 ||markaswd87364.com^
 ||markaswd926.com^
 ||markasweb.com^
@@ -1245438,6 +1245560,7 @@
 ||mayor003.com^
 ||mayor004.com^
 ||mayor005.com^
+||mayor099.com^
 ||mayor1.com^
 ||mayor168.com^
 ||mayor3.com^
@@ -1273832,6 +1273955,7 @@
 ||mesirtotofans.com^
 ||mesirtotogas.com^
 ||mesirtotohi.com^
+||mesirtotohp.com^
 ||mesirtotoidola.com^
 ||mesirtotoking.com^
 ||mesirtotoku.com^
@@ -1288433,6 +1288557,7 @@
 ||miopir.com^
 ||miopisang.com^
 ||miopisau.com^
+||miopiston.com^
 ||miopola.com^
 ||miopounds.com^
 ||mioprambanan.com^
@@ -1325659,6 +1325784,7 @@
 ||mpo500ltu.com^
 ||mpo500ltz.com^
 ||mpo500mega.com^
+||mpo500official1.com^
 ||mpo500online.com^
 ||mpo500plus.com^
 ||mpo500power.com^
@@ -1326358,6 +1326484,7 @@
 ||mpo777sakti.com^
 ||mpo777sea.com^
 ||mpo777selatan.com^
+||mpo777sensational.com^
 ||mpo777seven.com^
 ||mpo777six.com^
 ||mpo777slim.com^
@@ -1332302,6 +1332429,7 @@
 ||msislotgames.com^
 ||msislothappy.com^
 ||msislotnaik.com^
+||msislotresmi.com^
 ||msislotrtp.com^
 ||msislotvip.com^
 ||msituspoker88.com^
@@ -1355356,6 +1355484,7 @@
 ||myhealthturkey.com^
 ||myhealthworld.com^
 ||myhealthyhappierlife.com^
+||myhealthylifeuk.com^
 ||myhealthytraining.com^
 ||myheartjustforu.com^
 ||myheartlandkennels.com^
@@ -1371440,6 +1371569,7 @@
 ||nagawin13.com^
 ||nagawin137.com^
 ||nagawin138.com^
+||nagawin15.com^
 ||nagawin17.com^
 ||nagawin178.com^
 ||nagawin18.com^
@@ -1375872,6 +1376002,7 @@
 ||nanas85820.com^
 ||nanas85888.com^
 ||nanas85990.com^
+||nanas86682.com^
 ||nanas86697.com^
 ||nanas86744.com^
 ||nanas86754.com^
@@ -1376618,6 +1376749,7 @@
 ||naqlafshkw.com^
 ||naqlaleafshsa.com^
 ||naqltk.com^
+||naqoy.com^
 ||naquester.com^
 ||nar8282.com^
 ||nara-4d.com^
@@ -1397869,6 +1398001,7 @@
 ||nicolewood.com^
 ||nicoleyie.com^
 ||nicolicious.com^
+||tokek88.nicolinaholt.com^
 ||hothotsex.nicolinosbraball.com^
 ||nicolleclemetsonstudio.com^
 ||nicolletmallproject.com^
@@ -1410731,6 +1410864,7 @@
 ||ns2121link.com^
 ||ns2121login.com^
 ||ns2121lohan.com^
+||ns2121luck.com^
 ||ns2121maju.com^
 ||ns2121mania.com^
 ||ns2121mantap.com^
@@ -1424416,6 +1424550,7 @@
 ||occtos.com^
 ||occucon.com^
 ||occult-movie.com^
+||occultdigits.com^
 ||occultgems.com^
 ||occultmoon.com^
 ||occultmovies.com^
@@ -1441038,6 +1441173,7 @@
 ||on6tv.com^
 ||on707.com^
 ||on71365.com^
+||on71949.com^
 ||on72841.com^
 ||on73826.com^
 ||on73881.com^
@@ -1453322,6 +1453458,7 @@
 ||oppa32920.com^
 ||oppa32941.com^
 ||oppa32992.com^
+||oppa33011.com^
 ||oppa33041.com^
 ||oppa33148.com^
 ||oppa33164.com^
@@ -1459087,6 +1459224,7 @@
 ||oribetresmi1.com^
 ||oribetresmi3.com^
 ||oribetserang.com^
+||oribett.com^
 ||oribetvip.com^
 ||oribetwin.com^
 ||oricajewel.com^
@@ -1469914,6 +1470052,7 @@
 ||ovovegas01.com^
 ||ovovegas0101.com^
 ||ovovegas011.com^
+||ovovegas0115.com^
 ||ovovegas012.com^
 ||ovovegas0125.com^
 ||ovovegas0128.com^
@@ -1492490,6 +1492629,7 @@
 ||partai37278.com^
 ||partai37300.com^
 ||partai37445.com^
+||partai37622.com^
 ||partai37645.com^
 ||partai37785.com^
 ||partai37822.com^
@@ -1492525,6 +1492665,7 @@
 ||partai39666.com^
 ||partai39710.com^
 ||partai39723.com^
+||partai39872.com^
 ||partai40.com^
 ||partai408.com^
 ||partai45.com^
@@ -1499260,6 +1499401,7 @@
 ||patih83265.com^
 ||patih83300.com^
 ||patih83329.com^
+||patih83342.com^
 ||patih83357.com^
 ||patih83367.com^
 ||patih83401.com^
@@ -1500347,6 +1500489,7 @@
 ||mars88.paulropp.com^
 ||quepasa.paulropp.com^
 ||untung88-paten.paulropp.com^
+||paulroyse.com^
 ||paulryanwindows.com^
 ||pauls-pizza.com^
 ||pauls-porn.com^
@@ -1543484,6 +1543627,7 @@
 ||pisang169.com^
 ||pisang178eu.com^
 ||pisang178oc.com^
+||pisang178super.com^
 ||pisang189.com^
 ||pisang2020.com^
 ||pisang231.com^
@@ -1550588,6 +1550732,7 @@
 ||platinumindian.com^
 ||mahjong.platinumjayalogistic.com^
 ||platinumkari.com^
+||platinumking177.com^
 ||platinumktv.com^
 ||platinumlendingltd.com^
 ||platinummacau.com^
@@ -1552530,6 +1552675,7 @@
 ||playbiru.com^
 ||playbison.com^
 ||playbison-pl.com^
+||playbitbola.com^
 ||playbitcoingames.com^
 ||playbiy.com^
 ||playbk4d.com^
@@ -1559334,6 +1559480,7 @@
 ||pohonemas33ah.com^
 ||pohonemas33ai.com^
 ||pohonemas33asli.com^
+||pohonemas33bet.com^
 ||pohonemas33new.com^
 ||pohonemas33ofc.com^
 ||pohonemas33resmi.com^
@@ -1629815,6 +1629962,7 @@
 ||ten.ptrawindonesia.com^
 ||thirteen.ptrawindonesia.com^
 ||three.ptrawindonesia.com^
+||tiga.ptrawindonesia.com^
 ||twelve.ptrawindonesia.com^
 ||twenty.ptrawindonesia.com^
 ||twentyeight.ptrawindonesia.com^
@@ -1632678,6 +1632826,7 @@
 ||puli80412.com^
 ||puli80546.com^
 ||puli80561.com^
+||puli80588.com^
 ||puli80660.com^
 ||puli80725.com^
 ||puli80742.com^
@@ -1637559,6 +1637708,8 @@
 ||purislota.com^
 ||bbfstoto.purislotapk.com^
 ||purislotgames.com^
+||purislotjudislot.com^
+||purislotlink.com^
 ||purislotrtp.com^
 ||purislotslot.com^
 ||purislotvip.com^
@@ -1639308,6 +1639459,7 @@
 ||pusatmantis88.com^
 ||d4a9i1w04pt1l.pusatmarettoto.com^
 ||makswin8x.pusatmarettoto.com^
+||oifcnbw.pusatmarettoto.com^
 ||satelilit2x.pusatmarettoto.com^
 ||vv.pusatmarettoto.com^
 ||pusatmario.com^
@@ -1639642,6 +1639794,7 @@
 ||pusattogelmax.com^
 ||pusattogelmc.com^
 ||pusattogelqr.com^
+||pusattogelqris.com^
 ||pusattolg777.com^
 ||pusattop.com^
 ||pusattoto4d.com^
@@ -1643853,6 +1644006,7 @@
 ||pwvip4d70.com^
 ||pwvip4d71.com^
 ||pwvip4d72893.com^
+||pwvip4d73054.com^
 ||pwvip4d74065.com^
 ||pwvip4d75061.com^
 ||pwvip4d75480.com^
@@ -1643945,6 +1644099,7 @@
 ||613740.px25dk.com^
 ||px3.com^
 ||es.px3graphics.com^
+||px3kepa864bq.com^
 ||px606.com^
 ||px66887.com^
 ||px7-3.com^
@@ -1689834,6 +1689989,7 @@
 ||ratusapi7.com^
 ||ratusapi8.com^
 ||ratusapi9.com^
+||ratusapisg.com^
 ||ratusaudara.com^
 ||ratusawer.com^
 ||ratusawerevent.com^
@@ -1717840,6 +1717996,7 @@
 ||rexus88rtp.com^
 ||rexus88s.com^
 ||rexus88terbaru.com^
+||v6.rexus88v.com^
 ||rexus88x.com^
 ||rexus88z.com^
 ||rexusbet111.com^
@@ -1749933,6 +1750090,7 @@
 ||royalsichuandallas.com^
 ||royalsini.com^
 ||royalsirlancelot.com^
+||portal.royalslot-ambisi.com^
 ||royalslot-cook.com^
 ||primadona.royalslot-happy.com^
 ||free3.royalslot-senang.com^
@@ -1750762,6 +1750920,7 @@
 ||rp8888-max.com^
 ||rp8888-maxwin.com^
 ||rp8888-rtp.com^
+||loginz.rp8888-slots.com^
 ||rp8888-vip.com^
 ||rp8888-vvip.com^
 ||rp8888-web.com^
@@ -1751008,6 +1751167,7 @@
 ||rpok222.com^
 ||rpok234.com^
 ||rpok2win.com^
+||rpok33.com^
 ||rpok345.com^
 ||rpok43.com^
 ||rpok44.com^
@@ -1751075,6 +1751235,7 @@
 ||xskma.rponly.com^
 ||ybfm.rponly.com^
 ||rpopowersports.com^
+||rpor77.com^
 ||rporngeek.com^
 ||rporntube.com^
 ||rpowersource.com^
@@ -1820600,6 +1820761,8 @@
 ||mabosbet.ru.com^
 ||idn.mabosbet.ru.com^
 ||sbo.mabosbet.ru.com^
+||zane.mabosbet.ru.com^
+||maha168.ru.com^
 ||maillist.ru.com^
 ||mango.ru.com^
 ||mao.ru.com^
@@ -1821429,6 +1821592,7 @@
 ||ruangwd80164.com^
 ||ruangwd80192.com^
 ||ruangwd80215.com^
+||ruangwd80240.com^
 ||ruangwd80742.com^
 ||ruangwd81209.com^
 ||ruangwd82880.com^
@@ -1821440,6 +1821604,7 @@
 ||ruangwd8872548.com^
 ||ruangwd8874136.com^
 ||ruangwd8875024.com^
+||ruangwd8877520.com^
 ||ruangwd8878093.com^
 ||ruangwd8878649.com^
 ||ruangwd8879305.com^
@@ -1827030,6 +1827195,7 @@
 ||rupiahmeta.com^
 ||rupiahmewah.com^
 ||rupiahmez.com^
+||asik.rupiahmilan.com^
 ||karhutla.rupiahmilan.com^
 ||portal.rupiahmilan.com^
 ||rupiahmini.com^
@@ -1827768,6 +1827934,7 @@
 ||kemei.rusa33who.com^
 ||rusa33why.com^
 ||rusa33win.com^
+||rusa33yeah.com^
 ||rusa36.com^
 ||rusa43.com^
 ||rusa4d-official.com^
@@ -1853292,6 +1853459,7 @@
 ||satset138petir.com^
 ||satset138pilar.com^
 ||satset138play.com^
+||satset138premium.com^
 ||satset138q.com^
 ||satset138siap.com^
 ||satset138side.com^
@@ -1861847,112 +1862015,3 @@
 ||angkasajp-toto10148.schlepzig.com^
 ||angkasajp-toto10149.schlepzig.com^
 ||angkasajp-toto10150.schlepzig.com^
-||angkasajp-toto10151.schlepzig.com^
-||angkasajp-toto10152.schlepzig.com^
-||angkasajp-toto10153.schlepzig.com^
-||angkasajp-toto10154.schlepzig.com^
-||angkasajp-toto10155.schlepzig.com^
-||angkasajp-toto10156.schlepzig.com^
-||angkasajp-toto10157.schlepzig.com^
-||angkasajp-toto10158.schlepzig.com^
-||angkasajp-toto10159.schlepzig.com^
-||angkasajp-toto10160.schlepzig.com^
-||angkasajp-toto10161.schlepzig.com^
-||angkasajp-toto10162.schlepzig.com^
-||angkasajp-toto10163.schlepzig.com^
-||angkasajp-toto10164.schlepzig.com^
-||angkasajp-toto10165.schlepzig.com^
-||angkasajp-toto10166.schlepzig.com^
-||angkasajp-toto10167.schlepzig.com^
-||angkasajp-toto10168.schlepzig.com^
-||angkasajp-toto10169.schlepzig.com^
-||angkasajp-toto10170.schlepzig.com^
-||angkasajp-toto10171.schlepzig.com^
-||angkasajp-toto10172.schlepzig.com^
-||angkasajp-toto10173.schlepzig.com^
-||angkasajp-toto10174.schlepzig.com^
-||angkasajp-toto10175.schlepzig.com^
-||angkasajp-toto10176.schlepzig.com^
-||angkasajp-toto10177.schlepzig.com^
-||angkasajp-toto10178.schlepzig.com^
-||angkasajp-toto10179.schlepzig.com^
-||angkasajp-toto10180.schlepzig.com^
-||angkasajp-toto10181.schlepzig.com^
-||angkasajp-toto10182.schlepzig.com^
-||angkasajp-toto10183.schlepzig.com^
-||angkasajp-toto10184.schlepzig.com^
-||angkasajp-toto10185.schlepzig.com^
-||angkasajp-toto10186.schlepzig.com^
-||angkasajp-toto10187.schlepzig.com^
-||angkasajp-toto10188.schlepzig.com^
-||angkasajp-toto10189.schlepzig.com^
-||angkasajp-toto10190.schlepzig.com^
-||angkasajp-toto10191.schlepzig.com^
-||angkasajp-toto10192.schlepzig.com^
-||angkasajp-toto10193.schlepzig.com^
-||angkasajp-toto10194.schlepzig.com^
-||angkasajp-toto10195.schlepzig.com^
-||angkasajp-toto10196.schlepzig.com^
-||angkasajp-toto10197.schlepzig.com^
-||angkasajp-toto10198.schlepzig.com^
-||angkasajp-toto10199.schlepzig.com^
-||angkasajp-toto102.schlepzig.com^
-||angkasajp-toto10200.schlepzig.com^
-||angkasajp-toto10201.schlepzig.com^
-||angkasajp-toto10202.schlepzig.com^
-||angkasajp-toto10203.schlepzig.com^
-||angkasajp-toto10204.schlepzig.com^
-||angkasajp-toto10205.schlepzig.com^
-||angkasajp-toto10206.schlepzig.com^
-||angkasajp-toto10207.schlepzig.com^
-||angkasajp-toto10208.schlepzig.com^
-||angkasajp-toto10209.schlepzig.com^
-||angkasajp-toto10210.schlepzig.com^
-||angkasajp-toto10211.schlepzig.com^
-||angkasajp-toto10212.schlepzig.com^
-||angkasajp-toto10213.schlepzig.com^
-||angkasajp-toto10214.schlepzig.com^
-||angkasajp-toto10215.schlepzig.com^
-||angkasajp-toto10216.schlepzig.com^
-||angkasajp-toto10217.schlepzig.com^
-||angkasajp-toto10218.schlepzig.com^
-||angkasajp-toto10219.schlepzig.com^
-||angkasajp-toto10220.schlepzig.com^
-||angkasajp-toto10221.schlepzig.com^
-||angkasajp-toto10222.schlepzig.com^
-||angkasajp-toto10223.schlepzig.com^
-||angkasajp-toto10224.schlepzig.com^
-||angkasajp-toto10225.schlepzig.com^
-||angkasajp-toto10226.schlepzig.com^
-||angkasajp-toto10227.schlepzig.com^
-||angkasajp-toto10228.schlepzig.com^
-||angkasajp-toto10229.schlepzig.com^
-||angkasajp-toto10230.schlepzig.com^
-||angkasajp-toto10231.schlepzig.com^
-||angkasajp-toto10232.schlepzig.com^
-||angkasajp-toto10233.schlepzig.com^
-||angkasajp-toto10234.schlepzig.com^
-||angkasajp-toto10235.schlepzig.com^
-||angkasajp-toto10236.schlepzig.com^
-||angkasajp-toto10237.schlepzig.com^
-||angkasajp-toto10238.schlepzig.com^
-||angkasajp-toto10239.schlepzig.com^
-||angkasajp-toto10240.schlepzig.com^
-||angkasajp-toto10241.schlepzig.com^
-||angkasajp-toto10242.schlepzig.com^
-||angkasajp-toto10243.schlepzig.com^
-||angkasajp-toto10244.schlepzig.com^
-||angkasajp-toto10245.schlepzig.com^
-||angkasajp-toto10246.schlepzig.com^
-||angkasajp-toto10247.schlepzig.com^
-||angkasajp-toto10248.schlepzig.com^
-||angkasajp-toto10249.schlepzig.com^
-||angkasajp-toto10250.schlepzig.com^
-||angkasajp-toto10251.schlepzig.com^
-||angkasajp-toto10252.schlepzig.com^
-||angkasajp-toto10253.schlepzig.com^
-||angkasajp-toto10254.schlepzig.com^
-||angkasajp-toto10256.schlepzig.com^
-||angkasajp-toto10257.schlepzig.com^
-||angkasajp-toto10258.schlepzig.com^
-||angkasajp-toto10259.schlepzig.com^
