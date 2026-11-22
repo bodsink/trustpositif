@@ -1,7 +1,8 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112200
+! Serial: 26112202
 ! Part: 03/06
+||16xwo9bkck.sangtototren.com^
 ||19bu6v8fd5.sangtototren.com^
 ||1quwo83ye8.sangtototren.com^
 ||1vr6h8vltw.sangtototren.com^
@@ -1716261,6 +1716262,7 @@
 ||wis77-slot.ahour.id^
 ||x1-engine-slot.ahour.id^
 ||yuk69-slot-login.ahour.id^
+||bhumi.ai.id^
 ||hlms.ibetwin.ai.id^
 ||mb66.ai.id^
 ||ai-max.id^
@@ -1739116,4 +1739118,3 @@
 ||hadiahm-kios18.blogspot.co.id^
 ||hadiahmayoraindah.blogspot.co.id^
 ||hadiahmkios27.blogspot.co.id^
-||hadiahmkios999.blogspot.co.id^

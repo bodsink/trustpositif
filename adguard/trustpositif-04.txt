@@ -1,7 +1,8 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112200
+! Serial: 26112202
 ! Part: 04/06
+||hadiahmkios999.blogspot.co.id^
 ||hadiahmkiospusat.blogspot.co.id^
 ||hadiahmobo2017.blogspot.co.id^
 ||hadiahmoboindosat.blogspot.co.id^
@@ -777614,6 +777615,7 @@
 ||ljo777win.live^
 ||lk168.live^
 ||lk21film.live^
+||lk21filmlayarkaca.live^
 ||lk21layarkaca.live^
 ||lk21layarkacafilm.live^
 ||lk21movie.live^
@@ -1756570,6 +1756572,3 @@
 ||big-fun.nl^
 ||big89.nl^
 ||bigassadventure.nl^
-||bigassvideos.nl^
-||bigbandgeldrop.nl^
-||bigbassbonanzaspel.nl^

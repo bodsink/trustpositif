@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112200
+! Serial: 26112202
 ! Part: 02/06
 ||situsslotterbaikdanterpercayanomor1.blogspot.com^
 ||situsslotterbaikdiindonesia.blogspot.com^
@@ -95780,6 +95780,7 @@
 ||bumiangkasa.com^
 ||bumiasik.com^
 ||bumiatas.com^
+||bumiatlas.com^
 ||bumibabel.com^
 ||bumibagus.com^
 ||bumibeda.com^
@@ -1858570,4 +1858571,3 @@
 ||0ocs49zsq4.sangtototren.com^
 ||0t9k5sclpd.sangtototren.com^
 ||156dnfx9z8.sangtototren.com^
-||16xwo9bkck.sangtototren.com^

@@ -1,7 +1,11 @@
 ! Title: Trust Positif Kominfo part 06 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112200
+! Serial: 26112202
 ! Part: 06/06
+||spacex-168-slot.godwl.us^
+||spadegamingslot.godwl.us^
+||spadeslot.godwl.us^
+||spain-world-cup-win.godwl.us^
 ||spainbadbunny.godwl.us^
 ||spartan-cempakaslot.godwl.us^
 ||spartaplay88.godwl.us^

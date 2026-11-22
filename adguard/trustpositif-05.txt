@@ -1,7 +1,10 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112200
+! Serial: 26112202
 ! Part: 05/06
+||bigassvideos.nl^
+||bigbandgeldrop.nl^
+||bigbassbonanzaspel.nl^
 ||bigblackcocks.nl^
 ||bigbordello.nl^
 ||bigbrotherbabes.nl^
@@ -656541,6 +656544,7 @@
 ||web-x4.simontokx.pink^
 ||web-x40.simontokx.pink^
 ||web-x41.simontokx.pink^
+||web-x42.simontokx.pink^
 ||web-x5.simontokx.pink^
 ||web-x6.simontokx.pink^
 ||web-x7.simontokx.pink^
@@ -1181134,6 +1181138,7 @@
 ||web-x16.bfans18.site^
 ||web-x17.bfans18.site^
 ||web-x18.bfans18.site^
+||web-x19.bfans18.site^
 ||web-x2.bfans18.site^
 ||web-x3.bfans18.site^
 ||web-x4.bfans18.site^
@@ -2031596,7 +2031601,3 @@
 ||spacemanhariini.godwl.us^
 ||spacemanterbaru.godwl.us^
 ||spaceslotterpercaya.godwl.us^
-||spacex-168-slot.godwl.us^
-||spadegamingslot.godwl.us^
-||spadeslot.godwl.us^
-||spain-world-cup-win.godwl.us^
