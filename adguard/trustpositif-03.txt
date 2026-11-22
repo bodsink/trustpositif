@@ -1,7 +1,168 @@
 ! Title: Trust Positif Kominfo part 03 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112202
+! Serial: 26112204
 ! Part: 03/06
+||sangtoto38.com^
+||sangtoto39.com^
+||sangtoto4.com^
+||sangtoto40.com^
+||sangtoto41.com^
+||sangtoto42.com^
+||sangtoto43.com^
+||sangtoto44.com^
+||sangtoto45.com^
+||sangtoto46.com^
+||sangtoto47.com^
+||sangtoto48.com^
+||sangtoto49.com^
+||sangtoto5.com^
+||sangtoto50.com^
+||sangtoto51.com^
+||sangtoto52.com^
+||sangtoto53.com^
+||sangtoto54.com^
+||sangtoto55.com^
+||sangtoto56.com^
+||sangtoto57.com^
+||sangtoto58.com^
+||sangtoto59.com^
+||sangtoto6.com^
+||sangtoto60.com^
+||sangtoto61.com^
+||sangtoto62.com^
+||sangtoto63.com^
+||sangtoto64.com^
+||sangtoto65.com^
+||sangtoto66.com^
+||sangtoto67.com^
+||sangtoto68.com^
+||sangtoto69.com^
+||sangtoto7.com^
+||sangtoto70.com^
+||sangtoto71.com^
+||sangtoto72.com^
+||sangtoto73.com^
+||sangtoto74.com^
+||sangtoto75.com^
+||sangtoto76.com^
+||sangtoto77.com^
+||sangtoto78.com^
+||sangtoto79.com^
+||sangtoto8.com^
+||sangtoto80.com^
+||sangtoto81.com^
+||sangtoto82.com^
+||sangtoto83.com^
+||sangtoto85.com^
+||sangtoto86.com^
+||sangtoto87.com^
+||sangtoto88.com^
+||sangtoto89.com^
+||sangtoto9.com^
+||sangtoto90.com^
+||sangtoto91.com^
+||sangtoto92.com^
+||sangtoto93.com^
+||sangtoto94.com^
+||sangtoto95.com^
+||sangtoto97.com^
+||sangtoto98.com^
+||sangtoto99.com^
+||sangtotoads.com^
+||sangtotoampx.com^
+||sangtotoasik.com^
+||sangtotobestie.com^
+||sangtotobro.com^
+||sangtotocaper.com^
+||sangtotoeight.com^
+||sangtotoelev.com^
+||sangtotofive.com^
+||sangtotofour.com^
+||sangtotogacor.com^
+||sangtotogaes.com^
+||sangtotogaming.com^
+||sangtotogates.com^
+||sangtotojob.com^
+||sangtotojoin.com^
+||sangtotojp.com^
+||sangtotojp1.com^
+||sangtotojp2.com^
+||sangtotojp3.com^
+||sangtotojp4.com^
+||sangtotojp5.com^
+||sangtotojp6.com^
+||sangtotojp7.com^
+||sangtotojp8.com^
+||sangtotoman.com^
+||sangtotomantul.com^
+||sangtotomenyala.com^
+||sangtotonaik.com^
+||sangtotonine.com^
+||1rkywtwg3g.sangtotonum.com^
+||3abvczpct3.sangtotonum.com^
+||4kuhbsc09t.sangtotonum.com^
+||50l9hvvm7c.sangtotonum.com^
+||5a0hj8ja6p.sangtotonum.com^
+||5rapmso7bu.sangtotonum.com^
+||6ck5y451k6.sangtotonum.com^
+||6emuf2y2bk.sangtotonum.com^
+||6tz5xqal6v.sangtotonum.com^
+||7yd34bgjrx.sangtotonum.com^
+||8p0ysffc6y.sangtotonum.com^
+||arnmza64sv.sangtotonum.com^
+||arujyar79z.sangtotonum.com^
+||b6oulfxcs7.sangtotonum.com^
+||bn2g7bpjws.sangtotonum.com^
+||cadc67m4ud.sangtotonum.com^
+||d5shwd9vve.sangtotonum.com^
+||dh13zptvg1.sangtotonum.com^
+||eb3vs08tg6.sangtotonum.com^
+||eyv2gdxcxv.sangtotonum.com^
+||f483l2u7tn.sangtotonum.com^
+||g1ofmtzgq2.sangtotonum.com^
+||g5g6p8wmyi.sangtotonum.com^
+||i00f181crc.sangtotonum.com^
+||i9lrisf6kx.sangtotonum.com^
+||id94py7bof.sangtotonum.com^
+||ixs5tlrkk4.sangtotonum.com^
+||j54tfel76m.sangtotonum.com^
+||k2tb7x8m3k.sangtotonum.com^
+||k7455yjcch.sangtotonum.com^
+||lee6p0fran.sangtotonum.com^
+||mlaa53oi8l.sangtotonum.com^
+||mluwdmnmmw.sangtotonum.com^
+||mpagx4oi6g.sangtotonum.com^
+||nup8r0s5ha.sangtotonum.com^
+||oqgzrq2pjl.sangtotonum.com^
+||qrodc8gld4.sangtotonum.com^
+||r4v3mj6s1a.sangtotonum.com^
+||rtfivaujlx.sangtotonum.com^
+||sdhwyz1b8d.sangtotonum.com^
+||thx1tl649u.sangtotonum.com^
+||u222d9m2ic.sangtotonum.com^
+||u9w9aud94r.sangtotonum.com^
+||w9zqgebptr.sangtotonum.com^
+||wdn24ujsen.sangtotonum.com^
+||wit1ee5ute.sangtotonum.com^
+||ww99tkknsz.sangtotonum.com^
+||xi4i6dc30l.sangtotonum.com^
+||xs4i78z95l.sangtotonum.com^
+||z254sa6oha.sangtotonum.com^
+||sangtotoone.com^
+||sangtotorush.com^
+||sangtotosaja.com^
+||sangtotosev.com^
+||sangtotosix.com^
+||sangtotospin.com^
+||sangtotosweet.com^
+||sangtototen.com^
+||sangtotothirten.com^
+||sangtotothree.com^
+||03v8akb9sr.sangtototren.com^
+||06gm57e7rb.sangtototren.com^
+||0ocs49zsq4.sangtototren.com^
+||0t9k5sclpd.sangtototren.com^
+||156dnfx9z8.sangtototren.com^
 ||16xwo9bkck.sangtototren.com^
 ||19bu6v8fd5.sangtototren.com^
 ||1quwo83ye8.sangtototren.com^
@@ -1719,6 +1880,7 @@
 ||santorochiropracticcenter.com^
 ||santorospizzeriapa.com^
 ||santoryuvictory4dp.com^
+||santos53.com^
 ||santosalombok.com^
 ||santosannebk.com^
 ||santosbetting281.com^
@@ -4352,6 +4514,7 @@
 ||sasakexperience.com^
 ||sasakicafe.com^
 ||sasakisf.com^
+||sasakjos.com^
 ||sasakong.com^
 ||sasakpasti.com^
 ||sasaksuper.com^
@@ -8248,9 +8411,12 @@
 ||sayap126vip.com^
 ||sayap128.com^
 ||sayap138slot.com^
+||sayap14.com^
+||fly.sayap14.com^
 ||sayap303.com^
 ||sayap31.com^
 ||sayap33.com^
+||mode.sayap33-brand.com^
 ||sayap33-fly.com^
 ||sayap33-gang.com^
 ||sayap33-rtp1.com^
@@ -9311,6 +9477,7 @@
 ||sbctotodihati.com^
 ||sbctotoedge.com^
 ||sbctotofair.com^
+||sbctotofake.com^
 ||sbctotofest.com^
 ||sbctotofind.com^
 ||sbctotofor.com^
@@ -66361,6 +66528,7 @@
 ||sedayu88auctions.com^
 ||sedayu88ay.com^
 ||sedayu88bet.com^
+||sedayu88bl.com^
 ||sedayu88bos.com^
 ||sedayu88cs.com^
 ||sedayu88cuan.com^
@@ -66387,6 +66555,7 @@
 ||super14.sedayu88hey.com^
 ||sedayu88in.com^
 ||sedayu88jos.com^
+||sedayu88joy.com^
 ||sedayu88jr.com^
 ||sedayu88juara.com^
 ||sedayu88king.com^
@@ -66396,6 +66565,7 @@
 ||sedayu88log.com^
 ||sedayu88lur.com^
 ||sedayu88lux.com^
+||sedayu88mal.com^
 ||sedayu88masuk.com^
 ||sedayu88max.com^
 ||sedayu88mcl.com^
@@ -74323,6 +74493,7 @@
 ||semut-win.com^
 ||semut-win-id.com^
 ||semut-zeus.com^
+||semut110.com^
 ||semut123.com^
 ||semut168.com^
 ||semut2007.com^
@@ -76396,6 +76567,7 @@
 ||senopatibolapro.com^
 ||senopatibolapro2.com^
 ||senopatibolatop.com^
+||senopatibolavip.com^
 ||senopatigacor.com^
 ||senopatijackpot.com^
 ||senopatijaya.com^
@@ -144274,6 +144446,7 @@
 ||sinar303wins.com^
 ||sinar303x.com^
 ||sinar31.com^
+||sinar32.com^
 ||sinar33.com^
 ||sinar330.com^
 ||sinar333.com^
@@ -157348,6 +157521,7 @@
 ||situs33514.com^
 ||situs33524.com^
 ||situs33535.com^
+||situs33578.com^
 ||situs33635.com^
 ||situs33637.com^
 ||situs33642.com^
@@ -157831,6 +158005,7 @@
 ||situs85820.com^
 ||situs85888.com^
 ||situs85990.com^
+||situs86071.com^
 ||situs86175.com^
 ||situs86311.com^
 ||situs86408.com^
@@ -297700,6 +297875,7 @@
 ||superbocilku.com^
 ||superboge.com^
 ||superbokep.com^
+||superbola-maknyus.com^
 ||superbola16.com^
 ||superbola388.com^
 ||superbola55.com^
@@ -297710,6 +297886,7 @@
 ||superbon777.com^
 ||superbonne.com^
 ||superbonus88bet.com^
+||superbonus88bst.com^
 ||superbonus88jos.com^
 ||superbonus88jp.com^
 ||superbonus88ku.com^
@@ -306532,6 +306709,8 @@
 ||susietease.com^
 ||susiewildin.com^
 ||susifull.com^
+||susigadget.com^
+||gs1.susigadget.com^
 ||susigolive.com^
 ||susigood.com^
 ||susiharian.com^
@@ -336945,6 +337124,7 @@
 ||taxi4d199.com^
 ||taxi4d1a.com^
 ||taxi4d1f.com^
+||taxi4d1st.com^
 ||taxi4d200.com^
 ||taxi4d2025.com^
 ||taxi4d5.com^
@@ -416280,6 +416460,7 @@
 ||topanbos60257.com^
 ||topanbos70.com^
 ||topanbos78108.com^
+||topanbos78570215ef.com^
 ||topanbos80071.com^
 ||topanbos80146.com^
 ||topanbos80164.com^
@@ -416318,6 +416499,7 @@
 ||topanbos89685.com^
 ||topanbos90730173ef.com^
 ||topanbos991.com^
+||topanbos992.com^
 ||topanchorquilting.com^
 ||topanga-teen.com^
 ||topangacanyongallery.com^
@@ -418532,6 +418714,7 @@
 ||dua.topiwangiamp.com^
 ||eight.topiwangiamp.com^
 ||empat.topiwangiamp.com^
+||enam.topiwangiamp.com^
 ||five.topiwangiamp.com^
 ||four.topiwangiamp.com^
 ||nine.topiwangiamp.com^
@@ -420772,6 +420955,7 @@
 ||topwd32033.com^
 ||topwd33710.com^
 ||topwd33803.com^
+||topwd35125.com^
 ||topwd35810.com^
 ||topwd36981.com^
 ||topwd37278.com^
@@ -583807,6 +583991,7 @@
 ||tvtoto39019.com^
 ||tvtoto39078.com^
 ||tvtoto39201.com^
+||tvtoto39421.com^
 ||tvtoto39812.com^
 ||tvtoto4d.com^
 ||tvtoto70.com^
@@ -589597,6 +589782,7 @@
 ||udin73091.com^
 ||udin74056.com^
 ||udin74928.com^
+||udin74942.com^
 ||udin75142.com^
 ||udin76318.com^
 ||udin777.com^
@@ -590209,6 +590395,7 @@
 ||uevolvcenter.com^
 ||ueyeus.com^
 ||gbh.ueypfbo.com^
+||yjt.uezrtro.com^
 ||uf-88.com^
 ||uf-dna.com^
 ||uf0.com^
@@ -618275,6 +618462,7 @@
 ||up35260.com^
 ||up35266.com^
 ||up35268.com^
+||up35416.com^
 ||up35526.com^
 ||up35568.com^
 ||up35752.com^
@@ -634918,6 +635106,7 @@
 ||v210x10g.com^
 ||v210x10q.com^
 ||v21app.com^
+||v21bi.com^
 ||v21d.com^
 ||v21hq.com^
 ||v21link.com^
@@ -635629,6 +635818,7 @@
 ||v9honda.com^
 ||v9hospitals.com^
 ||v9indosat.com^
+||v9k2r.com^
 ||v9kartu.com^
 ||v9kawasaki.com^
 ||v9keriting.com^
@@ -712442,6 +712632,7 @@
 ||victory-top.com^
 ||victory-up.com^
 ||victory-vct.com^
+||ab.victory-woy99.com^
 ||ac.victory-woy99.com^
 ||dft.victory-woy99.com^
 ||elvn.victory-woy99.com^
@@ -743807,6 +743998,7 @@
 ||wahalt88.com^
 ||wahalternatif88.com^
 ||wahana-138sini.com^
+||wahana-betz.com^
 ||wahana-cuanin.com^
 ||wahana-dua.com^
 ||wahana-gold.com^
@@ -747762,6 +747954,7 @@
 ||wangi4dhoki.com^
 ||mobile.wangi4dholy.com^
 ||wangi4djos.com^
+||wangi4dlatte.com^
 ||wangi4dmobile.com^
 ||wangi4dnaik.com^
 ||ms07.wangi4dresmi.com^
@@ -755697,6 +755890,7 @@
 ||wdbos30319.com^
 ||wdbos30371.com^
 ||wdbos30377.com^
+||wdbos30565.com^
 ||wdbos30609.com^
 ||wdbos30990.com^
 ||wdbos31010.com^
@@ -755926,6 +756120,7 @@
 ||wdbos9999.com^
 ||wdbosai.com^
 ||wdbosamp.com^
+||wdbosapke.com^
 ||wdboscom.com^
 ||wdbosku.com^
 ||wdbosku777.com^
@@ -819887,6 +820082,7 @@
 ||wolestoto1.com^
 ||wolf-ace.com^
 ||wolf-art.com^
+||wolf-athletics.com^
 ||wolf-peach.com^
 ||wolf-remodel.com^
 ||wolf-winner.com^
@@ -954283,6 +954479,7 @@
 ||yok86754.com^
 ||yok87112.com^
 ||yok87133.com^
+||yok87213.com^
 ||yok87355.com^
 ||yok87410.com^
 ||yok87438.com^
@@ -972979,6 +973176,7 @@
 ||zhzhxin.com^
 ||zi-factor.com^
 ||l1e517.zi-niu.com^
+||zi28937gg.com^
 ||zi28ffy38l.com^
 ||zi29fut5498.com^
 ||zi29u3yt54.com^
@@ -973094,6 +973292,7 @@
 ||zia32834.com^
 ||zia32839.com^
 ||zia32854.com^
+||zia32880.com^
 ||zia32887.com^
 ||zia32900.com^
 ||zia32920.com^
@@ -1023825,6 +1024024,7 @@
 ||hondatotohoki333x.cyou^
 ||hondatotoxjp22jt.cyou^
 ||hondatotoyesjp10jt.cyou^
+||honeydew67.cyou^
 ||hongkonglotto.cyou^
 ||hongkongpools.cyou^
 ||hopengrtp.cyou^
@@ -1050134,6 +1050334,7 @@
 ||lilinrobotickyvysavac.cz^
 ||linkgacor.cz^
 ||linkslot.cz^
+||linkslot88.cz^
 ||linkslotgacor.cz^
 ||linkslothariini.cz^
 ||linkuj.cz^
@@ -1050898,6 +1051099,7 @@
 ||rozhledna-nastrazi.cz^
 ||best.rozvojkompetenci.cz^
 ||rp55.cz^
+||rp888.cz^
 ||rsminvest.cz^
 ||rtp-toto88.cz^
 ||rtpdragon303.cz^
@@ -1123756,6 +1123958,7 @@
 ||02rtplogam88.pages.dev^
 ||03-ini.pages.dev^
 ||0307dragon77.pages.dev^
+||039874600.pages.dev^
 ||03rtpfio77.pages.dev^
 ||03rtplogam88.pages.dev^
 ||04-13-2026-830.pages.dev^
@@ -1123952,6 +1124155,7 @@
 ||10c-stanthonysft.pages.dev^
 ||10daftargacorx1000-bdn8.pages.dev^
 ||10hokijudiqq.pages.dev^
+||10iatc.pages.dev^
 ||10ikon777rtp.pages.dev^
 ||10inthebox.pages.dev^
 ||10k-5qe.pages.dev^
@@ -1124307,6 +1124511,7 @@
 ||168ivoirepolitique-amp.pages.dev^
 ||168link-ligaciputra.pages.dev^
 ||168mpo-05082026.pages.dev^
+||168naganet.pages.dev^
 ||168namahlounge.pages.dev^
 ||168satusalam.pages.dev^
 ||168top.pages.dev^
@@ -1124621,6 +1124826,7 @@
 ||1stnationalonline.pages.dev^
 ||1stopmkt.pages.dev^
 ||1strank.pages.dev^
+||1stroutexcourrier-kilat69.pages.dev^
 ||1suffolkhair.pages.dev^
 ||1suge789.pages.dev^
 ||1sule66.pages.dev^
@@ -1124704,6 +1124910,7 @@
 ||2012duvi.pages.dev^
 ||2012hoax.pages.dev^
 ||2017-sabe-ras.pages.dev^
+||2019-isabe-ras-strong.pages.dev^
 ||2019-sharjaharchitectureew.pages.dev^
 ||2020techblog-c62.pages.dev^
 ||2021-enlacelabcolombia.pages.dev^
@@ -1124996,6 +1125203,7 @@
 ||3-hunters-servicio.pages.dev^
 ||3-lu-kenal-veronika-ko-666.pages.dev^
 ||3-mangiamichelle-amp.pages.dev^
+||3-paduka500.pages.dev^
 ||3-shio-arogantoto.pages.dev^
 ||3000-link-badak500.pages.dev^
 ||3000umkm-seedspore.pages.dev^
@@ -1125376,6 +1125584,7 @@
 ||4bigsloto777.pages.dev^
 ||4bsi138.pages.dev^
 ||4d-3na.pages.dev^
+||4d-bc3.pages.dev^
 ||4d-bicc.pages.dev^
 ||4d-dapurtoto.pages.dev^
 ||4d-greenfill3d.pages.dev^
@@ -1126517,6 +1126726,7 @@
 ||9nagaselot.pages.dev^
 ||9nagaslot88.pages.dev^
 ||9nagaslotgacor.pages.dev^
+||9nagatangkas-dotcom.pages.dev^
 ||9nine-202601116.pages.dev^
 ||9nine-2026011161.pages.dev^
 ||9nine-2026011165.pages.dev^
@@ -1127028,6 +1127238,7 @@
 ||abang-awak-ada-seribu.pages.dev^
 ||abang-bantu-dorong-ya.pages.dev^
 ||abang-di-bumi-adek-dimana.pages.dev^
+||abang-goyang-maxwin-pasti-datang.pages.dev^
 ||abang-jago-ayok-bang-jago.pages.dev^
 ||abang-jahat-9nl.pages.dev^
 ||abang-jamed.pages.dev^
@@ -1127915,6 +1128126,7 @@
 ||about-title.pages.dev^
 ||about-tnsucpn.pages.dev^
 ||about-top1toto77.pages.dev^
+||about-toto123.pages.dev^
 ||about-towrextrailers.pages.dev^
 ||about-tripplesix.pages.dev^
 ||about-uict.pages.dev^
@@ -1127936,6 +1128148,7 @@
 ||about-us-faq-dasartoto.pages.dev^
 ||about-us-fire.pages.dev^
 ||about-us-google-baik.pages.dev^
+||about-us-gratedhm.pages.dev^
 ||about-us-healthsolutions-bayam.pages.dev^
 ||about-us-kit4d-fundsvita.pages.dev^
 ||about-us-kode4d.pages.dev^
@@ -1128235,6 +1128448,7 @@
 ||abutogelrtplay.pages.dev^
 ||abutogelrtpslot.pages.dev^
 ||abutogelus.pages.dev^
+||abutogelweng.pages.dev^
 ||abutoto-baseballwins.pages.dev^
 ||abuzze.pages.dev^
 ||abwalancasterexpress.pages.dev^
@@ -1129688,6 +1129902,7 @@
 ||adiljp-link.pages.dev^
 ||adiljp88.pages.dev^
 ||adimatra-cobaco.pages.dev^
+||adimplere.pages.dev^
 ||adimulya-rr777panda.pages.dev^
 ||adimulya-sv388.pages.dev^
 ||adioeit-jitu.pages.dev^
@@ -1130086,6 +1130301,7 @@
 ||adududu-slot-gacor.pages.dev^
 ||adudududu-naik-lagi-nih.pages.dev^
 ||aduduhai2.pages.dev^
+||aduduhitam.pages.dev^
 ||adugrantprogram.pages.dev^
 ||aduh-abang-bukan-maksud-ku-begitu.pages.dev^
 ||aduh-aduh-tolongg.pages.dev^
@@ -1130148,6 +1130364,7 @@
 ||aduilmubangjago.pages.dev^
 ||aduilmusamabangjago.pages.dev^
 ||aduinsantabarbara.pages.dev^
+||adujoker-com.pages.dev^
 ||adukhodam.pages.dev^
 ||adul-amp-pro8et.pages.dev^
 ||adult-0nly6.pages.dev^
@@ -1130829,6 +1131046,7 @@
 ||agamoriginal4d.pages.dev^
 ||agamslot.pages.dev^
 ||agamtoto.pages.dev^
+||agape-communitybc.pages.dev^
 ||agapeaussiedoodles.pages.dev^
 ||agapedent-nonummy.pages.dev^
 ||agapeglobalministries.pages.dev^
@@ -1131151,6 +1131369,7 @@
 ||agen-togel-slot4d.pages.dev^
 ||agen-togel-terpercaya-pasti-naik.pages.dev^
 ||agen-togel-thedarklightshop.pages.dev^
+||agen-togelonline-terpercaya-toto4d.pages.dev^
 ||agen-top-up-lex.pages.dev^
 ||agen-toto-4sc.pages.dev^
 ||agen-toto-6zp.pages.dev^
@@ -1131781,6 +1132000,7 @@
 ||agenslot99-tumblr.pages.dev^
 ||agenslotamp.pages.dev^
 ||agenslotbetmudahjp.pages.dev^
+||agenslotcrown138.pages.dev^
 ||agenslotdemo.pages.dev^
 ||agenslotdepo25bonus25.pages.dev^
 ||agenslotgacor.pages.dev^
@@ -1131876,6 +1132096,7 @@
 ||agentogel-tri88.pages.dev^
 ||agentogel4dterpercaya.pages.dev^
 ||agentogel789.pages.dev^
+||agentogelhkakurat.pages.dev^
 ||agentogelterpercayadanterbaik.pages.dev^
 ||agentoto-bandar-kembali-jaya.pages.dev^
 ||agentoto-cancertoto.pages.dev^
@@ -1132516,8 +1132737,10 @@
 ||aileron-sg-p99.pages.dev^
 ||aileronsg-axial.pages.dev^
 ||ailpcsh-revistatravessias.pages.dev^
+||ailtondesign-login-resmi.pages.dev^
 ||aim-africa.pages.dev^
 ||aim2tri.pages.dev^
+||aimarketingsolutions-seo.pages.dev^
 ||aimasteryindex.pages.dev^
 ||aimcoll.pages.dev^
 ||aimcopesticides-amp-profile.pages.dev^
@@ -1132705,6 +1132928,8 @@
 ||airko.pages.dev^
 ||airlabs-bandarqq.pages.dev^
 ||airland.pages.dev^
+||airlanggaenterprise-about.pages.dev^
+||airlanggaenterprise-gallery.pages.dev^
 ||airlanggajayamandiri.pages.dev^
 ||airlex.pages.dev^
 ||airliftexpbenovainhere.pages.dev^
@@ -1133650,6 +1133875,7 @@
 ||akses-ledakan-maxwin.pages.dev^
 ||akses-lfstyl1.pages.dev^
 ||akses-lgolux83.pages.dev^
+||akses-link-alternatif-5ue.pages.dev^
 ||akses-link-angelinewinerysv388.pages.dev^
 ||akses-link-duniatoto.pages.dev^
 ||akses-link-maxwin288-terbaik.pages.dev^
@@ -1133826,6 +1134052,7 @@
 ||akses-slot88-bt168.pages.dev^
 ||akses-slotgacor-afj.pages.dev^
 ||akses-sohcc4.pages.dev^
+||akses-spasgau.pages.dev^
 ||akses-stockcity69.pages.dev^
 ||akses-stockcity888.pages.dev^
 ||akses-sumbu-togel-terlengkap.pages.dev^
@@ -1133850,6 +1134077,7 @@
 ||akses-toto-maxwin.pages.dev^
 ||akses-toto-situs.pages.dev^
 ||akses-toto4d.pages.dev^
+||akses-totomacau-terbesar.pages.dev^
 ||akses-totovip-slot-login-toto-4d-togel-poker-official.pages.dev^
 ||akses-turkana-misterhoki-ke.pages.dev^
 ||akses-tuti.pages.dev^
@@ -1134223,6 +1134451,7 @@
 ||aku-kembali-lagi-nanti-bentar.pages.dev^
 ||aku-kembali-lagi-nanti-kok-pasti.pages.dev^
 ||aku-kembali-lagi-sebentar-lagi.pages.dev^
+||aku-kembali-sg.pages.dev^
 ||aku-kembalilagi.pages.dev^
 ||aku-ki-opo-cuma-bahan-gabut-mu.pages.dev^
 ||aku-ki-opo-cuma-fansmu.pages.dev^
@@ -1135028,6 +1135257,7 @@
 ||alchemist-crnchy.pages.dev^
 ||alchemystics.pages.dev^
 ||alchilestudioo.pages.dev^
+||alchimiesv2amp.pages.dev^
 ||alcobet88-millportcurlingclub.pages.dev^
 ||alcoholinjectionsystems.pages.dev^
 ||alcoholrehabalaska-daplay88.pages.dev^
@@ -1136388,6 +1136618,7 @@
 ||altar92.pages.dev^
 ||altaresnatura.pages.dev^
 ||altargarcia.pages.dev^
+||altartoto-togel.pages.dev^
 ||altartotohoki.pages.dev^
 ||altarwin.pages.dev^
 ||altavistasuites.pages.dev^
@@ -1136506,6 +1136737,7 @@
 ||alternatif-myprontoservice.pages.dev^
 ||alternatif-nagabiru.pages.dev^
 ||alternatif-nagabiru-8to.pages.dev^
+||alternatif-ompong188oktorg.pages.dev^
 ||alternatif-oriontoto-sio-prindapan.pages.dev^
 ||alternatif-ormastoto.pages.dev^
 ||alternatif-pandora188b.pages.dev^
@@ -1136598,6 +1136830,7 @@
 ||alternatifterpercaya-tirtalogin.pages.dev^
 ||alternatiftgel78.pages.dev^
 ||alternatiftok99toto.pages.dev^
+||alternatiftrendi.pages.dev^
 ||alternatiftuanmuda.pages.dev^
 ||alternatifultra88.pages.dev^
 ||alternatifvvip-kidul.pages.dev^
@@ -1138227,6 +1138460,7 @@
 ||americalogistica-contacto.pages.dev^
 ||americalottogroup.pages.dev^
 ||american-cz5.pages.dev^
+||american-pancreatic-association-2qs.pages.dev^
 ||american-press-silentnode.pages.dev^
 ||american-style.pages.dev^
 ||americanacake.pages.dev^
@@ -1138534,6 +1138768,7 @@
 ||amp-17-eag.pages.dev^
 ||amp-177winbetgotoindonesia.pages.dev^
 ||amp-178asia-3.pages.dev^
+||amp-178asia-4.pages.dev^
 ||amp-17k.pages.dev^
 ||amp-188-cherry.pages.dev^
 ||amp-192-248-184-57.pages.dev^
@@ -1139142,6 +1139377,7 @@
 ||amp-armorbet78.pages.dev^
 ||amp-armp.pages.dev^
 ||amp-arnacoid.pages.dev^
+||amp-aromaticcedarsupply-com-0a594baad1.pages.dev^
 ||amp-aromatoto.pages.dev^
 ||amp-aronsappliance.pages.dev^
 ||amp-aropoline.pages.dev^
@@ -1139222,6 +1139458,7 @@
 ||amp-asligacor-banget2.pages.dev^
 ||amp-aslivip88.pages.dev^
 ||amp-aslot.pages.dev^
+||amp-aslotre801com.pages.dev^
 ||amp-aslotreukcom.pages.dev^
 ||amp-asmiramodesty.pages.dev^
 ||amp-asoegresadosuptc.pages.dev^
@@ -1139467,6 +1139704,7 @@
 ||amp-bandarslot367.pages.dev^
 ||amp-bandarslot88.pages.dev^
 ||amp-bandit123slotlink.pages.dev^
+||amp-bandotslot-gacor-maxwin.pages.dev^
 ||amp-bang-beta.pages.dev^
 ||amp-bangau188.pages.dev^
 ||amp-bangbewok.pages.dev^
@@ -1140168,6 +1140406,7 @@
 ||amp-centresalutbarcelona77-id.pages.dev^
 ||amp-centrocomunitarioelcafe.pages.dev^
 ||amp-centrodramaticodeviana.pages.dev^
+||amp-centroformazioneagape.pages.dev^
 ||amp-centroposeidon.pages.dev^
 ||amp-ceo-ems.pages.dev^
 ||amp-cepae.pages.dev^
@@ -1140354,6 +1140593,7 @@
 ||amp-conahs.pages.dev^
 ||amp-conahss.pages.dev^
 ||amp-conan-topcollegesnearme.pages.dev^
+||amp-conanseng.pages.dev^
 ||amp-condow.pages.dev^
 ||amp-conduitgr.pages.dev^
 ||amp-conectsacjck.pages.dev^
@@ -1141169,6 +1141409,7 @@
 ||amp-eo4.pages.dev^
 ||amp-eoptima.pages.dev^
 ||amp-eosnearme.pages.dev^
+||amp-epictotomacau-info.pages.dev^
 ||amp-epidemiologicalnews.pages.dev^
 ||amp-epipolism.pages.dev^
 ||amp-epsi-menangpasti.pages.dev^
@@ -1142334,6 +1142575,7 @@
 ||amp-injection.pages.dev^
 ||amp-inkhaspress.pages.dev^
 ||amp-inkristal777.pages.dev^
+||amp-inlandeyespecialists-watitoto2.pages.dev^
 ||amp-inlive-stream.pages.dev^
 ||amp-inmatelsa.pages.dev^
 ||amp-inner-sky.pages.dev^
@@ -1142887,6 +1143129,7 @@
 ||amp-kangslot-life.pages.dev^
 ||amp-kangslot-net.pages.dev^
 ||amp-kangslot-xyz.pages.dev^
+||amp-kangtoto-4e5.pages.dev^
 ||amp-kanjengslotautos.pages.dev^
 ||amp-kanjengslotcyou.pages.dev^
 ||amp-kannmonications.pages.dev^
@@ -1143911,6 +1144154,7 @@
 ||amp-me138-org.pages.dev^
 ||amp-meahfamilyfoundation.pages.dev^
 ||amp-mealsonwheelsde.pages.dev^
+||amp-medan-sedaptogel.pages.dev^
 ||amp-medavitperu.pages.dev^
 ||amp-medexpo.pages.dev^
 ||amp-media.pages.dev^
@@ -1144417,6 +1144661,7 @@
 ||amp-ncedclouds.pages.dev^
 ||amp-ndcpalumni.pages.dev^
 ||amp-ndiop.pages.dev^
+||amp-ndm-media.pages.dev^
 ||amp-nearbymetrostations.pages.dev^
 ||amp-nebraskajs.pages.dev^
 ||amp-nectarexperience.pages.dev^
@@ -1145699,6 +1145944,7 @@
 ||amp-republik62-d7s.pages.dev^
 ||amp-republikvip.pages.dev^
 ||amp-reputationisimportant-about.pages.dev^
+||amp-resco-japan.pages.dev^
 ||amp-research.pages.dev^
 ||amp-researtra.pages.dev^
 ||amp-reseaumetalex-labo-cyu-fr.pages.dev^
@@ -1146451,6 +1146697,7 @@
 ||amp-situsslot88.pages.dev^
 ||amp-situsthailand.pages.dev^
 ||amp-situstoto.pages.dev^
+||amp-siuloke.pages.dev^
 ||amp-siwira.pages.dev^
 ||amp-sixseven-puy.pages.dev^
 ||amp-sixteengrams.pages.dev^
@@ -1147095,6 +1147342,7 @@
 ||amp-tauntonwastemanagement.pages.dev^
 ||amp-tawa555.pages.dev^
 ||amp-tawa777.pages.dev^
+||amp-taxfillingindia.pages.dev^
 ||amp-taxipuntacanabelen-bno.pages.dev^
 ||amp-tayang4d.pages.dev^
 ||amp-tayang4d-hoki.pages.dev^
@@ -1147536,6 +1147784,7 @@
 ||amp-tuan-togel.pages.dev^
 ||amp-tuan99org.pages.dev^
 ||amp-tuankuda.pages.dev^
+||amp-tuantogel-bonus.pages.dev^
 ||amp-tuckerfarmersmarket-contact.pages.dev^
 ||amp-tudodemaquiagem-2013-7-tutorial.pages.dev^
 ||amp-tueba-edu-vn.pages.dev^
@@ -1147914,6 +1148163,7 @@
 ||amp-wang-lin.pages.dev^
 ||amp-wangi-gacor.pages.dev^
 ||amp-wao-sendai.pages.dev^
+||amp-wapelangi4d.pages.dev^
 ||amp-war138.pages.dev^
 ||amp-wardrobehandcraft.pages.dev^
 ||amp-wardrobehandcraft0.pages.dev^
@@ -1148294,6 +1148544,7 @@
 ||amp031xlslot88.pages.dev^
 ||amp03mejawd.pages.dev^
 ||amp03salam123.pages.dev^
+||amp04-do6.pages.dev^
 ||amp04salam123.pages.dev^
 ||amp069pen4d.pages.dev^
 ||amp09-eo2.pages.dev^
@@ -1149556,6 +1149807,7 @@
 ||ampbarbar77que.pages.dev^
 ||ampbarbarcom.pages.dev^
 ||ampbarbarnimitz.pages.dev^
+||ampbarca138vip.pages.dev^
 ||ampbardocgold.pages.dev^
 ||ampbarengdulu.pages.dev^
 ||ampbari4d1.pages.dev^
@@ -1150056,6 +1150308,7 @@
 ||ampchat4d.pages.dev^
 ||ampcheckmimin.pages.dev^
 ||ampchef.pages.dev^
+||ampchekhupcommy.pages.dev^
 ||ampcheringtonhr.pages.dev^
 ||ampcheryklang.pages.dev^
 ||ampchet.pages.dev^
@@ -1150427,6 +1150680,7 @@
 ||ampdewadora-ar343.pages.dev^
 ||ampdewagacor.pages.dev^
 ||ampdewagacor89.pages.dev^
+||ampdewahokiplay.pages.dev^
 ||ampdewahub.pages.dev^
 ||ampdewaini.pages.dev^
 ||ampdewaisbackbyrfk.pages.dev^
@@ -1151512,6 +1151766,7 @@
 ||ampiaingorontalo.pages.dev^
 ||ampiaknmanado.pages.dev^
 ||ampian4mnhouse.pages.dev^
+||ampibet668-musaa.pages.dev^
 ||ampibet77-slot.pages.dev^
 ||ampibet77gacor.pages.dev^
 ||ampibet77slot.pages.dev^
@@ -1152185,6 +1152440,7 @@
 ||ampkk188.pages.dev^
 ||ampkkslot777.pages.dev^
 ||ampkkslot77online.pages.dev^
+||ampklafmy.pages.dev^
 ||ampklik21.pages.dev^
 ||ampklikbet77aseligo.pages.dev^
 ||ampklikbet77logincom.pages.dev^
@@ -1153467,6 +1153723,7 @@
 ||ampovo88-supp.pages.dev^
 ||ampovo88-wuffings.pages.dev^
 ||ampovo88-x-esdymilset.pages.dev^
+||ampovo88-x-observatorio.pages.dev^
 ||ampovo88gawe.pages.dev^
 ||ampovo88magor.pages.dev^
 ||ampovo88maju.pages.dev^
@@ -1153971,6 +1154228,7 @@
 ||ampratakan.pages.dev^
 ||ampratakanan.pages.dev^
 ||ampratu555.pages.dev^
+||ampratukura.pages.dev^
 ||ampratuslot88-8pg.pages.dev^
 ||ampratutotoaws.pages.dev^
 ||ampratuular77.pages.dev^
@@ -1154896,6 +1155154,7 @@
 ||amptogel158spesial-app.pages.dev^
 ||amptogel178-world.pages.dev^
 ||amptogel279-pro.pages.dev^
+||amptogel279baik.pages.dev^
 ||amptogel2win.pages.dev^
 ||amptogelcuy.pages.dev^
 ||amptogelhero.pages.dev^
@@ -1156548,6 +1156807,7 @@
 ||andrewstennett-terbaik-mahjong.pages.dev^
 ||andrewwenn-contact.pages.dev^
 ||andrewwhitemusic.pages.dev^
+||andrewyule.pages.dev^
 ||andri-minga.pages.dev^
 ||andrisfreibergs.pages.dev^
 ||andriyuska.pages.dev^
@@ -1157063,6 +1157323,7 @@
 ||angkasax168.pages.dev^
 ||angkasetan4d.pages.dev^
 ||angkasultan.pages.dev^
+||angkasultan-amp.pages.dev^
 ||angkasultan-amp-foxdevsd-best.pages.dev^
 ||angkasultancom.pages.dev^
 ||angkat-aku-jadi-muridmu.pages.dev^
@@ -1157270,6 +1157531,7 @@
 ||anica.pages.dev^
 ||anichin-slotmaxwin-journals-essrak.pages.dev^
 ||anicocompliance.pages.dev^
+||anie-running.pages.dev^
 ||anies-baswedan.pages.dev^
 ||anifaminxiron4d.pages.dev^
 ||anightforaustin.pages.dev^
@@ -1157711,6 +1157973,7 @@
 ||antarhoki-akses-cepat-penuh-hoki.pages.dev^
 ||antarhoki-org-akurat-hari-ini.pages.dev^
 ||antarhokinewlink.pages.dev^
+||antariksa-hijauwin.pages.dev^
 ||antarkemenangan-cll.pages.dev^
 ||antarmukh69-omi.pages.dev^
 ||antasena-mulia.pages.dev^
@@ -1158884,6 +1159147,7 @@
 ||apitoto-hadiah-besar.pages.dev^
 ||apitoto-makau-sgp.pages.dev^
 ||apitoto-mobile.pages.dev^
+||apitoto-pasang-parlay-murah.pages.dev^
 ||apitoto-pestagol.pages.dev^
 ||apitoto-slot-gacor-anti-rungkad.pages.dev^
 ||apitoto-slot-rtp-tinggi-filipina.pages.dev^
@@ -1158940,6 +1159204,7 @@
 ||apk-cuanbet88-resmi.pages.dev^
 ||apk-cuanwin77-login-8zu.pages.dev^
 ||apk-cuanwin77-x500.pages.dev^
+||apk-curah4d.pages.dev^
 ||apk-daacademy.pages.dev^
 ||apk-danaslot888.pages.dev^
 ||apk-dapurtoto.pages.dev^
@@ -1159054,7 +1159319,9 @@
 ||apk-thailand-official.pages.dev^
 ||apk-thozhilguru-preman189.pages.dev^
 ||apk-tkpmawar.pages.dev^
+||apk-togel-12.pages.dev^
 ||apk-togel-online79.pages.dev^
+||apk-toto-mobile-landaktoto.pages.dev^
 ||apk-totogacor.pages.dev^
 ||apk-totonavi.pages.dev^
 ||apk-uczelnie-london.pages.dev^
@@ -1160697,6 +1160964,7 @@
 ||ariana-grande-thank-you.pages.dev^
 ||arianarijschool.pages.dev^
 ||arianarijschool-bzl.pages.dev^
+||arianasuarez.pages.dev^
 ||ariandmedoggydaycare.pages.dev^
 ||ariandmedoggydaycare-big88.pages.dev^
 ||ariannaserrasyabogados.pages.dev^
@@ -1160986,6 +1161254,7 @@
 ||aromatumir-ru-sb.pages.dev^
 ||aromavapes.pages.dev^
 ||aromedherbseg.pages.dev^
+||aromispices.pages.dev^
 ||arommas.pages.dev^
 ||aron88-net.pages.dev^
 ||arona-bcr.pages.dev^
@@ -1161556,6 +1161825,7 @@
 ||arus10.pages.dev^
 ||arus10-2pe.pages.dev^
 ||arus90.pages.dev^
+||arusemas.pages.dev^
 ||arusgelombang-cuan.pages.dev^
 ||arushoki-arushoki.pages.dev^
 ||arushoki-chaklan.pages.dev^
@@ -1163166,6 +1163436,7 @@
 ||assertivamindfulness-cursos.pages.dev^
 ||assessibilitystatements.pages.dev^
 ||assessorarcontabilidade.pages.dev^
+||assessoria-de-imprensa.pages.dev^
 ||assest-design.pages.dev^
 ||asset-arr.pages.dev^
 ||asset-bqd.pages.dev^
@@ -1163356,8 +1163627,10 @@
 ||astonbet-de.pages.dev^
 ||astonbet-id.pages.dev^
 ||astonbet-pafi.pages.dev^
+||astonbet-resmi.pages.dev^
 ||astonbet-us.pages.dev^
 ||astonbet118.pages.dev^
+||astonbetfyi.pages.dev^
 ||astonbetstore.pages.dev^
 ||astonbett.pages.dev^
 ||astonbro.pages.dev^
@@ -1164771,6 +1165044,7 @@
 ||avanzalibertad.pages.dev^
 ||avanzatoto.pages.dev^
 ||avanzaveloz.pages.dev^
+||avapapers-koko303-masuk.pages.dev^
 ||avaparksandrec.pages.dev^
 ||avardd.pages.dev^
 ||avartexlusive.pages.dev^
@@ -1164980,6 +1165254,7 @@
 ||avondaleartificialgrassco.pages.dev^
 ||avondaleattorney.pages.dev^
 ||avonline-1ny.pages.dev^
+||avonmercantile.pages.dev^
 ||avonpestcontrol-ca-blog.pages.dev^
 ||avososlog.pages.dev^
 ||avram-daw-ikan189.pages.dev^
@@ -1165258,6 +1165533,7 @@
 ||awitukangtikung.pages.dev^
 ||awkaokaokw.pages.dev^
 ||awkawkawkawk.pages.dev^
+||awkawkdkawdkwad.pages.dev^
 ||awkenpro.pages.dev^
 ||awkoawkoawkoawko.pages.dev^
 ||awkoawkoawkoawkoawkoawko.pages.dev^
@@ -1165820,6 +1166096,7 @@
 ||aymedia-clr.pages.dev^
 ||ayo-123-mbku.pages.dev^
 ||ayo-500.pages.dev^
+||ayo-bangkit-anak-muda.pages.dev^
 ||ayo-bangkit-e82.pages.dev^
 ||ayo-bangkit-pliss.pages.dev^
 ||ayo-bangkitt-gogal.pages.dev^
@@ -1166840,6 +1167117,7 @@
 ||bachiller-uct-cl-curriculum.pages.dev^
 ||bachiller-uct-contacto.pages.dev^
 ||bachira-128bit.pages.dev^
+||bachkhoaplus-thrku-omi.pages.dev^
 ||bachminh.pages.dev^
 ||bachweekend.pages.dev^
 ||back-avatargen7.pages.dev^
@@ -1166887,6 +1167165,7 @@
 ||backlessseat.pages.dev^
 ||backliccccccccc.pages.dev^
 ||backnumber-comeback.pages.dev^
+||backofficepro.pages.dev^
 ||backofthejersey.pages.dev^
 ||backontracksf.pages.dev^
 ||backpackbeliefs.pages.dev^
@@ -1168529,6 +1168808,7 @@
 ||bandar-slot-club.pages.dev^
 ||bandar-slot-cuan123.pages.dev^
 ||bandar-slot-depo-qris.pages.dev^
+||bandar-slot-eu0.pages.dev^
 ||bandar-slot-gacor-1.pages.dev^
 ||bandar-slot-gacor-7ij.pages.dev^
 ||bandar-slot-gacor-b4o.pages.dev^
@@ -1168643,6 +1168923,7 @@
 ||bandar-toto-macau-official.pages.dev^
 ||bandar-toto-macau-official-alexistogel.pages.dev^
 ||bandar-toto-macau-tanduktoto.pages.dev^
+||bandar-toto-macau-terbaru.pages.dev^
 ||bandar-toto-macau-terpercaya-hari-ini.pages.dev^
 ||bandar-toto-macau-togel-anya.pages.dev^
 ||bandar-toto-macau-togel-online-2026-hari-ini.pages.dev^
@@ -1168983,6 +1169264,7 @@
 ||bandartogel-27s.pages.dev^
 ||bandartogel-4donline.pages.dev^
 ||bandartogel-agra.pages.dev^
+||bandartogel-amc.pages.dev^
 ||bandartogel-asiatoto.pages.dev^
 ||bandartogel-d0p.pages.dev^
 ||bandartogel-f3k.pages.dev^
@@ -1169147,11 +1169429,13 @@
 ||bandot66-gaming.pages.dev^
 ||bandot888-4i0.pages.dev^
 ||bandot88oke.pages.dev^
+||bandotantireport.pages.dev^
 ||bandotgacor-byk.pages.dev^
 ||bandotgg.pages.dev^
 ||bandotgg-ms01.pages.dev^
 ||bandotggnet.pages.dev^
 ||bandotkasihbeton.pages.dev^
+||bandotmacau138slots.pages.dev^
 ||bandotme.pages.dev^
 ||bandotpolo.pages.dev^
 ||bandotrajabet99slot.pages.dev^
@@ -1171364,6 +1171648,7 @@
 ||batubara-mineral.pages.dev^
 ||batubara188-uralstroykomfort.pages.dev^
 ||batubara88-gaming.pages.dev^
+||batuhantezcan.pages.dev^
 ||batuk-3io.pages.dev^
 ||batuk-gatal.pages.dev^
 ||batuk-terus.pages.dev^
@@ -1171613,6 +1171898,7 @@
 ||bazartoto-college.pages.dev^
 ||bazbetod.pages.dev^
 ||bazenovachemieprofipool.pages.dev^
+||bazer188-jeugdvanhggop.pages.dev^
 ||bazer188-pendekar.pages.dev^
 ||bazinfolio.pages.dev^
 ||baznas-padangpanjang.pages.dev^
@@ -1172702,6 +1172988,7 @@
 ||behindlockeddoorsfilm.pages.dev^
 ||behindthelens-be-ph.pages.dev^
 ||behindthesceneslf.pages.dev^
+||bei-jouust.pages.dev^
 ||bei-rungkad-broku.pages.dev^
 ||beiancuala-bro.pages.dev^
 ||beijingdumpling-ca.pages.dev^
@@ -1173067,6 +1173354,7 @@
 ||bellaoaksvenue.pages.dev^
 ||bellarecipesslotgacor.pages.dev^
 ||bellaria-amp.pages.dev^
+||bellarobadiy-com.pages.dev^
 ||bellasetiawansankuriang.pages.dev^
 ||bellasista.pages.dev^
 ||bellaskin-online.pages.dev^
@@ -1173952,6 +1174240,7 @@
 ||beritapaito.pages.dev^
 ||beritapkvgames.pages.dev^
 ||beritapolri.pages.dev^
+||beritaraja.pages.dev^
 ||beritarepublikviral-bocil.pages.dev^
 ||beritasaatini.pages.dev^
 ||beritaslotgacor.pages.dev^
@@ -1174687,6 +1174976,7 @@
 ||bestdaugther.pages.dev^
 ||bestdentistinhoustoncom.pages.dev^
 ||bestdoctor.pages.dev^
+||bestdoctorappointment-shahzad-ashraf.pages.dev^
 ||bestdrunk.pages.dev^
 ||beste-porno-seiten-erotiche-geschichten.pages.dev^
 ||bestelectricappliances.pages.dev^
@@ -1175358,6 +1175648,7 @@
 ||betonklikmiskin.pages.dev^
 ||betonku.pages.dev^
 ||betonku-broku.pages.dev^
+||betonwithopaltgl.pages.dev^
 ||betoonklik.pages.dev^
 ||betopenly-legal-states.pages.dev^
 ||betotogacor.pages.dev^
@@ -1175404,6 +1175695,7 @@
 ||betterlifealways.pages.dev^
 ||betterlivingmetter.pages.dev^
 ||betterseo.pages.dev^
+||betterthisworld-money.pages.dev^
 ||bettertogether-kids.pages.dev^
 ||betterway.pages.dev^
 ||betterworldinternational.pages.dev^
@@ -1175443,6 +1175735,7 @@
 ||betvisa-app.pages.dev^
 ||between-coffee.pages.dev^
 ||between-we.pages.dev^
+||betweenline.pages.dev^
 ||betweenthecoverstv.pages.dev^
 ||betweenthecoverstv-top.pages.dev^
 ||betweentwodivs.pages.dev^
@@ -1176731,6 +1177024,7 @@
 ||bimabet-link.pages.dev^
 ||bimabet-link-v2.pages.dev^
 ||bimabet-rtp-s2m.pages.dev^
+||bimabet88-7j5.pages.dev^
 ||bimabet88-aw.pages.dev^
 ||bimabet88acom.pages.dev^
 ||bimabet88vip.pages.dev^
@@ -1177294,6 +1177588,7 @@
 ||bio-amp1.pages.dev^
 ||bio-barudak78.pages.dev^
 ||bio-greenwarecoinxdewaslot88.pages.dev^
+||bio-habanero.pages.dev^
 ||bio-juraganjav1.pages.dev^
 ||bio-juraganjav2.pages.dev^
 ||bio-logitech.pages.dev^
@@ -1177974,6 +1178269,7 @@
 ||bisnisglobals-kopi77.pages.dev^
 ||bisnisinisd.pages.dev^
 ||bisniskokoh40.pages.dev^
+||bisnismahjong.pages.dev^
 ||bisnisman-nusaputra.pages.dev^
 ||bisnismedan-ayam.pages.dev^
 ||bisnismpo.pages.dev^
@@ -1178162,6 +1178458,7 @@
 ||bitmaptoday.pages.dev^
 ||bitmarknews.pages.dev^
 ||bitonlinelearn678.pages.dev^
+||bitopi.pages.dev^
 ||bitshiftweb.pages.dev^
 ||bitsjr.pages.dev^
 ||bitspip.pages.dev^
@@ -1178509,6 +1178806,7 @@
 ||blackfeetfire.pages.dev^
 ||blackfinndallas.pages.dev^
 ||blackfisting.pages.dev^
+||blackforestcampground36.pages.dev^
 ||blackfridayprotests.pages.dev^
 ||blackfusion.pages.dev^
 ||blackgangbang.pages.dev^
@@ -1179789,6 +1180087,7 @@
 ||bo-terviral-ini.pages.dev^
 ||bo-togel.pages.dev^
 ||bo-togel-lingtogel77.pages.dev^
+||bo-togel-wiraspin88.pages.dev^
 ||bo-tototogel.pages.dev^
 ||bo-yao-kin.pages.dev^
 ||bo138slot.pages.dev^
@@ -1184626,6 +1184925,7 @@
 ||bola88-event-bola.pages.dev^
 ||bola88-judi-bola-mix-parlay.pages.dev^
 ||bola88-link-gacor-2026.pages.dev^
+||bola88-linkutama.pages.dev^
 ||bola88-pejuang-rakyat.pages.dev^
 ||bola88-playmods.pages.dev^
 ||bola88-sbobet.pages.dev^
@@ -1184930,6 +1185230,7 @@
 ||bold-warung168.pages.dev^
 ||bold-wukong138.pages.dev^
 ||bold12.pages.dev^
+||bold28-com.pages.dev^
 ||boldana-dewa.pages.dev^
 ||boldatuga.pages.dev^
 ||bolder-3om.pages.dev^
@@ -1185459,6 +1185760,7 @@
 ||bonus-maskot88.pages.dev^
 ||bonus-maxwin-jitu88slotnet.pages.dev^
 ||bonus-melimpah-5bt.pages.dev^
+||bonus-melimpah-tutitoto.pages.dev^
 ||bonus-member.pages.dev^
 ||bonus-member-baru.pages.dev^
 ||bonus-member-filter303.pages.dev^
@@ -1186499,6 +1186801,7 @@
 ||boss89s.pages.dev^
 ||boss911.pages.dev^
 ||boss99-gacor.pages.dev^
+||bossamer.pages.dev^
 ||bossan.pages.dev^
 ||bossanovaperuradio-amp.pages.dev^
 ||bossanta.pages.dev^
@@ -1186848,6 +1187151,7 @@
 ||bowdap.pages.dev^
 ||bowdi.pages.dev^
 ||bowen-administration.pages.dev^
+||bowen-aef.pages.dev^
 ||bowen-faq.pages.dev^
 ||bowjoniszbeck.pages.dev^
 ||bowling-kerchs.pages.dev^
@@ -1187416,6 +1187720,7 @@
 ||brandbankrajatogel.pages.dev^
 ||brandbarbarnaiklah.pages.dev^
 ||brandbaruselalugacor.pages.dev^
+||brandboostcompany.pages.dev^
 ||brandcenter-smankobengkulu-sch-id.pages.dev^
 ||brandcepatindexlah.pages.dev^
 ||brandcomel-evaskroppkakor.pages.dev^
@@ -1187434,6 +1187739,7 @@
 ||brandgentingxlatelier.pages.dev^
 ||brandgentingxlivin.pages.dev^
 ||brandhanabi88terdepan.pages.dev^
+||brandhanabiterbaru.pages.dev^
 ||brandhk2de.pages.dev^
 ||brandhk2eu.pages.dev^
 ||brandijacksonwellness.pages.dev^
@@ -1188032,6 +1188338,8 @@
 ||britamabet-up.pages.dev^
 ||britamabetadv.pages.dev^
 ||britamabetwwa.pages.dev^
+||britanial-pasti-menang-panen77.pages.dev^
+||britanial-pasti-menang-slot138.pages.dev^
 ||britanniabeachliving.pages.dev^
 ||britbound.pages.dev^
 ||britec-pmtt.pages.dev^
@@ -1188904,6 +1189212,7 @@
 ||bubutoto-karen-game.pages.dev^
 ||bubutoto-pancing-link-resmi.pages.dev^
 ||bubutoto-pemandu-link-login.pages.dev^
+||bubutoto-signal.pages.dev^
 ||bubutoto-situs-togel-promo.pages.dev^
 ||bubutoto-strategi-toto.pages.dev^
 ||bubutoto67.pages.dev^
@@ -1189040,6 +1189349,7 @@
 ||budry-slot.pages.dev^
 ||buena.pages.dev^
 ||buenaparkcaraccidentlawyer.pages.dev^
+||buenasvibrasbolivia.pages.dev^
 ||buenaventura.pages.dev^
 ||buenaventura-amp.pages.dev^
 ||buenopolis-localizacao.pages.dev^
@@ -1189179,6 +1189489,7 @@
 ||bujugjels.pages.dev^
 ||bujugsbobet88.pages.dev^
 ||bujur30-com.pages.dev^
+||buk-c6a.pages.dev^
 ||buk-uho.pages.dev^
 ||buk-unram.pages.dev^
 ||buk-v1-amp.pages.dev^
@@ -1189513,6 +1189824,7 @@
 ||bukumimpihk.pages.dev^
 ||bukumimpitogel.pages.dev^
 ||bukuprediksiparlay.pages.dev^
+||bukuratutogel4d.pages.dev^
 ||bukusejarah.pages.dev^
 ||bukushinchanxdprtoto.pages.dev^
 ||bukusyair.pages.dev^
@@ -1189585,6 +1189897,7 @@
 ||bulanpurnama-qq.pages.dev^
 ||bulansabitxoraora.pages.dev^
 ||bulantogel-amp.pages.dev^
+||bulantogel-ink.pages.dev^
 ||bulantogel-lpmunwir.pages.dev^
 ||bulantogel-regularalagappauniversity.pages.dev^
 ||bulantogel-rutamayatravel.pages.dev^
@@ -1190293,6 +1190606,7 @@
 ||businesstechdaily.pages.dev^
 ||businesstotimesbest-airline-search-engine.pages.dev^
 ||businessvectors.pages.dev^
+||businessvres-situs-toto-resmi.pages.dev^
 ||businesswoman.pages.dev^
 ||businmc.pages.dev^
 ||busisparktechsocom.pages.dev^
@@ -1190619,6 +1190933,7 @@
 ||byn88amp.pages.dev^
 ||byn88best.pages.dev^
 ||bynaoom.pages.dev^
+||bynapalm-p123.pages.dev^
 ||bynaturedua.pages.dev^
 ||bynet-la.pages.dev^
 ||byon.pages.dev^
@@ -1190654,6 +1190969,7 @@
 ||bytesizemusic-f17.pages.dev^
 ||bytestreamdigitalamp.pages.dev^
 ||bytter.pages.dev^
+||byuregh.pages.dev^
 ||byxscommercial-user-mid.pages.dev^
 ||byy-crlstf.pages.dev^
 ||byzantinexgacor.pages.dev^
@@ -1191490,6 +1191806,7 @@
 ||calo138amp.pages.dev^
 ||calo139net.pages.dev^
 ||calo288.pages.dev^
+||calo288mobile.pages.dev^
 ||calo33.pages.dev^
 ||calo338-gaming.pages.dev^
 ||calo38.pages.dev^
@@ -1191937,6 +1192254,7 @@
 ||canda21-gacor.pages.dev^
 ||candatawamu.pages.dev^
 ||candekorasyon.pages.dev^
+||canderel.pages.dev^
 ||candi.pages.dev^
 ||candi-seimbang21.pages.dev^
 ||candi88-slot.pages.dev^
@@ -1192874,6 +1193192,7 @@
 ||cardenhotspots-site.pages.dev^
 ||cardiac-consulation-api66-official.pages.dev^
 ||cardiacdesigns.pages.dev^
+||cardibanners-pulsa303-pulsa303.pages.dev^
 ||cardinal-ampun.pages.dev^
 ||cardinal-danatoto.pages.dev^
 ||cardinal-systems.pages.dev^
@@ -1193421,6 +1193740,7 @@
 ||cartierweb-cartierkitchens.pages.dev^
 ||cartilagefreecaptain.pages.dev^
 ||cartilagelocal5k.pages.dev^
+||cartilla-dwm.pages.dev^
 ||cartis.pages.dev^
 ||cartographyvectors.pages.dev^
 ||cartoon2024.pages.dev^
@@ -1195145,6 +1195465,7 @@
 ||central-roofing.pages.dev^
 ||central23.pages.dev^
 ||central303com-xoiclik.pages.dev^
+||centralafricaphonebook-gubuk.pages.dev^
 ||centralanimalinn-amp.pages.dev^
 ||centralarealinks.pages.dev^
 ||centralas.pages.dev^
@@ -1195630,6 +1195951,7 @@
 ||cesamfoods-okegas.pages.dev^
 ||cesanay.pages.dev^
 ||cesaonroom-raja111.pages.dev^
+||cesarassiswindsear.pages.dev^
 ||cesars.pages.dev^
 ||cesars-side.pages.dev^
 ||cescfarre.pages.dev^
@@ -1195651,6 +1195973,7 @@
 ||cestavnitrnihoklidu.pages.dev^
 ||cestbonnailbr.pages.dev^
 ||cestcarre-ratubola303.pages.dev^
+||cestmonchoix.pages.dev^
 ||cesurgsar-unimestre-com.pages.dev^
 ||cesuver.pages.dev^
 ||cesvalenciatour-amp.pages.dev^
@@ -1196385,6 +1196708,7 @@
 ||chase-for-glory.pages.dev^
 ||chase-technosa.pages.dev^
 ||chasecountyks.pages.dev^
+||chasefieldfood.pages.dev^
 ||chaseroofingva.pages.dev^
 ||chasetheflavors.pages.dev^
 ||chasingdreamsfc-samudra128.pages.dev^
@@ -1196881,6 +1197205,7 @@
 ||chicagomex.pages.dev^
 ||chicagopediatrictherapyandwellness-chicago-how-to.pages.dev^
 ||chicagotimesmag.pages.dev^
+||chicatanyage.pages.dev^
 ||chiccoscolombia.pages.dev^
 ||chicfaq.pages.dev^
 ||chichesterkickboxingclasses.pages.dev^
@@ -1197327,6 +1197652,7 @@
 ||chocotos-cibreo.pages.dev^
 ||chocsforchance.pages.dev^
 ||chodel-amp10.pages.dev^
+||chodel-amp41.pages.dev^
 ||chodor-wear-tiki4d.pages.dev^
 ||chodzebochce.pages.dev^
 ||choeurminederienorg.pages.dev^
@@ -1197402,6 +1197728,7 @@
 ||chriscownden.pages.dev^
 ||chrisfarrellmembership.pages.dev^
 ||chrisfinerty-jaya.pages.dev^
+||chrislanduniversity-ras-registry.pages.dev^
 ||chrismanion.pages.dev^
 ||chrismillsmusic.pages.dev^
 ||chrismouldink.pages.dev^
@@ -1199092,6 +1199419,7 @@
 ||claim-scatermu-sekarang.pages.dev^
 ||claimbonus-55b.pages.dev^
 ||claimbonus25.pages.dev^
+||claimbonusslot.pages.dev^
 ||claimgofood.pages.dev^
 ||claimkomfirmas11penerimaan.pages.dev^
 ||claimrejeki.pages.dev^
@@ -1199113,6 +1199441,7 @@
 ||clandestino.pages.dev^
 ||clangps.pages.dev^
 ||clanuciha.pages.dev^
+||claphamservants-about.pages.dev^
 ||clara-jals-miard.pages.dev^
 ||clarabio.pages.dev^
 ||clarefacio.pages.dev^
@@ -1199743,6 +1200072,7 @@
 ||clubthirtyi.pages.dev^
 ||clubthirtyiv.pages.dev^
 ||clubtogetherkent.pages.dev^
+||clubvespaneltempo-it-juto.pages.dev^
 ||clubvisson.pages.dev^
 ||clubvissoncom.pages.dev^
 ||clubz.pages.dev^
@@ -1199800,6 +1200130,7 @@
 ||cmedgp-pantau-terus-tuan.pages.dev^
 ||cmhac-hospitales.pages.dev^
 ||cmhac-hospitales-new.pages.dev^
+||cmiargentina-maxwin288.pages.dev^
 ||cmimc-co.pages.dev^
 ||cmimp-cekluk-team.pages.dev^
 ||cmimp-sususususus.pages.dev^
@@ -1199936,6 +1200267,7 @@
 ||cnn-cnnsloter77.pages.dev^
 ||cnn303-mantap.pages.dev^
 ||cnn89.pages.dev^
+||cnna-pady.pages.dev^
 ||cnnbusinessnews.pages.dev^
 ||cnnmexico.pages.dev^
 ||cnnslot-5s2.pages.dev^
@@ -1200239,6 +1200571,7 @@
 ||cobaduluya.pages.dev^
 ||cobaduluye.pages.dev^
 ||cobagakalinaik.pages.dev^
+||cobagantibentar.pages.dev^
 ||cobagantiduluiniyakk.pages.dev^
 ||cobagoid-html.pages.dev^
 ||cobagratis.pages.dev^
@@ -1200596,6 +1200929,7 @@
 ||codewraps-djarum4d.pages.dev^
 ||codewraps-inatogel.pages.dev^
 ||codewraps-suster123.pages.dev^
+||codexconsultingamp.pages.dev^
 ||codexdrugs-murah138.pages.dev^
 ||codeyoung.pages.dev^
 ||codeyoung-about.pages.dev^
@@ -1200812,6 +1201146,7 @@
 ||coklat777-link.pages.dev^
 ||coklat888-gaming.pages.dev^
 ||coklatfix77.pages.dev^
+||coklathitammanis77.pages.dev^
 ||coklatpisang.pages.dev^
 ||cokpastiberhasilnaik.pages.dev^
 ||coksu.pages.dev^
@@ -1201851,6 +1202186,7 @@
 ||combo88sultan.pages.dev^
 ||combo89-ganass.pages.dev^
 ||combo99-kbhousing.pages.dev^
+||combobrand.pages.dev^
 ||combolyx.pages.dev^
 ||combonianos-main-games.pages.dev^
 ||combosport-bh5.pages.dev^
@@ -1202136,6 +1202472,7 @@
 ||company-2k9.pages.dev^
 ||company-2sy.pages.dev^
 ||company-asetgacor.pages.dev^
+||company-boscuan303.pages.dev^
 ||company-globalpublishers.pages.dev^
 ||company-information.pages.dev^
 ||company-ledak188.pages.dev^
@@ -1202280,6 +1202617,7 @@
 ||compresoresperucrs.pages.dev^
 ||compressors.pages.dev^
 ||comprometidos.pages.dev^
+||compromiso-dewatoto.pages.dev^
 ||compromotions.pages.dev^
 ||compsolv.pages.dev^
 ||compte-140.pages.dev^
@@ -1202854,6 +1203192,7 @@
 ||contact-east-hamptonmenus.pages.dev^
 ||contact-easthamptonmenus.pages.dev^
 ||contact-ecepl.pages.dev^
+||contact-ecj.pages.dev^
 ||contact-ecosentiers.pages.dev^
 ||contact-elnaggarlegal.pages.dev^
 ||contact-emon77.pages.dev^
@@ -1202892,6 +1203231,7 @@
 ||contact-kode4d-aac.pages.dev^
 ||contact-koko.pages.dev^
 ||contact-koko123.pages.dev^
+||contact-kqq.pages.dev^
 ||contact-kurulusosmans.pages.dev^
 ||contact-kvchenani.pages.dev^
 ||contact-l188.pages.dev^
@@ -1202988,6 +1203328,7 @@
 ||contact-us-gopay-faisalmufti.pages.dev^
 ||contact-us-hoki88.pages.dev^
 ||contact-us-hwangecolliery.pages.dev^
+||contact-us-iqraawrtaqi-com.pages.dev^
 ||contact-us-islamictravel.pages.dev^
 ||contact-us-kinderhospitals.pages.dev^
 ||contact-us-lookoutmv.pages.dev^
@@ -1203026,6 +1203367,7 @@
 ||contactaffiliate.pages.dev^
 ||contactalens.pages.dev^
 ||contactalomrans.pages.dev^
+||contactanos-zone-resmi.pages.dev^
 ||contactarsalesianos.pages.dev^
 ||contactavenida.pages.dev^
 ||contactbotak.pages.dev^
@@ -1203106,6 +1203448,7 @@
 ||contactsaz.pages.dev^
 ||contactshared.pages.dev^
 ||contactsky.pages.dev^
+||contactslots.pages.dev^
 ||contactsrank1.pages.dev^
 ||contactsru.pages.dev^
 ||contactsushi-2af.pages.dev^
@@ -1203218,6 +1203561,7 @@
 ||contribyte.pages.dev^
 ||control-5n8.pages.dev^
 ||control-mas-ed-ny.pages.dev^
+||control-products.pages.dev^
 ||control-u-control-c-paste.pages.dev^
 ||controlc-controlv.pages.dev^
 ||controldefluidos.pages.dev^
@@ -1203404,6 +1203748,7 @@
 ||coppercreekstable.pages.dev^
 ||copperoscarrchils.pages.dev^
 ||coppertopcoffee.pages.dev^
+||coppiceandcrown-co-uk.pages.dev^
 ||coppradiator-blog.pages.dev^
 ||coprat-new.pages.dev^
 ||coprinaceae.pages.dev^
@@ -1203659,6 +1204004,7 @@
 ||cosmo4daja.pages.dev^
 ||cosmoaja.pages.dev^
 ||cosmoampseoayam.pages.dev^
+||cosmocityquan7.pages.dev^
 ||cosmocompany.pages.dev^
 ||cosmogenium.pages.dev^
 ||cosmoins.pages.dev^
@@ -1203806,6 +1204152,7 @@
 ||countrypancakehouse-jin.pages.dev^
 ||countrysbestresumes-raja328.pages.dev^
 ||countrysidefarmersmarket.pages.dev^
+||countrywesternlifestyle88.pages.dev^
 ||county-coaches.pages.dev^
 ||countyfoodproducts.pages.dev^
 ||countyhotelselkirk.pages.dev^
@@ -1204937,6 +1205284,7 @@
 ||csbmm-yenepoya-res-in.pages.dev^
 ||csbplanthire.pages.dev^
 ||csbrj-estude-conosco.pages.dev^
+||csbsp-ggsoft.pages.dev^
 ||csc-computers.pages.dev^
 ||csc-eiu.pages.dev^
 ||cscalendario-com-noticias-menara4d.pages.dev^
@@ -1206873,6 +1207221,7 @@
 ||daaunisbank-sg1.pages.dev^
 ||daaycomtech.pages.dev^
 ||daayitwa.pages.dev^
+||dab-kq.pages.dev^
 ||dab4office.pages.dev^
 ||dabanggg-666.pages.dev^
 ||dabbleandstitch.pages.dev^
@@ -1207331,6 +1207680,7 @@
 ||daftar-situsterpercaya.pages.dev^
 ||daftar-situstogelterpercayadiasia.pages.dev^
 ||daftar-slot.pages.dev^
+||daftar-slot-2nh.pages.dev^
 ||daftar-slot-4d.pages.dev^
 ||daftar-slot-agen77.pages.dev^
 ||daftar-slot-alexis17.pages.dev^
@@ -1207483,6 +1207833,7 @@
 ||daftarjostoto.pages.dev^
 ||daftarkampus-teknokrat.pages.dev^
 ||daftarkancilbola.pages.dev^
+||daftarkangtoto-5ir.pages.dev^
 ||daftarkansekarang.pages.dev^
 ||daftarkerafi8888.pages.dev^
 ||daftarkingdom357.pages.dev^
@@ -1207520,6 +1207871,7 @@
 ||daftarovobos.pages.dev^
 ||daftarpaito.pages.dev^
 ||daftarpandajago-com.pages.dev^
+||daftarpanen4daccount.pages.dev^
 ||daftarparlay-airmaxsolutions.pages.dev^
 ||daftarpelaut.pages.dev^
 ||daftarperusahaanindonesia.pages.dev^
@@ -1208891,6 +1209243,7 @@
 ||dataservicesinc2.pages.dev^
 ||dataset1.pages.dev^
 ||datasgbakarin.pages.dev^
+||datasgp4d.pages.dev^
 ||datasgp77.pages.dev^
 ||datasgphk.pages.dev^
 ||datasight.pages.dev^
@@ -1209093,6 +1209446,7 @@
 ||dauphibat-akses-lemon212.pages.dev^
 ||dauphinislandvacationrentals.pages.dev^
 ||daurov.pages.dev^
+||daurtoto777-mulai-sekarang.pages.dev^
 ||dausbet-1vr.pages.dev^
 ||dausbet-2uj.pages.dev^
 ||dausbetid.pages.dev^
@@ -1209615,6 +1209969,7 @@
 ||decires-cepe-unam-v1.pages.dev^
 ||decisiondiagnostics.pages.dev^
 ||deckbuilder-northga.pages.dev^
+||deckbuildersindianapolisin.pages.dev^
 ||deckenschlafsackde.pages.dev^
 ||deckingstd.pages.dev^
 ||declaraciones-cordoba-gob-mx.pages.dev^
@@ -1210143,6 +1210498,7 @@
 ||delmi-pesek.pages.dev^
 ||delogio-amp.pages.dev^
 ||delorenzoglobal.pages.dev^
+||delphis.pages.dev^
 ||delphispano.pages.dev^
 ||delrent-noleggio-lungo-termine.pages.dev^
 ||delreyent.pages.dev^
@@ -1210656,6 +1211012,7 @@
 ||dennjiha-page15220.pages.dev^
 ||denos-services.pages.dev^
 ||denovaagro.pages.dev^
+||denovaagro-slotonline.pages.dev^
 ||denovosupps.pages.dev^
 ||denovowines-ipo.pages.dev^
 ||denovowines-junks.pages.dev^
@@ -1211248,6 +1211605,7 @@
 ||derbypeoplesdiaryorg.pages.dev^
 ||derbywhell.pages.dev^
 ||derechaim.pages.dev^
+||derechaim-b2f.pages.dev^
 ||derechaim-parker.pages.dev^
 ||derecho-empire888.pages.dev^
 ||derekbarkhamcbt.pages.dev^
@@ -1211260,6 +1211618,7 @@
 ||dergi-pdr.pages.dev^
 ||dergipark.pages.dev^
 ||dergolfbadmuenstereifel.pages.dev^
+||deridesign.pages.dev^
 ||deril-malware.pages.dev^
 ||deringor-gkbakedgoods.pages.dev^
 ||deritaanakrantau.pages.dev^
@@ -1211908,6 +1212267,7 @@
 ||developerchat.pages.dev^
 ||developeronrent.pages.dev^
 ||developerpro.pages.dev^
+||developersdom-com-dirr-contact-us.pages.dev^
 ||developersgoks.pages.dev^
 ||developerstudyjams.pages.dev^
 ||developerz1.pages.dev^
@@ -1213149,6 +1213509,7 @@
 ||dewi11gacor.pages.dev^
 ||dewi11gol.pages.dev^
 ||dewi11grm-site.pages.dev^
+||dewi11heyker.pages.dev^
 ||dewi11idaman.pages.dev^
 ||dewi11nih.pages.dev^
 ||dewi11oregon.pages.dev^
@@ -1214340,6 +1214701,7 @@
 ||dihina-tak-tumbang.pages.dev^
 ||dihina-tak-tumbang-diphising-sini-majubang-bmw108.pages.dev^
 ||dihiu4destilonea.pages.dev^
+||dihukum-karma.pages.dev^
 ||diiband.pages.dev^
 ||diicum-kek-sekali-sekali.pages.dev^
 ||diidamantotoajabang.pages.dev^
@@ -1214432,6 +1214794,7 @@
 ||dikit-dikit-aih.pages.dev^
 ||dikit-dikit-lumen-hadeh.pages.dev^
 ||dikit-lagi-bll.pages.dev^
+||dikit-lagi-tipesss.pages.dev^
 ||dikitdikitlumen.pages.dev^
 ||dikitdikittakedown.pages.dev^
 ||dikitmasmaunyicipin.pages.dev^
@@ -1214943,6 +1215306,7 @@
 ||direktoripejabat.pages.dev^
 ||direktur-bisa.pages.dev^
 ||direktur-toto.pages.dev^
+||direkturtoto-analisa.pages.dev^
 ||direkturtoto-hari-ini.pages.dev^
 ||direport-balik-nangis.pages.dev^
 ||diresaapurimacgobpe.pages.dev^
@@ -1216578,6 +1216942,7 @@
 ||domanistudios.pages.dev^
 ||domar-8a0.pages.dev^
 ||domarpaproductions-com-au.pages.dev^
+||domba-keren.pages.dev^
 ||domba-masak.pages.dev^
 ||domba-mencari-rumah.pages.dev^
 ||domba-tersesat.pages.dev^
@@ -1216880,6 +1217245,7 @@
 ||dont-make-amistake.pages.dev^
 ||dont-move-police.pages.dev^
 ||dont-need-your-games.pages.dev^
+||dont-panic-at-disco.pages.dev^
 ||dont-play-play.pages.dev^
 ||dont-play-play-bosku-dapattoto.pages.dev^
 ||dont-play-play-with-sultan.pages.dev^
@@ -1217332,6 +1217698,7 @@
 ||downloadpkvgames.pages.dev^
 ||downloads-83o.pages.dev^
 ||downloads-digitalmarine.pages.dev^
+||downloads-jabartoto.pages.dev^
 ||downloadsach.pages.dev^
 ||downloadsd.pages.dev^
 ||downloadselingkuh.pages.dev^
@@ -1218796,6 +1219163,7 @@
 ||duitcoy-d41.pages.dev^
 ||duitcoy-exp.pages.dev^
 ||duitcoy-met.pages.dev^
+||duitcoy-ni.pages.dev^
 ||duitcoy-roy.pages.dev^
 ||duitcoy-up.pages.dev^
 ||duitcoy-up1.pages.dev^
@@ -1219568,6 +1219936,7 @@
 ||dynastislot-website-amp.pages.dev^
 ||dynastislotcom-co-apk.pages.dev^
 ||dynasty-council-icc-online.pages.dev^
+||dynasty4dtoto-togel4d.pages.dev^
 ||dynastybag.pages.dev^
 ||dynavoltbike-3b4.pages.dev^
 ||dynistics.pages.dev^
@@ -1219629,6 +1219998,8 @@
 ||e-delab.pages.dev^
 ||e-disposablecameras-amp-asli.pages.dev^
 ||e-domain-ie-feb-unp.pages.dev^
+||e-domain-lincoln.pages.dev^
+||e-domain-onlyhousekeeping.pages.dev^
 ||e-domain-sbselearning-strathmore.pages.dev^
 ||e-e-eh.pages.dev^
 ||e-electrolisi-hoki.pages.dev^
@@ -1220268,6 +1220639,7 @@
 ||ecojunkremover.pages.dev^
 ||ecol1w1k1.pages.dev^
 ||ecolab.pages.dev^
+||ecolaudemontessori.pages.dev^
 ||ecole-athenafr.pages.dev^
 ||ecole-expressions-com-mega777.pages.dev^
 ||ecole-joffre-lecole.pages.dev^
@@ -1220464,6 +1220836,7 @@
 ||edetec.pages.dev^
 ||edexc.pages.dev^
 ||edfrenc-hartshop-com.pages.dev^
+||edgar-joni-togel.pages.dev^
 ||edgebro.pages.dev^
 ||edgebykati.pages.dev^
 ||edgedigitizingamp.pages.dev^
@@ -1220559,6 +1220932,7 @@
 ||ednkiice.pages.dev^
 ||edo-go-go.pages.dev^
 ||edo-tense.pages.dev^
+||edoberger.pages.dev^
 ||edocfile.pages.dev^
 ||edoinfest-tokyo.pages.dev^
 ||edomagency-jeparatoto.pages.dev^
@@ -1222948,6 +1223322,7 @@
 ||empowertherapy.pages.dev^
 ||empowerwayfinance.pages.dev^
 ||empowerwellnessmn.pages.dev^
+||empregos-crcsc.pages.dev^
 ||empreiteirakossmann-gbosky.pages.dev^
 ||emprendedores-tresarroyos-1uh.pages.dev^
 ||emprendegestionculturalcom.pages.dev^
@@ -1223269,6 +1223644,7 @@
 ||energy-monster.pages.dev^
 ||energy-mutakir.pages.dev^
 ||energy-resources.pages.dev^
+||energy-sadap.pages.dev^
 ||energygk-part2.pages.dev^
 ||energygreensolution-murah138.pages.dev^
 ||energyhub.pages.dev^
@@ -1223320,6 +1223696,7 @@
 ||engagement-rings.pages.dev^
 ||engagementbkt.pages.dev^
 ||engagementgamelab.pages.dev^
+||engagierte.pages.dev^
 ||engallerymegajp.pages.dev^
 ||engangsligg-cctvslot.pages.dev^
 ||engbookegypt.pages.dev^
@@ -1223431,6 +1223808,7 @@
 ||enjoy-lisingbaf.pages.dev^
 ||enjoy-makswin.pages.dev^
 ||enjoy-playadventureparks.pages.dev^
+||enjoy-slotgacor-hariini.pages.dev^
 ||enjoy-svemarche.pages.dev^
 ||enjoy-tuhan-erabi.pages.dev^
 ||enjoy-tuhan-erabi-part1.pages.dev^
@@ -1223977,6 +1224355,7 @@
 ||er-er-slot-88.pages.dev^
 ||er5-5h8.pages.dev^
 ||er777-login.pages.dev^
+||era-baru-togel-online.pages.dev^
 ||era-batucada-nana.pages.dev^
 ||era-bola888.pages.dev^
 ||era-dolar78.pages.dev^
@@ -1224695,6 +1225074,7 @@
 ||eskobarte.pages.dev^
 ||eskocok.pages.dev^
 ||eskocok-pojok.pages.dev^
+||eskolankylafi.pages.dev^
 ||eskoninsaat.pages.dev^
 ||eskrimagnumenak.pages.dev^
 ||eskripsidisinibosku.pages.dev^
@@ -1225507,6 +1225887,7 @@
 ||eventosencantabria-jutawantoto.pages.dev^
 ||eventosfaud-mdpeduar.pages.dev^
 ||eventosmahjong900.pages.dev^
+||eventosroma.pages.dev^
 ||eventpialadunia.pages.dev^
 ||eventrmutrth.pages.dev^
 ||events-27t.pages.dev^
@@ -1226806,6 +1227187,7 @@
 ||faktor-hand-hoki.pages.dev^
 ||faktual.pages.dev^
 ||fakulnomiutu.pages.dev^
+||fakultas-ekonomi-bisnis.pages.dev^
 ||fakultas-hukum-upb-agen69.pages.dev^
 ||fakultas-kantin.pages.dev^
 ||fakultas-kedokteran.pages.dev^
@@ -1227092,6 +1227474,7 @@
 ||faq-ektukra.pages.dev^
 ||faq-exitsauna.pages.dev^
 ||faq-gacor4d-posakun.pages.dev^
+||faq-homesguard.pages.dev^
 ||faq-indra.pages.dev^
 ||faq-mahkota-gacor4d.pages.dev^
 ||faq-ratu123.pages.dev^
@@ -1227189,6 +1227572,7 @@
 ||farmasiubk.pages.dev^
 ||farmasiungokil.pages.dev^
 ||farmasiunim.pages.dev^
+||farmasiuniman.pages.dev^
 ||farmasiunimmanacid.pages.dev^
 ||farmasiupracid.pages.dev^
 ||farmavida-dexneotico.pages.dev^
@@ -1227477,6 +1227861,7 @@
 ||fatnonnas-privacy.pages.dev^
 ||fatools-29e.pages.dev^
 ||fatoolsqq.pages.dev^
+||fatouconsulting.pages.dev^
 ||fatratlongbow.pages.dev^
 ||fatricbewong-bape.pages.dev^
 ||fatsnax.pages.dev^
@@ -1227762,6 +1228147,7 @@
 ||feelbetterrehab.pages.dev^
 ||feelelitetours.pages.dev^
 ||feelfabbeauty.pages.dev^
+||feelgoodaboutselling-faqs.pages.dev^
 ||feeling-akx.pages.dev^
 ||feeling-good.pages.dev^
 ||feeling-gw-lagi-good.pages.dev^
@@ -1228036,6 +1228422,7 @@
 ||festideastore-botak189.pages.dev^
 ||festivaal.pages.dev^
 ||festival-allbrand.pages.dev^
+||festival-angka-hongkong.pages.dev^
 ||festival-biereandco.pages.dev^
 ||festival-dezing-project-la-caravane-passe.pages.dev^
 ||festival-info.pages.dev^
@@ -1228235,6 +1228622,7 @@
 ||fid-ku.pages.dev^
 ||fidatech.pages.dev^
 ||fiddakatina-about.pages.dev^
+||fiddyhost-why-fiddyhost.pages.dev^
 ||fidelgengtoto.pages.dev^
 ||fidelisanosike-com.pages.dev^
 ||fidelisengg-dewa.pages.dev^
@@ -1229314,6 +1229702,7 @@
 ||fit188login.pages.dev^
 ||fit247-gaming.pages.dev^
 ||fit88.pages.dev^
+||fitamaltaz.pages.dev^
 ||fitamo.pages.dev^
 ||fitariswear.pages.dev^
 ||fitb-itb.pages.dev^
@@ -1229819,6 +1230208,7 @@
 ||flix77-enjoylife.pages.dev^
 ||flix77keren.pages.dev^
 ||flixmaster-now.pages.dev^
+||fll-cfll-letsfly.pages.dev^
 ||fllunivrelizane-axial.pages.dev^
 ||fllunivrelizaneancook-axial.pages.dev^
 ||flmhlawxgelora188.pages.dev^
@@ -1230082,6 +1230472,7 @@
 ||flyhigh888.pages.dev^
 ||flyhigher.pages.dev^
 ||flyhighjepangqq.pages.dev^
+||flyhighludotecacfll.pages.dev^
 ||flying-1ag.pages.dev^
 ||flying-anubis.pages.dev^
 ||flying-anubis-jaya.pages.dev^
@@ -1231206,6 +1231597,7 @@
 ||fra-biancoshock.pages.dev^
 ||fraccionamientosangaspar.pages.dev^
 ||frackcontacto.pages.dev^
+||fractionratio.pages.dev^
 ||fragacarlos.pages.dev^
 ||fragenkatalog.pages.dev^
 ||fraggerock.pages.dev^
@@ -1232025,6 +1232417,7 @@
 ||frolovventures.pages.dev^
 ||from-kps-with-love.pages.dev^
 ||from-nothing-become-something.pages.dev^
+||from-piktoto-strong.pages.dev^
 ||from-the-day-light.pages.dev^
 ||from-the-ma.pages.dev^
 ||from-zero-to-heroes.pages.dev^
@@ -1232944,6 +1233337,7 @@
 ||futureready.pages.dev^
 ||futureschool.pages.dev^
 ||futureskillsen.pages.dev^
+||futurestilesonline-kitchen.pages.dev^
 ||futuresweek.pages.dev^
 ||futuretechgirls.pages.dev^
 ||futurevoicesofnewmexico.pages.dev^
@@ -1233844,6 +1234238,7 @@
 ||gacor889-zumbimoney.pages.dev^
 ||gacor8899-org-5t0.pages.dev^
 ||gacor88bet-terbaik-2026.pages.dev^
+||gacor88html.pages.dev^
 ||gacor88t.pages.dev^
 ||gacor88tyterbaik.pages.dev^
 ||gacor89-ajayelectronics.pages.dev^
@@ -1235317,6 +1235712,7 @@
 ||game-ringan-dihape.pages.dev^
 ||game-ringan-panen99.pages.dev^
 ||game-royalbet899.pages.dev^
+||game-sakura11.pages.dev^
 ||game-sakura828.pages.dev^
 ||game-selenaslot.pages.dev^
 ||game-sendal77.pages.dev^
@@ -1236158,6 +1236554,7 @@
 ||gardianjoyas-colecciones-gardian.pages.dev^
 ||gardianjoyas-faq.pages.dev^
 ||gardianjoyas-tienda.pages.dev^
+||gardianjoyas-x.pages.dev^
 ||garditour.pages.dev^
 ||gardnerstreeservicepinellas.pages.dev^
 ||garena4d-portal-simplyturn.pages.dev^
@@ -1236601,6 +1236998,7 @@
 ||gas88.pages.dev^
 ||gas88-8pg.pages.dev^
 ||gas888-apanih-kok-enak.pages.dev^
+||gasaajalahutamany.pages.dev^
 ||gasadumekanik.pages.dev^
 ||gasairport.pages.dev^
 ||gasaja-mataplay.pages.dev^
@@ -1236932,6 +1237330,7 @@
 ||gassduluinibarucurhat.pages.dev^
 ||gassespaceprogramme-amp.pages.dev^
 ||gassgugelbaikhati-osra-sy.pages.dev^
+||gasshopdiosaka.pages.dev^
 ||gassikit.pages.dev^
 ||gassin-aja-bre-ravage-x.pages.dev^
 ||gassjkt.pages.dev^
@@ -1238062,6 +1238461,7 @@
 ||geneiusday.pages.dev^
 ||generador-textooinvisible.pages.dev^
 ||general-dentistry.pages.dev^
+||generaldata-clients.pages.dev^
 ||generaldebegudes.pages.dev^
 ||generalgroup.pages.dev^
 ||generalguyble-ngx.pages.dev^
@@ -1238721,6 +1239121,7 @@
 ||get-kicked.pages.dev^
 ||get-link-jayaslot.pages.dev^
 ||get-login.pages.dev^
+||get-map.pages.dev^
 ||get-one-apps.pages.dev^
 ||get-one-four.pages.dev^
 ||get-osiris.pages.dev^
@@ -1242030,6 +1242431,7 @@
 ||goznatra-pastigacor.pages.dev^
 ||gozo77-gaming.pages.dev^
 ||gozo78.pages.dev^
+||gozo78x1.pages.dev^
 ||gpacmigraineorg.pages.dev^
 ||gpalminvestments.pages.dev^
 ||gpalminvestmentsservices.pages.dev^
@@ -1243717,6 +1244119,7 @@
 ||guncelrajabotak.pages.dev^
 ||gundahgulanapacaraktivis.pages.dev^
 ||gundala.pages.dev^
+||gundalaputarpelir.pages.dev^
 ||gundalgandul.pages.dev^
 ||gundam-bael-babeltoto.pages.dev^
 ||gundam-xcodereleases-com.pages.dev^
@@ -1244422,6 +1244825,7 @@
 ||hadiah3.pages.dev^
 ||hadiahfantastis65.pages.dev^
 ||hadiahgacor-amp.pages.dev^
+||hadiahindovegas4d.pages.dev^
 ||hadiahjitu.pages.dev^
 ||hadiahjitu-cdu.pages.dev^
 ||hadiahjumbo-baru.pages.dev^
@@ -1245475,6 +1245879,7 @@
 ||hanomantoto.pages.dev^
 ||hanooo.pages.dev^
 ||hanotzrim.pages.dev^
+||hanplast-ru-contact.pages.dev^
 ||hans-flesch-waranty.pages.dev^
 ||hansajenny.pages.dev^
 ||hansales-fr.pages.dev^
@@ -1247580,6 +1247985,7 @@
 ||hello-malta.pages.dev^
 ||hello-monyetjp.pages.dev^
 ||hello-motherfucker.pages.dev^
+||hello-newme.pages.dev^
 ||hello-pink.pages.dev^
 ||hello-saya-kembali.pages.dev^
 ||hello-world-1os.pages.dev^
@@ -1251828,6 +1252234,7 @@
 ||hotel-grandpraba.pages.dev^
 ||hotel-harlingen-bitway.pages.dev^
 ||hotel-hikakuyoyaku.pages.dev^
+||hotel-ibis-labeaujoire-mami.pages.dev^
 ||hotel-indonesia.pages.dev^
 ||hotel-jimmyamsterdam.pages.dev^
 ||hotel-kebuntoto.pages.dev^
@@ -1254823,6 +1255230,7 @@
 ||identitycustomimaging.pages.dev^
 ||identityonchain.pages.dev^
 ||ideo-gene.pages.dev^
+||ideoke.pages.dev^
 ||ideomet-naik.pages.dev^
 ||idep-applications-uneca.pages.dev^
 ||ideslot-cuan.pages.dev^
@@ -1256371,6 +1256779,7 @@
 ||ikigaicoffeeshop.pages.dev^
 ||ikigaidental.pages.dev^
 ||ikigaidental-amp.pages.dev^
+||ikigaimedical-mobile.pages.dev^
 ||ikigaipodcasts.pages.dev^
 ||ikinciadamdukkan-be-afraid.pages.dev^
 ||ikingsmedia805.pages.dev^
@@ -1256426,6 +1256835,7 @@
 ||ikon777-togel.pages.dev^
 ||ikon777-trendingdiary-seo-pasti-naik.pages.dev^
 ||ikon777amp.pages.dev^
+||ikon777bosku-maxwin.pages.dev^
 ||ikon777demoslot.pages.dev^
 ||ikon777goid.pages.dev^
 ||ikon777hoki-amp-pastinaikdong.pages.dev^
@@ -1257616,6 +1258026,7 @@
 ||indeks-eventos.pages.dev^
 ||indeks-lotushoki.pages.dev^
 ||indekscrs.pages.dev^
+||indeksspt-occaa-toto.pages.dev^
 ||indeonesiaberbagai-membership.pages.dev^
 ||indepar-nyinyomae.pages.dev^
 ||independenciademexico-mx.pages.dev^
@@ -1259035,6 +1259446,7 @@
 ||indowin88-parlay-sbobet-10rb.pages.dev^
 ||indowin88-seniorsolutions65.pages.dev^
 ||indowin88-slot-depo10k.pages.dev^
+||indowin88-slot-deposit-pulsa.pages.dev^
 ||indowin88-slothoki.pages.dev^
 ||indowin88-sugardolly.pages.dev^
 ||indowin88-taruhan-bola-liga-indonesia.pages.dev^
@@ -1259446,6 +1259858,7 @@
 ||info-terbaru-cu7.pages.dev^
 ||info-terbaru-gacor138-otp.pages.dev^
 ||info-tobrut.pages.dev^
+||info-togel-alexistogel.pages.dev^
 ||info-togel-data-keluaran-akurat.pages.dev^
 ||info-tokyo88.pages.dev^
 ||info-toto138.pages.dev^
@@ -1259539,11 +1259952,13 @@
 ||infojituhrtpidr89.pages.dev^
 ||infojituhrtpjp368.pages.dev^
 ||infojituslot-com.pages.dev^
+||infojudionline.pages.dev^
 ||infokahmanis.pages.dev^
 ||infokankontakwagoogle.pages.dev^
 ||infokarhutla.pages.dev^
 ||infokegiatandisperkimsemarangkota.pages.dev^
 ||infokembangtoto.pages.dev^
+||infokembangtotoo.pages.dev^
 ||infokereta-e53.pages.dev^
 ||infokerjadisnaker.pages.dev^
 ||infokesmercubaktijaya.pages.dev^
@@ -1261150,6 +1261565,7 @@
 ||interstudent.pages.dev^
 ||intersurrecoleta-sultan.pages.dev^
 ||intertigatigartp.pages.dev^
+||intertogel-gudang-bonanza.pages.dev^
 ||intertogel1129.pages.dev^
 ||interviandes.pages.dev^
 ||interview4all-qqsuburpak.pages.dev^
@@ -1261401,6 +1261817,7 @@
 ||iocmktamp.pages.dev^
 ||iode-av.pages.dev^
 ||ioe-edu-in.pages.dev^
+||iofelicity.pages.dev^
 ||iofelicitynew.pages.dev^
 ||iofi-pome.pages.dev^
 ||iog-team-slotgacor.pages.dev^
@@ -1262123,6 +1262540,7 @@
 ||island-maxim43.pages.dev^
 ||island-physicians.pages.dev^
 ||island-traveller-tours.pages.dev^
+||island2-conference.pages.dev^
 ||islandgreenfamilyfuncenter.pages.dev^
 ||islandmariner.pages.dev^
 ||islandmovingco.pages.dev^
@@ -1309114,6 +1309532,7 @@
 ||matthieu-sanogho-com.pages.dev^
 ||mattiasreinhardt.pages.dev^
 ||mattlokayphotographsky.pages.dev^
+||mattmagee.pages.dev^
 ||mattmayhallmusic.pages.dev^
 ||mattonamoto-motorcycle.pages.dev^
 ||mattprokopx268.pages.dev^
@@ -1326279,6 +1326698,7 @@
 ||ncaect.pages.dev^
 ||ncanetwork.pages.dev^
 ||ncaqua-about-us.pages.dev^
+||ncbirdingtrailjoin.pages.dev^
 ||nccampuscompact-sahroni.pages.dev^
 ||nccb-42c.pages.dev^
 ||nccionline.pages.dev^
@@ -1333348,6 +1333768,7 @@
 ||ogan.pages.dev^
 ||oganic-paten.pages.dev^
 ||oganicid.pages.dev^
+||ogateadining-indosatoto.pages.dev^
 ||ogawaeitaro.pages.dev^
 ||ogbeers.pages.dev^
 ||ogbeers-2.pages.dev^
@@ -1342615,6 +1343036,7 @@
 ||pasti-menang-kok.pages.dev^
 ||pasti-menang-lagi.pages.dev^
 ||pasti-menang-lee.pages.dev^
+||pasti-menang-mabosbet.pages.dev^
 ||pasti-menang-mantap.pages.dev^
 ||pasti-menang-maxwin.pages.dev^
 ||pasti-menang-terus-21y.pages.dev^
@@ -1377731,6 +1378153,7 @@
 ||rubah34-gaming01.pages.dev^
 ||rubah4d-asli.pages.dev^
 ||rubah4d-www-klavirlaw-com.pages.dev^
+||rubah4djosjis.pages.dev^
 ||rubahhack.pages.dev^
 ||rubahnasib88-gaming-app.pages.dev^
 ||rubahputihhex-e09.pages.dev^
@@ -1378872,6 +1379295,7 @@
 ||sabun-daya-pembersi.pages.dev^
 ||sabun-natural-joker11.pages.dev^
 ||sabun133online.pages.dev^
+||sabun43.pages.dev^
 ||sabun4d-login.pages.dev^
 ||sabun5.pages.dev^
 ||sabung-4yam-bali.pages.dev^
@@ -1385828,6 +1386252,7 @@
 ||semut-gigit-gajah.pages.dev^
 ||semut-pun-kompak.pages.dev^
 ||semut-rtp.pages.dev^
+||semut110-com.pages.dev^
 ||semut34.pages.dev^
 ||semut4d.pages.dev^
 ||semut77-gaming.pages.dev^
@@ -1386510,6 +1386935,7 @@
 ||seo-dm-riverfitness-cml.pages.dev^
 ||seo-dm-saltanimation.pages.dev^
 ||seo-dm-sjvschool.pages.dev^
+||seo-dm-thehotelpetersburg.pages.dev^
 ||seo-dm-vadea-viaafrika.pages.dev^
 ||seo-dm-vanwoonvillanaardroomvilla.pages.dev^
 ||seo-doger-kembali-ke-ninja123.pages.dev^
@@ -1405205,6 +1405631,7 @@
 ||spinbetco.pages.dev^
 ||spinbetsatutigadelapanofficial.pages.dev^
 ||spinbiasa1.pages.dev^
+||spinbingkai4d.pages.dev^
 ||spinbizzo.pages.dev^
 ||spinbos805.pages.dev^
 ||spinbrutalhasilmaksimal.pages.dev^
@@ -1405303,6 +1405730,7 @@
 ||splashanddashfranchise-super33.pages.dev^
 ||splashjungle-diningamp.pages.dev^
 ||splashjungleschitam.pages.dev^
+||splashmg.pages.dev^
 ||splashndashlaundry.pages.dev^
 ||splashofstrawberry-bmx4d.pages.dev^
 ||spleituras-contato.pages.dev^
@@ -1412333,6 +1412761,7 @@
 ||synectic.pages.dev^
 ||synepticlabs.pages.dev^
 ||synergieprepa-gacor.pages.dev^
+||synergy-media.pages.dev^
 ||synergyabadisentosa.pages.dev^
 ||synergyenergy.pages.dev^
 ||synergyentertainment-agent.pages.dev^
@@ -1416830,6 +1417259,7 @@
 ||terbang-bersama-royal123.pages.dev^
 ||terbang-bersama-rwf.pages.dev^
 ||terbang-bersama-uyen.pages.dev^
+||terbang-bersamaku-ar5.pages.dev^
 ||terbang-bos-1-monet.pages.dev^
 ||terbang-bos-2-klik.pages.dev^
 ||terbang-bos-24.pages.dev^
@@ -1435749,6 +1436179,7 @@
 ||vip-555-bolancastings.pages.dev^
 ||vip-555-slot-gacor.pages.dev^
 ||vip-amp.pages.dev^
+||vip-badak138.pages.dev^
 ||vip-bandar777slot.pages.dev^
 ||vip-banjir69-toto.pages.dev^
 ||vip-best-kiruje.pages.dev^
@@ -1436414,6 +1436845,7 @@
 ||virtus88.pages.dev^
 ||virtushrsolutions-izin-bosku.pages.dev^
 ||virtusplay.pages.dev^
+||virtusplay-promptmatic.pages.dev^
 ||virtusplay-tvportonews-com-br.pages.dev^
 ||virtusplayslot-food.pages.dev^
 ||virtustube-ct6.pages.dev^
@@ -1452553,6 +1452985,7 @@
 ||gambling.tmsoft.dev^
 ||to288.dev^
 ||togel.dev^
+||togel279.dev^
 ||alt.togel389.dev^
 ||alt1.togel389.dev^
 ||login.togel389.dev^
@@ -1493178,6 +1493611,7 @@
 ||jp11.masukwar138.fit^
 ||jp12.masukwar138.fit^
 ||jp13.masukwar138.fit^
+||jp14.masukwar138.fit^
 ||jp2.masukwar138.fit^
 ||jp3.masukwar138.fit^
 ||jp6.masukwar138.fit^
@@ -1629478,6 +1629912,7 @@
 ||asik33.fyi^
 ||asikdewa.fyi^
 ||asikwinzz451.fyi^
+||astonbet.fyi^
 ||astra77rtp.fyi^
 ||atom138.fyi^
 ||atta518.fyi^
@@ -1738775,346 +1739210,3 @@
 ||gadisigobugilngentot.blogspot.co.id^
 ||gadisigomantap.blogspot.co.id^
 ||gadiskepanasan.blogspot.co.id^
-||gadiskesepian2018.blogspot.co.id^
-||gadisma-nis.blogspot.co.id^
-||gadismanja69.blogspot.co.id^
-||gadismanjaabg.blogspot.co.id^
-||gadismelayusetim.blogspot.co.id^
-||gadismelayustim3gp2.blogspot.co.id^
-||gadismelayustim3gpsitemap.blogspot.co.id^
-||gadismelayustimm-3gp.blogspot.co.id^
-||gadismiskin3gp.blogspot.co.id^
-||gadismodelx.blogspot.co.id^
-||gadismovie.blogspot.co.id^
-||gadisnackal.blogspot.co.id^
-||gadisnesse.blogspot.co.id^
-||gadisranjang.blogspot.co.id^
-||gadissange77.blogspot.co.id^
-||gadissm.blogspot.co.id^
-||gadisstim3gp.blogspot.co.id^
-||gadistelanjangi.blogspot.co.id^
-||gadisxtrahot.blogspot.co.id^
-||gaira69sexwanita.blogspot.co.id^
-||gairah-cewek-abg.blogspot.co.id^
-||gairah110.blogspot.co.id^
-||gairahbercinta67.blogspot.co.id^
-||gairahbugil.blogspot.co.id^
-||gairahcewekamoy.blogspot.co.id^
-||gairahligacapsa.blogspot.co.id^
-||gairahonline.blogspot.co.id^
-||gairahsd.blogspot.co.id^
-||gairahseks19.blogspot.co.id^
-||gairahsexbebas.blogspot.co.id^
-||gairahsexterbaru21.blogspot.co.id^
-||gairahtantemuda.blogspot.co.id^
-||gaixinhthemdu.blogspot.co.id^
-||gaktayohblog.blogspot.co.id^
-||galauberjudi.blogspot.co.id^
-||galeri-ngewe.blogspot.co.id^
-||galeri-whatsapp.blogspot.co.id^
-||galeriabgbugil.blogspot.co.id^
-||galeribokepstreaming.blogspot.co.id^
-||galeribugil69.blogspot.co.id^
-||galericerita.blogspot.co.id^
-||galerifotobugilindo.blogspot.co.id^
-||galerigadisindo.blogspot.co.id^
-||galeriisiulang18.blogspot.co.id^
-||galerikutang.blogspot.co.id^
-||galerimelayubogel.blogspot.co.id^
-||galeripestaisiulang.blogspot.co.id^
-||galerisexesex.blogspot.co.id^
-||galeriwhatsapp191.blogspot.co.id^
-||galeriwhatsapp877.blogspot.co.id^
-||galeryisiulang.blogspot.co.id^
-||galerysensasi.blogspot.co.id^
-||gallerimodel.blogspot.co.id^
-||gallery4man.blogspot.co.id^
-||gallerydumpbrazil.blogspot.co.id^
-||gallerynudegirl7.blogspot.co.id^
-||gambar-cewekigo.blogspot.co.id^
-||gambar-kontol.blogspot.co.id^
-||gambarabg.blogspot.co.id^
-||gambarbening.blogspot.co.id^
-||gambarbugilo.blogspot.co.id^
-||gambarhotbugil.blogspot.co.id^
-||gambarmemekmlenuk.blogspot.co.id^
-||gambarmemeksempit.blogspot.co.id^
-||gambarngentotterbaru.blogspot.co.id^
-||gambartitidngentot.blogspot.co.id^
-||gamdai.blogspot.co.id^
-||gamegratisuntukpc.blogspot.co.id^
-||gamesrealmoney.blogspot.co.id^
-||gamestangkasterbaru2017.blogspot.co.id^
-||gangbangmania.blogspot.co.id^
-||gangbangstory.blogspot.co.id^
-||gapefan.blogspot.co.id^
-||garasisex.blogspot.co.id^
-||garn-dong.blogspot.co.id^
-||garudaqqnet.blogspot.co.id^
-||garudaqqpoker.blogspot.co.id^
-||gaseboi.blogspot.co.id^
-||gatelunduh.blogspot.co.id^
-||gatoesacana.blogspot.co.id^
-||gay-body-blog.blogspot.co.id^
-||gay-sexpress.blogspot.co.id^
-||gaya-abg.blogspot.co.id^
-||gaya-anak-muda.blogspot.co.id^
-||gaya-bokep.blogspot.co.id^
-||gayanaklokal.blogspot.co.id^
-||gayavisual.blogspot.co.id^
-||gayayamkampuz.blogspot.co.id^
-||gaycheapporn.blogspot.co.id^
-||gaydhacssar.blogspot.co.id^
-||gaykurakura.blogspot.co.id^
-||gaymaster95.blogspot.co.id^
-||gaymovie601.blogspot.co.id^
-||gayomku.blogspot.co.id^
-||gaypapaindo.blogspot.co.id^
-||gaysdesp.blogspot.co.id^
-||gaysexlelaki.blogspot.co.id^
-||gaysexylove.blogspot.co.id^
-||gaytangerangbanten.blogspot.co.id^
-||gayvid-indonesia1.blogspot.co.id^
-||gayvideo5.blogspot.co.id^
-||gayvideoporno.blogspot.co.id^
-||gayvideoportal.blogspot.co.id^
-||gayyed24hr.blogspot.co.id^
-||gayyeddek.blogspot.co.id^
-||gebyar-android.blogspot.co.id^
-||gebyar-android-2017.blogspot.co.id^
-||gebyar-android-indonesia.blogspot.co.id^
-||gebyar-bankbri2017.blogspot.co.id^
-||gebyar-bri2015.blogspot.co.id^
-||gebyar-bri2017.blogspot.co.id^
-||gebyar-britama2016.blogspot.co.id^
-||gebyar-britamabri.blogspot.co.id^
-||gebyar-cocacola.blogspot.co.id^
-||gebyar-hadiah.blogspot.co.id^
-||gebyar-hadiah-britama.blogspot.co.id^
-||gebyar-hadiah2018.blogspot.co.id^
-||gebyar-isiulang95.blogspot.co.id^
-||gebyar-isiulangjkt77.blogspot.co.id^
-||gebyar-isiulangpulsa.blogspot.co.id^
-||gebyar-mkios57.blogspot.co.id^
-||gebyar-moboindosat17.blogspot.co.id^
-||gebyar-mtronik48.blogspot.co.id^
-||gebyar-pesta-android.blogspot.co.id^
-||gebyar-pestaandroid2017.blogspot.co.id^
-||gebyar-ptandroid.blogspot.co.id^
-||gebyar-ptaxis.blogspot.co.id^
-||gebyar-telkomsel2016.blogspot.co.id^
-||gebyar-telkomsel7.blogspot.co.id^
-||gebyar-telkomsel777.blogspot.co.id^
-||gebyar-undianwhatsapp18.blogspot.co.id^
-||gebyar-wa-2017.blogspot.co.id^
-||gebyar-whatsapp2017.blogspot.co.id^
-||gebyar-whatsappinc.blogspot.co.id^
-||gebyarandroid.blogspot.co.id^
-||gebyarandroid79.blogspot.co.id^
-||gebyarbri2016.blogspot.co.id^
-||gebyarbri2018.blogspot.co.id^
-||gebyarbri3147.blogspot.co.id^
-||gebyarbri3347.blogspot.co.id^
-||gebyarbritama.blogspot.co.id^
-||gebyarhadiah-2018.blogspot.co.id^
-||gebyarhadiah-info.blogspot.co.id^
-||gebyarisi-pulsa.blogspot.co.id^
-||gebyarisi-ulang.blogspot.co.id^
-||gebyarisipulsa.blogspot.co.id^
-||gebyarisiulang-2018.blogspot.co.id^
-||gebyarisiulang02.blogspot.co.id^
-||gebyarkejutan-wa.blogspot.co.id^
-||gebyarkejutanbri.blogspot.co.id^
-||gebyarkejutanwhtsapp.blogspot.co.id^
-||gebyarm-tronik.blogspot.co.id^
-||gebyarmkios579.blogspot.co.id^
-||gebyarmkios779.blogspot.co.id^
-||gebyarmtronik269.blogspot.co.id^
-||gebyarpestaandroid.blogspot.co.id^
-||gebyarpromoandroid.blogspot.co.id^
-||gebyarpromobri.blogspot.co.id^
-||gebyarpt-whatsappinc.blogspot.co.id^
-||gebyarptmkios47.blogspot.co.id^
-||gebyarptwhatsapp.blogspot.co.id^
-||gebyarramadhanwhatsap.blogspot.co.id^
-||gebyarrwhatsapp2018.blogspot.co.id^
-||gebyarspesial-mkios.blogspot.co.id^
-||gebyartelkomsel2015.blogspot.co.id^
-||gebyarwaid.blogspot.co.id^
-||gebyarwhatsapp-tbk.blogspot.co.id^
-||gebyarwhatsappinc18.blogspot.co.id^
-||gebyarwhatsappincid-2018.blogspot.co.id^
-||gebyarwhatsappincid2018.blogspot.co.id^
-||gebyarwhtsapp.blogspot.co.id^
-||gedetoket.blogspot.co.id^
-||gejolakfilmsemi.blogspot.co.id^
-||gelapbasah.blogspot.co.id^
-||gelibasah-hd.blogspot.co.id^
-||gelinikmat.blogspot.co.id^
-||gelora-muda.blogspot.co.id^
-||gembalapoker.blogspot.co.id^
-||gemolongcomputer.blogspot.co.id^
-||gendermas.blogspot.co.id^
-||generasi-asing.blogspot.co.id^
-||generasibugil.blogspot.co.id^
-||generasitelanjang.blogspot.co.id^
-||genius0320.blogspot.co.id^
-||genreadult.blogspot.co.id^
-||gentiana.blogspot.co.id^
-||gerakanpelajarantipemurtadan.blogspot.co.id^
-||gerbongdewasa168.blogspot.co.id^
-||gesek-tunai-bali.blogspot.co.id^
-||geseks.blogspot.co.id^
-||getarcinta606.blogspot.co.id^
-||getdownload123.blogspot.co.id^
-||getscoregirls.blogspot.co.id^
-||ghozialmamun.blogspot.co.id^
-||giatheslutgoddess.blogspot.co.id^
-||gigapetasex.blogspot.co.id^
-||gilanghaji.blogspot.co.id^
-||gilaseksterkini.blogspot.co.id^
-||girlsbokep.blogspot.co.id^
-||girlsnmilfs.blogspot.co.id^
-||girlspoopingfetish.blogspot.co.id^
-||girlswhoreshorny.blogspot.co.id^
-||girlxinh10x.blogspot.co.id^
-||give-me-your-cum-on-my-face.blogspot.co.id^
-||givenchysex.blogspot.co.id^
-||gjhgjhghjghg.blogspot.co.id^
-||glamitiriusxxx.blogspot.co.id^
-||gleriinfopemenang.blogspot.co.id^
-||globaldatingz.blogspot.co.id^
-||goesek.blogspot.co.id^
-||gogoleto.blogspot.co.id^
-||goldenhentai.blogspot.co.id^
-||goldheretic.blogspot.co.id^
-||golegupo.blogspot.co.id^
-||gooday18.blogspot.co.id^
-||goodoke.blogspot.co.id^
-||googlebangsat.blogspot.co.id^
-||googlendir.blogspot.co.id^
-||gotress.blogspot.co.id^
-||gottabeeightteen.blogspot.co.id^
-||goyang-perawan.blogspot.co.id^
-||goyangesexesex.blogspot.co.id^
-||goyangsaja.blogspot.co.id^
-||goyangyukyank.blogspot.co.id^
-||goyay.blogspot.co.id^
-||grahakitasex.blogspot.co.id^
-||grandprize-whatsapp2018.blogspot.co.id^
-||grandprizewhatsapp2018.blogspot.co.id^
-||gratis2-download.blogspot.co.id^
-||gratisbokepgaysma.blogspot.co.id^
-||gratiscroot.blogspot.co.id^
-||gubuxcerita.blogspot.co.id^
-||gudang-bokep-abg.blogspot.co.id^
-||gudang-cerita-mesum.blogspot.co.id^
-||gudang-cewek-cewek-bispak.blogspot.co.id^
-||gudang-videoxxx.blogspot.co.id^
-||gudangbokebindo.blogspot.co.id^
-||gudangbokepgratiss.blogspot.co.id^
-||gudangcabul.blogspot.co.id^
-||gudangdewasahot.blogspot.co.id^
-||gudangduit9999.blogspot.co.id^
-||gudangfilm-x.blogspot.co.id^
-||gudangmercun.blogspot.co.id^
-||gudangoppai.blogspot.co.id^
-||gudangseobola.blogspot.co.id^
-||gudangterpercaya.blogspot.co.id^
-||gudangtogell4d.blogspot.co.id^
-||gudangtogell4dbonus.blogspot.co.id^
-||gudangtogell4dcara.blogspot.co.id^
-||gudangtogell4dhadiah.blogspot.co.id^
-||gudangtogell4dmimpi.blogspot.co.id^
-||gudangtogell4dprdksi.blogspot.co.id^
-||gudangvidiobokep.blogspot.co.id^
-||gurobabersatu.blogspot.co.id^
-||gurubiru.blogspot.co.id^
-||gurubugil.blogspot.co.id^
-||guydrawing.blogspot.co.id^
-||guysfrombehind.blogspot.co.id^
-||guysn2cmnm.blogspot.co.id^
-||h1210.blogspot.co.id^
-||habteporno.blogspot.co.id^
-||hadiah-android-ceo.blogspot.co.id^
-||hadiah-android2017tbk.blogspot.co.id^
-||hadiah-android27.blogspot.co.id^
-||hadiah-android45.blogspot.co.id^
-||hadiah-android72.blogspot.co.id^
-||hadiah-isipulsa18.blogspot.co.id^
-||hadiah-isiulang5.blogspot.co.id^
-||hadiah-isiulang80.blogspot.co.id^
-||hadiah-isiulang81.blogspot.co.id^
-||hadiah-isiulang927.blogspot.co.id^
-||hadiah-isiulangjkt.blogspot.co.id^
-||hadiah-m-kios-2016.blogspot.co.id^
-||hadiah-mkios2.blogspot.co.id^
-||hadiah-pestamkios2017.blogspot.co.id^
-||hadiah-pt-m-tronik.blogspot.co.id^
-||hadiah-ptaxis.blogspot.co.id^
-||hadiah-ptcocacola.blogspot.co.id^
-||hadiah-ptmkios.blogspot.co.id^
-||hadiah-ptmkios2777.blogspot.co.id^
-||hadiah-resmi12.blogspot.co.id^
-||hadiah-resmi25.blogspot.co.id^
-||hadiah-resmi416.blogspot.co.id^
-||hadiah-resmi419.blogspot.co.id^
-||hadiah-resmi457.blogspot.co.id^
-||hadiah-resmi53.blogspot.co.id^
-||hadiah-resmi589.blogspot.co.id^
-||hadiah-resmi677.blogspot.co.id^
-||hadiah-resmi679.blogspot.co.id^
-||hadiah-resmi69.blogspot.co.id^
-||hadiah-resmi87.blogspot.co.id^
-||hadiah-telkomsel-2017.blogspot.co.id^
-||hadiah-telkomsel28.blogspot.co.id^
-||hadiah-telkomsel59.blogspot.co.id^
-||hadiah-telkomsel67.blogspot.co.id^
-||hadiah-telkomsel888.blogspot.co.id^
-||hadiah-undian-bri.blogspot.co.id^
-||hadiah-undian-bri-britama-2017.blogspot.co.id^
-||hadiah-undian-bri-pusat-2017.blogspot.co.id^
-||hadiah-whatsapp18.blogspot.co.id^
-||hadiah-whatsapp31.blogspot.co.id^
-||hadiah-xlaxis.blogspot.co.id^
-||hadiah2007-cocacola.blogspot.co.id^
-||hadiah2017.blogspot.co.id^
-||hadiah3care-tbk.blogspot.co.id^
-||hadiahandroid-2017.blogspot.co.id^
-||hadiahandroid2017.blogspot.co.id^
-||hadiahandroid31.blogspot.co.id^
-||hadiahandroid32.blogspot.co.id^
-||hadiahandroid33.blogspot.co.id^
-||hadiahandroid35.blogspot.co.id^
-||hadiahandroid36.blogspot.co.id^
-||hadiahandroid37.blogspot.co.id^
-||hadiahandroid38.blogspot.co.id^
-||hadiahandroid44.blogspot.co.id^
-||hadiahandroid45.blogspot.co.id^
-||hadiahandroid69.blogspot.co.id^
-||hadiahandroid73.blogspot.co.id^
-||hadiahandroid74.blogspot.co.id^
-||hadiahandroid75.blogspot.co.id^
-||hadiahandroid79.blogspot.co.id^
-||hadiahandroid88.blogspot.co.id^
-||hadiahandroid99.blogspot.co.id^
-||hadiahbankbri038.blogspot.co.id^
-||hadiahbankbri2018.blogspot.co.id^
-||hadiahbankbriperserotbk.blogspot.co.id^
-||hadiahbankindonesia.blogspot.co.id^
-||hadiahbimoli2016.blogspot.co.id^
-||hadiahbni46.blogspot.co.id^
-||hadiahbri003.blogspot.co.id^
-||hadiahgudanggaram.blogspot.co.id^
-||hadiahhutmkios.blogspot.co.id^
-||hadiahindosat2018.blogspot.co.id^
-||hadiahinfokopikapalapi.blogspot.co.id^
-||hadiahisi-ulang.blogspot.co.id^
-||hadiahisi-ulangpulsa.blogspot.co.id^
-||hadiahisipulsa36.blogspot.co.id^
-||hadiahisiulang-pulsa.blogspot.co.id^
-||hadiahisiulangtsel.blogspot.co.id^
-||hadiahkejutan-android.blogspot.co.id^
-||hadiahm-kios18.blogspot.co.id^
-||hadiahmayoraindah.blogspot.co.id^
-||hadiahmkios27.blogspot.co.id^
