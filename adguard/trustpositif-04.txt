@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 04 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112401
+! Serial: 26112402
 ! Part: 04/06
 ||slot9780.binotik.id^
 ||slot9781.binotik.id^
@@ -43884,6 +43884,7 @@
 ||simba4dvip.id^
 ||simba69.id^
 ||simbatansarirejo.id^
+||simbg-pu-go.id^
 ||simbolslot.id^
 ||simburnaik.id^
 ||simenang.id^
@@ -1754777,4 +1754778,3 @@
 ||xxxtemple.net^
 ||xxxtentacionmerchshop.net^
 ||xxxth.net^
-||xxxthaisex.net^

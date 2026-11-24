@@ -1,7 +1,8 @@
 ! Title: Trust Positif Kominfo part 05 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112401
+! Serial: 26112402
 ! Part: 05/06
+||xxxthaisex.net^
 ||xxxthep.net^
 ||xxxthumbnails.net^
 ||xxxthumbs.net^
@@ -2033651,4 +2033652,3 @@
 ||21slotgacorprediksisgp.godwl.us^
 ||21slotgacorprediksitogel.godwl.us^
 ||21slotgacorpro.godwl.us^
-||21slotgacorrajadewa138-qris.godwl.us^

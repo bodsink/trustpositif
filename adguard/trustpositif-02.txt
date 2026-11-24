@@ -1,6 +1,6 @@
 ! Title: Trust Positif Kominfo part 02 of 06
 ! Description: Blocklist converted from RPZ trustpositifkominfo for AdGuard Home
-! Serial: 26112401
+! Serial: 26112402
 ! Part: 02/06
 ||situscasinobri.blogspot.com^
 ||situscasinojoker123indonesia.blogspot.com^
